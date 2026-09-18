@@ -1,0 +1,120 @@
+<!doctype html>
+<!--
+  Source of public/og-image.png — the link-preview card shown by WhatsApp,
+  Facebook, Twitter/X and Google when ofertaninja.online is shared.
+
+  Regenerate after any brand/copy change. The card is exactly 1200x630, so use
+  a tool whose viewport matches that size:
+
+    npx playwright screenshot --viewport-size=1200,630 \
+      scripts/og-image.html public/og-image.png
+
+  (Plain `chromium --headless --screenshot --window-size=1200,630` renders a
+  shorter viewport, because that build counts browser chrome in the window
+  height, and leaves a black band at the bottom.)
+
+  Keep the result under ~300 KB: WhatsApp silently drops heavier previews.
+-->
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #0a0a0a;
+        --ninja: #39ff14;
+        --fg: #f5f7f5;
+        --muted: #949e94;
+        --line: rgba(57, 255, 20, 0.08);
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+      body {
+        position: relative;
+        background:
+          radial-gradient(620px 620px at 108% -12%, rgba(57, 255, 20, 0.26), transparent 70%),
+          radial-gradient(760px 620px at -8% 112%, rgba(57, 255, 20, 0.16), transparent 70%),
+          var(--bg);
+        color: var(--fg);
+        font-family: "Outfit", system-ui, sans-serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 84px;
+      }
+      .grid {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(to right, var(--line) 1px, transparent 1px),
+          linear-gradient(to bottom, var(--line) 1px, transparent 1px);
+        background-size: 48px 48px;
+      }
+      .content {
+        position: relative;
+        z-index: 1;
+      }
+      .brand {
+        font-size: 30px;
+        font-weight: 800;
+        letter-spacing: 0.22em;
+        color: var(--ninja);
+      }
+      .pill {
+        display: inline-block;
+        margin-top: 26px;
+        padding: 10px 26px;
+        border: 2px solid rgba(57, 255, 20, 0.35);
+        border-radius: 999px;
+        background: rgba(57, 255, 20, 0.1);
+        color: var(--ninja);
+        font-size: 24px;
+        font-weight: 600;
+      }
+      h1 {
+        margin-top: 30px;
+        font-size: 92px;
+        font-weight: 800;
+        line-height: 1.04;
+        letter-spacing: -0.02em;
+      }
+      h1 span {
+        color: var(--ninja);
+        text-shadow: 0 0 44px rgba(57, 255, 20, 0.35);
+      }
+      p {
+        margin-top: 28px;
+        font-size: 30px;
+        color: var(--muted);
+      }
+      .domain {
+        margin-top: 14px;
+        font-size: 34px;
+        font-weight: 800;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="grid"></div>
+    <div class="content">
+      <div class="brand">PREÇO NINJA</div>
+      <div class="pill">Grupo exclusivo no WhatsApp</div>
+      <h1>Ofertas que<br /><span>chegam primeiro</span></h1>
+      <p>Descontos, cupons e ofertas relâmpago no seu WhatsApp.</p>
+      <div class="domain">ofertaninja.online</div>
+    </div>
+  </body>
+</html>

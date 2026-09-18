@@ -1,10 +1,14 @@
-# Group Connect Site
+# Preço Ninja
 
-Cria um site
+Landing page do grupo de ofertas **Preço Ninja** no WhatsApp.
 
-https://chat.whatsapp.com/Grj0LpGIotqF8sRbrh9LK5?s=cl&p=a&mlu=4&ilr=4
+- **Produção:** https://ofertaninja.online
+- **Grupo:** link em `src/lib/site.ts` (`WHATSAPP_GROUP_URL`)
 
-Divulgar meu grupo
+Todos os dados do site (domínio, título, descrição, link do grupo) ficam em
+`src/lib/site.ts` — é o único arquivo a mudar se o domínio ou o grupo mudarem.
+A imagem de preview dos links (`public/og-image.png`) é gerada a partir de
+`scripts/og-image.html`; as instruções estão no comentário do próprio arquivo.
 
 This project was built with [Lovable](https://lovable.dev).
 
