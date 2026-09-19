@@ -74,7 +74,8 @@ export const config = {
   },
   offersUrls: list("ML_OFFERS_URLS", ["https://www.mercadolivre.com.br/ofertas"]),
   ml: {
-    appId: str("ML_APP_ID"),
+    // O App ID é público (aparece na URL de autorização); só a Secret Key é sigilosa.
+    appId: str("ML_APP_ID", "3101347879633536"),
     appSecret: str("ML_APP_SECRET"),
     redirectUri: str("ML_REDIRECT_URI", "https://ofertaninja.online/ml-callback"),
     source: mlSource(),

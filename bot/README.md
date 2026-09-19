@@ -53,7 +53,7 @@ desconto em tal categoria" direto na fonte. Leva uns 10 minutos, uma vez só:
    `https://ofertaninja.online/ml-callback`, escopos **read** e
    **offline_access** (o `offline_access` é o que permite renovar o token
    sozinho). Os outros campos podem ficar no padrão.
-3. Copie o **App ID** e a **Secret Key** para `ML_APP_ID` e `ML_APP_SECRET` no `.env`.
+3. Copie a **Secret Key** para `ML_APP_SECRET` no `.env` (o App ID já vem preenchido).
 4. Rode `npm run ml:auth`. Ele mostra um link; abra, clique em **Autorizar**,
    e a página ofertaninja.online/ml-callback mostra um código. Cole no terminal.
 
