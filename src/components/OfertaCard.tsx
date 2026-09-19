@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Check, Copy, ExternalLink, MessageCircle, Truck } from "lucide-react";
+import { BadgeCheck, Check, Copy, ExternalLink, MessageCircle, Truck } from "lucide-react";
 
 import { brl, linkCompartilharWhatsApp, textoWhatsApp, type Oferta } from "@/lib/ofertas";
 
@@ -39,6 +39,14 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
         <span className="absolute top-3 left-3 rounded-full bg-ninja px-3 py-1 text-xs font-bold text-ninja-foreground">
           {oferta.discount}% OFF
         </span>
+        {oferta.oficial && (
+          <span
+            title="Desconto de campanha oficial do Mercado Livre"
+            className="absolute top-3 right-3 inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
+          >
+            <BadgeCheck className="h-3.5 w-3.5" /> Oficial ML
+          </span>
+        )}
       </a>
 
       <div className="flex flex-1 flex-col p-4">

@@ -102,6 +102,8 @@ interface CatalogItem {
   price: number;
   original_price: number | null;
   shipping?: { free_shipping?: boolean };
+  /** Campanhas oficiais do ML (Oferta do Dia, Relâmpago, campanha) em que o item está. */
+  deal_ids?: string[];
 }
 
 /** Oferta já resolvida: um item específico de um produto do catálogo. */
@@ -115,6 +117,8 @@ export interface MlItem {
   permalink: string;
   thumbnail: string;
   shipping?: { free_shipping?: boolean };
+  /** true quando o desconto é de campanha oficial do ML, não só "de/por" do vendedor. */
+  oficial: boolean;
 }
 
 export interface SearchOptions {
@@ -146,13 +150,15 @@ async function bestDeal(product: CatalogProduct, minDiscount: number): Promise<M
   if (!results?.length) return null;
   // A API devolve ordenado por preço crescente.
   const cheapest = results[0].price;
-  const deal = results.find(
+  const validos = results.filter(
     (it) =>
       it.original_price != null &&
       it.original_price > it.price &&
       it.price <= cheapest * CHEAPEST_TOLERANCE &&
       discountOf(it.price, it.original_price) >= minDiscount,
   );
+  // Entre os válidos, prefere o que está em campanha oficial do ML.
+  const deal = validos.find((it) => it.deal_ids?.length) ?? validos[0];
   if (!deal) return null;
   return {
     id: deal.item_id,
@@ -163,6 +169,7 @@ async function bestDeal(product: CatalogProduct, minDiscount: number): Promise<M
     permalink: itemUrl(deal.item_id),
     thumbnail: product.pictures?.[0]?.url ?? "",
     shipping: deal.shipping,
+    oficial: Boolean(deal.deal_ids?.length),
   };
 }
 

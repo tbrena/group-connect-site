@@ -10,6 +10,8 @@ export interface Oferta {
   image: string;
   url: string;
   freeShipping: boolean;
+  /** desconto de campanha oficial do ML; opcional porque JSONs antigos não têm */
+  oficial?: boolean;
   publishedAt: string;
 }
 
@@ -63,6 +65,7 @@ export function textoWhatsApp(oferta: Oferta): string {
     `✅ Por: *${brl(oferta.price)}*`,
   ];
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
+  if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");
   linhas.push("", `🛒 Comprar: ${oferta.url}`, "", "⚡ Preço pode mudar a qualquer momento.");
   return linhas.join("\n");
 }

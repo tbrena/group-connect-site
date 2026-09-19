@@ -42,6 +42,8 @@ export interface SiteOffer {
   image: string;
   url: string;
   freeShipping: boolean;
+  /** desconto de campanha oficial do ML (deal_ids) */
+  oficial: boolean;
   publishedAt: string;
 }
 
@@ -65,6 +67,7 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     image: item.thumbnail,
     url: affiliateLink(item.permalink),
     freeShipping: Boolean(item.shipping?.free_shipping),
+    oficial: item.oficial,
     publishedAt: new Date(now).toISOString(),
   };
 }
@@ -78,6 +81,7 @@ function caption(item: MlItem, link: string): string {
     `✅ Por: <b>${brl(item.price)}</b>`,
   ];
   if (item.shipping?.free_shipping) lines.push("🚚 Frete grátis");
+  if (item.oficial) lines.push("🏷️ Promoção oficial do Mercado Livre");
   lines.push(
     "",
     `🛒 <a href="${link}">Comprar no Mercado Livre</a>`,
@@ -119,8 +123,10 @@ async function main() {
     }
   }
 
-  // 2. Maior desconto primeiro, limitado por execução.
-  candidates.sort((a, b) => discountPercent(b) - discountPercent(a));
+  // 2. Campanhas oficiais do ML primeiro, depois maior desconto; limitado por execução.
+  candidates.sort(
+    (a, b) => Number(b.oficial) - Number(a.oficial) || discountPercent(b) - discountPercent(a),
+  );
   const picked = candidates.slice(0, config.maxPerRun);
   console.log(
     `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""}\n`,
@@ -130,7 +136,10 @@ async function main() {
   for (const item of picked) {
     const link = affiliateLink(item.permalink);
     const text = caption(item, link);
-    console.log(`${discountPercent(item)}% OFF  ${brl(item.price)}  ${item.title}\n   ${link}\n`);
+    const etiqueta = item.oficial ? " [OFICIAL]" : "";
+    console.log(
+      `${discountPercent(item)}% OFF${etiqueta}  ${brl(item.price)}  ${item.title}\n   ${link}\n`,
+    );
     if (DRY) continue;
 
     if (SITE_ONLY) continue;
