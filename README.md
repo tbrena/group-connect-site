@@ -30,3 +30,19 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+
+## Bot de ofertas (Mercado Livre → Telegram + site)
+
+`scripts/ofertas/` busca produtos com desconto na API do Mercado Livre, monta o
+link de afiliado e publica no canal do Telegram; também grava
+`public/ofertas.json`, que alimenta a seção "Ofertas do dia" da landing.
+
+```sh
+cp .env.example .env      # preencha as chaves (nunca commitar o .env)
+npm run ofertas -- --dry  # mostra o que publicaria, sem publicar
+npm run ofertas           # publica no Telegram e atualiza public/ofertas.json
+```
+
+- Buscas, desconto mínimo/máximo e quantidade por rodada: `scripts/ofertas/config.json`
+- Token do ML (Client Credentials, 6h) e histórico do que já foi publicado ficam em `.ofertas/` (ignorado pelo git)
+- Uma oferta não repete por 7 dias; a home mostra 6 e `/promo` mostra até `siteMax` (99)

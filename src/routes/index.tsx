@@ -16,7 +16,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import logoAsset from "@/assets/preco-ninja-logo.png.asset.json";
+import { OfertasDoDia } from "@/components/OfertasDoDia";
 import {
   OG_IMAGE_URL,
   SITE_DESCRIPTION,
@@ -26,6 +26,8 @@ import {
   WHATSAPP_GROUP_URL,
   absoluteUrl,
 } from "@/lib/site";
+
+const LOGO_URL = "/preco-ninja-logo.png";
 
 export const Route = createFileRoute("/")({
   component: Index,
@@ -183,7 +185,7 @@ function Index() {
       {/* Header */}
       <header className="relative z-10 flex flex-col items-center gap-2 px-6 py-6">
         <img
-          src={logoAsset.url}
+          src={LOGO_URL}
           alt={`${SITE_NAME} — grupo de ofertas no WhatsApp`}
           fetchPriority="high"
           className="h-16 w-auto drop-shadow-[0_0_18px_rgba(57,255,20,0.35)]"
@@ -249,6 +251,9 @@ function Index() {
           <span>Milhares de pessoas já economizam com a gente.</span>
         </div>
       </section>
+
+      {/* Ofertas publicadas pelo bot (scripts/ofertas) */}
+      <OfertasDoDia />
 
       {/* How it works */}
       <section className="relative z-10 px-6 py-16">

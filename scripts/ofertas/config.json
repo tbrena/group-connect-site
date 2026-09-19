@@ -1,0 +1,55 @@
+{
+  "_comentario": "Buscas a cada execucao: query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount/maxDiscount em %, minPrice em R$, maxPerRun = ofertas por rodada no Telegram, siteMax = ofertas em public/ofertas.json.",
+  "minDiscount": 25,
+  "maxDiscount": 70,
+  "maxPerRun": 5,
+  "siteMax": 99,
+  "minPrice": 30,
+  "buscas": [
+    {
+      "category": "MLB1055",
+      "_": "Celulares e Smartphones"
+    },
+    {
+      "category": "MLB1648",
+      "_": "Informatica"
+    },
+    {
+      "category": "MLB1000",
+      "_": "Eletronicos, Audio e Video"
+    },
+    {
+      "category": "MLB5726",
+      "_": "Eletrodomesticos"
+    },
+    {
+      "category": "MLB1574",
+      "_": "Casa, Moveis e Decoracao"
+    },
+    {
+      "category": "MLB1430",
+      "_": "Calcados, Roupas e Bolsas"
+    },
+    {
+      "category": "MLB1276",
+      "_": "Esportes e Fitness"
+    },
+    {
+      "category": "MLB1246",
+      "_": "Beleza e Cuidado Pessoal"
+    },
+    {
+      "category": "MLB1132",
+      "_": "Brinquedos e Hobbies"
+    },
+    {
+      "query": "air fryer"
+    },
+    {
+      "query": "fone bluetooth"
+    },
+    {
+      "query": "smart tv"
+    }
+  ]
+}

@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as MlCallbackRouteImport } from './routes/ml-callback'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as PromoRouteImport } from './routes/promo'
 
 const MlCallbackRoute = MlCallbackRouteImport.update({
   id: '/ml-callback',
@@ -22,31 +23,40 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const PromoRoute = PromoRouteImport.update({
+  id: '/promo',
+  path: '/promo',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
+  '/promo': typeof PromoRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
+  '/promo': typeof PromoRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
+  '/promo': typeof PromoRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/ml-callback'
+  fullPaths: '/' | '/ml-callback' | '/promo'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/ml-callback'
-  id: '__root__' | '/' | '/ml-callback'
+  to: '/' | '/ml-callback' | '/promo'
+  id: '__root__' | '/' | '/ml-callback' | '/promo'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   MlCallbackRoute: typeof MlCallbackRoute
+  PromoRoute: typeof PromoRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -65,12 +75,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MlCallbackRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/promo': {
+      id: '/promo'
+      path: '/promo'
+      fullPath: '/promo'
+      preLoaderRoute: typeof PromoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   MlCallbackRoute: MlCallbackRoute,
+  PromoRoute: PromoRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
