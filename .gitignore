@@ -36,8 +36,9 @@ dist-ssr
 .env.*
 !.env.example
 
-# Estado local dos scripts de ofertas (tokens, historico)
-.ofertas/
+# Token do ML fica fora; publicadas.json e versionado para o CI nao repetir ofertas
+.ofertas/*
+!.ofertas/publicadas.json
 
 # Bot do WhatsApp (bot/): sessão do WhatsApp e histórico do que foi postado
 bot/auth/

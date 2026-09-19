@@ -1,8 +1,9 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { ArrowLeft, MessageCircle } from "lucide-react";
 
+import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
-import { useOfertas } from "@/lib/ofertas";
+import { assinaturaOfertas, useOfertas } from "@/lib/ofertas";
 import { SITE_NAME, SITE_URL, WHATSAPP_GROUP_URL, absoluteUrl } from "@/lib/site";
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
@@ -24,7 +25,7 @@ export const Route = createFileRoute("/promo")({
 });
 
 function Promo() {
-  const ofertas = useOfertas();
+  const { ofertas, recarregar } = useOfertas();
 
   return (
     <main className="relative flex min-h-screen flex-col overflow-hidden bg-background text-foreground">
@@ -72,6 +73,8 @@ function Promo() {
               ? `${ofertas.length} ofertas do Mercado Livre com desconto de verdade. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
               : "Estamos garimpando as ofertas de hoje. Volte daqui a pouco!"}
           </p>
+
+          <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
 
           {ofertas.length > 0 && (
             <ul className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

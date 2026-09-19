@@ -9,7 +9,7 @@ const NA_HOME = 6;
 
 /** Prévia das últimas ofertas publicadas pelo bot. Some sozinha se não houver nenhuma. */
 export function OfertasDoDia() {
-  const ofertas = useOfertas();
+  const { ofertas } = useOfertas();
 
   if (ofertas.length === 0) return null;
 

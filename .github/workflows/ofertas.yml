@@ -1,0 +1,71 @@
+# Roda o bot de ofertas (scripts/ofertas) e commita public/ofertas.json.
+# O Lovable sincroniza a main e publica o site sozinho.
+#
+# - A cada 2h (schedule): busca ofertas, posta no Telegram (se configurado) e atualiza o site.
+# - Sob demanda (workflow_dispatch): disparado pelo botão "Puxar novas ofertas" em /promo
+#   ou manualmente na aba Actions. Por padrão só atualiza o site, para ninguém
+#   conseguir lotar o canal do Telegram clicando no botão.
+#
+# Segredos necessários (Settings → Secrets and variables → Actions):
+#   ML_CLIENT_ID, ML_CLIENT_SECRET, ML_AFFILIATE_WORD, ML_AFFILIATE_TOOL
+#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (opcionais; sem eles roda só o site)
+name: Ofertas
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # a cada 2h (UTC)
+  workflow_dispatch:
+    inputs:
+      telegram:
+        description: "Publicar também no Telegram"
+        type: boolean
+        default: false
+
+# Uma execução por vez; a próxima espera na fila em vez de rodar em paralelo.
+concurrency:
+  group: ofertas
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ofertas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # Os scripts usam só módulos nativos do Node (fetch, fs) — sem instalar dependências.
+      - name: Buscar ofertas
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+          ML_AFFILIATE_WORD: ${{ secrets.ML_AFFILIATE_WORD }}
+          ML_AFFILIATE_TOOL: ${{ secrets.ML_AFFILIATE_TOOL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          COM_TELEGRAM: ${{ github.event_name == 'schedule' || inputs.telegram == true }}
+        run: |
+          if [ "$COM_TELEGRAM" = "true" ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
+            npm run ofertas
+          else
+            npm run ofertas -- --so-site
+          fi
+
+      - name: Publicar no site (commit)
+        run: |
+          git config user.name "preco-ninja-bot"
+          git config user.email "bot@ofertaninja.online"
+          git add public/ofertas.json
+          [ -f .ofertas/publicadas.json ] && git add .ofertas/publicadas.json || true
+          if git diff --cached --quiet; then
+            echo "Nenhuma oferta nova."
+            exit 0
+          fi
+          git commit -m "ofertas: atualização automática $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

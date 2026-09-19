@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "ofertas": "node --env-file=.env scripts/ofertas/run.ts"
+    "ofertas": "node --env-file-if-exists=.env scripts/ofertas/run.ts"
   },
   "overrides": {
     "rolldown": "1.2.1"
