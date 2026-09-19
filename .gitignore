@@ -30,3 +30,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Segredos locais (Mercado Livre, Telegram etc.)
+.env
+.env.*
+!.env.example
+
+# Estado local dos scripts de ofertas (tokens, historico)
+.ofertas/
+
+# Projeto usa bun.lock; o npm gera este arquivo localmente
+package-lock.json
