@@ -50,6 +50,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           COM_TELEGRAM: ${{ github.event_name == 'schedule' || inputs.telegram == true }}
         run: |
+          if [ -z "$ML_CLIENT_ID" ]; then
+            echo "::warning::Segredos do Mercado Livre não configurados — nada a fazer."
+            exit 0
+          fi
           if [ "$COM_TELEGRAM" = "true" ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
             npm run ofertas
           else
