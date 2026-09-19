@@ -39,6 +39,7 @@ dist-ssr
 # Token do ML fica fora; publicadas.json e versionado para o CI nao repetir ofertas
 .ofertas/*
 !.ofertas/publicadas.json
+!.ofertas/precos.json
 
 # Bot do WhatsApp (bot/): sessão do WhatsApp e histórico do que foi postado
 bot/auth/

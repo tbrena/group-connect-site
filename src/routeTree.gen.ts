@@ -9,18 +9,18 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as MlCallbackRouteImport } from './routes/ml-callback'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as MlCallbackRouteImport } from './routes/ml-callback'
 import { Route as PromoRouteImport } from './routes/promo'
 
-const MlCallbackRoute = MlCallbackRouteImport.update({
-  id: '/ml-callback',
-  path: '/ml-callback',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MlCallbackRoute = MlCallbackRouteImport.update({
+  id: '/ml-callback',
+  path: '/ml-callback',
   getParentRoute: () => rootRouteImport,
 } as any)
 const PromoRoute = PromoRouteImport.update({

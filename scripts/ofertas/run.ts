@@ -5,12 +5,20 @@
  *   npm run ofertas -- --dry      # só mostra o que publicaria
  *   npm run ofertas -- --so-site  # atualiza public/ofertas.json sem postar no Telegram
  *
- * Estado em .ofertas/publicadas.json evita repetir a mesma oferta por 7 dias.
+ * Estado em .ofertas/: publicadas.json evita repetir a mesma oferta por 7 dias;
+ * precos.json acumula o menor preço diário de cada produto (selo "menor preço em 30 dias").
  */
 import fs from "node:fs/promises";
 import path from "node:path";
 import { affiliateLink } from "./afiliado.ts";
-import { discountPercent, searchDeals, type MlItem } from "./ml-client.ts";
+import {
+  carregarHistorico,
+  diasDeHistorico,
+  menorPrecoEm30Dias,
+  salvarHistorico,
+  tamanhoHistorico,
+} from "./historico.ts";
+import { searchDeals, type MlItem } from "./ml-client.ts";
 import { escapeHtml, sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
@@ -22,9 +30,12 @@ const CONFIG_FILE = path.resolve("scripts/ofertas/config.json");
 const REPEAT_AFTER_MS = 7 * 24 * 60 * 60 * 1000;
 
 interface Config {
+  /** desconto real mínimo (%) contra a mediana dos outros vendedores */
   minDiscount: number;
-  /** acima disso costuma ser preço original inflado pelo vendedor */
+  /** acima disso costuma ser anúncio errado ou golpe */
   maxDiscount: number;
+  /** quantos outros vendedores o produto precisa ter para a comparação valer */
+  minSellers: number;
   maxPerRun: number;
   /** quantas ofertas ficam em public/ofertas.json (home mostra 6, /promo mostra todas) */
   siteMax: number;
@@ -37,13 +48,20 @@ export interface SiteOffer {
   id: string;
   title: string;
   price: number;
+  /** preço de referência do desconto: a mediana dos outros vendedores, ou o "de" declarado (campanha oficial) */
   originalPrice: number;
+  /** desconto real (%) contra originalPrice */
   discount: number;
+  base: "media" | "vendedor";
+  averagePrice: number | null;
+  sellers: number;
   image: string;
   url: string;
   freeShipping: boolean;
   /** desconto de campanha oficial do ML (deal_ids) */
   oficial: boolean;
+  /** menor preço observado pelo bot nos últimos 30 dias */
+  lowest30d: boolean;
   publishedAt: string;
 }
 
@@ -57,29 +75,49 @@ async function readJson<T>(file: string, fallback: T): Promise<T> {
   }
 }
 
+function referencia(item: MlItem): number {
+  return item.base === "media" ? item.averagePrice! : item.claimedPrice!;
+}
+
 function toSiteOffer(item: MlItem, now: number): SiteOffer {
   return {
     id: item.id,
     title: item.title,
     price: item.price,
-    originalPrice: item.original_price,
-    discount: discountPercent(item),
+    originalPrice: referencia(item),
+    discount: item.discount,
+    base: item.base,
+    averagePrice: item.averagePrice,
+    sellers: item.sellers,
     image: item.thumbnail,
     url: affiliateLink(item.permalink),
     freeShipping: Boolean(item.shipping?.free_shipping),
     oficial: item.oficial,
+    lowest30d: menorPrecoEm30Dias(item.productId, item.price),
     publishedAt: new Date(now).toISOString(),
   };
 }
 
 function caption(item: MlItem, link: string): string {
-  const off = discountPercent(item);
-  const lines = [
-    `🔥 <b>${off}% OFF</b> · ${escapeHtml(item.title)}`,
-    "",
-    `❌ De: <s>${brl(item.original_price)}</s>`,
-    `✅ Por: <b>${brl(item.price)}</b>`,
-  ];
+  const lines: string[] = [];
+  if (item.base === "media") {
+    lines.push(
+      `🔥 <b>${item.discount}% abaixo do preço médio</b> · ${escapeHtml(item.title)}`,
+      "",
+      `💰 Média no Mercado Livre: ${brl(item.averagePrice!)} (${item.sellers} vendedores)`,
+      `✅ Por: <b>${brl(item.price)}</b>`,
+    );
+  } else {
+    lines.push(
+      `🔥 <b>${item.discount}% OFF</b> · ${escapeHtml(item.title)}`,
+      "",
+      `❌ De: <s>${brl(item.claimedPrice!)}</s>`,
+      `✅ Por: <b>${brl(item.price)}</b>`,
+    );
+  }
+  if (menorPrecoEm30Dias(item.productId, item.price)) {
+    lines.push(`📉 Menor preço dos últimos ${diasDeHistorico(item.productId)} dias`);
+  }
   if (item.shipping?.free_shipping) lines.push("🚚 Frete grátis");
   if (item.oficial) lines.push("🏷️ Promoção oficial do Mercado Livre");
   lines.push(
@@ -93,8 +131,9 @@ function caption(item: MlItem, link: string): string {
 
 async function main() {
   const config = await readJson<Config>(CONFIG_FILE, {
-    minDiscount: 20,
+    minDiscount: 15,
     maxDiscount: 70,
+    minSellers: 3,
     maxPerRun: 5,
     siteMax: 99,
     minPrice: 0,
@@ -102,6 +141,7 @@ async function main() {
   });
   const published = await readJson<Record<string, number>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
+  await carregarHistorico();
   const now = Date.now();
 
   // 1. Coleta candidatos de todas as buscas, sem repetir item.
@@ -109,12 +149,16 @@ async function main() {
   const candidates: MlItem[] = [];
   for (const busca of config.buscas) {
     try {
-      const items = await searchDeals({ ...busca, minDiscount: config.minDiscount });
+      const items = await searchDeals({
+        ...busca,
+        minDiscount: config.minDiscount,
+        minSellers: config.minSellers,
+      });
       for (const item of items) {
         if (seen.has(item.id)) continue;
         seen.add(item.id);
         if (item.price < config.minPrice) continue;
-        if (discountPercent(item) > config.maxDiscount) continue;
+        if (item.discount > config.maxDiscount) continue;
         if (published[item.id] && now - published[item.id] < REPEAT_AFTER_MS) continue;
         candidates.push(item);
       }
@@ -123,22 +167,27 @@ async function main() {
     }
   }
 
-  // 2. Campanhas oficiais do ML primeiro, depois maior desconto; limitado por execução.
-  candidates.sort(
-    (a, b) => Number(b.oficial) - Number(a.oficial) || discountPercent(b) - discountPercent(a),
-  );
+  // 2. Campanhas oficiais do ML primeiro, depois maior desconto real; limitado por execução.
+  candidates.sort((a, b) => Number(b.oficial) - Number(a.oficial) || b.discount - a.discount);
   const picked = candidates.slice(0, config.maxPerRun);
+  const hist = tamanhoHistorico();
   console.log(
-    `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""}\n`,
+    `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""} · histórico: ${hist.produtos} produtos, ${hist.observacoes} observações\n`,
   );
 
   // 3. Publica.
   for (const item of picked) {
     const link = affiliateLink(item.permalink);
     const text = caption(item, link);
-    const etiqueta = item.oficial ? " [OFICIAL]" : "";
+    const etiquetas = [
+      item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",
+      item.oficial ? "OFICIAL" : "",
+      menorPrecoEm30Dias(item.productId, item.price) ? "MENOR 30d" : "",
+    ]
+      .filter(Boolean)
+      .join(", ");
     console.log(
-      `${discountPercent(item)}% OFF${etiqueta}  ${brl(item.price)}  ${item.title}\n   ${link}\n`,
+      `${item.discount}%  ${brl(item.price)}  ${item.title}\n   [${etiquetas}]\n   ${link}\n`,
     );
     if (DRY) continue;
 
@@ -151,15 +200,14 @@ async function main() {
   if (DRY) return;
 
   // 4. Site: os melhores candidatos desta rodada na frente, depois os que já
-  //    estavam (sem repetir), limitado a siteMax.
+  //    estavam (sem repetir), limitado a siteMax. Entradas de antes do critério
+  //    de desconto real (sem `base`) são descartadas — o "% OFF" delas não era real.
   const novos = candidates.slice(0, config.siteMax).map((item) => toSiteOffer(item, now));
   const idsNovos = new Set(novos.map((o) => o.id));
-  const site = [...novos, ...siteOffers.filter((o) => !idsNovos.has(o.id))].slice(
-    0,
-    config.siteMax,
-  );
+  const antigas = siteOffers.filter((o) => o.base && !idsNovos.has(o.id));
+  const site = [...novos, ...antigas].slice(0, config.siteMax);
 
-  // 5. Persiste estado e o JSON do site.
+  // 5. Persiste estado, histórico e o JSON do site.
   for (const [id, ts] of Object.entries(published)) {
     if (now - ts > REPEAT_AFTER_MS) delete published[id];
   }
@@ -167,6 +215,7 @@ async function main() {
     await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
     await fs.writeFile(STATE_FILE, JSON.stringify(published, null, 2));
   }
+  await salvarHistorico();
   await fs.writeFile(SITE_FILE, JSON.stringify(site, null, 2));
   console.log(`Site atualizado (${site.length} ofertas): ${SITE_FILE}`);
 }

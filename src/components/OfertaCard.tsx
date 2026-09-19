@@ -1,5 +1,13 @@
 import { useState } from "react";
-import { BadgeCheck, Check, Copy, ExternalLink, MessageCircle, Truck } from "lucide-react";
+import {
+  BadgeCheck,
+  Check,
+  Copy,
+  ExternalLink,
+  MessageCircle,
+  TrendingDown,
+  Truck,
+} from "lucide-react";
 
 import { brl, linkCompartilharWhatsApp, textoWhatsApp, type Oferta } from "@/lib/ofertas";
 
@@ -11,6 +19,7 @@ interface Props {
 
 export function OfertaCard({ oferta, compartilhar = false }: Props) {
   const [copiado, setCopiado] = useState(false);
+  const contraMedia = oferta.base === "media" && oferta.averagePrice != null;
 
   async function copiar() {
     try {
@@ -36,26 +45,49 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
           loading="lazy"
           className="h-full w-full object-contain p-4"
         />
-        <span className="absolute top-3 left-3 rounded-full bg-ninja px-3 py-1 text-xs font-bold text-ninja-foreground">
-          {oferta.discount}% OFF
+        <span
+          title={
+            contraMedia
+              ? "Abaixo do preço médio dos outros vendedores do Mercado Livre"
+              : "Desconto sobre o preço declarado pelo vendedor"
+          }
+          className="absolute top-3 left-3 rounded-full bg-ninja px-3 py-1 text-xs font-bold text-ninja-foreground"
+        >
+          {contraMedia ? `−${oferta.discount}% vs. média` : `${oferta.discount}% OFF`}
         </span>
-        {oferta.oficial && (
-          <span
-            title="Desconto de campanha oficial do Mercado Livre"
-            className="absolute top-3 right-3 inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
-          >
-            <BadgeCheck className="h-3.5 w-3.5" /> Oficial ML
-          </span>
-        )}
+        <span className="absolute top-3 right-3 flex flex-col items-end gap-1">
+          {oferta.lowest30d && (
+            <span
+              title="Menor preço que o bot observou nos últimos 30 dias"
+              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
+            >
+              <TrendingDown className="h-3.5 w-3.5" /> Menor em 30 dias
+            </span>
+          )}
+          {oferta.oficial && (
+            <span
+              title="Desconto de campanha oficial do Mercado Livre"
+              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
+            >
+              <BadgeCheck className="h-3.5 w-3.5" /> Oficial ML
+            </span>
+          )}
+        </span>
       </a>
 
       <div className="flex flex-1 flex-col p-4">
         <h3 className="line-clamp-2 text-sm font-semibold text-foreground">{oferta.title}</h3>
-        <div className="mt-3 flex items-baseline gap-2">
-          <span className="text-xs text-muted-foreground line-through">
-            {brl(oferta.originalPrice)}
-          </span>
+        <div className="mt-3">
           <span className="text-lg font-extrabold text-ninja">{brl(oferta.price)}</span>
+          {contraMedia ? (
+            <p className="mt-0.5 text-xs text-muted-foreground">
+              Preço médio no ML: {brl(oferta.averagePrice!)} · {oferta.sellers} vendedores
+            </p>
+          ) : (
+            <p className="mt-0.5 text-xs text-muted-foreground">
+              De <span className="line-through">{brl(oferta.originalPrice)}</span>
+            </p>
+          )}
         </div>
 
         <div className="mt-auto flex items-center justify-between pt-4 text-xs text-muted-foreground">

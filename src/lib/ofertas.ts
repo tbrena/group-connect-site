@@ -5,13 +5,21 @@ export interface Oferta {
   id: string;
   title: string;
   price: number;
+  /** referência do desconto: mediana dos outros vendedores, ou "de" declarado (campanha oficial) */
   originalPrice: number;
+  /** desconto real (%) contra originalPrice */
   discount: number;
+  /** "media" = contra a mediana dos outros vendedores; "vendedor" = contra o "de" declarado. Ausente em JSONs antigos. */
+  base?: "media" | "vendedor";
+  averagePrice?: number | null;
+  sellers?: number;
   image: string;
   url: string;
   freeShipping: boolean;
   /** desconto de campanha oficial do ML; opcional porque JSONs antigos não têm */
   oficial?: boolean;
+  /** menor preço observado pelo bot nos últimos 30 dias */
+  lowest30d?: boolean;
   publishedAt: string;
 }
 
@@ -58,12 +66,23 @@ export function assinaturaOfertas(ofertas: Oferta[]): string {
 
 /** Texto pronto para colar no WhatsApp (usa a formatação *negrito* e ~riscado~ dele). */
 export function textoWhatsApp(oferta: Oferta): string {
-  const linhas = [
-    `🔥 *${oferta.discount}% OFF* — ${oferta.title}`,
-    "",
-    `❌ De: ~${brl(oferta.originalPrice)}~`,
-    `✅ Por: *${brl(oferta.price)}*`,
-  ];
+  const linhas: string[] = [];
+  if (oferta.base === "media" && oferta.averagePrice) {
+    linhas.push(
+      `🔥 *${oferta.discount}% abaixo do preço médio* — ${oferta.title}`,
+      "",
+      `💰 Média no Mercado Livre: ${brl(oferta.averagePrice)} (${oferta.sellers} vendedores)`,
+      `✅ Por: *${brl(oferta.price)}*`,
+    );
+  } else {
+    linhas.push(
+      `🔥 *${oferta.discount}% OFF* — ${oferta.title}`,
+      "",
+      `❌ De: ~${brl(oferta.originalPrice)}~`,
+      `✅ Por: *${brl(oferta.price)}*`,
+    );
+  }
+  if (oferta.lowest30d) linhas.push("📉 Menor preço dos últimos 30 dias");
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
   if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");
   linhas.push("", `🛒 Comprar: ${oferta.url}`, "", "⚡ Preço pode mudar a qualquer momento.");

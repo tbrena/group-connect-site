@@ -6,11 +6,17 @@
  * /items/{id}. O que funciona é o catálogo:
  *   /products/search           → produtos (nome, fotos)
  *   /products/{id}/items       → ofertas de cada vendedor, com price/original_price
- * Então buscamos produtos e, para cada um, olhamos as ofertas mais baratas.
+ * Então buscamos produtos e, para cada um, olhamos as ofertas dos vendedores.
+ *
+ * O que conta como desconto: o preço contra a MEDIANA dos outros vendedores do
+ * mesmo produto — não o "de/por" declarado pelo vendedor, que é inflado com
+ * frequência. Sem vendedores suficientes para comparar, só aceitamos campanha
+ * oficial do ML (deal_ids) usando o "de" declarado.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
 import { env } from "./env.ts";
+import { observarPreco } from "./historico.ts";
 
 const API = "https://api.mercadolibre.com";
 const TOKEN_FILE = path.resolve(".ofertas/ml-token.json");
@@ -113,11 +119,20 @@ export interface MlItem {
   productId: string;
   title: string;
   price: number;
-  original_price: number;
+  /** desconto real em %, calculado contra `base` */
+  discount: number;
+  /** "media": contra a mediana dos outros vendedores; "vendedor": contra o "de" declarado (só campanha oficial) */
+  base: "media" | "vendedor";
+  /** mediana do preço dos outros vendedores do mesmo produto (null se não houve comparação) */
+  averagePrice: number | null;
+  /** quantos vendedores anunciam o produto */
+  sellers: number;
+  /** "de" declarado pelo vendedor — informativo, não confiável */
+  claimedPrice: number | null;
   permalink: string;
   thumbnail: string;
   shipping?: { free_shipping?: boolean };
-  /** true quando o desconto é de campanha oficial do ML, não só "de/por" do vendedor. */
+  /** true quando o item está em campanha oficial do ML (deal_ids) */
   oficial: boolean;
 }
 
@@ -126,16 +141,18 @@ export interface SearchOptions {
   query?: string;
   /** id de categoria MLB (ex.: MLB1055 = Celulares): usa os mais vendidos dela */
   category?: string;
-  /** desconto mínimo em %, ex.: 20 */
+  /** desconto real mínimo em %, ex.: 15 */
   minDiscount: number;
+  /** quantos OUTROS vendedores precisa haver para a mediana valer */
+  minSellers: number;
   /** quantos produtos do catálogo olhar por busca */
   limit?: number;
 }
 
 /**
- * Um "de/por" só vale se o item também estiver entre os mais baratos do
- * produto — senão é o vendedor inflando o preço original. Tolerância de 10%
- * sobre a oferta mais barata.
+ * Entre as ofertas de um produto, só consideramos as que estão a até 10% do
+ * mais barato — o mais barato tem o maior desconto real; a folga serve para
+ * preferir um item em campanha oficial quando o preço é praticamente igual.
  */
 const CHEAPEST_TOLERANCE = 1.1;
 
@@ -144,33 +161,64 @@ export function itemUrl(itemId: string): string {
   return `https://produto.mercadolivre.com.br/${itemId.replace(/^MLB/, "MLB-")}`;
 }
 
-async function bestDeal(product: CatalogProduct, minDiscount: number): Promise<MlItem | null> {
-  const page = await apiGet<{ results: CatalogItem[] }>(`/products/${product.id}/items?limit=10`);
+export function discountOf(price: number, reference: number): number {
+  return Math.round((1 - price / reference) * 100);
+}
+
+function mediana(valores: number[]): number {
+  const s = [...valores].sort((a, b) => a - b);
+  const m = Math.floor(s.length / 2);
+  const med = s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
+  return Math.round(med * 100) / 100;
+}
+
+async function bestDeal(
+  product: CatalogProduct,
+  opts: Pick<SearchOptions, "minDiscount" | "minSellers">,
+): Promise<MlItem | null> {
+  const page = await apiGet<{ results: CatalogItem[] }>(`/products/${product.id}/items?limit=50`);
   const results = page?.results;
   if (!results?.length) return null;
-  // A API devolve ordenado por preço crescente.
-  const cheapest = results[0].price;
-  const validos = results.filter(
-    (it) =>
-      it.original_price != null &&
-      it.original_price > it.price &&
-      it.price <= cheapest * CHEAPEST_TOLERANCE &&
-      discountOf(it.price, it.original_price) >= minDiscount,
-  );
-  // Entre os válidos, prefere o que está em campanha oficial do ML.
-  const deal = validos.find((it) => it.deal_ids?.length) ?? validos[0];
-  if (!deal) return null;
-  return {
-    id: deal.item_id,
-    productId: product.id,
-    title: product.name,
-    price: deal.price,
-    original_price: deal.original_price!,
-    permalink: itemUrl(deal.item_id),
-    thumbnail: product.pictures?.[0]?.url ?? "",
-    shipping: deal.shipping,
-    oficial: Boolean(deal.deal_ids?.length),
+  // A API devolve ordenado por preço crescente; o mais barato alimenta o histórico.
+  observarPreco(product.id, results[0].price);
+
+  const avaliar = (it: CatalogItem): MlItem | null => {
+    const outros = results.filter((o) => o.item_id !== it.item_id).map((o) => o.price);
+    const oficial = Boolean(it.deal_ids?.length);
+    const comum = {
+      id: it.item_id,
+      productId: product.id,
+      title: product.name,
+      price: it.price,
+      sellers: results.length,
+      claimedPrice: it.original_price,
+      permalink: itemUrl(it.item_id),
+      thumbnail: product.pictures?.[0]?.url ?? "",
+      shipping: it.shipping,
+      oficial,
+    };
+
+    if (outros.length >= opts.minSellers) {
+      const media = mediana(outros);
+      const discount = discountOf(it.price, media);
+      if (discount < opts.minDiscount) return null;
+      return { ...comum, discount, base: "media", averagePrice: media };
+    }
+    // Sem vendedores para comparar: só campanha oficial do ML, com o "de" declarado.
+    if (oficial && it.original_price != null && it.original_price > it.price) {
+      const discount = discountOf(it.price, it.original_price);
+      if (discount < opts.minDiscount) return null;
+      return { ...comum, discount, base: "vendedor", averagePrice: null };
+    }
+    return null;
   };
+
+  const cheapest = results[0].price;
+  const candidatos = results
+    .filter((it) => it.price <= cheapest * CHEAPEST_TOLERANCE)
+    .map(avaliar)
+    .filter((c): c is MlItem => c !== null);
+  return candidatos.find((c) => c.oficial) ?? candidatos[0] ?? null;
 }
 
 /** Produtos do catálogo por palavra-chave. */
@@ -201,7 +249,7 @@ async function productsByCategory(category: string, limit: number): Promise<Cata
   return products.filter((p): p is CatalogProduct => p !== null);
 }
 
-/** Busca produtos (por palavra ou categoria) e devolve os que têm oferta com desconto. */
+/** Busca produtos (por palavra ou categoria) e devolve os que têm desconto real. */
 export async function searchDeals(opts: SearchOptions): Promise<MlItem[]> {
   const limit = opts.limit ?? 20;
   const products = opts.category
@@ -211,18 +259,10 @@ export async function searchDeals(opts: SearchOptions): Promise<MlItem[]> {
       : [];
 
   const deals = await mapLimited(products, (product) =>
-    bestDeal(product, opts.minDiscount).catch((err: Error) => {
+    bestDeal(product, opts).catch((err: Error) => {
       console.error(`  produto ${product.id}: ${err.message}`);
       return null;
     }),
   );
   return deals.filter((d): d is MlItem => d !== null && d.thumbnail !== "");
-}
-
-export function discountOf(price: number, originalPrice: number): number {
-  return Math.round((1 - price / originalPrice) * 100);
-}
-
-export function discountPercent(item: MlItem): number {
-  return discountOf(item.price, item.original_price);
 }

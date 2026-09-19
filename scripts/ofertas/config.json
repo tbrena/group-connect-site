@@ -1,7 +1,8 @@
 {
-  "_comentario": "Buscas a cada execucao: query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount/maxDiscount em %, minPrice em R$, maxPerRun = ofertas por rodada no Telegram, siteMax = ofertas em public/ofertas.json.",
-  "minDiscount": 25,
+  "_comentario": "Buscas a cada execucao: query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json.",
+  "minDiscount": 15,
   "maxDiscount": 70,
+  "minSellers": 3,
   "maxPerRun": 5,
   "siteMax": 99,
   "minPrice": 30,
