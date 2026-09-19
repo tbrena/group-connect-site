@@ -22,11 +22,11 @@ function int(name: string, fallback: number): number {
   return value;
 }
 
-function list(name: string, fallback: string[] = []): string[] {
+function list(name: string, fallback: string[] = [], separator = ","): string[] {
   const raw = str(name);
   if (raw === "") return fallback;
   return raw
-    .split(",")
+    .split(separator)
     .map((item) => item.trim())
     .filter(Boolean);
 }
@@ -44,6 +44,25 @@ function hours(name: string, fallback: string): { start: number; end: number } {
   return { start, end };
 }
 
+const ML_SOURCES = ["auto", "api", "page"] as const;
+type MlSource = (typeof ML_SOURCES)[number];
+
+function mlSource(): MlSource {
+  const raw = str("ML_SOURCE", "auto");
+  if ((ML_SOURCES as readonly string[]).includes(raw)) return raw as MlSource;
+  throw new Error(`ML_SOURCE deve ser auto, api ou page (recebi "${raw}")`);
+}
+
+/** Categorias grandes do ML usadas quando ML_API_SEARCHES não é informado. */
+const DEFAULT_API_SEARCHES = [
+  "category=MLB1051", // Celulares e Telefones
+  "category=MLB1648", // Informática
+  "category=MLB1000", // Eletrônicos, Áudio e Vídeo
+  "category=MLB5726", // Eletrodomésticos
+  "category=MLB1574", // Casa, Móveis e Decoração
+  "category=MLB1144", // Games
+];
+
 export const config = {
   group: {
     name: str("GROUP_NAME"),
@@ -54,6 +73,14 @@ export const config = {
     word: str("ML_AFFILIATE_WORD"),
   },
   offersUrls: list("ML_OFFERS_URLS", ["https://www.mercadolivre.com.br/ofertas"]),
+  ml: {
+    appId: str("ML_APP_ID"),
+    appSecret: str("ML_APP_SECRET"),
+    redirectUri: str("ML_REDIRECT_URI", "https://ofertaninja.online/ml-callback"),
+    source: mlSource(),
+    // "|" como separador porque uma busca pode ter vírgula (q=fone, bluetooth).
+    searches: list("ML_API_SEARCHES", DEFAULT_API_SEARCHES, "|"),
+  },
   minDiscountPercent: int("MIN_DISCOUNT_PERCENT", 20),
   intervalMinutes: int("POST_INTERVAL_MINUTES", 30),
   postsPerRun: int("POSTS_PER_RUN", 1),
@@ -71,6 +98,9 @@ export const config = {
 
 /** Avisa sobre o que está faltando sem impedir os comandos de teste de rodar. */
 export function warnAboutConfig(warn: (msg: string) => void): void {
+  if (config.ml.source !== "page" && (!config.ml.appId || !config.ml.appSecret)) {
+    warn("ML_APP_ID / ML_APP_SECRET não configurados — as ofertas vêm da página do ML, que é menos confiável que a API.");
+  }
   if (!config.affiliate.tool || !config.affiliate.word) {
     warn(
       "ML_AFFILIATE_TOOL / ML_AFFILIATE_WORD não configurados — os links vão sair SEM comissão.",

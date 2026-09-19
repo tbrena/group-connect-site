@@ -9,6 +9,7 @@
   "scripts": {
     "start": "tsx src/index.ts",
     "groups": "tsx src/cli.ts groups",
+    "ml:auth": "tsx src/cli.ts ml-auth",
     "ml:test": "tsx src/cli.ts ml",
     "post:dry": "tsx src/cli.ts post --dry",
     "post:test": "tsx src/cli.ts post",

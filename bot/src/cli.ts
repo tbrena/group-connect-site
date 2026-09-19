@@ -1,7 +1,10 @@
+import { createInterface } from "node:readline/promises";
+
 import { config, warnAboutConfig } from "./config";
 import { formatOfferMessage, money } from "./format";
 import { log } from "./logger";
-import { fetchOffers } from "./mercadolivre";
+import { authorizationUrl, exchangeCode, isApiConfigured } from "./ml-auth";
+import { fetchOffers } from "./offers";
 import { pickOffers, postOffer } from "./scheduler";
 import { WhatsApp } from "./whatsapp";
 
@@ -9,6 +12,7 @@ import { WhatsApp } from "./whatsapp";
  * Comandos de teste, para conferir cada parte separadamente:
  *
  *   npm run groups     lista os grupos do número conectado (nome + JID)
+ *   npm run ml:auth    autoriza o bot na API do Mercado Livre (uma vez)
  *   npm run ml:test    mostra as ofertas que o bot está enxergando no ML
  *   npm run post:dry   mostra a mensagem que seria postada, sem enviar
  *   npm run post:test  envia UMA oferta agora no grupo configurado
@@ -23,8 +27,33 @@ async function groups(): Promise<void> {
   await wa.close();
 }
 
+async function mlAuth(): Promise<void> {
+  if (!isApiConfigured()) {
+    throw new Error(
+      "Preencha ML_APP_ID e ML_APP_SECRET no .env (crie o aplicativo em developers.mercadolivre.com.br).",
+    );
+  }
+  console.log(`
+1. Abra este link no navegador, logado na sua conta do Mercado Livre:
+
+   ${authorizationUrl()}
+
+2. Clique em Autorizar. Você vai cair em ${config.ml.redirectUri} com um código.
+3. Cole o código abaixo (ou a URL inteira da página, tanto faz).
+`);
+  const rl = createInterface({ input: process.stdin, output: process.stdout });
+  const answer = await rl.question("Código: ");
+  rl.close();
+
+  const token = await exchangeCode(answer);
+  log.info(`Autorizado! (usuário ML ${token.userId ?? "?"}). Token salvo em data/ml-token.json.`);
+  log.info("Agora rode `npm run ml:test` para ver as ofertas vindas da API.");
+}
+
 async function ml(): Promise<void> {
   const offers = await fetchOffers();
+  const source = offers[0]?.source.split(":")[0];
+  if (source) console.log(`\nFonte: ${source === "api" ? "API oficial do ML" : "página de ofertas"}`);
   const sorted = [...offers].sort((a, b) => (b.discountPercent ?? 0) - (a.discountPercent ?? 0));
   console.log(`\n${offers.length} ofertas encontradas (mostrando até 25, maiores descontos primeiro):\n`);
   for (const o of sorted.slice(0, 25)) {
@@ -71,12 +100,14 @@ async function main(): Promise<void> {
   switch (command) {
     case "groups":
       return groups();
+    case "ml-auth":
+      return mlAuth();
     case "ml":
       return ml();
     case "post":
       return post(flags.includes("--dry"));
     default:
-      console.log("Uso: npm run groups | npm run ml:test | npm run post:dry | npm run post:test");
+      console.log("Uso: npm run groups | ml:auth | ml:test | post:dry | post:test");
       return;
   }
 }

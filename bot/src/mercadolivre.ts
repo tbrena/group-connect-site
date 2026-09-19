@@ -31,8 +31,8 @@ const BROWSER_HEADERS = {
   "cache-control": "no-cache",
 };
 
-/** Busca todas as páginas configuradas e devolve as ofertas sem duplicatas. */
-export async function fetchOffers(urls: string[] = config.offersUrls): Promise<Offer[]> {
+/** Lê as páginas de ofertas configuradas (fonte de reserva quando a API não está disponível). */
+export async function fetchOffersFromPage(urls: string[] = config.offersUrls): Promise<Offer[]> {
   const seen = new Map<string, Offer>();
 
   for (const [index, url] of urls.entries()) {
@@ -172,7 +172,7 @@ function parseCard($: cheerio.CheerioAPI, card: Selection, source: string): Offe
     ...(discountPercent ? { discountPercent } : {}),
     ...(installments ? { installments } : {}),
     freeShipping: /frete gr[áa]tis/i.test(text),
-    source,
+    source: `page:${source}`,
   };
 }
 

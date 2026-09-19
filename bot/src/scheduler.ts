@@ -1,7 +1,8 @@
 import { config } from "./config";
 import { formatOfferMessage } from "./format";
 import { log } from "./logger";
-import { fetchOffers, type Offer } from "./mercadolivre";
+import type { Offer } from "./mercadolivre";
+import { fetchOffers } from "./offers";
 import { markPosted, wasPostedRecently } from "./store";
 import type { WhatsApp } from "./whatsapp";
 

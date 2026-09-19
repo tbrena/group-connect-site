@@ -41,11 +41,33 @@ Abra o `.env` e preencha:
 
 As outras variáveis têm valores padrão e estão explicadas no próprio `.env.example`.
 
+## 2b. Ligar a API do Mercado Livre (recomendado)
+
+Sem isso o bot funciona lendo a página de ofertas do ML, que quebra quando o
+site muda de layout. Com a API oficial (gratuita) ele busca "tudo com X% de
+desconto em tal categoria" direto na fonte. Leva uns 10 minutos, uma vez só:
+
+1. Entre em [developers.mercadolivre.com.br](https://developers.mercadolivre.com.br)
+   com a sua conta do ML → **Minhas aplicações** → **Criar aplicação**.
+2. Preencha: nome (ex.: Preço Ninja Bot), **URL de redirecionamento**
+   `https://ofertaninja.online/ml-callback`, escopos **read** e
+   **offline_access** (o `offline_access` é o que permite renovar o token
+   sozinho). Os outros campos podem ficar no padrão.
+3. Copie o **App ID** e a **Secret Key** para `ML_APP_ID` e `ML_APP_SECRET` no `.env`.
+4. Rode `npm run ml:auth`. Ele mostra um link; abra, clique em **Autorizar**,
+   e a página ofertaninja.online/ml-callback mostra um código. Cole no terminal.
+
+Pronto: o token fica em `data/ml-token.json` e é renovado automaticamente.
+Se um dia aparecer "rode npm run ml:auth de novo", é só repetir o passo 4.
+
+Para escolher o que buscar, veja `ML_API_SEARCHES` no `.env.example`.
+
 ## 3. Testar cada parte
 
 ```sh
 npm run groups     # conecta (mostra o QR code na 1ª vez) e lista seus grupos com o JID
-npm run ml:test    # mostra as ofertas que o bot está enxergando no ML
+npm run ml:auth    # autoriza a API do Mercado Livre (só se fez o passo 2b)
+npm run ml:test    # mostra as ofertas que o bot está enxergando no ML e de qual fonte
 npm run post:dry   # mostra a mensagem que seria postada, sem enviar nada
 npm run post:test  # envia UMA oferta de verdade no grupo, para você ver como fica
 ```
@@ -93,6 +115,10 @@ O texto está em `src/format.ts` — pode mudar à vontade.
 **"Nenhuma oferta reconhecida"** — o Mercado Livre mudou o HTML da página de
 ofertas. O bot salva a página em `data/debug-vazio-1.html`; mande esse
 arquivo para ajustar o leitor em `src/mercadolivre.ts` (função `parseCard`).
+Ou melhor: ligue a API (passo 2b) e esse problema deixa de existir.
+
+**"token recusado" / "Não consegui renovar o token"** — a autorização da API
+venceu ou foi revogada. Rode `npm run ml:auth` de novo.
 
 **"Mercado Livre bloqueou a requisição"** — o ML achou que era robô. Espere
 alguns minutos e aumente `POST_INTERVAL_MINUTES`. O bot já reaproveita a
@@ -117,7 +143,10 @@ URL.
 src/index.ts         inicia tudo (npm start)
 src/cli.ts           comandos de teste
 src/config.ts        lê o .env
-src/mercadolivre.ts  busca e lê as ofertas; monta o link de afiliado
+src/offers.ts        decide a fonte das ofertas (API ou página)
+src/ml-api.ts        busca na API oficial do ML
+src/ml-auth.ts       autorização OAuth e renovação do token do ML
+src/mercadolivre.ts  lê a página de ofertas (reserva); monta o link de afiliado
 src/format.ts        texto da mensagem
 src/scheduler.ts     escolhe as ofertas e controla o ritmo
 src/whatsapp.ts      conexão com o WhatsApp (Baileys)
