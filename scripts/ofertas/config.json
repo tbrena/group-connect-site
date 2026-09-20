@@ -6,56 +6,418 @@
   "minReputacao": 4,
   "somenteLojaOficial": false,
   "maxPerRun": 5,
-  "siteMax": 99,
+  "siteMax": 250,
   "minPrice": 30,
   "buscas": [
     {
       "category": "MLB1055",
-      "categoria": "Celulares"
+      "categoria": "Celulares",
+      "_": "Celulares e Smartphones"
+    },
+    {
+      "category": "MLB3813",
+      "categoria": "Celulares",
+      "_": "Acessórios para Celulares"
+    },
+    {
+      "category": "MLB417704",
+      "categoria": "Celulares",
+      "_": "Smartwatches"
     },
     {
       "category": "MLB1648",
-      "categoria": "Informática"
+      "categoria": "Informática",
+      "_": "Informática (geral)"
+    },
+    {
+      "category": "MLB430687",
+      "categoria": "Informática",
+      "_": "Notebooks e Portáteis"
+    },
+    {
+      "category": "MLB454379",
+      "categoria": "Informática",
+      "_": "Periféricos para PC"
+    },
+    {
+      "category": "MLB14370",
+      "categoria": "Informática",
+      "_": "Monitores"
+    },
+    {
+      "category": "MLB91757",
+      "categoria": "Informática",
+      "_": "Tablets"
+    },
+    {
+      "category": "MLB430598",
+      "categoria": "Informática",
+      "_": "Armazenamento"
+    },
+    {
+      "category": "MLB1712",
+      "categoria": "Informática",
+      "_": "Componentes para PC"
+    },
+    {
+      "category": "MLB447778",
+      "categoria": "Informática",
+      "_": "Acessórios PC Gaming"
+    },
+    {
+      "category": "MLB5875",
+      "categoria": "Informática",
+      "_": "Impressão"
+    },
+    {
+      "category": "MLB1700",
+      "categoria": "Informática",
+      "_": "Redes e Roteadores"
     },
     {
       "category": "MLB1000",
-      "categoria": "Eletrônicos"
+      "categoria": "Eletrônicos",
+      "_": "Eletrônicos (geral)"
+    },
+    {
+      "category": "MLB3835",
+      "categoria": "Eletrônicos",
+      "_": "Áudio"
+    },
+    {
+      "category": "MLB1002",
+      "categoria": "Eletrônicos",
+      "_": "Televisores"
+    },
+    {
+      "category": "MLB133950",
+      "categoria": "Eletrônicos",
+      "_": "Media Streaming"
+    },
+    {
+      "category": "MLB264065",
+      "categoria": "Eletrônicos",
+      "_": "Drones"
+    },
+    {
+      "category": "MLB4900",
+      "categoria": "Eletrônicos",
+      "_": "Pilhas e Carregadores"
     },
     {
       "category": "MLB5726",
-      "categoria": "Eletrodomésticos"
+      "categoria": "Eletrodomésticos",
+      "_": "Eletrodomésticos (geral)"
+    },
+    {
+      "category": "MLB438284",
+      "categoria": "Eletrodomésticos",
+      "_": "Pequenos Eletrodomésticos"
+    },
+    {
+      "category": "MLB252358",
+      "categoria": "Eletrodomésticos",
+      "_": "Ar e Ventilação"
+    },
+    {
+      "category": "MLB1576",
+      "categoria": "Eletrodomésticos",
+      "_": "Refrigeração"
+    },
+    {
+      "category": "MLB438282",
+      "categoria": "Eletrodomésticos",
+      "_": "Lavadores"
+    },
+    {
+      "category": "MLB1580",
+      "categoria": "Eletrodomésticos",
+      "_": "Fornos e Fogões"
+    },
+    {
+      "category": "MLB21171",
+      "categoria": "Eletrodomésticos",
+      "_": "Bebedouros e Purificadores"
+    },
+    {
+      "category": "MLB439347",
+      "categoria": "Eletrodomésticos",
+      "_": "Cuidado Pessoal (elétricos)"
     },
     {
       "category": "MLB1574",
-      "categoria": "Casa e Decoração"
+      "categoria": "Casa e Decoração",
+      "_": "Casa (geral)"
+    },
+    {
+      "category": "MLB1618",
+      "categoria": "Casa e Decoração",
+      "_": "Cozinha"
+    },
+    {
+      "category": "MLB438928",
+      "categoria": "Casa e Decoração",
+      "_": "Camas e Colchões"
+    },
+    {
+      "category": "MLB1582",
+      "categoria": "Casa e Decoração",
+      "_": "Iluminação"
+    },
+    {
+      "category": "MLB7069",
+      "categoria": "Casa e Decoração",
+      "_": "Segurança para Casa"
+    },
+    {
+      "category": "MLB264051",
+      "categoria": "Casa e Decoração",
+      "_": "Cuidado da Casa e Lavanderia"
+    },
+    {
+      "category": "MLB436414",
+      "categoria": "Casa e Decoração",
+      "_": "Organização"
     },
     {
       "category": "MLB1430",
-      "categoria": "Moda e Calçados"
+      "categoria": "Moda e Calçados",
+      "_": "Moda (geral)"
+    },
+    {
+      "category": "MLB23262",
+      "categoria": "Moda e Calçados",
+      "_": "Calçados"
+    },
+    {
+      "category": "MLB1457",
+      "categoria": "Moda e Calçados",
+      "_": "Malas e Bolsas"
+    },
+    {
+      "category": "MLB270215",
+      "categoria": "Moda e Calçados",
+      "_": "Moda Fitness"
     },
     {
       "category": "MLB1276",
-      "categoria": "Esportes"
+      "categoria": "Esportes",
+      "_": "Esportes (geral)"
+    },
+    {
+      "category": "MLB1338",
+      "categoria": "Esportes",
+      "_": "Fitness e Musculação"
+    },
+    {
+      "category": "MLB1292",
+      "categoria": "Esportes",
+      "_": "Ciclismo"
+    },
+    {
+      "category": "MLB438178",
+      "categoria": "Esportes",
+      "_": "Suplementos e Shakers"
+    },
+    {
+      "category": "MLB1362",
+      "categoria": "Esportes",
+      "_": "Camping, Caça e Pesca"
+    },
+    {
+      "category": "MLB3900",
+      "categoria": "Esportes",
+      "_": "Tênis"
     },
     {
       "category": "MLB1246",
-      "categoria": "Beleza"
+      "categoria": "Beleza",
+      "_": "Beleza (geral)"
+    },
+    {
+      "category": "MLB6284",
+      "categoria": "Beleza",
+      "_": "Perfumes"
+    },
+    {
+      "category": "MLB199407",
+      "categoria": "Beleza",
+      "_": "Cuidados com a Pele"
+    },
+    {
+      "category": "MLB1263",
+      "categoria": "Beleza",
+      "_": "Cuidados com o Cabelo"
+    },
+    {
+      "category": "MLB1248",
+      "categoria": "Beleza",
+      "_": "Maquiagem"
+    },
+    {
+      "category": "MLB264787",
+      "categoria": "Beleza",
+      "_": "Barbearia"
     },
     {
       "category": "MLB1132",
-      "categoria": "Brinquedos"
+      "categoria": "Brinquedos",
+      "_": "Brinquedos (geral)"
+    },
+    {
+      "category": "MLB264337",
+      "categoria": "Brinquedos",
+      "_": "Bonecos e Bonecas"
+    },
+    {
+      "category": "MLB432988",
+      "categoria": "Brinquedos",
+      "_": "Jogos de Tabuleiro"
+    },
+    {
+      "category": "MLB455425",
+      "categoria": "Brinquedos",
+      "_": "Brinquedos de Montar"
+    },
+    {
+      "category": "MLB432871",
+      "categoria": "Brinquedos",
+      "_": "Veículos de Brinquedo"
+    },
+    {
+      "category": "MLB1831",
+      "categoria": "Brinquedos",
+      "_": "Álbuns e Figurinhas"
+    },
+    {
+      "category": "MLB11172",
+      "categoria": "Games",
+      "_": "Consoles"
+    },
+    {
+      "category": "MLB438578",
+      "categoria": "Games",
+      "_": "Acessórios para Consoles"
+    },
+    {
+      "category": "MLB186456",
+      "categoria": "Games",
+      "_": "Video Games"
+    },
+    {
+      "category": "MLB1072",
+      "categoria": "Pet",
+      "_": "Cães"
+    },
+    {
+      "category": "MLB1081",
+      "categoria": "Pet",
+      "_": "Gatos"
+    },
+    {
+      "category": "MLB420409",
+      "categoria": "Bebês",
+      "_": "Passeio do Bebê"
+    },
+    {
+      "category": "MLB420375",
+      "categoria": "Bebês",
+      "_": "Higiene do Bebê"
+    },
+    {
+      "category": "MLB1392",
+      "categoria": "Bebês",
+      "_": "Brinquedos para Bebês"
+    },
+    {
+      "category": "MLB5360",
+      "categoria": "Bebês",
+      "_": "Alimentação e Amamentação"
+    },
+    {
+      "category": "MLB2526",
+      "categoria": "Ferramentas",
+      "_": "Ferramentas Elétricas"
+    },
+    {
+      "category": "MLB2527",
+      "categoria": "Ferramentas",
+      "_": "Ferramentas Manuais"
+    },
+    {
+      "category": "MLB269932",
+      "categoria": "Ferramentas",
+      "_": "Ferramentas para Jardim"
+    },
+    {
+      "category": "MLB1747",
+      "categoria": "Automotivo",
+      "_": "Acessórios de Carros"
+    },
+    {
+      "category": "MLB3381",
+      "categoria": "Automotivo",
+      "_": "Som Automotivo"
+    },
+    {
+      "category": "MLB188063",
+      "categoria": "Automotivo",
+      "_": "Limpeza Automotiva"
+    },
+    {
+      "category": "MLB2238",
+      "categoria": "Automotivo",
+      "_": "Pneus"
+    },
+    {
+      "category": "MLB264201",
+      "categoria": "Saúde",
+      "_": "Suplementos Alimentares"
+    },
+    {
+      "category": "MLB10217",
+      "categoria": "Saúde",
+      "_": "Massagem"
+    },
+    {
+      "category": "MLB1423",
+      "categoria": "Mercado",
+      "_": "Mercearia"
+    },
+    {
+      "category": "MLB278123",
+      "categoria": "Mercado",
+      "_": "Bebidas"
     },
     {
       "query": "air fryer",
-      "categoria": "Eletrodomésticos"
+      "categoria": "Eletrodomésticos",
+      "limit": 30
     },
     {
       "query": "fone bluetooth",
-      "categoria": "Eletrônicos"
+      "categoria": "Eletrônicos",
+      "limit": 30
     },
     {
       "query": "smart tv",
-      "categoria": "Eletrônicos"
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "robo aspirador",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "cafeteira",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "caixa de som bluetooth",
+      "categoria": "Eletrônicos",
+      "limit": 30
     }
   ]
 }
