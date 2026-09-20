@@ -42,6 +42,12 @@ const REPEAT_AFTER_MS = 7 * 24 * 60 * 60 * 1000;
 /** Estado de "já publicada": só o timestamp (formato antigo) ou timestamp + id da mensagem no canal. */
 type Publicada = number | { ts: number; msg?: number };
 const tsDe = (p: Publicada | undefined) => (typeof p === "number" ? p : p?.ts);
+const PAUSA_ENTRE_POSTS_MS = 3000;
+
+async function salvarPublicadas(published: Record<string, Publicada>): Promise<void> {
+  await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
+  await fs.writeFile(STATE_FILE, JSON.stringify(published, null, 2));
+}
 
 interface Config {
   /** desconto real mínimo (%) contra a mediana dos outros vendedores */
@@ -221,6 +227,10 @@ async function main() {
     });
     const enviada = await sendPhoto(foto, text, botoes(dados));
     published[item.id] = { ts: now, msg: enviada.result?.message_id };
+    // Estado salvo a cada post: se a rodada cair no meio, nada é repostado depois.
+    await salvarPublicadas(published);
+    // Pausa entre posts: o Telegram limita a ~20 mensagens/min por canal.
+    await new Promise((r) => setTimeout(r, PAUSA_ENTRE_POSTS_MS));
   }
 
   if (DRY) return;
