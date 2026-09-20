@@ -14,7 +14,6 @@ import { affiliateLink, linkRastreado } from "./afiliado.ts";
 import { carregarCacheProdutos, salvarCacheProdutos } from "./cache-produtos.ts";
 import {
   carregarHistorico,
-  diasDeHistorico,
   menorPrecoEm30Dias,
   salvarHistorico,
   tamanhoHistorico,
@@ -27,9 +26,12 @@ import {
   type MlItem,
 } from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
-import { escapeHtml, sendPhoto } from "./telegram.ts";
+import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
+import { sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
+/** --max=N publica N ofertas nesta rodada em vez do maxPerRun do config. */
+const MAX_ARG = Number(process.argv.find((a) => a.startsWith("--max="))?.slice(6)) || 0;
 /** Só o site: não posta no Telegram nem marca como publicada (útil para pré-visualizar). */
 const SITE_ONLY = process.argv.includes("--so-site");
 const STATE_FILE = path.resolve(".ofertas/publicadas.json");
@@ -115,35 +117,13 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
   };
 }
 
-function caption(item: MlItem, link: string): string {
-  const lines: string[] = [];
-  if (item.base === "media") {
-    lines.push(
-      `🔥 <b>${item.discount}% abaixo do preço médio</b> · ${escapeHtml(item.title)}`,
-      "",
-      `💰 Média no Mercado Livre: ${brl(item.averagePrice!)} (${item.sellers} vendedores)`,
-      `✅ Por: <b>${brl(item.price)}</b>`,
-    );
-  } else {
-    lines.push(
-      `🔥 <b>${item.discount}% OFF</b> · ${escapeHtml(item.title)}`,
-      "",
-      `❌ De: <s>${brl(item.claimedPrice!)}</s>`,
-      `✅ Por: <b>${brl(item.price)}</b>`,
-    );
-  }
-  if (menorPrecoEm30Dias(item.productId, item.price)) {
-    lines.push(`📉 Menor preço dos últimos ${diasDeHistorico(item.productId)} dias`);
-  }
-  if (item.shipping?.free_shipping) lines.push("🚚 Frete grátis");
-  if (item.oficial) lines.push("🏷️ Promoção oficial do Mercado Livre");
-  lines.push(
-    "",
-    `🛒 <a href="${link}">Comprar no Mercado Livre</a>`,
-    "",
-    "⚡ Preço pode mudar a qualquer momento.",
-  );
-  return lines.join("\n");
+/** MlItem → o que a mensagem precisa (mensagem.ts serve posts novos e antigos). */
+function dadosDe(item: MlItem): DadosMensagem {
+  return {
+    ...item,
+    freeShipping: Boolean(item.shipping?.free_shipping),
+    lowest30d: menorPrecoEm30Dias(item.productId, item.price),
+  };
 }
 
 async function main() {
@@ -188,7 +168,7 @@ async function main() {
 
   // 2. Campanhas oficiais do ML primeiro, depois maior desconto real; limitado por execução.
   candidates.sort((a, b) => Number(b.oficial) - Number(a.oficial) || b.discount - a.discount);
-  const picked = candidates.slice(0, config.maxPerRun);
+  const picked = candidates.slice(0, MAX_ARG || config.maxPerRun);
   const hist = tamanhoHistorico();
   console.log(
     `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""} · histórico: ${hist.produtos} produtos, ${hist.observacoes} observações`,
@@ -200,7 +180,8 @@ async function main() {
   // 3. Publica.
   for (const item of picked) {
     const link = linkRastreado(item, "tg");
-    const text = caption(item, link);
+    const dados = dadosDe(item);
+    const text = legendaTelegram(dados);
     const etiquetas = [
       item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",
       item.oficial ? "OFICIAL" : "",
@@ -223,7 +204,7 @@ async function main() {
       console.error(`  imagem com marca falhou (${err.message}); usando a original`);
       return item.thumbnail;
     });
-    const enviada = await sendPhoto(foto, text);
+    const enviada = await sendPhoto(foto, text, botoes(dados));
     published[item.id] = { ts: now, msg: enviada.result?.message_id };
   }
 

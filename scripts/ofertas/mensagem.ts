@@ -1,0 +1,88 @@
+/**
+ * Textos e botões de uma postagem — usados pelo run.ts (posts novos) e por
+ * scripts avulsos que mexem em posts já publicados (a partir do ofertas.json).
+ */
+import { linkRastreado } from "./afiliado.ts";
+import { escapeHtml } from "./telegram.ts";
+
+/** O mínimo que uma oferta precisa ter para virar mensagem (MlItem e SiteOffer atendem). */
+export interface DadosMensagem {
+  id: string;
+  title: string;
+  price: number;
+  discount: number;
+  base: "media" | "vendedor";
+  averagePrice: number | null;
+  sellers: number;
+  /** "de" declarado pelo vendedor (só usado quando base = "vendedor") */
+  claimedPrice: number | null;
+  freeShipping: boolean;
+  oficial: boolean;
+  lowest30d: boolean;
+  fonte: string;
+}
+
+export interface Botao {
+  text: string;
+  url: string;
+}
+
+const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+
+/** Linhas comuns à legenda e ao texto do WhatsApp, já com a formatação de cada um. */
+function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) => string }) {
+  const out: string[] = [];
+  if (d.base === "media" && d.averagePrice != null) {
+    out.push(
+      `🔥 ${f.b(`${d.discount}% abaixo do preço médio`)} — ${d.title}`,
+      "",
+      `💰 Média no Mercado Livre: ${brl(d.averagePrice)} (${d.sellers} vendedores)`,
+      `✅ Por: ${f.b(brl(d.price))}`,
+    );
+  } else {
+    out.push(
+      `🔥 ${f.b(`${d.discount}% OFF`)} — ${d.title}`,
+      "",
+      `❌ De: ${f.s(brl(d.claimedPrice ?? 0))}`,
+      `✅ Por: ${f.b(brl(d.price))}`,
+    );
+  }
+  if (d.lowest30d) out.push("📉 Menor preço dos últimos 30 dias");
+  if (d.freeShipping) out.push("🚚 Frete grátis");
+  if (d.oficial) out.push("🏷️ Promoção oficial do Mercado Livre");
+  return out;
+}
+
+/** Legenda do post no Telegram (HTML). */
+export function legendaTelegram(d: DadosMensagem): string {
+  const esc = { ...d, title: escapeHtml(d.title) };
+  return [
+    ...linhas(esc, { b: (s) => `<b>${s}</b>`, s: (s) => `<s>${s}</s>` }),
+    "",
+    `🛒 <a href="${linkRastreado(d, "tg")}">Comprar no Mercado Livre</a>`,
+    "",
+    "⚡ Preço pode mudar a qualquer momento.",
+  ].join("\n");
+}
+
+/** Texto pronto para o WhatsApp (formatação *negrito* e ~riscado~ dele), com link de origem "wa". */
+export function textoWhatsApp(d: DadosMensagem): string {
+  return [
+    ...linhas(d, { b: (s) => `*${s}*`, s: (s) => `~${s}~` }),
+    "",
+    `🛒 Comprar: ${linkRastreado(d, "wa")}`,
+    "",
+    "⚡ Preço pode mudar a qualquer momento.",
+  ].join("\n");
+}
+
+/** Botões embaixo do post: comprar (origem tg) e compartilhar no WhatsApp com o texto pronto. */
+export function botoes(d: DadosMensagem): Botao[] {
+  return [
+    { text: "🛒 Comprar", url: linkRastreado(d, "tg") },
+    {
+      text: "📲 Compartilhar no WhatsApp",
+      url: `https://wa.me/?text=${encodeURIComponent(textoWhatsApp(d))}`,
+    },
+  ];
+}
