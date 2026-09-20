@@ -17,6 +17,7 @@ import {
   brl,
   conferidaEm,
   dataHoraBR,
+  ehNova,
   linkCompartilharWhatsApp,
   quandoBR,
   textoWhatsApp,
@@ -152,10 +153,18 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       </a>
 
       <div className="flex flex-1 flex-col p-3">
-        {(oferta.categoria || oferta.lojaOficial) && (
+        {(oferta.categoria || oferta.lojaOficial || ehNova(oferta)) && (
           <p className="mb-1 flex items-center justify-between gap-2 text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
             <span>
               {oferta.categoria}
+              {ehNova(oferta) && (
+                <span
+                  title="Entrou no site nas últimas 24 horas"
+                  className="ml-1.5 rounded bg-ninja/15 px-1.5 py-0.5 font-bold text-ninja"
+                >
+                  Nova
+                </span>
+              )}
               {oferta.marketplace === "shopee" && (
                 <span className="ml-1.5 rounded bg-orange-500/15 px-1.5 py-0.5 text-orange-400">
                   Shopee

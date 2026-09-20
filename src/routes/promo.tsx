@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
-import { assinaturaOfertas, conferidaEm, quandoBR, useOfertas } from "@/lib/ofertas";
+import { assinaturaOfertas, conferidaEm, ehNova, quandoBR, useOfertas } from "@/lib/ofertas";
 import { SITE_NAME, SITE_URL, WHATSAPP_GROUP_URL, absoluteUrl } from "@/lib/site";
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
@@ -67,13 +67,20 @@ function Promo() {
   }, [ofertas]);
 
   const [soLojaOficial, setSoLojaOficial] = useState(false);
+  const [soNovas, setSoNovas] = useState(false);
   const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
+  const totalNovas = ofertas.filter((o) => ehNova(o)).length;
 
-  const visiveis = ofertas.filter(
+  const filtradas = ofertas.filter(
     (o) =>
       (!categoria || (o.categoria ?? SEM_CATEGORIA) === categoria) &&
-      (!soLojaOficial || o.lojaOficial),
+      (!soLojaOficial || o.lojaOficial) &&
+      (!soNovas || ehNova(o)),
   );
+  // Na aba Novas a ordem é de chegada (mais recente primeiro); nas outras, a do bot (maior desconto).
+  const visiveis = soNovas
+    ? [...filtradas].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+    : filtradas;
 
   // Conferência mais recente entre as ofertas: é a "hora da última rodada" do bot.
   const atualizadoEm = ofertas.reduce<string | null>((max, o) => {
@@ -143,6 +150,11 @@ function Promo() {
               <Chip ativo={categoria === null} onClick={() => setCategoria(null)}>
                 Todas ({ofertas.length})
               </Chip>
+              {totalNovas > 0 && (
+                <Chip ativo={soNovas} onClick={() => setSoNovas(!soNovas)}>
+                  🆕 Novas ({totalNovas})
+                </Chip>
+              )}
               {categorias.map(([nome, qtd]) => (
                 <Chip
                   key={nome}

@@ -326,7 +326,13 @@ async function main() {
   // 4. Site: os melhores candidatos desta rodada na frente, depois os que já
   //    estavam (sem repetir), limitado a siteMax. Entradas de antes do critério
   //    de desconto real (sem `base`) são descartadas — o "% OFF" delas não era real.
-  const novos = candidates.slice(0, config.siteMax).map((item) => toSiteOffer(item, now));
+  // publishedAt é "quando entrou no site": quem já estava mantém a data original
+  // (é o que alimenta a aba "Novas" do /promo); checkedAt é sempre agora.
+  const entradaAnterior = new Map(siteOffers.map((o) => [o.id, o.publishedAt] as const));
+  const novos = candidates.slice(0, config.siteMax).map((item) => ({
+    ...toSiteOffer(item, now),
+    publishedAt: entradaAnterior.get(item.id) ?? new Date(now).toISOString(),
+  }));
   const idsNovos = new Set(novos.map((o) => o.id));
   //    As que ficam são revalidadas com o preço de agora: sumiu ou subiu, sai.
   const antigas = siteOffers.filter((o) => o.base && o.productId && !idsNovos.has(o.id));

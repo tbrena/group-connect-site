@@ -43,6 +43,13 @@ export interface Oferta {
 /** Quando o preço foi conferido (cai para publishedAt nos JSONs antigos). */
 export const conferidaEm = (o: Oferta) => o.checkedAt ?? o.publishedAt;
 
+/** Janela do que conta como "nova" na aba Novas e na etiqueta do card. */
+export const JANELA_NOVA_MS = 24 * 60 * 60 * 1000;
+
+/** Entrou no site nas últimas 24 h. */
+export const ehNova = (o: Oferta, agora = Date.now()) =>
+  agora - new Date(o.publishedAt).getTime() < JANELA_NOVA_MS;
+
 const fmtBR = (opts: Intl.DateTimeFormatOptions) =>
   new Intl.DateTimeFormat("pt-BR", { timeZone: "America/Sao_Paulo", ...opts });
 
