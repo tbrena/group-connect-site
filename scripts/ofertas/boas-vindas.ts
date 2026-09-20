@@ -20,7 +20,7 @@ const BOAS_VINDAS = [
   "",
   "Aqui chegam as melhores ofertas do Mercado Livre — <b>só desconto de verdade</b>: antes de postar, comparamos o preço com o que os outros vendedores cobram pelo mesmo produto.",
   "",
-  "🔥 Ofertas novas a cada 2 horas",
+  "🔥 Ofertas novas toda hora",
   "💰 Preço médio do mercado em cada oferta",
   "📉 Alerta de menor preço dos últimos 30 dias",
   "🚚 Frete grátis sinalizado",
@@ -90,7 +90,7 @@ status(
 // 4. Descrição do canal (precisa do direito "Alterar informações do canal").
 const desc = await call("setChatDescription", {
   chat_id,
-  description: `Ofertas do Mercado Livre com desconto de verdade, comparado com os outros vendedores. Novas a cada 2h. Site: ${SITE}/promo`,
+  description: `Ofertas do Mercado Livre com desconto de verdade, comparado com os outros vendedores. Novas toda hora. Site: ${SITE}/promo`,
 });
 if (!status("descrição do canal", desc)) {
   console.log(

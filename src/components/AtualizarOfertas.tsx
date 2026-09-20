@@ -72,6 +72,30 @@ export function AtualizarOfertas({ assinatura, recarregar }: Props) {
 
   const ocupado = estado.tipo === "rodando" || estado.tipo === "aguardando";
 
+  // Em produção o servidor (Cloudflare via Lovable) não guarda segredos, então não
+  // consegue disparar o Actions sozinho: o botão leva direto à página do workflow,
+  // onde são dois toques ("Run workflow" → "Run workflow").
+  if (import.meta.env.PROD) {
+    return (
+      <div className="mt-8 flex flex-col items-center gap-2">
+        <a
+          href={ACTIONS_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-6 py-3 text-sm font-bold text-ninja transition-colors hover:bg-ninja/20"
+        >
+          <RefreshCw className="h-4 w-4" />
+          Puxar novas ofertas
+          <ExternalLink className="h-3.5 w-3.5" />
+        </a>
+        <p className="text-center text-xs text-muted-foreground">
+          Abre o GitHub: toque em <b>Run workflow</b> duas vezes. As ofertas novas aparecem aqui em
+          ~3 min. (O bot também roda sozinho a cada hora.)
+        </p>
+      </div>
+    );
+  }
+
   return (
     <div className="mt-8 flex flex-col items-center gap-3">
       <button
