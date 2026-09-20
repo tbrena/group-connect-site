@@ -15,9 +15,26 @@ async function call(method: string, payload: Record<string, unknown>) {
   return json;
 }
 
-/** Foto + legenda (limite de 1024 caracteres na legenda). */
-export function sendPhoto(photo: string, caption: string) {
-  return call("sendPhoto", { photo, caption: caption.slice(0, 1024), parse_mode: "HTML" });
+/**
+ * Foto + legenda (limite de 1024 caracteres na legenda).
+ * `photo` pode ser uma URL (o Telegram baixa) ou um Buffer JPEG (upload multipart).
+ */
+export async function sendPhoto(photo: string | Buffer, caption: string) {
+  if (typeof photo === "string") {
+    return call("sendPhoto", { photo, caption: caption.slice(0, 1024), parse_mode: "HTML" });
+  }
+  const form = new FormData();
+  form.set("chat_id", env.telegram.chatId());
+  form.set("caption", caption.slice(0, 1024));
+  form.set("parse_mode", "HTML");
+  form.set("photo", new Blob([photo], { type: "image/jpeg" }), "oferta.jpg");
+  const res = await fetch(`https://api.telegram.org/bot${env.telegram.botToken()}/sendPhoto`, {
+    method: "POST",
+    body: form,
+  });
+  const json = (await res.json()) as { ok: boolean; description?: string };
+  if (!json.ok) throw new Error(`Telegram sendPhoto (upload): ${json.description}`);
+  return json;
 }
 
 export function sendMessage(text: string) {

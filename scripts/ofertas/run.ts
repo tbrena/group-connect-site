@@ -19,6 +19,7 @@ import {
   tamanhoHistorico,
 } from "./historico.ts";
 import { searchDeals, type MlItem } from "./ml-client.ts";
+import { imagemComMarca } from "./imagem.ts";
 import { escapeHtml, sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
@@ -193,7 +194,12 @@ async function main() {
 
     if (SITE_ONLY) continue;
 
-    await sendPhoto(item.thumbnail, text);
+    // Foto com a faixa da marca; se a montagem falhar, vai a foto original.
+    const foto = await imagemComMarca(item.thumbnail).catch((err: Error) => {
+      console.error(`  imagem com marca falhou (${err.message}); usando a original`);
+      return item.thumbnail;
+    });
+    await sendPhoto(foto, text);
     published[item.id] = now;
   }
 

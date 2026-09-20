@@ -1,0 +1,9 @@
+{
+  "name": "preco-ninja-ofertas-bot",
+  "private": true,
+  "type": "module",
+  "description": "Dependências só do bot de ofertas (scripts/ofertas). Separado do site para não mexer no bun.lock do Lovable.",
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}

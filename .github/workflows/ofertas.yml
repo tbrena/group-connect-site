@@ -39,7 +39,10 @@ jobs:
         with:
           node-version: 24
 
-      # Os scripts usam só módulos nativos do Node (fetch, fs) — sem instalar dependências.
+      # Só o bot tem dependências (sharp, para a imagem com marca); o site não é instalado.
+      - name: Instalar dependências do bot
+        run: npm ci --prefix scripts/ofertas
+
       - name: Buscar ofertas
         env:
           ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}

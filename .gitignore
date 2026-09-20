@@ -47,3 +47,4 @@ bot/data/
 
 # Projeto usa bun.lock; o npm gera este arquivo localmente
 package-lock.json
+!scripts/ofertas/package-lock.json
