@@ -19,7 +19,7 @@ import {
   tamanhoHistorico,
 } from "./historico.ts";
 import { searchDeals, type MlItem } from "./ml-client.ts";
-import { imagemComMarca } from "./imagem.ts";
+import { imagemDaOferta } from "./imagem.ts";
 import { escapeHtml, sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
@@ -195,7 +195,10 @@ async function main() {
     if (SITE_ONLY) continue;
 
     // Foto com a faixa da marca; se a montagem falhar, vai a foto original.
-    const foto = await imagemComMarca(item.thumbnail).catch((err: Error) => {
+    const foto = await imagemDaOferta({
+      ...item,
+      lowest30d: menorPrecoEm30Dias(item.productId, item.price),
+    }).catch((err: Error) => {
       console.error(`  imagem com marca falhou (${err.message}); usando a original`);
       return item.thumbnail;
     });
