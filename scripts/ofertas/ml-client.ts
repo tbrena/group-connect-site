@@ -16,6 +16,12 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { guardarProduto, produtoCacheado } from "./cache-produtos.ts";
+import {
+  guardarVendedor,
+  nivelReputacao,
+  vendedorCacheado,
+  type Vendedor,
+} from "./cache-vendedores.ts";
 import { env } from "./env.ts";
 import { observarPreco } from "./historico.ts";
 
@@ -128,11 +134,14 @@ interface CatalogProduct {
 
 interface CatalogItem {
   item_id: string;
+  seller_id: number;
   price: number;
   original_price: number | null;
   shipping?: { free_shipping?: boolean };
   /** Campanhas oficiais do ML (Oferta do Dia, Relâmpago, campanha) em que o item está. */
   deal_ids?: string[];
+  /** id da loja oficial quando o vendedor é uma (marca ou autorizado); null/ausente se não. */
+  official_store_id?: number | null;
 }
 
 /** Oferta já resolvida: um item específico de um produto do catálogo. */
@@ -159,6 +168,13 @@ export interface MlItem {
   oficial: boolean;
   /** de onde veio: id da categoria (MLB1055) ou "q:<busca>" */
   fonte: string;
+  sellerId: number;
+  /** vendedor é loja oficial (marca ou autorizado) */
+  lojaOficial: boolean;
+  /** nome da loja oficial (null quando não é loja oficial) */
+  loja: string | null;
+  /** reputação do vendedor no ML: "1_red" … "5_green" */
+  reputacao: string | null;
 }
 
 export interface SearchOptions {
@@ -170,6 +186,10 @@ export interface SearchOptions {
   minDiscount: number;
   /** quantos OUTROS vendedores precisa haver para a mediana valer */
   minSellers: number;
+  /** reputação mínima do vendedor (1 a 5; 0 = não filtra) */
+  minReputacao: number;
+  /** só aceita anúncios de loja oficial */
+  somenteLojaOficial: boolean;
   /** quantos produtos do catálogo olhar por busca */
   limit?: number;
 }
@@ -197,7 +217,44 @@ function mediana(valores: number[]): number {
   return Math.round(med * 100) / 100;
 }
 
-type Criterio = Pick<SearchOptions, "minDiscount" | "minSellers">;
+type Criterio = Pick<
+  SearchOptions,
+  "minDiscount" | "minSellers" | "minReputacao" | "somenteLojaOficial"
+>;
+
+/** Nome e reputação do vendedor (/users/{id}), com cache de 30 dias. */
+async function dadosDoVendedor(id: number): Promise<Vendedor | null> {
+  const cacheado = vendedorCacheado(id);
+  if (cacheado) {
+    estatisticas.cache++;
+    return cacheado;
+  }
+  const u = await apiGet<{ nickname?: string; seller_reputation?: { level_id?: string | null } }>(
+    `/users/${id}`,
+  );
+  if (!u?.nickname) return null;
+  guardarVendedor(id, u.nickname, u.seller_reputation?.level_id ?? null);
+  return vendedorCacheado(id) ?? null;
+}
+
+/**
+ * Preenche loja/reputação dos candidatos, aplica os filtros de vendedor e
+ * escolhe: campanha oficial do ML > loja oficial > o mais barato.
+ */
+async function escolherCandidato(candidatos: MlItem[], opts: Criterio): Promise<MlItem | null> {
+  const aptos: MlItem[] = [];
+  for (const c of candidatos) {
+    if (opts.somenteLojaOficial && !c.lojaOficial) continue;
+    const v = await dadosDoVendedor(c.sellerId).catch(() => null);
+    if (opts.minReputacao > 0 && nivelReputacao(v?.reputacao) < opts.minReputacao) continue;
+    aptos.push({
+      ...c,
+      loja: c.lojaOficial ? (v?.nickname ?? null) : null,
+      reputacao: v?.reputacao ?? null,
+    });
+  }
+  return aptos.find((c) => c.oficial) ?? aptos.find((c) => c.lojaOficial) ?? aptos[0] ?? null;
+}
 
 /**
  * Ofertas dos vendedores de um produto, memorizadas durante a rodada: a
@@ -243,6 +300,11 @@ function avaliarItem(
     shipping: it.shipping,
     oficial,
     fonte,
+    sellerId: it.seller_id,
+    lojaOficial: it.official_store_id != null,
+    // preenchidos depois, em escolherCandidato()
+    loja: null,
+    reputacao: null,
   };
 
   if (outros.length >= opts.minSellers) {
@@ -280,7 +342,7 @@ async function bestDeal(
     .filter((it) => it.price <= cheapest * CHEAPEST_TOLERANCE)
     .map((it) => avaliarItem(it, results, produto, opts, fonte))
     .filter((c): c is MlItem => c !== null);
-  return candidatos.find((c) => c.oficial) ?? candidatos[0] ?? null;
+  return escolherCandidato(candidatos, opts);
 }
 
 /**
@@ -297,7 +359,8 @@ export async function revalidarOferta(
   const it = results.find((r) => r.item_id === oferta.id);
   if (!it) return null;
   const produto = { id: oferta.productId, name: oferta.title, thumbnail: oferta.thumbnail };
-  return avaliarItem(it, results, produto, opts, oferta.fonte);
+  const avaliado = avaliarItem(it, results, produto, opts, oferta.fonte);
+  return avaliado ? escolherCandidato([avaliado], opts) : null;
 }
 
 /** Produtos do catálogo por palavra-chave. */

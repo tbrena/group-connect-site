@@ -1,8 +1,10 @@
 {
-  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json.",
+  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial.",
   "minDiscount": 15,
   "maxDiscount": 70,
   "minSellers": 3,
+  "minReputacao": 4,
+  "somenteLojaOficial": false,
   "maxPerRun": 5,
   "siteMax": 99,
   "minPrice": 30,

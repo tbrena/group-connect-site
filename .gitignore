@@ -41,6 +41,7 @@ dist-ssr
 !.ofertas/publicadas.json
 !.ofertas/precos.json
 !.ofertas/produtos.json
+!.ofertas/vendedores.json
 
 # Bot do WhatsApp (bot/): sessão do WhatsApp e histórico do que foi postado
 bot/auth/

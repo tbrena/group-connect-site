@@ -27,6 +27,9 @@ export interface Oferta {
   freeShipping: boolean;
   /** desconto de campanha oficial do ML; opcional porque JSONs antigos não têm */
   oficial?: boolean;
+  /** vendedor é loja oficial (marca ou autorizado); `loja` traz o nome */
+  lojaOficial?: boolean;
+  loja?: string | null;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d?: boolean;
   /** quando entrou no site */
@@ -142,6 +145,7 @@ export function textoWhatsApp(oferta: Oferta): string {
   if (oferta.lowest30d) linhas.push("📉 Menor preço dos últimos 30 dias");
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
   if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");
+  if (oferta.lojaOficial) linhas.push(`🏬 Loja oficial${oferta.loja ? `: ${oferta.loja}` : ""}`);
   linhas.push(
     "",
     `🛒 Comprar: ${linkRastreado(oferta, "wa")}`,

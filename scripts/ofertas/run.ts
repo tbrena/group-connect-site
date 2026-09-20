@@ -12,6 +12,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { affiliateLink, linkRastreado } from "./afiliado.ts";
 import { carregarCacheProdutos, salvarCacheProdutos } from "./cache-produtos.ts";
+import { carregarCacheVendedores, salvarCacheVendedores } from "./cache-vendedores.ts";
 import {
   carregarHistorico,
   menorPrecoEm30Dias,
@@ -56,6 +57,10 @@ interface Config {
   maxDiscount: number;
   /** quantos outros vendedores o produto precisa ter para a comparação valer */
   minSellers: number;
+  /** reputação mínima do vendedor no ML (1 a 5; 0 = não filtra) */
+  minReputacao: number;
+  /** só publica anúncios de loja oficial (corta ~75% das ofertas) */
+  somenteLojaOficial: boolean;
   maxPerRun: number;
   /** quantas ofertas ficam em public/ofertas.json (home mostra 6, /promo mostra todas) */
   siteMax: number;
@@ -85,6 +90,10 @@ export interface SiteOffer {
   freeShipping: boolean;
   /** desconto de campanha oficial do ML (deal_ids) */
   oficial: boolean;
+  /** vendedor é loja oficial (marca ou autorizado) */
+  lojaOficial: boolean;
+  /** nome da loja oficial; null quando não é */
+  loja: string | null;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d: boolean;
   /** quando entrou no site */
@@ -128,6 +137,8 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     url: affiliateLink(item.permalink),
     freeShipping: Boolean(item.shipping?.free_shipping),
     oficial: item.oficial,
+    lojaOficial: item.lojaOficial,
+    loja: item.loja,
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
     publishedAt: new Date(now).toISOString(),
     checkedAt: new Date(now).toISOString(),
@@ -149,6 +160,8 @@ async function main() {
     minDiscount: 15,
     maxDiscount: 70,
     minSellers: 3,
+    minReputacao: 4,
+    somenteLojaOficial: false,
     maxPerRun: 5,
     siteMax: 99,
     minPrice: 0,
@@ -157,10 +170,17 @@ async function main() {
   categorias = new Map(
     config.buscas.map((b) => [b.category ?? `q:${b.query}`, b.categoria ?? "Outros"] as const),
   );
+  const criterio = {
+    minDiscount: config.minDiscount,
+    minSellers: config.minSellers,
+    minReputacao: config.minReputacao,
+    somenteLojaOficial: config.somenteLojaOficial,
+  };
   const published = await readJson<Record<string, Publicada>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
   await carregarHistorico();
   await carregarCacheProdutos();
+  await carregarCacheVendedores();
   const now = Date.now();
 
   // 1. Coleta candidatos de todas as buscas, sem repetir item.
@@ -168,11 +188,7 @@ async function main() {
   const candidates: MlItem[] = [];
   for (const busca of config.buscas) {
     try {
-      const items = await searchDeals({
-        ...busca,
-        minDiscount: config.minDiscount,
-        minSellers: config.minSellers,
-      });
+      const items = await searchDeals({ ...busca, ...criterio });
       for (const item of items) {
         if (seen.has(item.id)) continue;
         seen.add(item.id);
@@ -246,7 +262,7 @@ async function main() {
     await mapLimited(antigas, async (o) => {
       const atual = await revalidarOferta(
         { productId: o.productId, id: o.id, title: o.title, thumbnail: o.image, fonte: o.fonte },
-        { minDiscount: config.minDiscount, minSellers: config.minSellers },
+        criterio,
       ).catch(() => null);
       if (!atual || atual.discount > config.maxDiscount) return null;
       return { ...toSiteOffer(atual, now), publishedAt: o.publishedAt };
@@ -267,6 +283,7 @@ async function main() {
   }
   await salvarHistorico();
   await salvarCacheProdutos();
+  await salvarCacheVendedores();
   await fs.writeFile(SITE_FILE, JSON.stringify(site, null, 2));
   console.log(`Site atualizado (${site.length} ofertas): ${SITE_FILE}`);
 }

@@ -22,6 +22,9 @@ export interface DadosMensagem {
   fonte: string;
   /** ISO de quando o preço foi conferido; sem isso usa agora */
   quando?: string | undefined;
+  /** vendedor é loja oficial; `loja` traz o nome */
+  lojaOficial?: boolean | undefined;
+  loja?: string | null | undefined;
 }
 
 /** "20/09 14:32" em Brasília. */
@@ -68,6 +71,7 @@ function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) 
   if (d.lowest30d) out.push("📉 Menor preço dos últimos 30 dias");
   if (d.freeShipping) out.push("🚚 Frete grátis");
   if (d.oficial) out.push("🏷️ Promoção oficial do Mercado Livre");
+  if (d.lojaOficial) out.push(`🏬 Loja oficial${d.loja ? `: ${d.loja}` : ""}`);
   return out;
 }
 

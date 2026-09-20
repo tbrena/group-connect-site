@@ -66,9 +66,14 @@ function Promo() {
     return [...contagem.entries()].sort((a, b) => b[1] - a[1]);
   }, [ofertas]);
 
-  const visiveis = categoria
-    ? ofertas.filter((o) => (o.categoria ?? SEM_CATEGORIA) === categoria)
-    : ofertas;
+  const [soLojaOficial, setSoLojaOficial] = useState(false);
+  const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
+
+  const visiveis = ofertas.filter(
+    (o) =>
+      (!categoria || (o.categoria ?? SEM_CATEGORIA) === categoria) &&
+      (!soLojaOficial || o.lojaOficial),
+  );
 
   // Conferência mais recente entre as ofertas: é a "hora da última rodada" do bot.
   const atualizadoEm = ofertas.reduce<string | null>((max, o) => {
@@ -147,6 +152,11 @@ function Promo() {
                   {nome} ({qtd})
                 </Chip>
               ))}
+              {totalLojaOficial > 0 && (
+                <Chip ativo={soLojaOficial} onClick={() => setSoLojaOficial(!soLojaOficial)}>
+                  🏬 Só lojas oficiais ({totalLojaOficial})
+                </Chip>
+              )}
             </nav>
           )}
 

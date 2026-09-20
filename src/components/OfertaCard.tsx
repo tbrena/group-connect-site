@@ -6,6 +6,7 @@ import {
   Copy,
   ExternalLink,
   MessageCircle,
+  Store,
   TrendingDown,
   Truck,
 } from "lucide-react";
@@ -88,9 +89,17 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       </a>
 
       <div className="flex flex-1 flex-col p-3">
-        {oferta.categoria && (
-          <p className="mb-1 text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
-            {oferta.categoria}
+        {(oferta.categoria || oferta.lojaOficial) && (
+          <p className="mb-1 flex items-center justify-between gap-2 text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
+            <span>{oferta.categoria}</span>
+            {oferta.lojaOficial && (
+              <span
+                title={`Vendido por loja oficial${oferta.loja ? `: ${oferta.loja}` : ""}`}
+                className="inline-flex items-center gap-1 truncate text-ninja"
+              >
+                <Store className="h-3 w-3 shrink-0" /> {oferta.loja ?? "Loja oficial"}
+              </span>
+            )}
           </p>
         )}
         <h3 className="line-clamp-2 text-xs font-semibold text-foreground sm:text-sm">

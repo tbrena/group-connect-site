@@ -39,6 +39,7 @@ export interface DadosImagem {
   sellers: number;
   oficial: boolean;
   lowest30d: boolean;
+  lojaOficial?: boolean | undefined;
 }
 
 const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
@@ -95,6 +96,18 @@ function sobreposicao(d: DadosImagem): string {
   if (d.lowest30d) {
     partes.push(
       pilula("MENOR PREÇO EM 30 DIAS", W - 32, y, {
+        tamanho: 26,
+        fundo: ESCURO,
+        cor: VERDE,
+        borda: VERDE,
+        alinhar: "dir",
+      }),
+    );
+    y += 60;
+  }
+  if (d.lojaOficial) {
+    partes.push(
+      pilula("LOJA OFICIAL", W - 32, y, {
         tamanho: 26,
         fundo: ESCURO,
         cor: VERDE,
