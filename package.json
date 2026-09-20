@@ -14,7 +14,8 @@
     "ofertas:boas-vindas": "node --env-file-if-exists=.env scripts/ofertas/boas-vindas.ts",
     "ofertas:marca": "node scripts/ofertas/gerar-marca.ts",
     "ofertas:limpar": "node --env-file-if-exists=.env scripts/ofertas/limpar-canal.ts",
-    "ofertas:botoes": "node --env-file-if-exists=.env scripts/ofertas/atualizar-botoes.ts"
+    "ofertas:botoes": "node --env-file-if-exists=.env scripts/ofertas/atualizar-botoes.ts",
+    "ofertas:shopee-teste": "node --env-file-if-exists=.env scripts/ofertas/shopee-teste.ts"
   },
   "overrides": {
     "rolldown": "1.2.1"

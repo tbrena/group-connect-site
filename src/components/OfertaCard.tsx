@@ -91,7 +91,14 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       <div className="flex flex-1 flex-col p-3">
         {(oferta.categoria || oferta.lojaOficial) && (
           <p className="mb-1 flex items-center justify-between gap-2 text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
-            <span>{oferta.categoria}</span>
+            <span>
+              {oferta.categoria}
+              {oferta.marketplace === "shopee" && (
+                <span className="ml-1.5 rounded bg-orange-500/15 px-1.5 py-0.5 text-orange-400">
+                  Shopee
+                </span>
+              )}
+            </span>
             {oferta.lojaOficial && (
               <span
                 title={`Vendido por loja oficial${oferta.loja ? `: ${oferta.loja}` : ""}`}

@@ -25,7 +25,12 @@ export interface DadosMensagem {
   /** vendedor é loja oficial; `loja` traz o nome */
   lojaOficial?: boolean | undefined;
   loja?: string | null | undefined;
+  /** "ml" (padrão) ou "shopee" — muda o nome da loja nos textos */
+  marketplace?: "ml" | "shopee" | undefined;
 }
+
+const nomeDoMarketplace = (d: DadosMensagem) =>
+  d.marketplace === "shopee" ? "Comprar na Shopee" : "Comprar no Mercado Livre";
 
 /** "20/09 14:32" em Brasília. */
 export function dataHoraBR(iso?: string): string {
@@ -81,7 +86,7 @@ export function legendaTelegram(d: DadosMensagem): string {
   return [
     ...linhas(esc, { b: (s) => `<b>${s}</b>`, s: (s) => `<s>${s}</s>` }),
     "",
-    `🛒 <a href="${linkRastreado(d, "tg")}">Comprar no Mercado Livre</a>`,
+    `🛒 <a href="${linkRastreado(d, "tg")}">${nomeDoMarketplace(d)}</a>`,
     "",
     linhaHora(d),
   ].join("\n");

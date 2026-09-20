@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 
-import { linkAfiliado } from "@/lib/rastreio";
-import { OFERTAS_DADOS_URL, POSTHOG, SITE_NAME, absoluteUrl } from "@/lib/site";
+import { ID_OFERTA, linkAfiliado } from "@/lib/rastreio";
+import { LINKS_DADOS_URL, OFERTAS_DADOS_URL, POSTHOG, SITE_NAME, absoluteUrl } from "@/lib/site";
 
 /**
  * /ir/<id>?o=tg|wa|site&f=<fonte>&d=<desconto>&p=<preço>
@@ -24,7 +24,7 @@ export const Route = createFileRoute("/ir/$id")({
       GET: async ({ params, request }) => {
         const id = params.id.toUpperCase();
         const url = new URL(request.url);
-        if (!/^MLB\d{6,}$/.test(id)) {
+        if (!ID_OFERTA.test(id)) {
           return new Response(null, {
             status: 302,
             headers: { location: new URL("/promo", url.origin).toString() },
@@ -35,18 +35,24 @@ export const Route = createFileRoute("/ir/$id")({
           return paginaDePrevia(id, url);
         }
 
-        await registrarClique({
-          item: id,
-          origem: url.searchParams.get("o") ?? "desconhecida",
-          fonte: url.searchParams.get("f") ?? "",
-          desconto: Number(url.searchParams.get("d")) || null,
-          preco: Number(url.searchParams.get("p")) || null,
-          referer: request.headers.get("referer") ?? "",
-        });
+        // Shopee: o link de afiliado (offerLink) só existe no ofertas.json; sem ele,
+        // cai no link do produto sem comissão. ML: derivável do id.
+        const [destino] = await Promise.all([
+          id.startsWith("SP") ? destinoShopee(id, url.origin) : Promise.resolve(linkAfiliado(id)),
+          registrarClique({
+            item: id,
+            marketplace: id.startsWith("SP") ? "shopee" : "ml",
+            origem: url.searchParams.get("o") ?? "desconhecida",
+            fonte: url.searchParams.get("f") ?? "",
+            desconto: Number(url.searchParams.get("d")) || null,
+            preco: Number(url.searchParams.get("p")) || null,
+            referer: request.headers.get("referer") ?? "",
+          }),
+        ]);
 
         return new Response(null, {
           status: 302,
-          headers: { location: linkAfiliado(id), "cache-control": "no-store" },
+          headers: { location: destino, "cache-control": "no-store" },
         });
       },
     },
@@ -64,6 +70,8 @@ interface OfertaResumo {
   base?: string;
   averagePrice?: number | null;
   image: string;
+  /** link de afiliado gravado pelo bot (na Shopee é o único jeito de chegar com comissão) */
+  url?: string;
 }
 
 const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
@@ -83,6 +91,26 @@ async function buscarOferta(id: string, origin: string): Promise<OfertaResumo | 
     }
   }
   return null;
+}
+
+/**
+ * Link de afiliado de uma oferta Shopee: primeiro no ofertas.json, depois no
+ * links.json (ofertas que já saíram do site), por fim o produto sem comissão.
+ */
+async function destinoShopee(id: string, origin: string): Promise<string> {
+  const oferta = await buscarOferta(id, origin);
+  if (oferta?.url) return oferta.url;
+  for (const fonte of [LINKS_DADOS_URL, new URL("/links.json", origin).toString()]) {
+    try {
+      const r = await fetch(fonte);
+      if (!r.ok) continue;
+      const links = (await r.json()) as Record<string, { url?: string }>;
+      if (links[id]?.url) return links[id].url;
+    } catch {
+      // tenta a próxima fonte
+    }
+  }
+  return linkAfiliado(id);
 }
 
 async function paginaDePrevia(id: string, url: URL): Promise<Response> {

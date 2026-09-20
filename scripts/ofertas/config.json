@@ -1,5 +1,5 @@
 {
-  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial.",
+  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas.",
   "minDiscount": 15,
   "maxDiscount": 70,
   "minSellers": 3,
@@ -8,6 +8,12 @@
   "maxPerRun": 10,
   "siteMax": 250,
   "minPrice": 30,
+  "shopee": {
+    "minDiscount": 30,
+    "minVendas": 100,
+    "minAvaliacao": 4.5,
+    "_": "Shopee nao tem catalogo unificado: desconto e o declarado; por isso exige vendas e avaliacao altas"
+  },
   "buscas": [
     {
       "category": "MLB1055",
@@ -418,6 +424,42 @@
       "query": "caixa de som bluetooth",
       "categoria": "Eletrônicos",
       "limit": 30
+    },
+    {
+      "fonte": "shopee",
+      "query": "air fryer",
+      "categoria": "Eletrodomésticos",
+      "limit": 50
+    },
+    {
+      "fonte": "shopee",
+      "query": "fone bluetooth",
+      "categoria": "Eletrônicos",
+      "limit": 50
+    },
+    {
+      "fonte": "shopee",
+      "query": "smartwatch",
+      "categoria": "Celulares",
+      "limit": 50
+    },
+    {
+      "fonte": "shopee",
+      "query": "perfume",
+      "categoria": "Beleza",
+      "limit": 50
+    },
+    {
+      "fonte": "shopee",
+      "query": "tenis",
+      "categoria": "Moda e Calçados",
+      "limit": 50
+    },
+    {
+      "fonte": "shopee",
+      "query": "brinquedo",
+      "categoria": "Brinquedos",
+      "limit": 50
     }
   ]
 }

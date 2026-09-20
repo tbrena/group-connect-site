@@ -46,3 +46,11 @@ npm run ofertas           # publica no Telegram e atualiza public/ofertas.json
 - Buscas, desconto mínimo/máximo e quantidade por rodada: `scripts/ofertas/config.json`
 - Token do ML (Client Credentials, 6h) e histórico do que já foi publicado ficam em `.ofertas/` (ignorado pelo git)
 - Uma oferta não repete por 7 dias; a home mostra 6 e `/promo` mostra até `siteMax` (99)
+
+### Fonte Shopee (dormente até ter chave)
+
+`scripts/ofertas/shopee-client.ts` usa a Affiliate Open API da Shopee. Com `SHOPEE_APP_ID` e
+`SHOPEE_SECRET` no `.env` (e nos segredos do Actions), as buscas com `"fonte": "shopee"` no
+`config.json` passam a rodar junto com as do ML — mesma publicação, mesmo site, ids `SP<loja>-<item>`.
+Sem chave, são puladas com aviso. Primeiro dia: `npm run ofertas:shopee-teste` confirma
+autenticação e nomes de campos.

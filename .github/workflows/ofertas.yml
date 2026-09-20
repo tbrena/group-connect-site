@@ -9,6 +9,7 @@
 # Segredos necessários (Settings → Secrets and variables → Actions):
 #   ML_CLIENT_ID, ML_CLIENT_SECRET, ML_AFFILIATE_WORD, ML_AFFILIATE_TOOL
 #   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (opcionais; sem eles roda só o site)
+#   SHOPEE_APP_ID, SHOPEE_SECRET (opcionais; sem eles as buscas da Shopee são puladas)
 name: Ofertas
 
 on:
@@ -54,6 +55,8 @@ jobs:
           ML_AFFILIATE_TOOL: ${{ secrets.ML_AFFILIATE_TOOL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           COM_TELEGRAM: ${{ github.event_name == 'schedule' || inputs.telegram == true }}
         run: |
           if [ -z "$ML_CLIENT_ID" ]; then
@@ -80,10 +83,12 @@ jobs:
           export GIT_SSH_COMMAND="ssh -i ~/.ssh/dados -o IdentitiesOnly=yes"
           git clone -q --depth 1 git@github.com:tbrena/preco-ninja-dados.git /tmp/dados
           cp public/ofertas.json /tmp/dados/ofertas.json
+          [ -f public/links.json ] && cp public/links.json /tmp/dados/links.json || true
           cd /tmp/dados
           git config user.name "preco-ninja-bot"
           git config user.email "bot@ofertaninja.online"
           git add ofertas.json
+          [ -f links.json ] && git add links.json || true
           if git diff --cached --quiet; then echo "Sem mudanças no site."; exit 0; fi
           git commit -q -m "ofertas: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push -q

@@ -8,6 +8,8 @@ export interface Oferta {
   id: string;
   /** produto de catálogo do ML a que o anúncio pertence */
   productId?: string;
+  /** de qual marketplace veio; ausente em JSONs antigos = Mercado Livre */
+  marketplace?: "ml" | "shopee";
   /** categoria ou busca que achou a oferta (ex.: MLB1055, q:air fryer) */
   fonte?: string;
   /** nome da categoria mostrado no site; ausente em JSONs antigos */

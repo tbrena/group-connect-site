@@ -146,9 +146,11 @@ interface CatalogItem {
 
 /** Oferta já resolvida: um item específico de um produto do catálogo. */
 export interface MlItem {
-  /** id do item (anúncio do vendedor), ex.: MLB5244898411 */
+  /** id do item (anúncio do vendedor), ex.: MLB5244898411 ou SP<shopId>-<itemId> */
   id: string;
   productId: string;
+  /** de qual marketplace veio a oferta */
+  marketplace: "ml" | "shopee";
   title: string;
   price: number;
   /** desconto real em %, calculado contra `base` */
@@ -291,6 +293,7 @@ function avaliarItem(
   const comum = {
     id: it.item_id,
     productId: produto.id,
+    marketplace: "ml" as const,
     title: produto.name,
     price: it.price,
     sellers: results.length,

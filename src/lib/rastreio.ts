@@ -33,8 +33,18 @@ export const fonteSegura = (fonte: string) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
 
-/** Destino final: página do anúncio no ML com seus parâmetros de afiliado. */
+/** Ids aceitos pelo /ir/: anúncio do ML (MLB…) ou da Shopee (SP<shopId>-<itemId>). */
+export const ID_OFERTA = /^(MLB\d{6,}|SP\d+-\d+)$/;
+
+/**
+ * Destino final derivável só do id. Para o ML é a página do anúncio com o
+ * código de afiliado. Para a Shopee o link de afiliado (offerLink) não é
+ * derivável — este é o fallback SEM comissão, usado só quando a oferta não
+ * está mais no ofertas.json.
+ */
 export function linkAfiliado(itemId: string): string {
+  const shopee = /^SP(\d+)-(\d+)$/.exec(itemId);
+  if (shopee) return `https://shopee.com.br/product/${shopee[1]}/${shopee[2]}`;
   const url = new URL(`https://produto.mercadolivre.com.br/${itemId.replace(/^MLB/, "MLB-")}`);
   url.searchParams.set("matt_word", ML_AFILIADO.word);
   url.searchParams.set("matt_tool", ML_AFILIADO.tool);

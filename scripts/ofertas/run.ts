@@ -28,6 +28,7 @@ import {
 } from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
+import { revalidarShopee, searchShopeeDeals } from "./shopee-client.ts";
 import { sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
@@ -65,13 +66,25 @@ interface Config {
   /** quantas ofertas ficam em public/ofertas.json (home mostra 6, /promo mostra todas) */
   siteMax: number;
   minPrice: number;
-  buscas: Array<{ query?: string; category?: string; categoria?: string }>;
+  /** critério da Shopee (sem catálogo unificado, o desconto é o declarado: exigimos vendas e avaliação) */
+  shopee?: { minDiscount: number; minVendas: number; minAvaliacao: number };
+  buscas: Array<{
+    /** "ml" (padrão) ou "shopee" */
+    fonte?: "ml" | "shopee";
+    query?: string;
+    category?: string;
+    shopeeCategory?: number;
+    categoria?: string;
+    limit?: number;
+  }>;
 }
 
 /** Oferta como vai para o site (public/ofertas.json). */
 export interface SiteOffer {
   id: string;
   productId: string;
+  /** de qual marketplace veio ("ml" ou "shopee"); ausente em JSONs antigos = ml */
+  marketplace: "ml" | "shopee";
   /** categoria ou busca que achou a oferta (id/termo, uso interno) */
   fonte: string;
   /** nome da categoria mostrado no site (do config.json) */
@@ -124,6 +137,7 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
   return {
     id: item.id,
     productId: item.productId,
+    marketplace: item.marketplace,
     fonte: item.fonte,
     categoria: categoriaDe(item.fonte),
     title: item.title,
@@ -134,7 +148,8 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     averagePrice: item.averagePrice,
     sellers: item.sellers,
     image: item.thumbnail,
-    url: affiliateLink(item.permalink),
+    // Shopee: o permalink já é o link de afiliado da API; ML: acrescenta matt_word/matt_tool.
+    url: item.marketplace === "shopee" ? item.permalink : affiliateLink(item.permalink),
     freeShipping: Boolean(item.shipping?.free_shipping),
     oficial: item.oficial,
     lojaOficial: item.lojaOficial,
@@ -143,6 +158,29 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     publishedAt: new Date(now).toISOString(),
     checkedAt: new Date(now).toISOString(),
   };
+}
+
+const LINKS_FILE = path.resolve("public/links.json");
+const LINKS_RETENCAO_MS = 60 * 24 * 60 * 60 * 1000;
+
+/**
+ * public/links.json: id → link de afiliado das ofertas Shopee (postadas ou no
+ * site). O /ir/ do site consulta este arquivo quando a oferta já saiu do
+ * ofertas.json — na Shopee o link não é derivável do id, como é no ML.
+ */
+async function salvarLinksShopee(
+  itens: Array<{ marketplace: "ml" | "shopee"; id: string; permalink: string }>,
+): Promise<void> {
+  const links = await readJson<Record<string, { url: string; ts: number }>>(LINKS_FILE, {});
+  const agora = Date.now();
+  for (const it of itens) {
+    if (it.marketplace === "shopee" && it.permalink)
+      links[it.id] = { url: it.permalink, ts: agora };
+  }
+  for (const [id, l] of Object.entries(links)) {
+    if (agora - l.ts > LINKS_RETENCAO_MS) delete links[id];
+  }
+  await fs.writeFile(LINKS_FILE, JSON.stringify(links));
 }
 
 /** MlItem → o que a mensagem precisa (mensagem.ts serve posts novos e antigos). */
@@ -167,8 +205,17 @@ async function main() {
     minPrice: 0,
     buscas: [],
   });
+  // A chave é o `fonte` que o cliente de cada marketplace grava na oferta.
   categorias = new Map(
-    config.buscas.map((b) => [b.category ?? `q:${b.query}`, b.categoria ?? "Outros"] as const),
+    config.buscas.map((b) => {
+      const chave =
+        b.fonte === "shopee"
+          ? b.shopeeCategory
+            ? `shopee:${b.shopeeCategory}`
+            : `shopee:q:${b.query}`
+          : (b.category ?? `q:${b.query}`);
+      return [chave, b.categoria ?? "Outros"] as const;
+    }),
   );
   const criterio = {
     minDiscount: config.minDiscount,
@@ -176,6 +223,7 @@ async function main() {
     minReputacao: config.minReputacao,
     somenteLojaOficial: config.somenteLojaOficial,
   };
+  const criterioShopee = config.shopee ?? { minDiscount: 30, minVendas: 100, minAvaliacao: 4.5 };
   const published = await readJson<Record<string, Publicada>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
   await carregarHistorico();
@@ -188,7 +236,15 @@ async function main() {
   const candidates: MlItem[] = [];
   for (const busca of config.buscas) {
     try {
-      const items = await searchDeals({ ...busca, ...criterio });
+      const items =
+        busca.fonte === "shopee"
+          ? await searchShopeeDeals({
+              query: busca.query,
+              shopeeCategory: busca.shopeeCategory,
+              limit: busca.limit,
+              ...criterioShopee,
+            })
+          : await searchDeals({ ...busca, ...criterio });
       for (const item of items) {
         if (seen.has(item.id)) continue;
         seen.add(item.id);
@@ -260,10 +316,20 @@ async function main() {
   const antigas = siteOffers.filter((o) => o.base && o.productId && !idsNovos.has(o.id));
   const revalidadas = (
     await mapLimited(antigas, async (o) => {
-      const atual = await revalidarOferta(
-        { productId: o.productId, id: o.id, title: o.title, thumbnail: o.image, fonte: o.fonte },
-        criterio,
-      ).catch(() => null);
+      const revalidar =
+        o.marketplace === "shopee" || o.id.startsWith("SP")
+          ? revalidarShopee(o.id, o.fonte, criterioShopee)
+          : revalidarOferta(
+              {
+                productId: o.productId,
+                id: o.id,
+                title: o.title,
+                thumbnail: o.image,
+                fonte: o.fonte,
+              },
+              criterio,
+            );
+      const atual = await revalidar.catch(() => null);
       if (!atual || atual.discount > config.maxDiscount) return null;
       return { ...toSiteOffer(atual, now), publishedAt: o.publishedAt };
     })
@@ -281,6 +347,10 @@ async function main() {
     await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
     await fs.writeFile(STATE_FILE, JSON.stringify(published, null, 2));
   }
+  await salvarLinksShopee([
+    ...candidates,
+    ...site.map((o) => ({ marketplace: o.marketplace, id: o.id, permalink: o.url })),
+  ]);
   await salvarHistorico();
   await salvarCacheProdutos();
   await salvarCacheVendedores();
