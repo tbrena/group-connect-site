@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ImgRouteImport } from './routes/img'
 import { Route as MlCallbackRouteImport } from './routes/ml-callback'
 import { Route as PromoRouteImport } from './routes/promo'
 import { Route as IrIdRouteImport } from './routes/ir.$id'
@@ -17,6 +18,11 @@ import { Route as IrIdRouteImport } from './routes/ir.$id'
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ImgRoute = ImgRouteImport.update({
+  id: '/img',
+  path: '/img',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MlCallbackRoute = MlCallbackRouteImport.update({
@@ -37,12 +43,14 @@ const IrIdRoute = IrIdRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/img': typeof ImgRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
   '/ir/$id': typeof IrIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/img': typeof ImgRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
   '/ir/$id': typeof IrIdRoute
@@ -50,20 +58,22 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/img': typeof ImgRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
   '/ir/$id': typeof IrIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/ml-callback' | '/promo' | '/ir/$id'
+  fullPaths: '/' | '/img' | '/ml-callback' | '/promo' | '/ir/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/ml-callback' | '/promo' | '/ir/$id'
-  id: '__root__' | '/' | '/ml-callback' | '/promo' | '/ir/$id'
+  to: '/' | '/img' | '/ml-callback' | '/promo' | '/ir/$id'
+  id: '__root__' | '/' | '/img' | '/ml-callback' | '/promo' | '/ir/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ImgRoute: typeof ImgRoute
   MlCallbackRoute: typeof MlCallbackRoute
   PromoRoute: typeof PromoRoute
   IrIdRoute: typeof IrIdRoute
@@ -76,6 +86,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/img': {
+      id: '/img'
+      path: '/img'
+      fullPath: '/img'
+      preLoaderRoute: typeof ImgRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/ml-callback': {
@@ -104,6 +121,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ImgRoute: ImgRoute,
   MlCallbackRoute: MlCallbackRoute,
   PromoRoute: PromoRoute,
   IrIdRoute: IrIdRoute,

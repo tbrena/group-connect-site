@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   BadgeCheck,
   Check,
   Clock,
   Copy,
+  Download,
   ExternalLink,
   MessageCircle,
   Store,
@@ -11,6 +12,7 @@ import {
   Truck,
 } from "lucide-react";
 
+import { gerarImagemOferta, nomeArquivo } from "@/lib/imagem-oferta";
 import {
   brl,
   conferidaEm,
@@ -22,6 +24,18 @@ import {
 } from "@/lib/ofertas";
 import { linkRastreado } from "@/lib/rastreio";
 
+/** O navegador consegue compartilhar arquivos (celulares e alguns desktops)? */
+function suportaCompartilharArquivo(): boolean {
+  try {
+    const teste = new File([new Blob(["x"])], "t.jpg", { type: "image/jpeg" });
+    return (
+      typeof navigator.share === "function" && navigator.canShare?.({ files: [teste] }) === true
+    );
+  } catch {
+    return false;
+  }
+}
+
 interface Props {
   oferta: Oferta;
   /** Mostra os botões de compartilhar no WhatsApp e copiar o texto. */
@@ -30,8 +44,17 @@ interface Props {
 
 export function OfertaCard({ oferta, compartilhar = false }: Props) {
   const [copiado, setCopiado] = useState(false);
+  const [comArquivo, setComArquivo] = useState(false);
+  const [gerando, setGerando] = useState(false);
+  // A imagem começa a ser gerada no toque (pointerdown) para o share() ainda estar
+  // dentro do gesto do usuário quando o clique chega — Safari é rígido com isso.
+  const imagem = useRef<Promise<Blob> | null>(null);
   const contraMedia = oferta.base === "media" && oferta.averagePrice != null;
   const link = linkRastreado(oferta, "site");
+
+  useEffect(() => setComArquivo(suportaCompartilharArquivo()), []);
+
+  const prepararImagem = () => (imagem.current ??= gerarImagemOferta(oferta));
 
   async function copiar() {
     try {
@@ -40,6 +63,46 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       setTimeout(() => setCopiado(false), 2000);
     } catch {
       // clipboard indisponível (http, permissão) — o botão do WhatsApp continua funcionando
+    }
+  }
+
+  /** Imagem + texto pelo compartilhamento nativo (WhatsApp usa o texto como legenda). */
+  async function compartilharComImagem() {
+    const texto = textoWhatsApp(oferta);
+    setGerando(true);
+    try {
+      const blob = await prepararImagem();
+      const arquivo = new File([blob], nomeArquivo(oferta), { type: "image/jpeg" });
+      await navigator.share({ files: [arquivo], text: texto });
+    } catch (err) {
+      if ((err as Error).name === "AbortError") return; // a pessoa fechou o menu
+      imagem.current = null;
+      // Sem imagem (ou share negado): vai só o texto, como antes.
+      try {
+        await navigator.share({ text: texto });
+      } catch {
+        window.open(linkCompartilharWhatsApp(oferta), "_blank", "noopener");
+      }
+    } finally {
+      setGerando(false);
+    }
+  }
+
+  /** Salva a imagem — para quem compartilha pelo WhatsApp Web no computador. */
+  async function baixarImagem() {
+    setGerando(true);
+    try {
+      const blob = await prepararImagem();
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = nomeArquivo(oferta);
+      a.click();
+      setTimeout(() => URL.revokeObjectURL(url), 10_000);
+    } catch {
+      imagem.current = null;
+    } finally {
+      setGerando(false);
     }
   }
 
@@ -154,15 +217,41 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
 
         {compartilhar && (
           <div className="mt-4 flex gap-2">
-            <a
-              href={linkCompartilharWhatsApp(oferta)}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex flex-1 items-center justify-center gap-2 rounded-full bg-ninja px-4 py-2.5 text-sm font-bold text-ninja-foreground transition-transform hover:scale-[1.03]"
+            {comArquivo ? (
+              <button
+                type="button"
+                onPointerDown={prepararImagem}
+                onClick={compartilharComImagem}
+                disabled={gerando}
+                title="Compartilhar imagem e texto (WhatsApp usa o texto como legenda)"
+                className="inline-flex flex-1 items-center justify-center gap-2 rounded-full bg-ninja px-4 py-2.5 text-sm font-bold text-ninja-foreground transition-transform hover:scale-[1.03] disabled:opacity-70"
+              >
+                <MessageCircle className="h-4 w-4" />
+                {gerando ? "Preparando…" : "Compartilhar"}
+              </button>
+            ) : (
+              <a
+                href={linkCompartilharWhatsApp(oferta)}
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Compartilhar texto no WhatsApp (neste navegador não dá para anexar a imagem; use o botão de baixar)"
+                className="inline-flex flex-1 items-center justify-center gap-2 rounded-full bg-ninja px-4 py-2.5 text-sm font-bold text-ninja-foreground transition-transform hover:scale-[1.03]"
+              >
+                <MessageCircle className="h-4 w-4" />
+                Compartilhar
+              </a>
+            )}
+            <button
+              type="button"
+              onPointerDown={prepararImagem}
+              onClick={baixarImagem}
+              disabled={gerando}
+              aria-label="Baixar imagem da oferta"
+              title="Baixar imagem (foto + preço + marca)"
+              className="inline-flex items-center justify-center rounded-full border border-border px-3 text-muted-foreground transition-colors hover:border-ninja/40 hover:text-ninja disabled:opacity-70"
             >
-              <MessageCircle className="h-4 w-4" />
-              Compartilhar
-            </a>
+              <Download className="h-4 w-4" />
+            </button>
             <button
               type="button"
               onClick={copiar}
