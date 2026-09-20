@@ -37,6 +37,10 @@ const SITE_FILE = path.resolve("public/ofertas.json");
 const CONFIG_FILE = path.resolve("scripts/ofertas/config.json");
 const REPEAT_AFTER_MS = 7 * 24 * 60 * 60 * 1000;
 
+/** Estado de "já publicada": só o timestamp (formato antigo) ou timestamp + id da mensagem no canal. */
+type Publicada = number | { ts: number; msg?: number };
+const tsDe = (p: Publicada | undefined) => (typeof p === "number" ? p : p?.ts);
+
 interface Config {
   /** desconto real mínimo (%) contra a mediana dos outros vendedores */
   minDiscount: number;
@@ -152,7 +156,7 @@ async function main() {
     minPrice: 0,
     buscas: [],
   });
-  const published = await readJson<Record<string, number>>(STATE_FILE, {});
+  const published = await readJson<Record<string, Publicada>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
   await carregarHistorico();
   await carregarCacheProdutos();
@@ -173,7 +177,8 @@ async function main() {
         seen.add(item.id);
         if (item.price < config.minPrice) continue;
         if (item.discount > config.maxDiscount) continue;
-        if (published[item.id] && now - published[item.id] < REPEAT_AFTER_MS) continue;
+        const antes = tsDe(published[item.id]);
+        if (antes !== undefined && now - antes < REPEAT_AFTER_MS) continue;
         candidates.push(item);
       }
     } catch (err) {
@@ -218,8 +223,8 @@ async function main() {
       console.error(`  imagem com marca falhou (${err.message}); usando a original`);
       return item.thumbnail;
     });
-    await sendPhoto(foto, text);
-    published[item.id] = now;
+    const enviada = await sendPhoto(foto, text);
+    published[item.id] = { ts: now, msg: enviada.result?.message_id };
   }
 
   if (DRY) return;
@@ -247,8 +252,8 @@ async function main() {
   const site = [...novos, ...revalidadas].slice(0, config.siteMax);
 
   // 5. Persiste estado, histórico e o JSON do site.
-  for (const [id, ts] of Object.entries(published)) {
-    if (now - ts > REPEAT_AFTER_MS) delete published[id];
+  for (const [id, p] of Object.entries(published)) {
+    if (now - (tsDe(p) ?? 0) > REPEAT_AFTER_MS) delete published[id];
   }
   if (!SITE_ONLY) {
     await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });

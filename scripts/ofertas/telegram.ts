@@ -4,13 +4,19 @@
  */
 import { env } from "./env.ts";
 
+interface TelegramResposta {
+  ok: boolean;
+  description?: string;
+  result?: { message_id?: number };
+}
+
 async function call(method: string, payload: Record<string, unknown>) {
   const res = await fetch(`https://api.telegram.org/bot${env.telegram.botToken()}/${method}`, {
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({ chat_id: env.telegram.chatId(), ...payload }),
   });
-  const json = (await res.json()) as { ok: boolean; description?: string };
+  const json = (await res.json()) as TelegramResposta;
   if (!json.ok) throw new Error(`Telegram ${method}: ${json.description}`);
   return json;
 }
@@ -32,7 +38,7 @@ export async function sendPhoto(photo: string | Buffer, caption: string) {
     method: "POST",
     body: form,
   });
-  const json = (await res.json()) as { ok: boolean; description?: string };
+  const json = (await res.json()) as TelegramResposta;
   if (!json.ok) throw new Error(`Telegram sendPhoto (upload): ${json.description}`);
   return json;
 }

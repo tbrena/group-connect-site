@@ -12,7 +12,8 @@
     "format": "prettier --write .",
     "ofertas": "node --env-file-if-exists=.env scripts/ofertas/run.ts",
     "ofertas:boas-vindas": "node --env-file-if-exists=.env scripts/ofertas/boas-vindas.ts",
-    "ofertas:marca": "node scripts/ofertas/gerar-marca.ts"
+    "ofertas:marca": "node scripts/ofertas/gerar-marca.ts",
+    "ofertas:limpar": "node --env-file-if-exists=.env scripts/ofertas/limpar-canal.ts"
   },
   "overrides": {
     "rolldown": "1.2.1"
