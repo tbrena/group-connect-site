@@ -24,6 +24,10 @@ export function absoluteUrl(path: string): string {
 
 export const OG_IMAGE_URL = absoluteUrl("/og-image.png");
 
+/** ofertas.json publicado pelo bot no repositório público de dados. */
+export const OFERTAS_DADOS_URL =
+  "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/ofertas.json";
+
 /** Código de afiliado do Mercado Livre (é público: vai em toda URL de produto). */
 export const ML_AFILIADO = { word: "promoninja", tool: "19839069" };
 

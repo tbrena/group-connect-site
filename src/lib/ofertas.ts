@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 
 import { linkRastreado } from "@/lib/rastreio";
+import { OFERTAS_DADOS_URL } from "@/lib/site";
 
 /** Mesmo formato gravado por scripts/ofertas/run.ts em public/ofertas.json. */
 export interface Oferta {
@@ -41,10 +42,7 @@ export const ACTIONS_URL = `https://github.com/${GITHUB_REPO}/actions/workflows/
  * muda. O arquivo local fica como fallback (e é o que o dev usa).
  */
 const FONTES_OFERTAS = import.meta.env.PROD
-  ? [
-      "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/ofertas.json",
-      "/ofertas.json",
-    ]
+  ? [OFERTAS_DADOS_URL, "/ofertas.json"]
   : ["/ofertas.json"];
 
 async function buscarOfertas(): Promise<Oferta[]> {
@@ -120,7 +118,9 @@ export function textoWhatsApp(oferta: Oferta): string {
     "",
     "⚡ Preço pode mudar a qualquer momento.",
   );
-  return linhas.join("\n");
+  // "％" (porcento largo) no lugar de "%": o wa.me decodifica a URL mais de uma
+  // vez em alguns aparelhos e o "%" comum, que é o escape de URL, chega errado.
+  return linhas.join("\n").replace(/%/g, "％");
 }
 
 /** Abre o WhatsApp com a mensagem preenchida; a pessoa só escolhe o grupo. */

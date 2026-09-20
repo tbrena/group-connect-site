@@ -65,7 +65,12 @@ export function legendaTelegram(d: DadosMensagem): string {
   ].join("\n");
 }
 
-/** Texto pronto para o WhatsApp (formatação *negrito* e ~riscado~ dele), com link de origem "wa". */
+/**
+ * Texto pronto para o WhatsApp (formatação *negrito* e ~riscado~ dele), com link
+ * de origem "wa". Usa "％" (porcento largo) no lugar de "%": o wa.me decodifica
+ * a URL mais de uma vez em alguns aparelhos e o "%" comum, que é o escape de
+ * URL, chega errado.
+ */
 export function textoWhatsApp(d: DadosMensagem): string {
   return [
     ...linhas(d, { b: (s) => `*${s}*`, s: (s) => `~${s}~` }),
@@ -73,7 +78,9 @@ export function textoWhatsApp(d: DadosMensagem): string {
     `🛒 Comprar: ${linkRastreado(d, "wa")}`,
     "",
     "⚡ Preço pode mudar a qualquer momento.",
-  ].join("\n");
+  ]
+    .join("\n")
+    .replace(/%/g, "％");
 }
 
 /** Botões embaixo do post: comprar (origem tg) e compartilhar no WhatsApp com o texto pronto. */
@@ -81,7 +88,7 @@ export function botoes(d: DadosMensagem): Botao[] {
   return [
     { text: "🛒 Comprar", url: linkRastreado(d, "tg") },
     {
-      text: "📲 Compartilhar no WhatsApp",
+      text: "📲 Compartilhar",
       url: `https://wa.me/?text=${encodeURIComponent(textoWhatsApp(d))}`,
     },
   ];

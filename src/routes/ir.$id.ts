@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 
 import { linkAfiliado } from "@/lib/rastreio";
-import { POSTHOG } from "@/lib/site";
+import { OFERTAS_DADOS_URL, POSTHOG, SITE_NAME, absoluteUrl } from "@/lib/site";
 
 /**
  * /ir/<id>?o=tg|wa|site&f=<fonte>&d=<desconto>&p=<preço>
@@ -10,6 +10,10 @@ import { POSTHOG } from "@/lib/site";
  * clique é registrado no PostHog e a pessoa é redirecionada para o anúncio no
  * Mercado Livre com o código de afiliado. É o que permite saber qual post,
  * origem, categoria e horário geram clique — sem isso a curadoria é chute.
+ *
+ * Para os robôs de prévia (WhatsApp, Telegram, Facebook…) a resposta é uma
+ * página com Open Graph — título, preço e foto do produto — para a mensagem
+ * compartilhada mostrar o card com a imagem. Robô não conta como clique.
  *
  * Só roda no servidor (Cloudflare Worker). Sem POSTHOG.key configurado, o
  * redirecionamento funciona igual e apenas não registra.
@@ -25,6 +29,10 @@ export const Route = createFileRoute("/ir/$id")({
             status: 302,
             headers: { location: new URL("/promo", url.origin).toString() },
           });
+        }
+
+        if (ROBO_DE_PREVIA.test(request.headers.get("user-agent") ?? "")) {
+          return paginaDePrevia(id, url);
         }
 
         await registrarClique({
@@ -44,6 +52,68 @@ export const Route = createFileRoute("/ir/$id")({
     },
   },
 });
+
+const ROBO_DE_PREVIA =
+  /WhatsApp|facebookexternalhit|Facebot|TelegramBot|Twitterbot|LinkedInBot|Slackbot|Discordbot|Googlebot|bingbot/i;
+
+interface OfertaResumo {
+  id: string;
+  title: string;
+  price: number;
+  discount: number;
+  base?: string;
+  averagePrice?: number | null;
+  image: string;
+}
+
+const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
+
+/** Procura a oferta no JSON publicado (repositório de dados, depois o do próprio site). */
+async function buscarOferta(id: string, origin: string): Promise<OfertaResumo | null> {
+  for (const fonte of [OFERTAS_DADOS_URL, new URL("/ofertas.json", origin).toString()]) {
+    try {
+      const r = await fetch(fonte);
+      if (!r.ok) continue;
+      const lista = (await r.json()) as OfertaResumo[];
+      const o = lista.find((x) => x.id === id);
+      if (o) return o;
+    } catch {
+      // tenta a próxima fonte
+    }
+  }
+  return null;
+}
+
+async function paginaDePrevia(id: string, url: URL): Promise<Response> {
+  const o = await buscarOferta(id, url.origin);
+  const titulo = o
+    ? `${brl(o.price)} · ${o.discount}% ${o.base === "media" ? "abaixo do preço médio" : "OFF"}`
+    : `Oferta no Mercado Livre — ${SITE_NAME}`;
+  const descricao = o
+    ? `${o.title}${o.averagePrice ? ` — preço médio ${brl(o.averagePrice)}` : ""}. Via ${SITE_NAME}.`
+    : "Ofertas com desconto de verdade, comparadas com os outros vendedores.";
+  const imagem = o?.image ?? absoluteUrl("/og-image.png");
+  const destino = linkAfiliado(id);
+
+  const html = `<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<title>${esc(titulo)}</title>
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="${esc(SITE_NAME)}">
+<meta property="og:title" content="${esc(titulo)}">
+<meta property="og:description" content="${esc(descricao)}">
+<meta property="og:image" content="${esc(imagem)}">
+<meta property="og:url" content="${esc(url.toString())}">
+<meta name="twitter:card" content="summary_large_image">
+<meta http-equiv="refresh" content="0;url=${esc(destino)}">
+</head><body><a href="${esc(destino)}">${esc(titulo)}</a></body></html>`;
+
+  return new Response(html, {
+    status: 200,
+    headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=300" },
+  });
+}
 
 /** Hora e dia da semana em Brasília, para agrupar cliques por horário de postagem. */
 function agora() {

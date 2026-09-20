@@ -20,11 +20,18 @@ export interface DadosLink {
 export function linkRastreado(o: DadosLink, origem: Origem): string {
   const url = new URL(`/ir/${o.id}`, SITE_URL);
   url.searchParams.set("o", origem);
-  if (o.fonte) url.searchParams.set("f", o.fonte);
+  // só letras/números/hífen: "q:air fryer" vira "q-air-fryer" e a URL fica sem %XX
+  if (o.fonte) url.searchParams.set("f", fonteSegura(o.fonte));
   url.searchParams.set("d", String(o.discount));
   url.searchParams.set("p", String(o.price));
   return url.toString();
 }
+
+export const fonteSegura = (fonte: string) =>
+  fonte
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
 
 /** Destino final: página do anúncio no ML com seus parâmetros de afiliado. */
 export function linkAfiliado(itemId: string): string {

@@ -21,7 +21,14 @@ export function linkRastreado(
 ): string {
   const url = new URL(`/ir/${item.id}`, SITE_URL);
   url.searchParams.set("o", origem);
-  url.searchParams.set("f", item.fonte);
+  // só letras/números/hífen: "q:air fryer" vira "q-air-fryer" e a URL fica sem %XX
+  url.searchParams.set(
+    "f",
+    item.fonte
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, ""),
+  );
   url.searchParams.set("d", String(item.discount));
   url.searchParams.set("p", String(item.price));
   return url.toString();
