@@ -10,7 +10,7 @@
  */
 import fs from "node:fs/promises";
 import path from "node:path";
-import { affiliateLink } from "./afiliado.ts";
+import { affiliateLink, linkRastreado } from "./afiliado.ts";
 import { carregarCacheProdutos, salvarCacheProdutos } from "./cache-produtos.ts";
 import {
   carregarHistorico,
@@ -19,7 +19,13 @@ import {
   salvarHistorico,
   tamanhoHistorico,
 } from "./historico.ts";
-import { estatisticas, searchDeals, type MlItem } from "./ml-client.ts";
+import {
+  estatisticas,
+  mapLimited,
+  revalidarOferta,
+  searchDeals,
+  type MlItem,
+} from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { escapeHtml, sendPhoto } from "./telegram.ts";
 
@@ -48,6 +54,9 @@ interface Config {
 /** Oferta como vai para o site (public/ofertas.json). */
 export interface SiteOffer {
   id: string;
+  productId: string;
+  /** categoria ou busca que achou a oferta */
+  fonte: string;
   title: string;
   price: number;
   /** preço de referência do desconto: a mediana dos outros vendedores, ou o "de" declarado (campanha oficial) */
@@ -84,6 +93,8 @@ function referencia(item: MlItem): number {
 function toSiteOffer(item: MlItem, now: number): SiteOffer {
   return {
     id: item.id,
+    productId: item.productId,
+    fonte: item.fonte,
     title: item.title,
     price: item.price,
     originalPrice: referencia(item),
@@ -183,7 +194,7 @@ async function main() {
 
   // 3. Publica.
   for (const item of picked) {
-    const link = affiliateLink(item.permalink);
+    const link = linkRastreado(item, "tg");
     const text = caption(item, link);
     const etiquetas = [
       item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",
@@ -218,8 +229,22 @@ async function main() {
   //    de desconto real (sem `base`) são descartadas — o "% OFF" delas não era real.
   const novos = candidates.slice(0, config.siteMax).map((item) => toSiteOffer(item, now));
   const idsNovos = new Set(novos.map((o) => o.id));
-  const antigas = siteOffers.filter((o) => o.base && !idsNovos.has(o.id));
-  const site = [...novos, ...antigas].slice(0, config.siteMax);
+  //    As que ficam são revalidadas com o preço de agora: sumiu ou subiu, sai.
+  const antigas = siteOffers.filter((o) => o.base && o.productId && !idsNovos.has(o.id));
+  const revalidadas = (
+    await mapLimited(antigas, async (o) => {
+      const atual = await revalidarOferta(
+        { productId: o.productId, id: o.id, title: o.title, thumbnail: o.image, fonte: o.fonte },
+        { minDiscount: config.minDiscount, minSellers: config.minSellers },
+      ).catch(() => null);
+      if (!atual || atual.discount > config.maxDiscount) return null;
+      return { ...toSiteOffer(atual, now), publishedAt: o.publishedAt };
+    })
+  ).filter((o): o is SiteOffer => o !== null);
+  console.log(
+    `site: ${novos.length} novas + ${revalidadas.length} antigas ainda válidas (${antigas.length - revalidadas.length} removidas por preço/estoque)`,
+  );
+  const site = [...novos, ...revalidadas].slice(0, config.siteMax);
 
   // 5. Persiste estado, histórico e o JSON do site.
   for (const [id, ts] of Object.entries(published)) {

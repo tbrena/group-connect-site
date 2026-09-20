@@ -23,3 +23,13 @@ export function absoluteUrl(path: string): string {
 }
 
 export const OG_IMAGE_URL = absoluteUrl("/og-image.png");
+
+/** Código de afiliado do Mercado Livre (é público: vai em toda URL de produto). */
+export const ML_AFILIADO = { word: "promoninja", tool: "19839069" };
+
+/**
+ * PostHog — registro dos cliques em /ir/<id>. A chave de projeto do PostHog é
+ * pública por design (vai no front-end de qualquer site), por isso fica aqui.
+ * Vazia = rastreio desligado, redirecionamento continua funcionando.
+ */
+export const POSTHOG = { key: "", host: "https://us.i.posthog.com" };

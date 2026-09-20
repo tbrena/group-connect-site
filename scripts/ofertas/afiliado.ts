@@ -7,6 +7,26 @@
  */
 import { env } from "./env.ts";
 
+/** Origem do site (o /ir/ mora lá). Mantido aqui para o bot não depender do código do site. */
+const SITE_URL = "https://ofertaninja.online";
+
+/**
+ * Link que vai nas postagens: passa por ofertaninja.online/ir/<id>, que
+ * registra o clique (origem, categoria, desconto, horário) e redireciona para
+ * o ML com o código de afiliado.
+ */
+export function linkRastreado(
+  item: { id: string; fonte: string; discount: number; price: number },
+  origem: "tg" | "wa" | "site",
+): string {
+  const url = new URL(`/ir/${item.id}`, SITE_URL);
+  url.searchParams.set("o", origem);
+  url.searchParams.set("f", item.fonte);
+  url.searchParams.set("d", String(item.discount));
+  url.searchParams.set("p", String(item.price));
+  return url.toString();
+}
+
 export function affiliateLink(permalink: string): string {
   const url = new URL(permalink);
   url.searchParams.set("matt_word", env.ml.affiliateWord());

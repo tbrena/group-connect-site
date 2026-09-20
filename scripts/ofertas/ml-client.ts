@@ -107,7 +107,7 @@ async function apiGet<T>(pathname: string): Promise<T | null> {
 }
 
 /** Roda `fn` sobre `items` com no máximo CONCURRENCY promessas em voo. */
-async function mapLimited<T, R>(items: T[], fn: (item: T) => Promise<R>): Promise<R[]> {
+export async function mapLimited<T, R>(items: T[], fn: (item: T) => Promise<R>): Promise<R[]> {
   const out: R[] = new Array(items.length);
   let next = 0;
   const workers = Array.from({ length: Math.min(CONCURRENCY, items.length) }, async () => {
@@ -157,6 +157,8 @@ export interface MlItem {
   shipping?: { free_shipping?: boolean };
   /** true quando o item está em campanha oficial do ML (deal_ids) */
   oficial: boolean;
+  /** de onde veio: id da categoria (MLB1055) ou "q:<busca>" */
+  fonte: string;
 }
 
 export interface SearchOptions {
@@ -195,53 +197,107 @@ function mediana(valores: number[]): number {
   return Math.round(med * 100) / 100;
 }
 
+type Criterio = Pick<SearchOptions, "minDiscount" | "minSellers">;
+
+/**
+ * Ofertas dos vendedores de um produto, memorizadas durante a rodada: a
+ * revalidação das ofertas do site reaproveita o que a busca já baixou.
+ */
+const itensDaRodada = new Map<string, Promise<CatalogItem[] | null>>();
+function itensDoProduto(productId: string): Promise<CatalogItem[] | null> {
+  let p = itensDaRodada.get(productId);
+  if (!p) {
+    p = apiGet<{ results: CatalogItem[] }>(`/products/${productId}/items?limit=50`).then(
+      (page) => page?.results ?? null,
+    );
+    itensDaRodada.set(productId, p);
+  }
+  return p;
+}
+
+interface ProdutoResumo {
+  id: string;
+  name: string;
+  thumbnail: string;
+}
+
+/** Aplica o critério de desconto real a um item; null se não é oferta. */
+function avaliarItem(
+  it: CatalogItem,
+  results: CatalogItem[],
+  produto: ProdutoResumo,
+  opts: Criterio,
+  fonte: string,
+): MlItem | null {
+  const outros = results.filter((o) => o.item_id !== it.item_id).map((o) => o.price);
+  const oficial = Boolean(it.deal_ids?.length);
+  const comum = {
+    id: it.item_id,
+    productId: produto.id,
+    title: produto.name,
+    price: it.price,
+    sellers: results.length,
+    claimedPrice: it.original_price,
+    permalink: itemUrl(it.item_id),
+    thumbnail: produto.thumbnail,
+    shipping: it.shipping,
+    oficial,
+    fonte,
+  };
+
+  if (outros.length >= opts.minSellers) {
+    const media = mediana(outros);
+    const discount = discountOf(it.price, media);
+    if (discount < opts.minDiscount) return null;
+    return { ...comum, discount, base: "media", averagePrice: media };
+  }
+  // Sem vendedores para comparar: só campanha oficial do ML, com o "de" declarado.
+  if (oficial && it.original_price != null && it.original_price > it.price) {
+    const discount = discountOf(it.price, it.original_price);
+    if (discount < opts.minDiscount) return null;
+    return { ...comum, discount, base: "vendedor", averagePrice: null };
+  }
+  return null;
+}
+
 async function bestDeal(
   product: CatalogProduct,
-  opts: Pick<SearchOptions, "minDiscount" | "minSellers">,
+  opts: Criterio,
+  fonte: string,
 ): Promise<MlItem | null> {
-  const page = await apiGet<{ results: CatalogItem[] }>(`/products/${product.id}/items?limit=50`);
-  const results = page?.results;
+  const results = await itensDoProduto(product.id);
   if (!results?.length) return null;
   // A API devolve ordenado por preço crescente; o mais barato alimenta o histórico.
   observarPreco(product.id, results[0].price);
 
-  const avaliar = (it: CatalogItem): MlItem | null => {
-    const outros = results.filter((o) => o.item_id !== it.item_id).map((o) => o.price);
-    const oficial = Boolean(it.deal_ids?.length);
-    const comum = {
-      id: it.item_id,
-      productId: product.id,
-      title: product.name,
-      price: it.price,
-      sellers: results.length,
-      claimedPrice: it.original_price,
-      permalink: itemUrl(it.item_id),
-      thumbnail: product.pictures?.[0]?.url ?? "",
-      shipping: it.shipping,
-      oficial,
-    };
-
-    if (outros.length >= opts.minSellers) {
-      const media = mediana(outros);
-      const discount = discountOf(it.price, media);
-      if (discount < opts.minDiscount) return null;
-      return { ...comum, discount, base: "media", averagePrice: media };
-    }
-    // Sem vendedores para comparar: só campanha oficial do ML, com o "de" declarado.
-    if (oficial && it.original_price != null && it.original_price > it.price) {
-      const discount = discountOf(it.price, it.original_price);
-      if (discount < opts.minDiscount) return null;
-      return { ...comum, discount, base: "vendedor", averagePrice: null };
-    }
-    return null;
+  const produto = {
+    id: product.id,
+    name: product.name,
+    thumbnail: product.pictures?.[0]?.url ?? "",
   };
-
   const cheapest = results[0].price;
   const candidatos = results
     .filter((it) => it.price <= cheapest * CHEAPEST_TOLERANCE)
-    .map(avaliar)
+    .map((it) => avaliarItem(it, results, produto, opts, fonte))
     .filter((c): c is MlItem => c !== null);
   return candidatos.find((c) => c.oficial) ?? candidatos[0] ?? null;
+}
+
+/**
+ * Reavalia uma oferta já publicada no site com os preços de agora. Devolve a
+ * oferta atualizada, ou null se o anúncio sumiu ou já não é desconto real.
+ */
+export async function revalidarOferta(
+  oferta: { productId: string; id: string; title: string; thumbnail: string; fonte: string },
+  opts: Criterio,
+): Promise<MlItem | null> {
+  const results = await itensDoProduto(oferta.productId);
+  if (!results?.length) return null;
+  observarPreco(oferta.productId, results[0].price);
+  const it = results.find((r) => r.item_id === oferta.id);
+  if (!it) return null;
+  const produto = { id: oferta.productId, name: oferta.title, thumbnail: oferta.thumbnail };
+  return avaliarItem(it, results, produto, opts, oferta.fonte);
 }
 
 /** Produtos do catálogo por palavra-chave. */
@@ -290,8 +346,9 @@ export async function searchDeals(opts: SearchOptions): Promise<MlItem[]> {
       ? await productsByQuery(opts.query, limit)
       : [];
 
+  const fonte = opts.category ?? `q:${opts.query}`;
   const deals = await mapLimited(products, (product) =>
-    bestDeal(product, opts).catch((err: Error) => {
+    bestDeal(product, opts, fonte).catch((err: Error) => {
       console.error(`  produto ${product.id}: ${err.message}`);
       return null;
     }),

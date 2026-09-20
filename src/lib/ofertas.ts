@@ -1,8 +1,14 @@
 import { useCallback, useEffect, useState } from "react";
 
+import { linkRastreado } from "@/lib/rastreio";
+
 /** Mesmo formato gravado por scripts/ofertas/run.ts em public/ofertas.json. */
 export interface Oferta {
   id: string;
+  /** produto de catálogo do ML a que o anúncio pertence */
+  productId?: string;
+  /** categoria ou busca que achou a oferta (ex.: MLB1055, q:air fryer) */
+  fonte?: string;
   title: string;
   price: number;
   /** referência do desconto: mediana dos outros vendedores, ou "de" declarado (campanha oficial) */
@@ -85,7 +91,12 @@ export function textoWhatsApp(oferta: Oferta): string {
   if (oferta.lowest30d) linhas.push("📉 Menor preço dos últimos 30 dias");
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
   if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");
-  linhas.push("", `🛒 Comprar: ${oferta.url}`, "", "⚡ Preço pode mudar a qualquer momento.");
+  linhas.push(
+    "",
+    `🛒 Comprar: ${linkRastreado(oferta, "wa")}`,
+    "",
+    "⚡ Preço pode mudar a qualquer momento.",
+  );
   return linhas.join("\n");
 }
 

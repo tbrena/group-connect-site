@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 
 import { brl, linkCompartilharWhatsApp, textoWhatsApp, type Oferta } from "@/lib/ofertas";
+import { linkRastreado } from "@/lib/rastreio";
 
 interface Props {
   oferta: Oferta;
@@ -20,6 +21,7 @@ interface Props {
 export function OfertaCard({ oferta, compartilhar = false }: Props) {
   const [copiado, setCopiado] = useState(false);
   const contraMedia = oferta.base === "media" && oferta.averagePrice != null;
+  const link = linkRastreado(oferta, "site");
 
   async function copiar() {
     try {
@@ -34,7 +36,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-secondary/50 transition-colors hover:border-ninja/40 hover:bg-secondary">
       <a
-        href={oferta.url}
+        href={link}
         target="_blank"
         rel="noopener noreferrer sponsored"
         className="relative block aspect-square bg-white"
@@ -99,7 +101,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
             <span />
           )}
           <a
-            href={oferta.url}
+            href={link}
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="inline-flex items-center gap-1 font-medium text-ninja hover:underline"

@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as MlCallbackRouteImport } from './routes/ml-callback'
 import { Route as PromoRouteImport } from './routes/promo'
+import { Route as IrIdRouteImport } from './routes/ir.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -28,35 +29,44 @@ const PromoRoute = PromoRouteImport.update({
   path: '/promo',
   getParentRoute: () => rootRouteImport,
 } as any)
+const IrIdRoute = IrIdRouteImport.update({
+  id: '/ir/$id',
+  path: '/ir/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
+  '/ir/$id': typeof IrIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
+  '/ir/$id': typeof IrIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/ml-callback': typeof MlCallbackRoute
   '/promo': typeof PromoRoute
+  '/ir/$id': typeof IrIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/ml-callback' | '/promo'
+  fullPaths: '/' | '/ml-callback' | '/promo' | '/ir/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/ml-callback' | '/promo'
-  id: '__root__' | '/' | '/ml-callback' | '/promo'
+  to: '/' | '/ml-callback' | '/promo' | '/ir/$id'
+  id: '__root__' | '/' | '/ml-callback' | '/promo' | '/ir/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   MlCallbackRoute: typeof MlCallbackRoute
   PromoRoute: typeof PromoRoute
+  IrIdRoute: typeof IrIdRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -82,6 +92,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PromoRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/ir/$id': {
+      id: '/ir/$id'
+      path: '/ir/$id'
+      fullPath: '/ir/$id'
+      preLoaderRoute: typeof IrIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -89,6 +106,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   MlCallbackRoute: MlCallbackRoute,
   PromoRoute: PromoRoute,
+  IrIdRoute: IrIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
