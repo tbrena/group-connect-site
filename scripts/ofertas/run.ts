@@ -11,6 +11,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { affiliateLink } from "./afiliado.ts";
+import { carregarCacheProdutos, salvarCacheProdutos } from "./cache-produtos.ts";
 import {
   carregarHistorico,
   diasDeHistorico,
@@ -18,7 +19,7 @@ import {
   salvarHistorico,
   tamanhoHistorico,
 } from "./historico.ts";
-import { searchDeals, type MlItem } from "./ml-client.ts";
+import { estatisticas, searchDeals, type MlItem } from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { escapeHtml, sendPhoto } from "./telegram.ts";
 
@@ -143,6 +144,7 @@ async function main() {
   const published = await readJson<Record<string, number>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
   await carregarHistorico();
+  await carregarCacheProdutos();
   const now = Date.now();
 
   // 1. Coleta candidatos de todas as buscas, sem repetir item.
@@ -173,7 +175,10 @@ async function main() {
   const picked = candidates.slice(0, config.maxPerRun);
   const hist = tamanhoHistorico();
   console.log(
-    `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""} · histórico: ${hist.produtos} produtos, ${hist.observacoes} observações\n`,
+    `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""} · histórico: ${hist.produtos} produtos, ${hist.observacoes} observações`,
+  );
+  console.log(
+    `API ML: ${estatisticas.requisicoes} requisições · ${estatisticas.cache} produtos do cache · ${estatisticas.repeticoes} repetições por 429/5xx\n`,
   );
 
   // 3. Publica.
@@ -225,6 +230,7 @@ async function main() {
     await fs.writeFile(STATE_FILE, JSON.stringify(published, null, 2));
   }
   await salvarHistorico();
+  await salvarCacheProdutos();
   await fs.writeFile(SITE_FILE, JSON.stringify(site, null, 2));
   console.log(`Site atualizado (${site.length} ofertas): ${SITE_FILE}`);
 }

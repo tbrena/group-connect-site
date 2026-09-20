@@ -15,6 +15,7 @@
  */
 import fs from "node:fs/promises";
 import path from "node:path";
+import { guardarProduto, produtoCacheado } from "./cache-produtos.ts";
 import { env } from "./env.ts";
 import { observarPreco } from "./historico.ts";
 
@@ -73,14 +74,36 @@ export async function getAccessToken(): Promise<string> {
   return (await requestToken()).access_token;
 }
 
-/** GET autenticado. 404 vira `null` (ex.: produto de catálogo sem vendedor ativo). */
+/** Contadores da rodada, para o log mostrar o peso na API. */
+export const estatisticas = { requisicoes: 0, cache: 0, repeticoes: 0 };
+
+const MAX_TENTATIVAS = 4;
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+
+/**
+ * GET autenticado. 404 vira `null` (ex.: produto de catálogo sem vendedor ativo).
+ * Em 429 (limite de requisições) ou 5xx, espera e tenta de novo: respeita o
+ * Retry-After quando vem; senão 2s, 4s, 8s.
+ */
 async function apiGet<T>(pathname: string): Promise<T | null> {
-  const res = await fetch(`${API}${pathname}`, {
-    headers: { authorization: `Bearer ${await getAccessToken()}`, accept: "application/json" },
-  });
-  if (res.status === 404) return null;
-  if (!res.ok) throw new Error(`ML GET ${pathname} → ${res.status}: ${await res.text()}`);
-  return (await res.json()) as T;
+  for (let tentativa = 1; ; tentativa++) {
+    estatisticas.requisicoes++;
+    const res = await fetch(`${API}${pathname}`, {
+      headers: { authorization: `Bearer ${await getAccessToken()}`, accept: "application/json" },
+    });
+    if (res.status === 404) return null;
+    if (res.ok) return (await res.json()) as T;
+
+    const transitorio = res.status === 429 || res.status >= 500;
+    if (!transitorio || tentativa >= MAX_TENTATIVAS) {
+      throw new Error(`ML GET ${pathname} → ${res.status}: ${await res.text()}`);
+    }
+    const retryAfter = Number(res.headers.get("retry-after")) * 1000;
+    const espera = retryAfter > 0 ? retryAfter : 2 ** tentativa * 1000;
+    estatisticas.repeticoes++;
+    console.error(`  ML ${res.status} em ${pathname}; tentando de novo em ${espera / 1000}s`);
+    await sleep(espera);
+  }
 }
 
 /** Roda `fn` sobre `items` com no máximo CONCURRENCY promessas em voo. */
@@ -245,7 +268,16 @@ async function productsByCategory(category: string, limit: number): Promise<Cata
     .filter((c) => c.type === "PRODUCT")
     .slice(0, limit)
     .map((c) => c.id);
-  const products = await mapLimited(ids, (id) => apiGet<CatalogProduct>(`/products/${id}`));
+  const products = await mapLimited(ids, async (id): Promise<CatalogProduct | null> => {
+    const cacheado = produtoCacheado(id);
+    if (cacheado) {
+      estatisticas.cache++;
+      return { id, name: cacheado.name, pictures: [{ url: cacheado.picture }] };
+    }
+    const p = await apiGet<CatalogProduct>(`/products/${id}`);
+    if (p?.pictures?.[0]?.url) guardarProduto(id, p.name, p.pictures[0].url);
+    return p;
+  });
   return products.filter((p): p is CatalogProduct => p !== null);
 }
 

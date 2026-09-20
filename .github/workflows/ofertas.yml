@@ -70,6 +70,7 @@ jobs:
           git add public/ofertas.json
           [ -f .ofertas/publicadas.json ] && git add .ofertas/publicadas.json || true
           [ -f .ofertas/precos.json ] && git add .ofertas/precos.json || true
+          [ -f .ofertas/produtos.json ] && git add .ofertas/produtos.json || true
           if git diff --cached --quiet; then
             echo "Nenhuma oferta nova."
             exit 0
