@@ -20,7 +20,25 @@ export interface DadosMensagem {
   oficial: boolean;
   lowest30d: boolean;
   fonte: string;
+  /** ISO de quando o preço foi conferido; sem isso usa agora */
+  quando?: string | undefined;
 }
+
+/** "20/09 14:32" em Brasília. */
+export function dataHoraBR(iso?: string): string {
+  return new Intl.DateTimeFormat("pt-BR", {
+    timeZone: "America/Sao_Paulo",
+    day: "2-digit",
+    month: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  })
+    .format(iso ? new Date(iso) : new Date())
+    .replace(",", "");
+}
+
+const linhaHora = (d: DadosMensagem) =>
+  `⚡ Preço visto em ${dataHoraBR(d.quando)} — pode mudar a qualquer momento.`;
 
 export interface Botao {
   text: string;
@@ -61,7 +79,7 @@ export function legendaTelegram(d: DadosMensagem): string {
     "",
     `🛒 <a href="${linkRastreado(d, "tg")}">Comprar no Mercado Livre</a>`,
     "",
-    "⚡ Preço pode mudar a qualquer momento.",
+    linhaHora(d),
   ].join("\n");
 }
 
@@ -77,7 +95,7 @@ export function textoWhatsApp(d: DadosMensagem): string {
     "",
     `🛒 Comprar: ${linkRastreado(d, "wa")}`,
     "",
-    "⚡ Preço pode mudar a qualquer momento.",
+    linhaHora(d),
   ]
     .join("\n")
     .replace(/%/g, "％");

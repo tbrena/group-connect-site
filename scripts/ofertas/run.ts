@@ -81,7 +81,10 @@ export interface SiteOffer {
   oficial: boolean;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d: boolean;
+  /** quando entrou no site */
   publishedAt: string;
+  /** última vez que o bot conferiu preço e estoque (revalidação a cada rodada) */
+  checkedAt: string;
 }
 
 const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
@@ -121,6 +124,7 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     oficial: item.oficial,
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
     publishedAt: new Date(now).toISOString(),
+    checkedAt: new Date(now).toISOString(),
   };
 }
 
@@ -130,6 +134,7 @@ function dadosDe(item: MlItem): DadosMensagem {
     ...item,
     freeShipping: Boolean(item.shipping?.free_shipping),
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
+    quando: new Date().toISOString(),
   };
 }
 

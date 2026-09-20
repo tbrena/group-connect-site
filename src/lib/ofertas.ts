@@ -29,7 +29,35 @@ export interface Oferta {
   oficial?: boolean;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d?: boolean;
+  /** quando entrou no site */
   publishedAt: string;
+  /** última vez que o bot conferiu preço e estoque; ausente em JSONs antigos */
+  checkedAt?: string;
+}
+
+/** Quando o preço foi conferido (cai para publishedAt nos JSONs antigos). */
+export const conferidaEm = (o: Oferta) => o.checkedAt ?? o.publishedAt;
+
+const fmtBR = (opts: Intl.DateTimeFormatOptions) =>
+  new Intl.DateTimeFormat("pt-BR", { timeZone: "America/Sao_Paulo", ...opts });
+
+/** "20/09 14:32" em Brasília. */
+export function dataHoraBR(iso: string): string {
+  return fmtBR({ day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" })
+    .format(new Date(iso))
+    .replace(",", "");
+}
+
+/** "hoje 14:32", "ontem 09:10" ou "18/09 22:05". */
+export function quandoBR(iso: string): string {
+  const dia = (d: Date) => fmtBR({ year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
+  const alvo = new Date(iso);
+  const hoje = new Date();
+  const ontem = new Date(hoje.getTime() - 86_400_000);
+  const hora = fmtBR({ hour: "2-digit", minute: "2-digit" }).format(alvo);
+  if (dia(alvo) === dia(hoje)) return `hoje ${hora}`;
+  if (dia(alvo) === dia(ontem)) return `ontem ${hora}`;
+  return dataHoraBR(iso);
 }
 
 /** Repositório e workflow que o botão "Puxar novas ofertas" dispara em produção. */
@@ -118,7 +146,7 @@ export function textoWhatsApp(oferta: Oferta): string {
     "",
     `🛒 Comprar: ${linkRastreado(oferta, "wa")}`,
     "",
-    "⚡ Preço pode mudar a qualquer momento.",
+    `⚡ Preço visto em ${dataHoraBR(conferidaEm(oferta))} — pode mudar a qualquer momento.`,
   );
   // "％" (porcento largo) no lugar de "%": o wa.me decodifica a URL mais de uma
   // vez em alguns aparelhos e o "%" comum, que é o escape de URL, chega errado.

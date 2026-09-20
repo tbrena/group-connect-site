@@ -2,6 +2,7 @@ import { useState } from "react";
 import {
   BadgeCheck,
   Check,
+  Clock,
   Copy,
   ExternalLink,
   MessageCircle,
@@ -9,7 +10,15 @@ import {
   Truck,
 } from "lucide-react";
 
-import { brl, linkCompartilharWhatsApp, textoWhatsApp, type Oferta } from "@/lib/ofertas";
+import {
+  brl,
+  conferidaEm,
+  dataHoraBR,
+  linkCompartilharWhatsApp,
+  quandoBR,
+  textoWhatsApp,
+  type Oferta,
+} from "@/lib/ofertas";
 import { linkRastreado } from "@/lib/rastreio";
 
 interface Props {
@@ -101,6 +110,13 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
             </p>
           )}
         </div>
+
+        <p
+          className="mt-1.5 inline-flex items-center gap-1 text-[11px] text-muted-foreground"
+          title={`Preço conferido pelo bot em ${dataHoraBR(conferidaEm(oferta))} (horário de Brasília)`}
+        >
+          <Clock className="h-3 w-3" /> conferido {quandoBR(conferidaEm(oferta))}
+        </p>
 
         <div className="mt-auto flex items-center justify-between pt-3 text-[11px] text-muted-foreground">
           {oferta.freeShipping ? (

@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
-import { assinaturaOfertas, useOfertas } from "@/lib/ofertas";
+import { assinaturaOfertas, conferidaEm, quandoBR, useOfertas } from "@/lib/ofertas";
 import { SITE_NAME, SITE_URL, WHATSAPP_GROUP_URL, absoluteUrl } from "@/lib/site";
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
@@ -70,6 +70,12 @@ function Promo() {
     ? ofertas.filter((o) => (o.categoria ?? SEM_CATEGORIA) === categoria)
     : ofertas;
 
+  // Conferência mais recente entre as ofertas: é a "hora da última rodada" do bot.
+  const atualizadoEm = ofertas.reduce<string | null>((max, o) => {
+    const q = conferidaEm(o);
+    return !max || q > max ? q : max;
+  }, null);
+
   return (
     <main className="relative flex min-h-screen flex-col overflow-hidden bg-background text-foreground">
       {/* Ambient grid */}
@@ -116,6 +122,11 @@ function Promo() {
               ? `${ofertas.length} ofertas do Mercado Livre com desconto de verdade. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
               : "Estamos garimpando as ofertas de hoje. Volte daqui a pouco!"}
           </p>
+          {atualizadoEm && (
+            <p className="mt-3 text-center text-xs text-muted-foreground">
+              Preços conferidos {quandoBR(atualizadoEm)} (horário de Brasília)
+            </p>
+          )}
 
           <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
 

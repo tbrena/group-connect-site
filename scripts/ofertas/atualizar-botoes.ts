@@ -27,6 +27,7 @@ for (const [id, p] of Object.entries(publicadas)) {
   const dados: DadosMensagem = {
     ...o,
     claimedPrice: o.base === "vendedor" ? o.originalPrice : null,
+    quando: o.checkedAt ?? o.publishedAt,
   };
   try {
     await editarBotoes(msg, botoes(dados));
