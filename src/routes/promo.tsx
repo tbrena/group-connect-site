@@ -1,10 +1,17 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
-import { ArrowLeft, MessageCircle } from "lucide-react";
+import { ArrowLeft, MessageCircle, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
-import { assinaturaOfertas, conferidaEm, ehNova, quandoBR, useOfertas } from "@/lib/ofertas";
+import {
+  assinaturaOfertas,
+  conferidaEm,
+  ehNova,
+  quandoBR,
+  useOfertas,
+  type Oferta,
+} from "@/lib/ofertas";
 import { SITE_NAME, SITE_URL, WHATSAPP_GROUP_URL, absoluteUrl } from "@/lib/site";
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
@@ -26,6 +33,17 @@ export const Route = createFileRoute("/promo")({
 });
 
 const SEM_CATEGORIA = "Outros";
+
+type Ordem = "destaques" | "desconto" | "preco" | "novas";
+const ORDENS: Array<[Ordem, string]> = [
+  ["destaques", "Destaques"],
+  ["desconto", "🔥 Maior desconto"],
+  ["preco", "Menor preço"],
+  ["novas", "Mais recentes"],
+];
+
+/** Busca sem acento e sem maiúscula: "cafe" acha "Cafeteira Nespresso". */
+const normalizar = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
 function Chip({
   ativo,
@@ -68,19 +86,36 @@ function Promo() {
 
   const [soLojaOficial, setSoLojaOficial] = useState(false);
   const [soNovas, setSoNovas] = useState(false);
+  const [busca, setBusca] = useState("");
+  const [ordem, setOrdem] = useState<Ordem>("destaques");
   const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
   const totalNovas = ofertas.filter((o) => ehNova(o)).length;
 
+  const termo = normalizar(busca.trim());
   const filtradas = ofertas.filter(
     (o) =>
       (!categoria || (o.categoria ?? SEM_CATEGORIA) === categoria) &&
       (!soLojaOficial || o.lojaOficial) &&
-      (!soNovas || ehNova(o)),
+      (!soNovas || ehNova(o)) &&
+      (!termo || normalizar(`${o.title} ${o.loja ?? ""} ${o.categoria ?? ""}`).includes(termo)),
   );
-  // Na aba Novas a ordem é de chegada (mais recente primeiro); nas outras, a do bot (maior desconto).
-  const visiveis = soNovas
-    ? [...filtradas].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-    : filtradas;
+  // "destaques" é a ordem do bot (campanha oficial primeiro, depois maior desconto real).
+  const ordenar: Record<Ordem, ((a: Oferta, b: Oferta) => number) | null> = {
+    destaques: null,
+    desconto: (a, b) => b.discount - a.discount || a.price - b.price,
+    preco: (a, b) => a.price - b.price,
+    novas: (a, b) => b.publishedAt.localeCompare(a.publishedAt),
+  };
+  const comparador = ordenar[ordem];
+  const visiveis = comparador ? [...filtradas].sort(comparador) : filtradas;
+
+  /** Ligar a aba Novas passa a ordenar por chegada, a menos que a pessoa já tenha escolhido outra ordem. */
+  function alternarNovas() {
+    const ligar = !soNovas;
+    setSoNovas(ligar);
+    if (ligar && ordem === "destaques") setOrdem("novas");
+    if (!ligar && ordem === "novas") setOrdem("destaques");
+  }
 
   // Conferência mais recente entre as ofertas: é a "hora da última rodada" do bot.
   const atualizadoEm = ofertas.reduce<string | null>((max, o) => {
@@ -142,6 +177,51 @@ function Promo() {
 
           <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
 
+          {ofertas.length > 0 && (
+            <div className="mt-10 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+              {/* Busca */}
+              <label className="relative flex-1">
+                <Search
+                  className="pointer-events-none absolute top-1/2 left-4 h-4 w-4 -translate-y-1/2 text-muted-foreground"
+                  aria-hidden
+                />
+                <input
+                  type="search"
+                  value={busca}
+                  onChange={(e) => setBusca(e.target.value)}
+                  placeholder="Buscar produto, marca, loja ou categoria…"
+                  aria-label="Buscar ofertas"
+                  autoComplete="off"
+                  className="w-full rounded-full border border-border bg-secondary/50 py-2.5 pr-10 pl-11 text-sm text-foreground placeholder:text-muted-foreground focus:border-ninja/60 focus:outline-none"
+                />
+                {busca && (
+                  <button
+                    type="button"
+                    onClick={() => setBusca("")}
+                    aria-label="Limpar busca"
+                    className="absolute top-1/2 right-3 -translate-y-1/2 rounded-full p-1 text-muted-foreground hover:text-foreground"
+                  >
+                    <X className="h-4 w-4" />
+                  </button>
+                )}
+              </label>
+
+              {/* Ordenação */}
+              <div
+                role="group"
+                aria-label="Ordenar por"
+                className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground"
+              >
+                <span className="mr-1">Ordenar:</span>
+                {ORDENS.map(([valor, rotulo]) => (
+                  <Chip key={valor} ativo={ordem === valor} onClick={() => setOrdem(valor)}>
+                    {rotulo}
+                  </Chip>
+                ))}
+              </div>
+            </div>
+          )}
+
           {categorias.length > 1 && (
             <nav
               aria-label="Filtrar por categoria"
@@ -151,7 +231,7 @@ function Promo() {
                 Todas ({ofertas.length})
               </Chip>
               {totalNovas > 0 && (
-                <Chip ativo={soNovas} onClick={() => setSoNovas(!soNovas)}>
+                <Chip ativo={soNovas} onClick={alternarNovas}>
                   🆕 Novas ({totalNovas})
                 </Chip>
               )}
@@ -170,6 +250,14 @@ function Promo() {
                 </Chip>
               )}
             </nav>
+          )}
+
+          {termo && (
+            <p className="mt-6 text-center text-sm text-muted-foreground">
+              {visiveis.length === 0
+                ? `Nada encontrado para “${busca.trim()}”.`
+                : `${visiveis.length} ${visiveis.length === 1 ? "oferta" : "ofertas"} para “${busca.trim()}”`}
+            </p>
           )}
 
           {visiveis.length > 0 && (
