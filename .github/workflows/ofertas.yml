@@ -2,9 +2,9 @@
 # O Lovable sincroniza a main e publica o site sozinho.
 #
 # - A cada hora (schedule): busca ofertas, posta no Telegram (se configurado) e atualiza o site.
-# - Sob demanda (workflow_dispatch): disparado pelo botão "Puxar novas ofertas" em /promo
-#   ou manualmente na aba Actions. Por padrão só atualiza o site, para ninguém
-#   conseguir lotar o canal do Telegram clicando no botão.
+# - Sob demanda (workflow_dispatch): pelo botão "Puxar novas ofertas" em /promo (que abre
+#   esta página no GitHub) ou pela aba Actions. Só quem tem acesso ao repositório dispara,
+#   então por padrão também posta no Telegram; desmarque a opção para atualizar só o site.
 #
 # Segredos necessários (Settings → Secrets and variables → Actions):
 #   ML_CLIENT_ID, ML_CLIENT_SECRET, ML_AFFILIATE_WORD, ML_AFFILIATE_TOOL
@@ -19,9 +19,11 @@ on:
   workflow_dispatch:
     inputs:
       telegram:
+        # Só quem tem acesso ao repositório consegue disparar (o botão do site abre esta
+        # página do GitHub), então não há risco de visitante lotar o canal: padrão ligado.
         description: "Publicar também no Telegram"
         type: boolean
-        default: false
+        default: true
 
 # Uma execução por vez; a próxima espera na fila em vez de rodar em paralelo.
 concurrency:
