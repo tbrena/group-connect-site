@@ -54,15 +54,17 @@ interface Config {
   /** quantas ofertas ficam em public/ofertas.json (home mostra 6, /promo mostra todas) */
   siteMax: number;
   minPrice: number;
-  buscas: Array<{ query?: string; category?: string }>;
+  buscas: Array<{ query?: string; category?: string; categoria?: string }>;
 }
 
 /** Oferta como vai para o site (public/ofertas.json). */
 export interface SiteOffer {
   id: string;
   productId: string;
-  /** categoria ou busca que achou a oferta */
+  /** categoria ou busca que achou a oferta (id/termo, uso interno) */
   fonte: string;
+  /** nome da categoria mostrado no site (do config.json) */
+  categoria: string;
   title: string;
   price: number;
   /** preço de referência do desconto: a mediana dos outros vendedores, ou o "de" declarado (campanha oficial) */
@@ -96,11 +98,16 @@ function referencia(item: MlItem): number {
   return item.base === "media" ? item.averagePrice! : item.claimedPrice!;
 }
 
+/** fonte (MLB1055 ou "q:air fryer") → nome da categoria configurado em config.json. */
+let categorias = new Map<string, string>();
+const categoriaDe = (fonte: string) => categorias.get(fonte) ?? "Outros";
+
 function toSiteOffer(item: MlItem, now: number): SiteOffer {
   return {
     id: item.id,
     productId: item.productId,
     fonte: item.fonte,
+    categoria: categoriaDe(item.fonte),
     title: item.title,
     price: item.price,
     originalPrice: referencia(item),
@@ -136,6 +143,9 @@ async function main() {
     minPrice: 0,
     buscas: [],
   });
+  categorias = new Map(
+    config.buscas.map((b) => [b.category ?? `q:${b.query}`, b.categoria ?? "Outros"] as const),
+  );
   const published = await readJson<Record<string, Publicada>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
   await carregarHistorico();

@@ -1,5 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { ArrowLeft, MessageCircle } from "lucide-react";
+import { useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
@@ -24,8 +25,50 @@ export const Route = createFileRoute("/promo")({
   }),
 });
 
+const SEM_CATEGORIA = "Outros";
+
+function Chip({
+  ativo,
+  onClick,
+  children,
+}: {
+  ativo: boolean;
+  onClick: () => void;
+  children: React.ReactNode;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      aria-pressed={ativo}
+      className={`rounded-full border px-3 py-1.5 text-xs font-semibold transition-colors ${
+        ativo
+          ? "border-ninja bg-ninja text-ninja-foreground"
+          : "border-border bg-secondary/50 text-muted-foreground hover:border-ninja/40 hover:text-foreground"
+      }`}
+    >
+      {children}
+    </button>
+  );
+}
+
 function Promo() {
   const { ofertas, recarregar } = useOfertas();
+  const [categoria, setCategoria] = useState<string | null>(null);
+
+  // Nome → quantidade, da maior para a menor; ofertas antigas sem categoria caem em "Outros".
+  const categorias = useMemo(() => {
+    const contagem = new Map<string, number>();
+    for (const o of ofertas) {
+      const nome = o.categoria ?? SEM_CATEGORIA;
+      contagem.set(nome, (contagem.get(nome) ?? 0) + 1);
+    }
+    return [...contagem.entries()].sort((a, b) => b[1] - a[1]);
+  }, [ofertas]);
+
+  const visiveis = categoria
+    ? ofertas.filter((o) => (o.categoria ?? SEM_CATEGORIA) === categoria)
+    : ofertas;
 
   return (
     <main className="relative flex min-h-screen flex-col overflow-hidden bg-background text-foreground">
@@ -76,9 +119,29 @@ function Promo() {
 
           <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
 
-          {ofertas.length > 0 && (
-            <ul className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-              {ofertas.map((oferta) => (
+          {categorias.length > 1 && (
+            <nav
+              aria-label="Filtrar por categoria"
+              className="mt-10 flex flex-wrap justify-center gap-2"
+            >
+              <Chip ativo={categoria === null} onClick={() => setCategoria(null)}>
+                Todas ({ofertas.length})
+              </Chip>
+              {categorias.map(([nome, qtd]) => (
+                <Chip
+                  key={nome}
+                  ativo={categoria === nome}
+                  onClick={() => setCategoria(categoria === nome ? null : nome)}
+                >
+                  {nome} ({qtd})
+                </Chip>
+              ))}
+            </nav>
+          )}
+
+          {visiveis.length > 0 && (
+            <ul className="mt-8 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-4">
+              {visiveis.map((oferta) => (
                 <li key={oferta.id}>
                   <OfertaCard oferta={oferta} compartilhar />
                 </li>

@@ -10,6 +10,8 @@ export interface Oferta {
   productId?: string;
   /** categoria ou busca que achou a oferta (ex.: MLB1055, q:air fryer) */
   fonte?: string;
+  /** nome da categoria mostrado no site; ausente em JSONs antigos */
+  categoria?: string;
   title: string;
   price: number;
   /** referência do desconto: mediana dos outros vendedores, ou "de" declarado (campanha oficial) */

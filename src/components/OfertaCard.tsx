@@ -35,17 +35,18 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
 
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-secondary/50 transition-colors hover:border-ninja/40 hover:bg-secondary">
+      {/* Área da foto com altura fixa: todos os cards iguais, independente da imagem. */}
       <a
         href={link}
         target="_blank"
         rel="noopener noreferrer sponsored"
-        className="relative block aspect-square bg-white"
+        className="relative block h-36 bg-white sm:h-40"
       >
         <img
           src={oferta.image}
           alt={oferta.title}
           loading="lazy"
-          className="h-full w-full object-contain p-4"
+          className="h-full w-full object-contain p-3"
         />
         <span
           title={
@@ -53,46 +54,55 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
               ? "Abaixo do preço médio dos outros vendedores do Mercado Livre"
               : "Desconto sobre o preço declarado pelo vendedor"
           }
-          className="absolute top-3 left-3 rounded-full bg-ninja px-3 py-1 text-xs font-bold text-ninja-foreground"
+          className="absolute top-2 left-2 rounded-full bg-ninja px-2 py-0.5 text-[11px] font-bold text-ninja-foreground"
         >
-          {contraMedia ? `−${oferta.discount}% vs. média` : `${oferta.discount}% OFF`}
+          {contraMedia ? `−${oferta.discount}%` : `${oferta.discount}% OFF`}
         </span>
-        <span className="absolute top-3 right-3 flex flex-col items-end gap-1">
+        <span className="absolute top-2 right-2 flex flex-col items-end gap-1">
           {oferta.lowest30d && (
             <span
               title="Menor preço que o bot observou nos últimos 30 dias"
-              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
+              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2 py-0.5 text-[10px] font-semibold text-ninja"
             >
-              <TrendingDown className="h-3.5 w-3.5" /> Menor em 30 dias
+              <TrendingDown className="h-3 w-3" /> Menor em 30d
             </span>
           )}
           {oferta.oficial && (
             <span
               title="Desconto de campanha oficial do Mercado Livre"
-              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2.5 py-1 text-[11px] font-semibold text-ninja"
+              className="inline-flex items-center gap-1 rounded-full bg-ninja-foreground/90 px-2 py-0.5 text-[10px] font-semibold text-ninja"
             >
-              <BadgeCheck className="h-3.5 w-3.5" /> Oficial ML
+              <BadgeCheck className="h-3 w-3" /> Oficial ML
             </span>
           )}
         </span>
       </a>
 
-      <div className="flex flex-1 flex-col p-4">
-        <h3 className="line-clamp-2 text-sm font-semibold text-foreground">{oferta.title}</h3>
-        <div className="mt-3">
-          <span className="text-lg font-extrabold text-ninja">{brl(oferta.price)}</span>
+      <div className="flex flex-1 flex-col p-3">
+        {oferta.categoria && (
+          <p className="mb-1 text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
+            {oferta.categoria}
+          </p>
+        )}
+        <h3 className="line-clamp-2 text-xs font-semibold text-foreground sm:text-sm">
+          {oferta.title}
+        </h3>
+        <div className="mt-2">
+          <span className="text-base font-extrabold text-ninja sm:text-lg">
+            {brl(oferta.price)}
+          </span>
           {contraMedia ? (
-            <p className="mt-0.5 text-xs text-muted-foreground">
-              Preço médio no ML: {brl(oferta.averagePrice!)} · {oferta.sellers} vendedores
+            <p className="mt-0.5 text-[11px] text-muted-foreground">
+              média {brl(oferta.averagePrice!)} · {oferta.sellers} vendedores
             </p>
           ) : (
-            <p className="mt-0.5 text-xs text-muted-foreground">
+            <p className="mt-0.5 text-[11px] text-muted-foreground">
               De <span className="line-through">{brl(oferta.originalPrice)}</span>
             </p>
           )}
         </div>
 
-        <div className="mt-auto flex items-center justify-between pt-4 text-xs text-muted-foreground">
+        <div className="mt-auto flex items-center justify-between pt-3 text-[11px] text-muted-foreground">
           {oferta.freeShipping ? (
             <span className="inline-flex items-center gap-1">
               <Truck className="h-3.5 w-3.5" /> Frete grátis

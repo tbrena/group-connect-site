@@ -1,5 +1,5 @@
 {
-  "_comentario": "Buscas a cada execucao: query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json.",
+  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json.",
   "minDiscount": 15,
   "maxDiscount": 70,
   "minSellers": 3,
@@ -9,48 +9,51 @@
   "buscas": [
     {
       "category": "MLB1055",
-      "_": "Celulares e Smartphones"
+      "categoria": "Celulares"
     },
     {
       "category": "MLB1648",
-      "_": "Informatica"
+      "categoria": "Informática"
     },
     {
       "category": "MLB1000",
-      "_": "Eletronicos, Audio e Video"
+      "categoria": "Eletrônicos"
     },
     {
       "category": "MLB5726",
-      "_": "Eletrodomesticos"
+      "categoria": "Eletrodomésticos"
     },
     {
       "category": "MLB1574",
-      "_": "Casa, Moveis e Decoracao"
+      "categoria": "Casa e Decoração"
     },
     {
       "category": "MLB1430",
-      "_": "Calcados, Roupas e Bolsas"
+      "categoria": "Moda e Calçados"
     },
     {
       "category": "MLB1276",
-      "_": "Esportes e Fitness"
+      "categoria": "Esportes"
     },
     {
       "category": "MLB1246",
-      "_": "Beleza e Cuidado Pessoal"
+      "categoria": "Beleza"
     },
     {
       "category": "MLB1132",
-      "_": "Brinquedos e Hobbies"
+      "categoria": "Brinquedos"
     },
     {
-      "query": "air fryer"
+      "query": "air fryer",
+      "categoria": "Eletrodomésticos"
     },
     {
-      "query": "fone bluetooth"
+      "query": "fone bluetooth",
+      "categoria": "Eletrônicos"
     },
     {
-      "query": "smart tv"
+      "query": "smart tv",
+      "categoria": "Eletrônicos"
     }
   ]
 }
