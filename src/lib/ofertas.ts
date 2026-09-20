@@ -34,6 +34,33 @@ export const GITHUB_REPO = "tbrena/group-connect-site";
 export const OFERTAS_WORKFLOW = "ofertas.yml";
 export const ACTIONS_URL = `https://github.com/${GITHUB_REPO}/actions/workflows/${OFERTAS_WORKFLOW}`;
 
+/**
+ * Em produção o JSON vem do repositório público de dados: o bot (GitHub
+ * Actions) empurra public/ofertas.json para lá a cada rodada e o site reflete
+ * em minutos, sem republicar no Lovable — que só é preciso quando o CÓDIGO
+ * muda. O arquivo local fica como fallback (e é o que o dev usa).
+ */
+const FONTES_OFERTAS = import.meta.env.PROD
+  ? [
+      "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/ofertas.json",
+      "/ofertas.json",
+    ]
+  : ["/ofertas.json"];
+
+async function buscarOfertas(): Promise<Oferta[]> {
+  for (const fonte of FONTES_OFERTAS) {
+    try {
+      const r = await fetch(`${fonte}?v=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) continue;
+      const data: unknown = await r.json();
+      if (Array.isArray(data) && data.length > 0) return data as Oferta[];
+    } catch {
+      // tenta a próxima fonte
+    }
+  }
+  return [];
+}
+
 export const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 
 /**
@@ -48,11 +75,7 @@ export function useOfertas() {
   const recarregar = useCallback(async () => {
     setCarregando(true);
     try {
-      const r = await fetch(`/ofertas.json?v=${Date.now()}`, { cache: "no-store" });
-      const data: unknown = r.ok ? await r.json() : [];
-      setOfertas(Array.isArray(data) ? (data as Oferta[]) : []);
-    } catch {
-      setOfertas([]);
+      setOfertas(await buscarOfertas());
     } finally {
       setCarregando(false);
     }

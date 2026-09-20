@@ -32,6 +32,9 @@ permissions:
 jobs:
   ofertas:
     runs-on: ubuntu-latest
+    env:
+      # true quando o segredo existe (o contexto secrets não pode ir direto num `if`)
+      TEM_DADOS: ${{ secrets.DADOS_DEPLOY_KEY != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -62,6 +65,28 @@ jobs:
           else
             npm run ofertas -- --so-site
           fi
+
+      # O site publicado lê o ofertas.json do repositório público tbrena/preco-ninja-dados
+      # (o repo do código é privado e o Lovable só republica o site quando o código muda).
+      - name: Publicar ofertas.json no repositório de dados
+        if: env.TEM_DADOS == 'true'
+        env:
+          DADOS_DEPLOY_KEY: ${{ secrets.DADOS_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$DADOS_DEPLOY_KEY" > ~/.ssh/dados
+          chmod 600 ~/.ssh/dados
+          ssh-keyscan -H github.com >> ~/.ssh/known_hosts 2>/dev/null
+          export GIT_SSH_COMMAND="ssh -i ~/.ssh/dados -o IdentitiesOnly=yes"
+          git clone -q --depth 1 git@github.com:tbrena/preco-ninja-dados.git /tmp/dados
+          cp public/ofertas.json /tmp/dados/ofertas.json
+          cd /tmp/dados
+          git config user.name "preco-ninja-bot"
+          git config user.email "bot@ofertaninja.online"
+          git add ofertas.json
+          if git diff --cached --quiet; then echo "Sem mudanças no site."; exit 0; fi
+          git commit -q -m "ofertas: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push -q
 
       - name: Publicar no site (commit)
         run: |
