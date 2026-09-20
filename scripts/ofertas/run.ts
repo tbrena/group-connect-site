@@ -36,6 +36,13 @@ const DRY = process.argv.includes("--dry");
 const MAX_ARG = Number(process.argv.find((a) => a.startsWith("--max="))?.slice(6)) || 0;
 /** Só o site: não posta no Telegram nem marca como publicada (útil para pré-visualizar). */
 const SITE_ONLY = process.argv.includes("--so-site");
+/** --forcar: posta no Telegram mesmo que a última postagem tenha sido há pouco (disparo manual). */
+const FORCAR = process.argv.includes("--forcar");
+/**
+ * O Actions tenta duas vezes por hora (o agendador do GitHub descarta execuções em
+ * pico). Quando as duas rodam, só a primeira posta no Telegram; a outra atualiza o site.
+ */
+const MIN_INTERVALO_POSTS_MS = 45 * 60_000;
 const STATE_FILE = path.resolve(".ofertas/publicadas.json");
 const SITE_FILE = path.resolve("public/ofertas.json");
 const CONFIG_FILE = path.resolve("scripts/ofertas/config.json");
@@ -270,7 +277,16 @@ async function main() {
     `API ML: ${estatisticas.requisicoes} requisições · ${estatisticas.cache} produtos do cache · ${estatisticas.repeticoes} repetições por 429/5xx\n`,
   );
 
-  // 3. Publica.
+  // 3. Publica — a menos que a última postagem tenha sido há pouco (segundo horário da hora).
+  const ultimaPostagem = Math.max(0, ...Object.values(published).map((p) => tsDe(p) ?? 0));
+  const minutosDesdeUltima = Math.round((now - ultimaPostagem) / 60_000);
+  const pularTelegram =
+    !DRY && !SITE_ONLY && !FORCAR && now - ultimaPostagem < MIN_INTERVALO_POSTS_MS;
+  if (pularTelegram) {
+    console.log(
+      `Telegram pulado nesta rodada: última postagem há ${minutosDesdeUltima} min (mínimo ${MIN_INTERVALO_POSTS_MS / 60_000}). Site será atualizado.\n`,
+    );
+  }
   for (const item of picked) {
     const link = linkRastreado(item, "tg");
     const dados = dadosDe(item);
@@ -287,7 +303,7 @@ async function main() {
     );
     if (DRY) continue;
 
-    if (SITE_ONLY) continue;
+    if (SITE_ONLY || pularTelegram) continue;
 
     // Foto com a faixa da marca; se a montagem falhar, vai a foto original.
     const foto = await imagemDaOferta({

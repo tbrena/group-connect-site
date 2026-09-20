@@ -14,8 +14,11 @@ name: Ofertas
 
 on:
   schedule:
-    # Minuto 17: o minuto 0 é o mais disputado do GitHub e as rodadas atrasavam/pulavam.
-    - cron: "17 * * * *"
+    # Dois horários por hora porque o agendador do GitHub é "melhor esforço": em pico ele
+    # atrasa ou descarta execuções. Se um cair, o outro cobre; se os dois rodarem, o bot só
+    # posta no Telegram quando a última postagem foi há mais de 45 min (o resto atualiza o site).
+    # Minutos fora do 0, que é o mais disputado.
+    - cron: "17,47 * * * *"
   workflow_dispatch:
     inputs:
       telegram:
@@ -67,7 +70,13 @@ jobs:
             exit 0
           fi
           if [ "$COM_TELEGRAM" = "true" ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
-            npm run ofertas
+            # Disparo manual sempre posta; o agendado respeita o intervalo mínimo entre posts
+            # (dois horários por hora podem rodar ambos).
+            if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+              npm run ofertas -- --forcar
+            else
+              npm run ofertas
+            fi
           else
             npm run ofertas -- --so-site
           fi
