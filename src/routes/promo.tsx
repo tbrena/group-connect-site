@@ -1,6 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { ArrowLeft, MessageCircle, Search, X } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
 import { OfertaCard } from "@/components/OfertaCard";
@@ -87,6 +87,10 @@ function Promo() {
   const [soLojaOficial, setSoLojaOficial] = useState(false);
   const [soNovas, setSoNovas] = useState(false);
   const [busca, setBusca] = useState("");
+  // Só no PC do dono (localhost): o preview do Lovable também roda em modo dev, mas lá
+  // o botão não funciona (sem .env) e só confunde.
+  const [ehLocalhost, setEhLocalhost] = useState(false);
+  useEffect(() => setEhLocalhost(import.meta.env.DEV && location.hostname === "localhost"), []);
   const [ordem, setOrdem] = useState<Ordem>("destaques");
   const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
   const totalNovas = ofertas.filter((o) => ehNova(o)).length;
@@ -177,7 +181,7 @@ function Promo() {
 
           {/* Ferramenta do dono: só em desenvolvimento. Em produção o bot roda sozinho a cada
               30 min (cron-job.org → GitHub Actions) e o botão só ocupava espaço do visitante. */}
-          {import.meta.env.DEV && (
+          {ehLocalhost && (
             <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
           )}
 
