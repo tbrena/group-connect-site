@@ -4,7 +4,6 @@ import {
   Percent,
   Zap,
   ShoppingCart,
-  ArrowRight,
   Check,
   BellRing,
   Tag,
@@ -169,8 +168,8 @@ function JoinButton({ label, className = "" }: { label: string; className?: stri
       rel="noopener noreferrer"
       className={`group inline-flex items-center gap-2 rounded-full bg-ninja px-8 py-4 text-lg font-bold text-ninja-foreground shadow-[0_0_32px_-4px_var(--color-ninja)] transition-all hover:scale-105 hover:shadow-[0_0_48px_-6px_var(--color-ninja)] focus-visible:ring-2 focus-visible:ring-ninja focus-visible:ring-offset-2 focus-visible:ring-offset-background focus-visible:outline-none ${className}`}
     >
+      <MessageCircle className="h-5 w-5" />
       {label}
-      <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
     </a>
   );
 }
@@ -334,7 +333,7 @@ function Index() {
           </ul>
 
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-            <JoinButton label="Quero economizar agora" />
+            <JoinButton label="Grupo no WhatsApp" />
             <TelegramButton />
           </div>
         </div>
