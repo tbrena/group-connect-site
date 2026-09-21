@@ -17,6 +17,12 @@ export type ResultadoAtualizacao =
 export const atualizarOfertas = createServerFn({ method: "POST" }).handler(
   async (): Promise<ResultadoAtualizacao> => {
     if (import.meta.env.DEV) return rodarLocal();
+    // Em produção o bot roda sozinho (cron-job.org a cada 30 min). Esta função é pública
+    // (qualquer visitante poderia chamá-la); não pode ser um gatilho de posts forçados.
+    return {
+      ok: false,
+      motivo: "atualização manual desativada em produção — o bot roda sozinho a cada 30 min",
+    };
     return dispararWorkflow();
   },
 );

@@ -175,7 +175,11 @@ function Promo() {
             </p>
           )}
 
-          <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
+          {/* Ferramenta do dono: só em desenvolvimento. Em produção o bot roda sozinho a cada
+              30 min (cron-job.org → GitHub Actions) e o botão só ocupava espaço do visitante. */}
+          {import.meta.env.DEV && (
+            <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
+          )}
 
           {ofertas.length > 0 && (
             <div className="mt-10 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
