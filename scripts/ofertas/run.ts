@@ -5,7 +5,8 @@
  *   npm run ofertas -- --dry      # só mostra o que publicaria
  *   npm run ofertas -- --so-site  # atualiza public/ofertas.json sem postar no Telegram
  *
- * Estado em .ofertas/: publicadas.json evita repetir a mesma oferta por 7 dias;
+ * Estado em .ofertas/: publicadas.json guarda o último preço postado de cada produto — só
+ * reposta se o preço caiu ≥5% e passaram 24 h;
  * precos.json acumula o menor preço diário de cada produto (selo "menor preço em 30 dias").
  */
 import fs from "node:fs/promises";
@@ -46,11 +47,42 @@ const MIN_INTERVALO_POSTS_MS = 45 * 60_000;
 const STATE_FILE = path.resolve(".ofertas/publicadas.json");
 const SITE_FILE = path.resolve("public/ofertas.json");
 const CONFIG_FILE = path.resolve("scripts/ofertas/config.json");
-const REPEAT_AFTER_MS = 7 * 24 * 60 * 60 * 1000;
+/** Registro de "já publicada" é guardado por 30 dias (limpeza do arquivo). */
+const REPEAT_AFTER_MS = 30 * 24 * 60 * 60 * 1000;
+/** Um PRODUTO só volta ao canal se o preço caiu pelo menos isto desde o último post… */
+const QUEDA_MINIMA_PARA_REPOSTAR = 0.05;
+/** …e nunca antes de 24 h, mesmo com queda. */
+const INTERVALO_MINIMO_REPOST_MS = 24 * 60 * 60 * 1000;
 
 /** Estado de "já publicada": só o timestamp (formato antigo) ou timestamp + id da mensagem no canal. */
-type Publicada = number | { ts: number; msg?: number };
+type Publicada = number | { ts: number; msg?: number; price?: number; productId?: string };
 const tsDe = (p: Publicada | undefined) => (typeof p === "number" ? p : p?.ts);
+
+/**
+ * Já foi postada (este anúncio OU outro anúncio do mesmo produto) sem que o preço
+ * tenha caído de verdade desde então? "Mesma promoção de novo" é o que mais irrita
+ * quem acompanha o canal: sem queda ≥5% e 24 h passadas, não reposta.
+ */
+function jaPostadaSemQueda(published: Record<string, Publicada>, item: MlItem, now: number) {
+  const registros = Object.entries(published)
+    .map(([id, p]) => ({ id, p }))
+    .filter(
+      ({ id, p }) =>
+        id === item.id || (typeof p === "object" && p.productId && p.productId === item.productId),
+    );
+  for (const { p } of registros) {
+    const ts = tsDe(p) ?? 0;
+    if (now - ts < INTERVALO_MINIMO_REPOST_MS) return true;
+    const precoAnterior = typeof p === "object" ? p.price : undefined;
+    // registro antigo sem preço: mantém a regra velha de 7 dias
+    if (precoAnterior === undefined) {
+      if (now - ts < 7 * 24 * 60 * 60 * 1000) return true;
+      continue;
+    }
+    if (item.price > precoAnterior * (1 - QUEDA_MINIMA_PARA_REPOSTAR)) return true;
+  }
+  return false;
+}
 const PAUSA_ENTRE_POSTS_MS = 3000;
 
 async function salvarPublicadas(published: Record<string, Publicada>): Promise<void> {
@@ -258,8 +290,7 @@ async function main() {
         seen.add(item.id);
         if (item.price < config.minPrice) continue;
         if (item.discount > config.maxDiscount) continue;
-        const antes = tsDe(published[item.id]);
-        if (antes !== undefined && now - antes < REPEAT_AFTER_MS) continue;
+        if (jaPostadaSemQueda(published, item, now)) continue;
         candidates.push(item);
       }
     } catch (err) {
@@ -328,7 +359,12 @@ async function main() {
     // Um post que falha (Telegram fora, foto recusada) não derruba a rodada: loga e segue.
     try {
       const enviada = await sendPhoto(foto, text, botoes(dados));
-      published[item.id] = { ts: now, msg: enviada.result?.message_id };
+      published[item.id] = {
+        ts: now,
+        msg: enviada.result?.message_id,
+        price: item.price,
+        productId: item.productId,
+      };
     } catch (err) {
       console.error(`  post de ${item.id} falhou: ${(err as Error).message}`);
       continue;
