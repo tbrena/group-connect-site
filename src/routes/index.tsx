@@ -188,7 +188,7 @@ function Index() {
           src={LOGO_URL}
           alt={`${SITE_NAME} — grupo de ofertas no WhatsApp`}
           fetchPriority="high"
-          className="h-16 w-auto drop-shadow-[0_0_18px_rgba(57,255,20,0.35)]"
+          className="h-24 w-auto sm:h-28 md:h-32"
         />
         <p className="text-xs font-medium tracking-[0.2em] text-muted-foreground uppercase">
           ofertaninja.online

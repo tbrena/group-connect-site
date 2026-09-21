@@ -48,7 +48,7 @@ function Promo() {
           <img
             src="/preco-ninja-logo.png"
             alt={SITE_NAME}
-            className="h-12 w-auto drop-shadow-[0_0_18px_rgba(57,255,20,0.35)]"
+            className="h-14 w-auto"
           />
         </Link>
         <a
