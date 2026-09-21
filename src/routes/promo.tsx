@@ -168,7 +168,7 @@ function Promo() {
             className="hidden items-center gap-2 rounded-full bg-ninja px-4 py-2 text-sm font-bold text-ninja-foreground sm:inline-flex"
           >
             <MessageCircle className="h-4 w-4" />
-            Entrar no grupo
+            Grupo no WhatsApp
           </a>
           <a
             href={TELEGRAM_CHANNEL_URL}

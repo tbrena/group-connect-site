@@ -241,7 +241,7 @@ function Index() {
           </p>
 
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-            <JoinButton label="Entrar no grupo" />
+            <JoinButton label="Grupo no WhatsApp" />
             <TelegramButton />
           </div>
           <div className="mt-4">
