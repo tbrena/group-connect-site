@@ -3,6 +3,7 @@ import { ArrowLeft, MessageCircle, Search, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
+import { pixelLead } from "@/lib/pixel";
 import { OfertaCard } from "@/components/OfertaCard";
 import {
   assinaturaOfertas,
@@ -154,6 +155,7 @@ function Promo() {
         </Link>
         <a
           href={WHATSAPP_GROUP_URL}
+          onClick={() => pixelLead("whatsapp")}
           target="_blank"
           rel="noopener noreferrer"
           className="hidden items-center gap-2 rounded-full bg-ninja px-4 py-2 text-sm font-bold text-ninja-foreground sm:inline-flex"
@@ -291,12 +293,17 @@ function Promo() {
           © {new Date().getFullYear()} {SITE_NAME}. Podemos receber comissão por compras feitas
           através dos links divulgados. Preços e estoque podem mudar sem aviso.
         </p>
+        <p className="mt-2 text-xs">
+          Privacidade: usamos cookies e o pixel da Meta para medir visitas e melhorar anúncios; não
+          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre.
+        </p>
       </footer>
 
       {/* Sticky CTA (mobile only) */}
       <div className="fixed inset-x-0 bottom-0 z-20 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
         <a
           href={WHATSAPP_GROUP_URL}
+          onClick={() => pixelLead("whatsapp")}
           target="_blank"
           rel="noopener noreferrer"
           className="flex w-full items-center justify-center gap-2 rounded-full bg-ninja px-6 py-3 text-base font-bold text-ninja-foreground"

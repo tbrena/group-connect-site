@@ -17,6 +17,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { OfertasDoDia } from "@/components/OfertasDoDia";
+import { pixelLead } from "@/lib/pixel";
 import {
   OG_IMAGE_URL,
   SITE_DESCRIPTION,
@@ -152,6 +153,7 @@ function JoinButton({ label, className = "" }: { label: string; className?: stri
   return (
     <a
       href={WHATSAPP_GROUP_URL}
+      onClick={() => pixelLead("whatsapp")}
       target="_blank"
       rel="noopener noreferrer"
       className={`group inline-flex items-center gap-2 rounded-full bg-ninja px-8 py-4 text-lg font-bold text-ninja-foreground shadow-[0_0_32px_-4px_var(--color-ninja)] transition-all hover:scale-105 hover:shadow-[0_0_48px_-6px_var(--color-ninja)] focus-visible:ring-2 focus-visible:ring-ninja focus-visible:ring-offset-2 focus-visible:ring-offset-background focus-visible:outline-none ${className}`}
@@ -338,12 +340,17 @@ function Index() {
           © {new Date().getFullYear()} {SITE_NAME}. Não somos afiliados ao WhatsApp. Podemos receber
           comissão por compras feitas através dos links divulgados.
         </p>
+        <p className="mt-2 text-xs">
+          Privacidade: usamos cookies e o pixel da Meta para medir visitas e melhorar anúncios; não
+          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre.
+        </p>
       </footer>
 
       {/* Sticky CTA (mobile only) */}
       <div className="fixed inset-x-0 bottom-0 z-20 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
         <a
           href={WHATSAPP_GROUP_URL}
+          onClick={() => pixelLead("whatsapp")}
           target="_blank"
           rel="noopener noreferrer"
           className="flex w-full items-center justify-center gap-2 rounded-full bg-ninja px-6 py-3 text-base font-bold text-ninja-foreground"

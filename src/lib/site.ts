@@ -40,3 +40,9 @@ export const ML_AFILIADO = { word: "promoninja", tool: "19839069" };
  * Vazia = rastreio desligado, redirecionamento continua funcionando.
  */
 export const POSTHOG = { key: "", host: "https://us.i.posthog.com" };
+
+/**
+ * Meta Pixel (Facebook/Instagram Ads). ID público (Gerenciador de Eventos → Fontes de
+ * dados → seu pixel → ID, 15–16 dígitos). Vazio = desligado.
+ */
+export const META_PIXEL_ID = "";

@@ -11,7 +11,15 @@ import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
-import { OG_IMAGE_URL, SITE_DESCRIPTION, SITE_NAME, SITE_TITLE, absoluteUrl } from "../lib/site";
+import { PIXEL_SNIPPET, pixelAtivo, pixelPageView } from "../lib/pixel";
+import {
+  META_PIXEL_ID,
+  OG_IMAGE_URL,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+  SITE_TITLE,
+  absoluteUrl,
+} from "../lib/site";
 
 function NotFoundComponent() {
   return (
@@ -119,8 +127,21 @@ function RootShell({ children }: { children: ReactNode }) {
     <html lang="pt-BR">
       <head>
         <HeadContent />
+        {/* Meta Pixel: só entra no HTML quando META_PIXEL_ID está preenchido (site.ts). */}
+        {PIXEL_SNIPPET && <script dangerouslySetInnerHTML={{ __html: PIXEL_SNIPPET }} />}
       </head>
       <body>
+        {PIXEL_SNIPPET && (
+          <noscript>
+            <img
+              height="1"
+              width="1"
+              style={{ display: "none" }}
+              alt=""
+              src={`https://www.facebook.com/tr?id=${META_PIXEL_ID}&ev=PageView&noscript=1`}
+            />
+          </noscript>
+        )}
         {children}
         <Scripts />
       </body>
@@ -128,11 +149,24 @@ function RootShell({ children }: { children: ReactNode }) {
   );
 }
 
+/** PageView do Pixel nas navegações internas (o snippet só cobre o primeiro carregamento). */
+function PixelPageViews() {
+  const router = useRouter();
+  useEffect(() => {
+    if (!pixelAtivo()) return;
+    return router.subscribe("onResolved", ({ pathChanged }) => {
+      if (pathChanged) pixelPageView();
+    });
+  }, [router]);
+  return null;
+}
+
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
 
   return (
     <QueryClientProvider client={queryClient}>
+      <PixelPageViews />
       {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
       <Outlet />
     </QueryClientProvider>

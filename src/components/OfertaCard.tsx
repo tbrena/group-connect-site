@@ -23,6 +23,7 @@ import {
   textoWhatsApp,
   type Oferta,
 } from "@/lib/ofertas";
+import { pixelOferta, pixelShare } from "@/lib/pixel";
 import { linkRastreado } from "@/lib/rastreio";
 
 /** O navegador consegue compartilhar arquivos (celulares e alguns desktops)? */
@@ -75,6 +76,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       const blob = await prepararImagem();
       const arquivo = new File([blob], nomeArquivo(oferta), { type: "image/jpeg" });
       await navigator.share({ files: [arquivo], text: texto });
+      pixelShare(oferta);
     } catch (err) {
       if ((err as Error).name === "AbortError") return; // a pessoa fechou o menu
       imagem.current = null;
@@ -112,6 +114,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
       {/* Área da foto com altura fixa: todos os cards iguais, independente da imagem. */}
       <a
         href={link}
+        onClick={() => pixelOferta(oferta)}
         target="_blank"
         rel="noopener noreferrer sponsored"
         className="relative block h-36 bg-white sm:h-40"
@@ -216,6 +219,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
           )}
           <a
             href={link}
+            onClick={() => pixelOferta(oferta)}
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="inline-flex items-center gap-1 font-medium text-ninja hover:underline"
@@ -241,6 +245,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
             ) : (
               <a
                 href={linkCompartilharWhatsApp(oferta)}
+                onClick={() => pixelShare(oferta)}
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Compartilhar texto no WhatsApp (neste navegador não dá para anexar a imagem; use o botão de baixar)"
