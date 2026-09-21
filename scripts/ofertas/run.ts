@@ -397,12 +397,16 @@ async function main() {
       ...toSiteOffer(item, now),
       publishedAt: entradaAnterior.get(item.id) ?? new Date(now).toISOString(),
     }));
-  // Mantidas ordenadas pelo critério do bot também, para as melhores ficarem no topo.
+  // Vagas: as postadas no Telegram nos últimos 7 dias têm lugar garantido (o link /ir/
+  // delas precisa de prévia e comissão); o resto — antigas e novas — compete pelo
+  // critério do bot, para oferta nova boa não ficar de fora só porque chegou depois.
   const ordenar = (a: SiteOffer, b: SiteOffer) =>
     Number(b.oficial) - Number(a.oficial) || b.discount - a.discount;
-  const site = [...revalidadas.sort(ordenar), ...novos].slice(0, config.siteMax);
+  const garantidas = revalidadas.filter((o) => tsDe(published[o.id]) !== undefined);
+  const disputam = [...revalidadas.filter((o) => tsDe(published[o.id]) === undefined), ...novos];
+  const site = [...garantidas.sort(ordenar), ...disputam.sort(ordenar)].slice(0, config.siteMax);
   console.log(
-    `site: ${revalidadas.length} mantidas (${removidas} removidas por preço/estoque, ${erros} com erro mantidas) + ${site.length - revalidadas.length} novas = ${site.length}`,
+    `site: ${garantidas.length} postadas garantidas + ${site.length - garantidas.length} por critério (${revalidadas.length} antigas revalidadas, ${removidas} removidas, ${erros} com erro mantidas, ${novos.length} novas candidatas) = ${site.length}`,
   );
 
   // 5. Persiste estado, histórico e o JSON do site.
