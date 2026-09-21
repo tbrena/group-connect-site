@@ -57,7 +57,7 @@ jobs:
 
       # Node só apaga os tipos: um erro de tipo viraria crash silencioso na rodada.
       - name: Checar tipos do bot
-        run: npx tsc -p scripts/ofertas/tsconfig.json
+        run: npm exec --prefix scripts/ofertas -- tsc -p scripts/ofertas/tsconfig.json
 
       - name: Buscar ofertas
         env:
