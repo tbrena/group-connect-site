@@ -1,5 +1,5 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
-import { ArrowLeft, MessageCircle, Search, Send, X } from "lucide-react";
+import { MessageCircle, Search, Send, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
@@ -145,19 +145,8 @@ function Promo() {
 
       {/* Header */}
       <header className="relative z-10 flex items-center justify-between px-6 py-5">
-        <Link
-          to="/"
-          className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-ninja"
-        >
-          <ArrowLeft className="h-4 w-4" />
-          Início
-        </Link>
         <Link to="/" aria-label={`${SITE_NAME} — início`}>
-          <img
-            src="/preco-ninja-logo.png"
-            alt={SITE_NAME}
-            className="h-16 w-auto"
-          />
+          <img src="/preco-ninja-logo.png" alt={SITE_NAME} className="h-16 w-auto" />
         </Link>
         <div className="hidden items-center gap-2 sm:flex">
           <a
