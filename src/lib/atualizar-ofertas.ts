@@ -23,7 +23,6 @@ export const atualizarOfertas = createServerFn({ method: "POST" }).handler(
       ok: false,
       motivo: "atualização manual desativada em produção — o bot roda sozinho a cada 30 min",
     };
-    return dispararWorkflow();
   },
 );
 
@@ -50,7 +49,8 @@ async function rodarLocal(): Promise<ResultadoAtualizacao> {
   });
 }
 
-async function dispararWorkflow(): Promise<ResultadoAtualizacao> {
+// Mantida para o dia em que houver um segredo no servidor; hoje não é chamada.
+export async function dispararWorkflow(): Promise<ResultadoAtualizacao> {
   // Token fine-grained com permissão "Actions: read and write" neste repositório.
   const token = process.env["GITHUB_TOKEN"];
   if (!token) {
