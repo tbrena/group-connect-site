@@ -1,5 +1,5 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
-import { ArrowLeft, MessageCircle, Search, X } from "lucide-react";
+import { ArrowLeft, MessageCircle, Search, Send, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
@@ -13,7 +13,13 @@ import {
   useOfertas,
   type Oferta,
 } from "@/lib/ofertas";
-import { SITE_NAME, SITE_URL, WHATSAPP_GROUP_URL, absoluteUrl } from "@/lib/site";
+import {
+  SITE_NAME,
+  SITE_URL,
+  TELEGRAM_CHANNEL_URL,
+  WHATSAPP_GROUP_URL,
+  absoluteUrl,
+} from "@/lib/site";
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
 const PAGE_DESCRIPTION =
@@ -153,16 +159,28 @@ function Promo() {
             className="h-12 w-auto drop-shadow-[0_0_18px_rgba(57,255,20,0.35)]"
           />
         </Link>
-        <a
-          href={WHATSAPP_GROUP_URL}
-          onClick={() => pixelLead("whatsapp")}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hidden items-center gap-2 rounded-full bg-ninja px-4 py-2 text-sm font-bold text-ninja-foreground sm:inline-flex"
-        >
-          <MessageCircle className="h-4 w-4" />
-          Entrar no grupo
-        </a>
+        <div className="hidden items-center gap-2 sm:flex">
+          <a
+            href={WHATSAPP_GROUP_URL}
+            onClick={() => pixelLead("whatsapp")}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden items-center gap-2 rounded-full bg-ninja px-4 py-2 text-sm font-bold text-ninja-foreground sm:inline-flex"
+          >
+            <MessageCircle className="h-4 w-4" />
+            Entrar no grupo
+          </a>
+          <a
+            href={TELEGRAM_CHANNEL_URL}
+            onClick={() => pixelLead("telegram")}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden items-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-4 py-2 text-sm font-bold text-ninja sm:inline-flex"
+          >
+            <Send className="h-4 w-4" />
+            Telegram
+          </a>
+        </div>
       </header>
 
       <section className="relative z-10 flex-1 px-6 pt-6 pb-24">
@@ -300,16 +318,26 @@ function Promo() {
       </footer>
 
       {/* Sticky CTA (mobile only) */}
-      <div className="fixed inset-x-0 bottom-0 z-20 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
+      <div className="fixed inset-x-0 bottom-0 z-20 flex gap-2 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
         <a
           href={WHATSAPP_GROUP_URL}
           onClick={() => pixelLead("whatsapp")}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex w-full items-center justify-center gap-2 rounded-full bg-ninja px-6 py-3 text-base font-bold text-ninja-foreground"
+          className="flex flex-1 items-center justify-center gap-2 rounded-full bg-ninja px-4 py-3 text-base font-bold text-ninja-foreground"
         >
           <MessageCircle className="h-5 w-5" />
-          Entrar no grupo grátis
+          WhatsApp
+        </a>
+        <a
+          href={TELEGRAM_CHANNEL_URL}
+          onClick={() => pixelLead("telegram")}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex flex-1 items-center justify-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-4 py-3 text-base font-bold text-ninja"
+        >
+          <Send className="h-5 w-5" />
+          Telegram
         </a>
       </div>
     </main>

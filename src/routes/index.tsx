@@ -17,6 +17,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { OfertasDoDia } from "@/components/OfertasDoDia";
+import { Send } from "lucide-react";
 import { pixelLead } from "@/lib/pixel";
 import {
   OG_IMAGE_URL,
@@ -24,6 +25,7 @@ import {
   SITE_NAME,
   SITE_TITLE,
   SITE_URL,
+  TELEGRAM_CHANNEL_URL,
   WHATSAPP_GROUP_URL,
   absoluteUrl,
 } from "@/lib/site";
@@ -49,18 +51,21 @@ export const Route = createFileRoute("/")({
 const benefits = [
   {
     icon: Percent,
-    title: "Descontos",
-    description: "Cupons e promoções reais, selecionados antes de viralizar.",
+    title: "Desconto de verdade",
+    description:
+      'Só entra oferta com preço pelo menos 15% abaixo do que os outros vendedores cobram pelo mesmo produto — nada de "de/por" inventado.',
   },
   {
     icon: Zap,
-    title: "Ofertas Relâmpago",
-    description: "Alertas rápidos para você pegar o menor preço antes que acabe.",
+    title: "Conferido toda hora",
+    description:
+      "O robô revisa preço e estoque de hora em hora. Subiu ou acabou? Sai do ar. Caiu de novo? Você recebe outro aviso.",
   },
   {
     icon: ShoppingCart,
-    title: "Achados Todo Dia",
-    description: "Produtos com preço imperdível em marketplaces e lojas online.",
+    title: "Vendedor confiável",
+    description:
+      "Preferência a lojas oficiais e a vendedores com reputação alta no Mercado Livre. O nome da loja vai junto com a oferta.",
   },
 ];
 
@@ -73,20 +78,21 @@ const steps = [
   {
     icon: BellRing,
     title: "Receba os alertas",
-    description: "As ofertas chegam no seu WhatsApp assim que a gente confirma o preço.",
+    description: "As ofertas chegam no WhatsApp ou no Telegram assim que o robô confirma o preço.",
   },
   {
     icon: Tag,
     title: "Compre com desconto",
-    description: "Clique no link da oferta e finalize direto na loja, com o cupom aplicado.",
+    description:
+      "Clique no link da oferta e finalize direto no Mercado Livre, no preço que mostramos.",
   },
 ];
 
 const reasons = [
-  "Alertas em tempo real direto no WhatsApp",
-  "Curadoria sem spam e sem encher o saco",
-  "Ofertas de eletrônicos, casa, moda e mais",
-  "Economia de verdade, comparada antes de postar",
+  "Preço comparado com todos os vendedores antes de postar",
+  "Ofertas novas toda hora, no WhatsApp e no Telegram",
+  "Eletrodomésticos, eletrônicos, beleza, casa, games e mais",
+  "Loja oficial e reputação do vendedor indicadas em cada oferta",
 ];
 
 const faq = [
@@ -98,17 +104,22 @@ const faq = [
   {
     question: "Vou receber spam ou mensagens demais?",
     answer:
-      "Não. Cada oferta passa por curadoria antes de ir ao ar, então você recebe poucas mensagens por dia — e todas com desconto de verdade.",
+      "No Telegram saem cerca de 10 ofertas por hora, todas com desconto real. No WhatsApp mandamos as melhores do dia. Se preferir só olhar quando quiser, a página de promoções tem tudo, com busca e filtros.",
   },
   {
     question: "Preciso me cadastrar ou informar meus dados?",
     answer:
-      "Não pedimos cadastro, e-mail, CPF nem dados de pagamento. Basta entrar no grupo pelo link do WhatsApp.",
+      "Não pedimos cadastro, e-mail, CPF nem dados de pagamento. Basta entrar no grupo do WhatsApp ou no canal do Telegram pelo link.",
   },
   {
     question: "Que tipo de oferta vocês publicam?",
     answer:
-      "Eletrônicos, celulares, informática, casa, cozinha, moda e itens do dia a dia nos principais marketplaces e lojas online do Brasil.",
+      "Ofertas do Mercado Livre em eletrodomésticos, eletrônicos, informática, beleza, casa, brinquedos, games, esportes e mais. Em breve, Shopee.",
+  },
+  {
+    question: "Como vocês sabem que o desconto é real?",
+    answer:
+      'Ignoramos o "de/por" que o vendedor escreve. Para cada produto, olhamos o preço de todos os vendedores no Mercado Livre e só chamamos de oferta quando o anúncio está pelo menos 15% abaixo da mediana deles. O preço médio e o número de vendedores aparecem em cada oferta.',
   },
   {
     question: "Como faço para sair do grupo?",
@@ -135,7 +146,7 @@ const structuredData = {
       name: SITE_NAME,
       url: absoluteUrl("/"),
       logo: OG_IMAGE_URL,
-      sameAs: [WHATSAPP_GROUP_URL],
+      sameAs: [WHATSAPP_GROUP_URL, TELEGRAM_CHANNEL_URL],
     },
     {
       "@type": "FAQPage",
@@ -160,6 +171,21 @@ function JoinButton({ label, className = "" }: { label: string; className?: stri
     >
       {label}
       <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+    </a>
+  );
+}
+
+function TelegramButton() {
+  return (
+    <a
+      href={TELEGRAM_CHANNEL_URL}
+      onClick={() => pixelLead("telegram")}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-8 py-4 text-lg font-bold text-ninja transition-colors hover:bg-ninja/20 focus-visible:ring-2 focus-visible:ring-ninja focus-visible:outline-none"
+    >
+      <Send className="h-5 w-5" />
+      Canal no Telegram
     </a>
   );
 }
@@ -202,7 +228,7 @@ function Index() {
         <div className="max-w-3xl">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-ninja/30 bg-ninja/10 px-4 py-1.5 text-sm font-medium text-ninja">
             <MessageCircle className="h-4 w-4" />
-            Grupo exclusivo no WhatsApp
+            No WhatsApp e no Telegram
           </div>
 
           <h1 className="text-4xl leading-tight font-extrabold tracking-tight text-foreground sm:text-6xl md:text-7xl">
@@ -210,12 +236,15 @@ function Index() {
           </h1>
 
           <p className="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-muted-foreground sm:text-xl">
-            Receba descontos, ofertas relâmpago e achados do dia direto no seu celular. Sem spam, só
-            economia real.
+            Um robô compara o preço de cada produto com o de todos os outros vendedores do Mercado
+            Livre e só avisa quando o desconto é real. Você recebe no WhatsApp ou no Telegram.
           </p>
 
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <JoinButton label="Entrar no grupo" />
+            <TelegramButton />
+          </div>
+          <div className="mt-4">
             <span className="text-sm text-muted-foreground">Gratuito · Sair quando quiser</span>
           </div>
         </div>
@@ -250,7 +279,9 @@ function Index() {
               </span>
             ))}
           </div>
-          <span>Milhares de pessoas já economizam com a gente.</span>
+          <span>
+            Ofertas novas toda hora, cada uma conferida contra o preço dos outros vendedores.
+          </span>
         </div>
       </section>
 
@@ -302,8 +333,9 @@ function Index() {
             ))}
           </ul>
 
-          <div className="mt-10 text-center">
+          <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <JoinButton label="Quero economizar agora" />
+            <TelegramButton />
           </div>
         </div>
       </section>
@@ -337,8 +369,9 @@ function Index() {
           </a>
         </p>
         <p className="mt-2">
-          © {new Date().getFullYear()} {SITE_NAME}. Não somos afiliados ao WhatsApp. Podemos receber
-          comissão por compras feitas através dos links divulgados.
+          © {new Date().getFullYear()} {SITE_NAME}. Não somos afiliados ao WhatsApp, ao Telegram nem
+          ao Mercado Livre. Podemos receber comissão por compras feitas através dos links
+          divulgados.
         </p>
         <p className="mt-2 text-xs">
           Privacidade: usamos cookies e o pixel da Meta para medir visitas e melhorar anúncios; não
@@ -347,16 +380,26 @@ function Index() {
       </footer>
 
       {/* Sticky CTA (mobile only) */}
-      <div className="fixed inset-x-0 bottom-0 z-20 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
+      <div className="fixed inset-x-0 bottom-0 z-20 flex gap-2 border-t border-border bg-background/90 px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] backdrop-blur sm:hidden">
         <a
           href={WHATSAPP_GROUP_URL}
           onClick={() => pixelLead("whatsapp")}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex w-full items-center justify-center gap-2 rounded-full bg-ninja px-6 py-3 text-base font-bold text-ninja-foreground"
+          className="flex flex-1 items-center justify-center gap-2 rounded-full bg-ninja px-4 py-3 text-base font-bold text-ninja-foreground"
         >
           <MessageCircle className="h-5 w-5" />
-          Entrar no grupo grátis
+          WhatsApp
+        </a>
+        <a
+          href={TELEGRAM_CHANNEL_URL}
+          onClick={() => pixelLead("telegram")}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex flex-1 items-center justify-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-4 py-3 text-base font-bold text-ninja"
+        >
+          <Send className="h-5 w-5" />
+          Telegram
         </a>
       </div>
     </main>

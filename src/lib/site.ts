@@ -12,7 +12,9 @@ export const SITE_NAME = "Preço Ninja";
 export const SITE_TITLE = "Preço Ninja — Ofertas que chegam primeiro";
 
 export const SITE_DESCRIPTION =
-  "Entre no grupo Preço Ninja e receba descontos, cupons e ofertas relâmpago no WhatsApp antes de todo mundo. Grátis, sem spam.";
+  "Ofertas do Mercado Livre com preço pelo menos 15% abaixo dos outros vendedores, conferidas de hora em hora. Receba no WhatsApp ou no Telegram. Grátis.";
+
+export const TELEGRAM_CHANNEL_URL = "https://t.me/preconinjaofertas";
 
 export const WHATSAPP_GROUP_URL =
   "https://chat.whatsapp.com/Grj0LpGIotqF8sRbrh9LK5?s=cl&p=a&mlu=4&ilr=4";
