@@ -20,21 +20,36 @@ const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 /** POST na API; corpo JSON ou FormData (upload). Respeita retry_after do 429. */
 async function post(method: string, body: BodyInit, headers?: Record<string, string>) {
   for (let tentativa = 1; ; tentativa++) {
-    const res = await fetch(`https://api.telegram.org/bot${env.telegram.botToken()}/${method}`, {
-      method: "POST",
-      headers,
-      body,
-    });
-    const json = (await res.json()) as TelegramResposta;
-    if (json.ok) return json;
+    let res: Response;
+    let json: TelegramResposta | null = null;
+    try {
+      res = await fetch(`https://api.telegram.org/bot${env.telegram.botToken()}/${method}`, {
+        method: "POST",
+        headers,
+        body,
+        signal: AbortSignal.timeout(60_000),
+      });
+      json = (await res.json().catch(() => null)) as TelegramResposta | null;
+    } catch (err) {
+      // rede caiu / timeout: transitório
+      if (tentativa < MAX_TENTATIVAS) {
+        await sleep(2 ** tentativa * 1000);
+        continue;
+      }
+      throw new Error(`Telegram ${method}: ${(err as Error).message}`);
+    }
+    if (json?.ok) return json;
 
-    const espera = json.parameters?.retry_after;
-    if (espera && tentativa < MAX_TENTATIVAS) {
-      console.error(`  Telegram pediu para esperar ${espera}s (${method}); aguardando…`);
-      await sleep((espera + 1) * 1000);
+    // 429: espera o que o Telegram pediu. 5xx (ou corpo não-JSON): espera crescente.
+    const espera = json?.parameters?.retry_after;
+    const transitorio = res.status === 429 || res.status >= 500 || !json;
+    if (transitorio && tentativa < MAX_TENTATIVAS) {
+      const ms = espera ? (espera + 1) * 1000 : 2 ** tentativa * 1000;
+      console.error(`  Telegram ${res.status} em ${method}; tentando de novo em ${ms / 1000}s`);
+      await sleep(ms);
       continue;
     }
-    throw new Error(`Telegram ${method}: ${json.description}`);
+    throw new Error(`Telegram ${method}: ${json?.description ?? `HTTP ${res.status}`}`);
   }
 }
 
@@ -71,7 +86,7 @@ export async function sendPhoto(photo: string | Buffer, caption: string, botoes?
   form.set("caption", caption.slice(0, 1024));
   form.set("parse_mode", "HTML");
   if (botoes?.length) form.set("reply_markup", JSON.stringify(teclado(botoes)));
-  form.set("photo", new Blob([photo], { type: "image/jpeg" }), "oferta.jpg");
+  form.set("photo", new Blob([new Uint8Array(photo)], { type: "image/jpeg" }), "oferta.jpg");
   return post("sendPhoto", form);
 }
 

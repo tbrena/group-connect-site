@@ -39,19 +39,25 @@ permissions:
 jobs:
   ofertas:
     runs-on: ubuntu-latest
+    # Uma API travada não pode segurar a fila por horas.
+    timeout-minutes: 20
     env:
       # true quando o segredo existe (o contexto secrets não pode ir direto num `if`)
       TEM_DADOS: ${{ secrets.DADOS_DEPLOY_KEY != '' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 24
 
       # Só o bot tem dependências (sharp, para a imagem com marca); o site não é instalado.
       - name: Instalar dependências do bot
         run: npm ci --prefix scripts/ofertas
+
+      # Node só apaga os tipos: um erro de tipo viraria crash silencioso na rodada.
+      - name: Checar tipos do bot
+        run: npx tsc -p scripts/ofertas/tsconfig.json
 
       - name: Buscar ofertas
         env:
@@ -105,7 +111,10 @@ jobs:
           git commit -q -m "ofertas: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push -q
 
+      # `if: always()`: mesmo que a busca ou o push de dados falhe DEPOIS de postar no
+      # Telegram, o publicadas.json precisa ser salvo — senão a próxima rodada reposta tudo.
       - name: Publicar no site (commit)
+        if: always()
         run: |
           git config user.name "preco-ninja-bot"
           git config user.email "bot@ofertaninja.online"

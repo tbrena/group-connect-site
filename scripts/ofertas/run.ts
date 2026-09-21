@@ -241,6 +241,7 @@ async function main() {
   // 1. Coleta candidatos de todas as buscas, sem repetir item.
   const seen = new Set<string>();
   const candidates: MlItem[] = [];
+  let buscasFalhas = 0;
   for (const busca of config.buscas) {
     try {
       const items =
@@ -262,8 +263,19 @@ async function main() {
         candidates.push(item);
       }
     } catch (err) {
+      buscasFalhas++;
       console.error(`Busca ${JSON.stringify(busca)} falhou:`, (err as Error).message);
     }
+  }
+  // Se a API do ML caiu (metade das buscas falhou, ou nada passou), não publicar um site
+  // vazio por cima do bom: sai com erro para o Actions ficar vermelho.
+  if (
+    buscasFalhas > config.buscas.length / 2 ||
+    (candidates.length === 0 && config.buscas.length)
+  ) {
+    throw new Error(
+      `rodada abortada: ${buscasFalhas}/${config.buscas.length} buscas falharam, ${candidates.length} candidatos — site mantido como estava`,
+    );
   }
 
   // 2. Campanhas oficiais do ML primeiro, depois maior desconto real; limitado por execução.
@@ -313,8 +325,14 @@ async function main() {
       console.error(`  imagem com marca falhou (${err.message}); usando a original`);
       return item.thumbnail;
     });
-    const enviada = await sendPhoto(foto, text, botoes(dados));
-    published[item.id] = { ts: now, msg: enviada.result?.message_id };
+    // Um post que falha (Telegram fora, foto recusada) não derruba a rodada: loga e segue.
+    try {
+      const enviada = await sendPhoto(foto, text, botoes(dados));
+      published[item.id] = { ts: now, msg: enviada.result?.message_id };
+    } catch (err) {
+      console.error(`  post de ${item.id} falhou: ${(err as Error).message}`);
+      continue;
+    }
     // Estado salvo a cada post: se a rodada cair no meio, nada é repostado depois.
     await salvarPublicadas(published);
     // Pausa entre posts: o Telegram limita a ~20 mensagens/min por canal.
@@ -328,18 +346,21 @@ async function main() {
   //    de desconto real (sem `base`) são descartadas — o "% OFF" delas não era real.
   // publishedAt é "quando entrou no site": quem já estava mantém a data original
   // (é o que alimenta a aba "Novas" do /promo); checkedAt é sempre agora.
+  //    Ordem: (a) o que já está no site e continua válido — inclusive o que foi postado
+  //    no Telegram, que sai dos candidatos por 7 dias mas PRECISA ficar no site para o
+  //    link /ir/ ter prévia e comissão; (b) candidatos novos completam até siteMax.
   const entradaAnterior = new Map(siteOffers.map((o) => [o.id, o.publishedAt] as const));
-  const novos = candidates.slice(0, config.siteMax).map((item) => ({
-    ...toSiteOffer(item, now),
-    publishedAt: entradaAnterior.get(item.id) ?? new Date(now).toISOString(),
-  }));
-  const idsNovos = new Set(novos.map((o) => o.id));
-  //    As que ficam são revalidadas com o preço de agora: sumiu ou subiu, sai.
-  const antigas = siteOffers.filter((o) => o.base && o.productId && !idsNovos.has(o.id));
+  const candidatosPorId = new Map(candidates.map((c) => [c.id, c] as const));
+  const antigas = siteOffers.filter((o) => o.base && o.productId);
+  let removidas = 0;
+  let erros = 0;
   const revalidadas = (
     await mapLimited(antigas, async (o) => {
-      const revalidar =
-        o.marketplace === "shopee" || o.id.startsWith("SP")
+      // Se a busca desta rodada já reavaliou o item, reaproveita (sem nova requisição).
+      const daBusca = candidatosPorId.get(o.id);
+      if (daBusca) return { ...toSiteOffer(daBusca, now), publishedAt: o.publishedAt };
+      try {
+        const atual = await (o.marketplace === "shopee" || o.id.startsWith("SP")
           ? revalidarShopee(o.id, o.fonte, criterioShopee)
           : revalidarOferta(
               {
@@ -350,16 +371,39 @@ async function main() {
                 fonte: o.fonte,
               },
               criterio,
-            );
-      const atual = await revalidar.catch(() => null);
-      if (!atual || atual.discount > config.maxDiscount) return null;
-      return { ...toSiteOffer(atual, now), publishedAt: o.publishedAt };
+            ));
+        if (!atual || atual.discount > config.maxDiscount) {
+          removidas++;
+          return null;
+        }
+        return { ...toSiteOffer(atual, now), publishedAt: o.publishedAt };
+      } catch (err) {
+        // Erro de rede/API não é "sumiu": mantém a oferta como estava.
+        erros++;
+        console.error(`  revalidação de ${o.id} falhou (${(err as Error).message}); mantida`);
+        return o;
+      }
     })
   ).filter((o): o is SiteOffer => o !== null);
+  if (antigas.length && removidas > antigas.length / 2) {
+    throw new Error(
+      `rodada abortada: revalidação removeria ${removidas}/${antigas.length} ofertas — provável falha da API; site mantido`,
+    );
+  }
+  const idsMantidos = new Set(revalidadas.map((o) => o.id));
+  const novos = candidates
+    .filter((c) => !idsMantidos.has(c.id))
+    .map((item) => ({
+      ...toSiteOffer(item, now),
+      publishedAt: entradaAnterior.get(item.id) ?? new Date(now).toISOString(),
+    }));
+  // Mantidas ordenadas pelo critério do bot também, para as melhores ficarem no topo.
+  const ordenar = (a: SiteOffer, b: SiteOffer) =>
+    Number(b.oficial) - Number(a.oficial) || b.discount - a.discount;
+  const site = [...revalidadas.sort(ordenar), ...novos].slice(0, config.siteMax);
   console.log(
-    `site: ${novos.length} novas + ${revalidadas.length} antigas ainda válidas (${antigas.length - revalidadas.length} removidas por preço/estoque)`,
+    `site: ${revalidadas.length} mantidas (${removidas} removidas por preço/estoque, ${erros} com erro mantidas) + ${site.length - revalidadas.length} novas = ${site.length}`,
   );
-  const site = [...novos, ...revalidadas].slice(0, config.siteMax);
 
   // 5. Persiste estado, histórico e o JSON do site.
   for (const [id, p] of Object.entries(published)) {

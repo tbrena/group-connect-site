@@ -5,5 +5,9 @@
   "description": "Dependências só do bot de ofertas (scripts/ofertas). Separado do site para não mexer no bun.lock do Lovable.",
   "dependencies": {
     "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
   }
 }

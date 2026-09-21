@@ -203,6 +203,15 @@ export interface SearchOptions {
  */
 const CHEAPEST_TOLERANCE = 1.1;
 
+/** Menor preço de cada vendedor (um vendedor pode ter vários anúncios do mesmo produto). */
+function menorPorVendedor(results: CatalogItem[]): Map<number, number> {
+  const m = new Map<number, number>();
+  for (const r of results) m.set(r.seller_id, Math.min(m.get(r.seller_id) ?? Infinity, r.price));
+  return m;
+}
+
+const menorPreco = (results: CatalogItem[]) => Math.min(...results.map((r) => r.price));
+
 /** URL pública do anúncio; o ML redireciona MLB-<número> para a página completa. */
 export function itemUrl(itemId: string): string {
   return `https://produto.mercadolivre.com.br/${itemId.replace(/^MLB/, "MLB-")}`;
@@ -288,7 +297,11 @@ function avaliarItem(
   opts: Criterio,
   fonte: string,
 ): MlItem | null {
-  const outros = results.filter((o) => o.item_id !== it.item_id).map((o) => o.price);
+  // Um preço por VENDEDOR (o menor dele), excluindo o vendedor do candidato: um
+  // vendedor com vários anúncios do mesmo produto não pode "ser" a concorrência.
+  const outros = [...menorPorVendedor(results).entries()]
+    .filter(([sellerId]) => sellerId !== it.seller_id)
+    .map(([, price]) => price);
   const oficial = Boolean(it.deal_ids?.length);
   const comum = {
     id: it.item_id,
@@ -296,7 +309,7 @@ function avaliarItem(
     marketplace: "ml" as const,
     title: produto.name,
     price: it.price,
-    sellers: results.length,
+    sellers: outros.length + 1,
     claimedPrice: it.original_price,
     permalink: itemUrl(it.item_id),
     thumbnail: produto.thumbnail,
@@ -332,15 +345,15 @@ async function bestDeal(
 ): Promise<MlItem | null> {
   const results = await itensDoProduto(product.id);
   if (!results?.length) return null;
-  // A API devolve ordenado por preço crescente; o mais barato alimenta o histórico.
-  observarPreco(product.id, results[0].price);
+  // A ordem da API não é garantida por preço: o mínimo real alimenta o histórico.
+  const cheapest = menorPreco(results);
+  observarPreco(product.id, cheapest);
 
   const produto = {
     id: product.id,
     name: product.name,
     thumbnail: product.pictures?.[0]?.url ?? "",
   };
-  const cheapest = results[0].price;
   const candidatos = results
     .filter((it) => it.price <= cheapest * CHEAPEST_TOLERANCE)
     .map((it) => avaliarItem(it, results, produto, opts, fonte))
@@ -358,7 +371,7 @@ export async function revalidarOferta(
 ): Promise<MlItem | null> {
   const results = await itensDoProduto(oferta.productId);
   if (!results?.length) return null;
-  observarPreco(oferta.productId, results[0].price);
+  observarPreco(oferta.productId, menorPreco(results));
   const it = results.find((r) => r.item_id === oferta.id);
   if (!it) return null;
   const produto = { id: oferta.productId, name: oferta.title, thumbnail: oferta.thumbnail };
