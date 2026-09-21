@@ -45,4 +45,4 @@ export const POSTHOG = { key: "", host: "https://us.i.posthog.com" };
  * Meta Pixel (Facebook/Instagram Ads). ID público (Gerenciador de Eventos → Fontes de
  * dados → seu pixel → ID, 15–16 dígitos). Vazio = desligado.
  */
-export const META_PIXEL_ID = "";
+export const META_PIXEL_ID = "1814843373271876";
