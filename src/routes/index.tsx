@@ -184,7 +184,7 @@ function TelegramButton() {
       className="inline-flex items-center gap-2 rounded-full border border-ninja/40 bg-ninja/10 px-8 py-4 text-lg font-bold text-ninja transition-colors hover:bg-ninja/20 focus-visible:ring-2 focus-visible:ring-ninja focus-visible:outline-none"
     >
       <Send className="h-5 w-5" />
-      Canal no Telegram
+      Canal Telegram
     </a>
   );
 }
