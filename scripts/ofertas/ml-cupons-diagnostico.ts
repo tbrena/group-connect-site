@@ -7,7 +7,8 @@
  *    redireciona (login?), título, trechos com "cupom" e códigos candidatos.
  * 2. Endpoints da API com o token do app: quais respondem algo de cupom/campanha.
  *
- * Só lê; não publica nada. Não imprime as chaves. Roda pelo workflow
+ * Só lê; não publica nada. Não imprime as chaves nem o conteúdo das respostas da
+ * API (o log do Actions é público e o token do app é ligado à conta do dono). Roda pelo workflow
  * "Mercado Livre (cupons — diagnóstico)".
  */
 import { getAccessToken } from "./ml-client.ts";
@@ -41,7 +42,6 @@ const ENDPOINTS = [
   "/sites/MLB/campaigns",
   "/seller-promotions/promotions?site_id=MLB",
   "/affiliates/coupons?site_id=MLB",
-  "/users/me",
 ];
 
 /** Palavras que costumam ficar em volta de um código de cupom. */
@@ -144,8 +144,18 @@ async function sondarApi(): Promise<void> {
         headers: token ? { authorization: `Bearer ${token}` } : {},
         signal: AbortSignal.timeout(15_000),
       });
-      const corpo = (await res.text()).replace(/\s+/g, " ").slice(0, 260);
-      console.log(`   ${res.status}  ${caminho}  ${corpo}`);
+      // O log do Actions é público: nunca imprime o corpo (pode trazer dados da conta),
+      // só o status e os NOMES dos campos da resposta.
+      const texto = await res.text();
+      let campos = `${texto.length} bytes`;
+      try {
+        const json: unknown = JSON.parse(texto);
+        const obj = Array.isArray(json) ? json[0] : json;
+        if (obj && typeof obj === "object") campos = `campos: ${Object.keys(obj).join(", ")}`;
+      } catch {
+        // não é JSON
+      }
+      console.log(`   ${res.status}  ${caminho}  ${campos}`);
     } catch (err) {
       console.log(`   ERRO ${caminho}: ${(err as Error).message}`);
     }
