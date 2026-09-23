@@ -27,6 +27,17 @@ export interface DadosMensagem {
   loja?: string | null | undefined;
   /** "ml" (padrão) ou "shopee" — muda o nome da loja nos textos */
   marketplace?: "ml" | "shopee" | undefined;
+  /** unidades vendidas do anúncio (Shopee) */
+  vendas?: number | null | undefined;
+}
+
+/** "56 mil" / "1,2 mil" / "463" — como os apps mostram. */
+export function formatarVendas(n: number): string {
+  if (n < 1000) return String(n);
+  const mil = n / 1000;
+  // Trunca (nunca arredonda pra cima): prova social não pode inflar o número.
+  const texto = mil < 10 ? String(Math.floor(mil * 10) / 10).replace(".", ",") : Math.floor(mil);
+  return `${texto} mil`;
 }
 
 const nomeDoMarketplace = (d: DadosMensagem) =>
@@ -73,6 +84,8 @@ function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) 
       `✅ Por: ${f.b(brl(d.price))}`,
     );
   }
+  // Prova social: só a partir de 100 vendas, que é quando o número impressiona.
+  if (d.vendas && d.vendas >= 100) out.push(`🛍️ +${formatarVendas(d.vendas)} vendidos`);
   if (d.lowest30d) out.push("📉 Menor preço dos últimos 30 dias");
   if (d.freeShipping) out.push("🚚 Frete grátis");
   if (d.oficial) out.push("🏷️ Promoção oficial do Mercado Livre");

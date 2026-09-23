@@ -1,5 +1,5 @@
 {
-  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas.",
+  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = ofertas por rodada no Telegram; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas. shopeeLista = lista pronta da Shopee (2 = desconto alto + muitas vendas).",
   "minDiscount": 15,
   "maxDiscount": 70,
   "minSellers": 3,
@@ -424,6 +424,13 @@
       "query": "caixa de som bluetooth",
       "categoria": "Eletrônicos",
       "limit": 30
+    },
+    {
+      "fonte": "shopee",
+      "shopeeLista": 2,
+      "categoria": "Mais vendidos",
+      "limit": 50,
+      "_": "Lista pronta da Shopee: desconto alto + muitas vendas (listType 2)"
     },
     {
       "fonte": "shopee",

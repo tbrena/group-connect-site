@@ -34,6 +34,8 @@ export interface Oferta {
   loja?: string | null;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d?: boolean;
+  /** unidades vendidas do anúncio (só Shopee) */
+  vendas?: number | null;
   /** quando entrou no site */
   publishedAt: string;
   /** última vez que o bot conferiu preço e estoque; ausente em JSONs antigos */
@@ -134,6 +136,15 @@ export function assinaturaOfertas(ofertas: Oferta[]): string {
 }
 
 /** Texto pronto para colar no WhatsApp (usa a formatação *negrito* e ~riscado~ dele). */
+/** "56 mil" / "1,2 mil" / "463" — mesmo formato do bot (scripts/ofertas/mensagem.ts). */
+export function formatarVendas(n: number): string {
+  if (n < 1000) return String(n);
+  const mil = n / 1000;
+  // Trunca (nunca arredonda pra cima): prova social não pode inflar o número.
+  const texto = mil < 10 ? String(Math.floor(mil * 10) / 10).replace(".", ",") : Math.floor(mil);
+  return `${texto} mil`;
+}
+
 export function textoWhatsApp(oferta: Oferta): string {
   const linhas: string[] = [];
   if (oferta.base === "media" && oferta.averagePrice) {
@@ -151,6 +162,8 @@ export function textoWhatsApp(oferta: Oferta): string {
       `✅ Por: *${brl(oferta.price)}*`,
     );
   }
+  if (oferta.vendas && oferta.vendas >= 100)
+    linhas.push(`🛍️ +${formatarVendas(oferta.vendas)} vendidos`);
   if (oferta.lowest30d) linhas.push("📉 Menor preço dos últimos 30 dias");
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
   if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");

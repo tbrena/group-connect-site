@@ -29,7 +29,7 @@ import {
 } from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
-import { revalidarShopee, searchShopeeDeals } from "./shopee-client.ts";
+import { revalidarShopee, searchShopeeDeals, shopeeFonte } from "./shopee-client.ts";
 import { sendPhoto } from "./telegram.ts";
 
 const DRY = process.argv.includes("--dry");
@@ -115,6 +115,8 @@ interface Config {
     query?: string;
     category?: string;
     shopeeCategory?: number;
+    /** lista pronta da Shopee (listType), ex.: 2 = mais vendidos em promoção */
+    shopeeLista?: number;
     categoria?: string;
     limit?: number;
   }>;
@@ -150,6 +152,8 @@ export interface SiteOffer {
   loja: string | null;
   /** menor preço observado pelo bot nos últimos 30 dias */
   lowest30d: boolean;
+  /** unidades vendidas do anúncio (só Shopee; null no ML) */
+  vendas: number | null;
   /** quando entrou no site */
   publishedAt: string;
   /** última vez que o bot conferiu preço e estoque (revalidação a cada rodada) */
@@ -196,6 +200,7 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     lojaOficial: item.lojaOficial,
     loja: item.loja,
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
+    vendas: item.vendas ?? null,
     publishedAt: new Date(now).toISOString(),
     checkedAt: new Date(now).toISOString(),
   };
@@ -251,9 +256,7 @@ async function main() {
     config.buscas.map((b) => {
       const chave =
         b.fonte === "shopee"
-          ? b.shopeeCategory
-            ? `shopee:${b.shopeeCategory}`
-            : `shopee:q:${b.query}`
+          ? shopeeFonte({ lista: b.shopeeLista, shopeeCategory: b.shopeeCategory, query: b.query })
           : (b.category ?? `q:${b.query}`);
       return [chave, b.categoria ?? "Outros"] as const;
     }),
@@ -283,6 +286,7 @@ async function main() {
           ? await searchShopeeDeals({
               query: busca.query,
               shopeeCategory: busca.shopeeCategory,
+              lista: busca.shopeeLista,
               limit: busca.limit,
               ...criterioShopee,
             })

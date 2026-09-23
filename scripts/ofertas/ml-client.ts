@@ -177,6 +177,8 @@ export interface MlItem {
   loja: string | null;
   /** reputação do vendedor no ML: "1_red" … "5_green" */
   reputacao: string | null;
+  /** unidades vendidas do anúncio (a Shopee informa; o ML não) */
+  vendas?: number | null;
 }
 
 export interface SearchOptions {

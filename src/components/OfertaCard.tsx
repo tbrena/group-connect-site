@@ -18,6 +18,7 @@ import {
   conferidaEm,
   dataHoraBR,
   ehNova,
+  formatarVendas,
   linkCompartilharWhatsApp,
   quandoBR,
   textoWhatsApp,
@@ -202,6 +203,11 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
           )}
         </div>
 
+        {oferta.vendas != null && oferta.vendas >= 100 && (
+          <p className="mt-1.5 text-[11px] font-semibold text-orange-400">
+            🛍️ +{formatarVendas(oferta.vendas)} vendidos
+          </p>
+        )}
         <p
           className="mt-1.5 inline-flex items-center gap-1 text-[11px] text-muted-foreground"
           title={`Preço conferido pelo bot em ${dataHoraBR(conferidaEm(oferta))} (horário de Brasília)`}

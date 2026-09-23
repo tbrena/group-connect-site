@@ -80,8 +80,8 @@ export interface ShopeeNode {
 }
 
 export const QUERY_PRODUCT_OFFER = `
-  query ($keyword: String, $productCatId: Int, $sortType: Int, $page: Int, $limit: Int) {
-    productOfferV2(keyword: $keyword, productCatId: $productCatId, sortType: $sortType, page: $page, limit: $limit) {
+  query ($keyword: String, $productCatId: Int, $listType: Int, $sortType: Int, $page: Int, $limit: Int) {
+    productOfferV2(keyword: $keyword, productCatId: $productCatId, listType: $listType, sortType: $sortType, page: $page, limit: $limit) {
       nodes {
         itemId shopId productName price priceMin priceDiscountRate sales ratingStar
         imageUrl shopName shopType productLink offerLink commissionRate periodEndTime
@@ -97,12 +97,24 @@ export interface ShopeeOptions {
   query?: string;
   /** id de categoria da Shopee (productCatId) */
   shopeeCategory?: number;
+  /**
+   * Lista pronta da Shopee (listType da API, sem documentação oficial). Testado:
+   * 2 = produtos com desconto alto e muitas vendas ("mais vendidos em promoção");
+   * 0 = lista genérica; 1 = vazia; 3+ exigem matchId.
+   */
+  lista?: number;
   minDiscount: number;
   /** vendas mínimas do anúncio (compensa o desconto ser declarado) */
   minVendas: number;
   /** avaliação mínima (0–5) */
   minAvaliacao: number;
   limit?: number;
+}
+
+/** `fonte` gravada na oferta (e chave da categoria em config.json). */
+export function shopeeFonte(o: { lista?: number; shopeeCategory?: number; query?: string }) {
+  if (o.lista !== undefined) return `shopee:lista:${o.lista}`;
+  return o.shopeeCategory ? `shopee:${o.shopeeCategory}` : `shopee:q:${o.query}`;
 }
 
 /** id único no nosso sistema: SP<shopId>-<itemId> (parseável pelo /ir/ do site). */
@@ -134,6 +146,7 @@ function paraOferta(n: ShopeeNode, fonte: string, opts: ShopeeOptions): MlItem |
     shipping: undefined,
     oficial: false,
     fonte,
+    vendas: num(n.sales) || null,
     sellerId: num(n.shopId),
     lojaOficial: n.shopType === 1,
     loja: n.shopType === 1 ? (n.shopName ?? null) : null,
@@ -152,12 +165,14 @@ export async function searchShopeeDeals(opts: ShopeeOptions): Promise<MlItem[]> 
     {
       keyword: opts.query ?? null,
       productCatId: opts.shopeeCategory ?? null,
-      sortType: SORT_MAIS_VENDIDOS,
+      listType: opts.lista ?? null,
+      // A lista pronta já vem na ordem da Shopee; ordenar por vendas só nas buscas.
+      sortType: opts.lista !== undefined ? null : SORT_MAIS_VENDIDOS,
       page: 1,
       limit: opts.limit ?? 50,
     },
   );
-  const fonte = opts.shopeeCategory ? `shopee:${opts.shopeeCategory}` : `shopee:q:${opts.query}`;
+  const fonte = shopeeFonte(opts);
   return (data.productOfferV2?.nodes ?? [])
     .map((n) => paraOferta(n, fonte, opts))
     .filter((o): o is MlItem => o !== null);
