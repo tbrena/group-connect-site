@@ -113,7 +113,7 @@ const faq = [
   {
     question: "Que tipo de oferta vocês publicam?",
     answer:
-      "Ofertas do Mercado Livre em eletrodomésticos, eletrônicos, informática, beleza, casa, brinquedos, games, esportes e mais. Em breve, Shopee.",
+      "Ofertas do Mercado Livre e da Shopee em eletrodomésticos, eletrônicos, informática, beleza, casa, brinquedos, games, esportes e mais.",
   },
   {
     question: "Como vocês sabem que o desconto é real?",

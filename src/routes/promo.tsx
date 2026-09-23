@@ -93,6 +93,7 @@ function Promo() {
 
   const [soLojaOficial, setSoLojaOficial] = useState(false);
   const [soNovas, setSoNovas] = useState(false);
+  const [soShopee, setSoShopee] = useState(false);
   const [busca, setBusca] = useState("");
   // Só no PC do dono (localhost): o preview do Lovable também roda em modo dev, mas lá
   // o botão não funciona (sem .env) e só confunde.
@@ -101,6 +102,7 @@ function Promo() {
   const [ordem, setOrdem] = useState<Ordem>("destaques");
   const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
   const totalNovas = ofertas.filter((o) => ehNova(o)).length;
+  const totalShopee = ofertas.filter((o) => o.marketplace === "shopee").length;
 
   const termo = normalizar(busca.trim());
   const filtradas = ofertas.filter(
@@ -108,6 +110,7 @@ function Promo() {
       (!categoria || (o.categoria ?? SEM_CATEGORIA) === categoria) &&
       (!soLojaOficial || o.lojaOficial) &&
       (!soNovas || ehNova(o)) &&
+      (!soShopee || o.marketplace === "shopee") &&
       (!termo || normalizar(`${o.title} ${o.loja ?? ""} ${o.categoria ?? ""}`).includes(termo)),
   );
   // "destaques" é a ordem do bot (campanha oficial primeiro, depois maior desconto real).
@@ -179,7 +182,7 @@ function Promo() {
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-center text-base text-muted-foreground sm:text-lg">
             {ofertas.length > 0
-              ? `${ofertas.length} ofertas do Mercado Livre com desconto de verdade. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
+              ? `${ofertas.length} ofertas do Mercado Livre e da Shopee com desconto de verdade. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
               : "Estamos garimpando as ofertas de hoje. Volte daqui a pouco!"}
           </p>
           {atualizadoEm && (
@@ -250,6 +253,11 @@ function Promo() {
               {totalNovas > 0 && (
                 <Chip ativo={soNovas} onClick={alternarNovas}>
                   🆕 Novas ({totalNovas})
+                </Chip>
+              )}
+              {totalShopee > 0 && (
+                <Chip ativo={soShopee} onClick={() => setSoShopee(!soShopee)}>
+                  🛒 Shopee ({totalShopee})
                 </Chip>
               )}
               {categorias.map(([nome, qtd]) => (
