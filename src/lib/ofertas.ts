@@ -108,17 +108,21 @@ export const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency",
 
 /**
  * Carrega o JSON no cliente para não travar o SSR e para as seções sumirem
- * sozinhas quando não há ofertas. `recarregar` busca de novo sem cache — é o
- * que o botão de atualizar usa para pegar a versão recém-publicada.
+ * sozinhas quando não há ofertas. `iniciais` (vindas do servidor, no /promo)
+ * aparecem já no primeiro render; a lista completa chega logo depois.
+ * `recarregar` busca de novo sem cache — é o que o botão de atualizar usa para
+ * pegar a versão recém-publicada.
  */
-export function useOfertas() {
-  const [ofertas, setOfertas] = useState<Oferta[]>([]);
+export function useOfertas(iniciais: Oferta[] = []) {
+  const [ofertas, setOfertas] = useState<Oferta[]>(iniciais);
   const [carregando, setCarregando] = useState(true);
 
   const recarregar = useCallback(async () => {
     setCarregando(true);
     try {
-      setOfertas(await buscarOfertas());
+      const novas = await buscarOfertas();
+      // Falha na busca não apaga o que já está na tela (as iniciais do servidor).
+      setOfertas((atuais) => (novas.length > 0 ? novas : atuais));
     } finally {
       setCarregando(false);
     }

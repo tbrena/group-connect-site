@@ -13,6 +13,7 @@ import {
   useOfertas,
   type Oferta,
 } from "@/lib/ofertas";
+import { OFERTAS_POR_PAGINA, carregarOfertasIniciais } from "@/lib/ofertas-servidor";
 import {
   SITE_NAME,
   SITE_URL,
@@ -27,6 +28,8 @@ const PAGE_DESCRIPTION =
 
 export const Route = createFileRoute("/promo")({
   component: Promo,
+  // Primeiras ofertas já no HTML (SEO e prévia de link); se falhar, a página busca no navegador.
+  loader: () => carregarOfertasIniciais().catch(() => ({ ofertas: [] as Oferta[], total: 0 })),
   head: () => ({
     meta: [
       { title: PAGE_TITLE },
@@ -84,8 +87,44 @@ function Chip({
   );
 }
 
+/**
+ * Lista de produtos para o Google (schema.org ItemList), com as ofertas que já
+ * vêm no HTML. `<` escapado para um título nunca fechar a tag <script>.
+ */
+function dadosEstruturados(ofertas: Oferta[]): string {
+  const dados = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: PAGE_TITLE,
+    itemListElement: ofertas.slice(0, 30).map((o, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "Product",
+        name: o.title,
+        image: o.image,
+        offers: {
+          "@type": "Offer",
+          price: o.price.toFixed(2),
+          priceCurrency: "BRL",
+          availability: "https://schema.org/InStock",
+          url: o.url,
+          seller: {
+            "@type": "Organization",
+            name: o.loja || (o.marketplace === "shopee" ? "Shopee" : "Mercado Livre"),
+          },
+        },
+      },
+    })),
+  };
+  return JSON.stringify(dados).replace(/</g, "\\u003c");
+}
+
 function Promo() {
-  const { ofertas, recarregar } = useOfertas();
+  const iniciais = Route.useLoaderData();
+  const { ofertas, carregando, recarregar } = useOfertas(iniciais.ofertas);
+  // Até a lista completa chegar, o topo mostra o total que o servidor contou.
+  const totalOfertas = carregando ? Math.max(iniciais.total, ofertas.length) : ofertas.length;
   const [categoria, setCategoria] = useState<string | null>(null);
 
   const [soLojaOficial, setSoLojaOficial] = useState(false);
@@ -160,6 +199,14 @@ function Promo() {
   const comparador = ordenar[ordem];
   const visiveis = comparador ? [...filtradas].sort(comparador) : filtradas;
 
+  // Cards em lotes: centenas de uma vez pesam no celular. Mudou o filtro, volta ao primeiro lote.
+  const [limite, setLimite] = useState(OFERTAS_POR_PAGINA);
+  useEffect(
+    () => setLimite(OFERTAS_POR_PAGINA),
+    [categoria, soLojaOficial, soNovas, loja, busca, ordem],
+  );
+  const naTela = visiveis.slice(0, limite);
+
   /** Ligar a aba Novas passa a ordenar por chegada, a menos que a pessoa já tenha escolhido outra ordem. */
   function alternarNovas() {
     const ligar = !soNovas;
@@ -176,6 +223,13 @@ function Promo() {
 
   return (
     <main className="relative flex min-h-screen flex-col overflow-hidden bg-background text-foreground">
+      {iniciais.ofertas.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: dadosEstruturados(iniciais.ofertas) }}
+        />
+      )}
+
       {/* Ambient grid */}
       <div className="pointer-events-none absolute inset-0 bg-grid opacity-40" aria-hidden />
       <div
@@ -218,8 +272,8 @@ function Promo() {
             Promoções de <span className="text-ninja text-glow">hoje</span>
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-center text-base text-muted-foreground sm:text-lg">
-            {ofertas.length > 0
-              ? `${ofertas.length} ofertas do Mercado Livre e da Shopee. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
+            {totalOfertas > 0
+              ? `${totalOfertas} ofertas do Mercado Livre e da Shopee. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
               : "Estamos garimpando as ofertas de hoje. Volte daqui a pouco!"}
           </p>
           {atualizadoEm && (
@@ -344,12 +398,27 @@ function Promo() {
 
           {visiveis.length > 0 && (
             <ul className="mt-8 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-4">
-              {visiveis.map((oferta) => (
+              {naTela.map((oferta) => (
                 <li key={oferta.id}>
                   <OfertaCard oferta={oferta} compartilhar />
                 </li>
               ))}
             </ul>
+          )}
+
+          {visiveis.length > naTela.length && (
+            <div className="mt-8 flex flex-col items-center gap-2">
+              <button
+                type="button"
+                onClick={() => setLimite((l) => l + OFERTAS_POR_PAGINA)}
+                className="rounded-full border border-ninja/40 bg-ninja/10 px-6 py-3 text-sm font-bold text-ninja transition-colors hover:bg-ninja/20"
+              >
+                Ver mais ofertas
+              </button>
+              <p className="text-xs text-muted-foreground">
+                {`Mostrando ${naTela.length} de ${visiveis.length}`}
+              </p>
+            </div>
           )}
         </div>
       </section>
