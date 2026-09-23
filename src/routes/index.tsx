@@ -1,13 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import {
-  MessageCircle,
-  Percent,
-  Zap,
-  ShoppingCart,
-  Check,
-  BellRing,
-  Tag,
-} from "lucide-react";
+import { MessageCircle, Percent, Zap, ShoppingCart, Check, BellRing, Tag } from "lucide-react";
 
 import {
   Accordion,
@@ -103,7 +95,7 @@ const faq = [
   {
     question: "Vou receber spam ou mensagens demais?",
     answer:
-      "No Telegram saem cerca de 10 ofertas por hora, todas com desconto real. No WhatsApp mandamos as melhores do dia. Se preferir só olhar quando quiser, a página de promoções tem tudo, com busca e filtros.",
+      "No Telegram saem cerca de 15 ofertas por hora, todas com desconto real. No WhatsApp mandamos as melhores do dia. Se preferir só olhar quando quiser, a página de promoções tem tudo, com busca e filtros.",
   },
   {
     question: "Preciso me cadastrar ou informar meus dados?",

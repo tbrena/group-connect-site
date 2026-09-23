@@ -58,20 +58,38 @@ const QUEDA_MINIMA_PARA_REPOSTAR = 0.05;
 const INTERVALO_MINIMO_REPOST_MS = 24 * 60 * 60 * 1000;
 
 /** Estado de "já publicada": só o timestamp (formato antigo) ou timestamp + id da mensagem no canal. */
-type Publicada = number | { ts: number; msg?: number; price?: number; productId?: string };
+type Publicada =
+  number | { ts: number; msg?: number; price?: number; productId?: string; titulo?: string };
 const tsDe = (p: Publicada | undefined) => (typeof p === "number" ? p : p?.ts);
 
 /**
- * Já foi postada (este anúncio OU outro anúncio do mesmo produto) sem que o preço
- * tenha caído de verdade desde então? "Mesma promoção de novo" é o que mais irrita
- * quem acompanha o canal: sem queda ≥5% e 24 h passadas, não reposta.
+ * Título normalizado (sem acento, caixa, pontuação e espaços repetidos). Na Shopee
+ * o mesmo produto é anunciado por várias lojas com o título idêntico e cada anúncio
+ * tem um id diferente — o título é o que denuncia que é "a mesma oferta".
+ */
+const chaveTitulo = (t: string) =>
+  t
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+
+/**
+ * Já foi postada (este anúncio, outro anúncio do mesmo produto, ou um anúncio com o
+ * mesmo título) sem que o preço tenha caído de verdade desde então? "Mesma promoção
+ * de novo" é o que mais irrita quem acompanha o canal: sem queda ≥5% e 24 h
+ * passadas, não reposta.
  */
 function jaPostadaSemQueda(published: Record<string, Publicada>, item: MlItem, now: number) {
+  const titulo = chaveTitulo(item.title);
   const registros = Object.entries(published)
     .map(([id, p]) => ({ id, p }))
     .filter(
       ({ id, p }) =>
-        id === item.id || (typeof p === "object" && p.productId && p.productId === item.productId),
+        id === item.id ||
+        (typeof p === "object" &&
+          ((p.productId && p.productId === item.productId) || (p.titulo && p.titulo === titulo))),
     );
   for (const { p } of registros) {
     const ts = tsDe(p) ?? 0;
@@ -272,6 +290,13 @@ async function main() {
   const criterioShopee = config.shopee ?? { minDiscount: 30, minVendas: 100, minAvaliacao: 4.5 };
   const published = await readJson<Record<string, Publicada>>(STATE_FILE, {});
   const siteOffers = await readJson<SiteOffer[]>(SITE_FILE, []);
+  // Postagens de antes do registro de título: preenche pelo site, para a proteção
+  // contra repost por título valer também para elas.
+  const tituloNoSite = new Map(siteOffers.map((o) => [o.id, chaveTitulo(o.title)] as const));
+  for (const [id, p] of Object.entries(published)) {
+    const titulo = tituloNoSite.get(id);
+    if (typeof p === "object" && !p.titulo && titulo) p.titulo = titulo;
+  }
   await carregarHistorico();
   await carregarCacheProdutos();
   await carregarCacheVendedores();
@@ -319,7 +344,20 @@ async function main() {
 
   // 2. Campanhas oficiais do ML primeiro, depois maior desconto real; limitado por execução.
   candidates.sort((a, b) => Number(b.oficial) - Number(a.oficial) || b.discount - a.discount);
-  const picked = candidates.slice(0, MAX_ARG || config.maxPerRun);
+  // Sem repetir dentro da rodada: o mesmo produto pode vir de duas buscas (categoria e
+  // palavra-chave) com anúncios diferentes, e na Shopee várias lojas usam o mesmo título.
+  const limite = MAX_ARG || config.maxPerRun;
+  const picked: MlItem[] = [];
+  const produtosDaRodada = new Set<string>();
+  const titulosDaRodada = new Set<string>();
+  for (const c of candidates) {
+    if (picked.length >= limite) break;
+    const titulo = chaveTitulo(c.title);
+    if (produtosDaRodada.has(c.productId) || titulosDaRodada.has(titulo)) continue;
+    produtosDaRodada.add(c.productId);
+    titulosDaRodada.add(titulo);
+    picked.push(c);
+  }
   const hist = tamanhoHistorico();
   console.log(
     `${candidates.length} candidatos, publicando ${picked.length}${DRY ? " (dry-run)" : ""} · histórico: ${hist.produtos} produtos, ${hist.observacoes} observações`,
@@ -373,6 +411,7 @@ async function main() {
         msg: enviada.result?.message_id,
         price: item.price,
         productId: item.productId,
+        titulo: chaveTitulo(item.title),
       };
     } catch (err) {
       console.error(`  post de ${item.id} falhou: ${(err as Error).message}`);
