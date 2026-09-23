@@ -13,6 +13,8 @@
  */
 import { getAccessToken } from "./ml-client.ts";
 
+const DADOS = "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/ofertas.json";
+
 const NAVEGADOR = {
   "user-agent":
     "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
@@ -166,3 +168,50 @@ console.log("── 1. Páginas públicas ────────────�
 for (const p of PAGINAS) await abrirPagina(p);
 console.log("\n── 2. API do Mercado Livre ──────────────────────────────────");
 await sondarApi();
+
+/** Campos com cara de cupom/promoção, em qualquer profundidade (dados do produto, não da conta). */
+function camposDePromocao(obj: unknown, caminho = "", saida: string[] = []): string[] {
+  if (!obj || typeof obj !== "object" || saida.length >= 25) return saida;
+  for (const [k, v] of Object.entries(obj as Record<string, unknown>)) {
+    const aqui = caminho ? `${caminho}.${k}` : k;
+    if (/coupon|cupom|promo|deal|discount|campaign|sale_price|regular/i.test(k))
+      saida.push(`${aqui} = ${JSON.stringify(v)?.slice(0, 220)}`);
+    else if (v && typeof v === "object") camposDePromocao(v, aqui, saida);
+  }
+  return saida;
+}
+
+async function sondarProdutos(): Promise<void> {
+  const token = await getAccessToken().catch(() => null);
+  const headers: Record<string, string> = token ? { authorization: `Bearer ${token}` } : {};
+  const ofertas = (await (await fetch(DADOS)).json()) as Array<{
+    id: string;
+    productId?: string;
+    marketplace?: string;
+    title: string;
+  }>;
+  const amostra = ofertas.filter((o) => (o.marketplace ?? "ml") === "ml").slice(0, 4);
+  for (const o of amostra) {
+    console.log(`\n• ${o.id} (${o.productId ?? "sem produto"}) ${o.title.slice(0, 60)}`);
+    const caminhos = [
+      ...(o.productId ? [`/products/${o.productId}/items?limit=3`] : []),
+      `/items/${o.id}/sale_price?context=channel_marketplace`,
+      `/items/${o.id}/prices`,
+      `/seller-promotions/items/${o.id}?app_version=v2`,
+    ];
+    for (const c of caminhos) {
+      try {
+        const res = await fetch(`${API}${c}`, { headers, signal: AbortSignal.timeout(15_000) });
+        const json: unknown = await res.json().catch(() => null);
+        const achados = camposDePromocao(json);
+        console.log(`   ${res.status}  ${c}`);
+        for (const a of achados) console.log(`      ${a}`);
+      } catch (err) {
+        console.log(`   ERRO ${c}: ${(err as Error).message}`);
+      }
+    }
+  }
+}
+
+console.log('\n── 3. Cupom por produto ("R$ 20 OFF com Cupom") na API ──────');
+await sondarProdutos();
