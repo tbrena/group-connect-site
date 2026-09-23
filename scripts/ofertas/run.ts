@@ -312,6 +312,12 @@ async function main() {
   const seen = new Set<string>();
   const candidates: MlItem[] = [];
   let buscasFalhas = 0;
+  // Para onde foram os itens (diagnóstico quando a rodada vem vazia).
+  const funil = {
+    ml: { buscas: 0, vazias: 0, itens: 0 },
+    shopee: { buscas: 0, vazias: 0, itens: 0 },
+    descartes: { repetido: 0, precoMinimo: 0, descontoAlto: 0, jaPostada: 0 },
+  };
   for (const busca of config.buscas) {
     try {
       const items =
@@ -324,12 +330,28 @@ async function main() {
               ...criterioShopee,
             })
           : await searchDeals({ ...busca, ...criterio });
+      const f = funil[busca.fonte === "shopee" ? "shopee" : "ml"];
+      f.buscas++;
+      f.itens += items.length;
+      if (items.length === 0) f.vazias++;
       for (const item of items) {
-        if (seen.has(item.id)) continue;
+        if (seen.has(item.id)) {
+          funil.descartes.repetido++;
+          continue;
+        }
         seen.add(item.id);
-        if (item.price < config.minPrice) continue;
-        if (item.discount > config.maxDiscount) continue;
-        if (jaPostadaSemQueda(published, item, now)) continue;
+        if (item.price < config.minPrice) {
+          funil.descartes.precoMinimo++;
+          continue;
+        }
+        if (item.discount > config.maxDiscount) {
+          funil.descartes.descontoAlto++;
+          continue;
+        }
+        if (jaPostadaSemQueda(published, item, now)) {
+          funil.descartes.jaPostada++;
+          continue;
+        }
         candidates.push(item);
       }
     } catch (err) {
@@ -337,6 +359,12 @@ async function main() {
       console.error(`Busca ${JSON.stringify(busca)} falhou:`, (err as Error).message);
     }
   }
+  console.log(
+    `funil: ML ${funil.ml.itens} ofertas em ${funil.ml.buscas} buscas (${funil.ml.vazias} vazias) · ` +
+      `Shopee ${funil.shopee.itens} em ${funil.shopee.buscas} (${funil.shopee.vazias} vazias) · ` +
+      `descartes ${JSON.stringify(funil.descartes)} · 404 da API ML ${JSON.stringify(estatisticas.naoEncontrado)} · ` +
+      `${estatisticas.requisicoes} requisições`,
+  );
   // Se a API do ML caiu (metade das buscas falhou, ou nada passou), não publicar um site
   // vazio por cima do bom: sai com erro para o Actions ficar vermelho.
   if (

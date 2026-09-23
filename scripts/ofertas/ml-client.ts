@@ -81,7 +81,13 @@ export async function getAccessToken(): Promise<string> {
 }
 
 /** Contadores da rodada, para o log mostrar o peso na API. */
-export const estatisticas = { requisicoes: 0, cache: 0, repeticoes: 0 };
+export const estatisticas = {
+  requisicoes: 0,
+  cache: 0,
+  repeticoes: 0,
+  /** 404 por endpoint ("highlights", "products"…): muitos de uma vez = API mudou ou bloqueou */
+  naoEncontrado: {} as Record<string, number>,
+};
 
 const MAX_TENTATIVAS = 4;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -97,7 +103,11 @@ async function apiGet<T>(pathname: string): Promise<T | null> {
     const res = await fetch(`${API}${pathname}`, {
       headers: { authorization: `Bearer ${await getAccessToken()}`, accept: "application/json" },
     });
-    if (res.status === 404) return null;
+    if (res.status === 404) {
+      const rota = pathname.split("/")[1] ?? "?";
+      estatisticas.naoEncontrado[rota] = (estatisticas.naoEncontrado[rota] ?? 0) + 1;
+      return null;
+    }
     if (res.ok) return (await res.json()) as T;
 
     const transitorio = res.status === 429 || res.status >= 500;
