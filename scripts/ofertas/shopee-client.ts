@@ -165,9 +165,11 @@ export async function searchShopeeDeals(opts: ShopeeOptions): Promise<MlItem[]> 
     {
       keyword: opts.query ?? null,
       productCatId: opts.shopeeCategory ?? null,
-      listType: opts.lista ?? null,
+      // undefined (e não null) some do JSON: a Shopee recusa listType/sortType nulos
+      // explícitos ("got null for non-null") — foi o que derrubou as buscas por palavra.
+      listType: opts.lista,
       // A lista pronta já vem na ordem da Shopee; ordenar por vendas só nas buscas.
-      sortType: opts.lista !== undefined ? null : SORT_MAIS_VENDIDOS,
+      sortType: opts.lista !== undefined ? undefined : SORT_MAIS_VENDIDOS,
       page: 1,
       limit: opts.limit ?? 50,
     },
@@ -187,11 +189,13 @@ export async function revalidarShopee(
   if (!shopeeConfigurada()) return null;
   const m = /^SP(\d+)-(\d+)$/.exec(id);
   if (!m) return null;
+  // itemId vai literal na consulta (só dígitos, garantido pela regex acima): como
+  // variável JSON a Shopee respondia "wrong type" para o Int64 e toda revalidação falhava.
   const data = await shopeeGraphQL<{ productOfferV2: { nodes: ShopeeNode[] } }>(
-    `query ($itemId: Int64) { productOfferV2(itemId: $itemId) { nodes {
+    `query { productOfferV2(itemId: ${m[2]}) { nodes {
        itemId shopId productName price priceMin priceDiscountRate sales ratingStar
        imageUrl shopName shopType productLink offerLink commissionRate periodEndTime } } }`,
-    { itemId: Number(m[2]) },
+    {},
   );
   const n = data.productOfferV2?.nodes?.[0];
   return n ? paraOferta(n, fonte, opts) : null;
