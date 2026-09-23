@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELICOMPRAS"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Achados",
+    "origem": "avidaefeitadedesconto/16028",
+    "quando": "2026-09-23T04:02:07+00:00",
+    "id": "ml:MELICOMPRAS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ESTOQUE2209"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 49",
+    "escopo": "Queima de Estoque",
+    "origem": "avidaefeitadedesconto/16023",
+    "quando": "2026-09-22T18:05:04+00:00",
+    "id": "ml:ESTOQUE2209",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELIACHAPROMOS"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 19",
+    "escopo": "Construção e Indústria",
+    "origem": "avidaefeitadedesconto/16020",
+    "quando": "2026-09-22T14:43:35+00:00",
+    "id": "ml:MELIACHAPROMOS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELIDESCONTEI"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16016",
+    "quando": "2026-09-22T12:10:37+00:00",
+    "id": "ml:MELIDESCONTEI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTAHJ"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/16015",
+    "quando": "2026-09-22T12:02:07+00:00",
+    "id": "ml:OFERTAHJ",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MLCUPOM"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Lista Especial",
+    "origem": "avidaefeitadedesconto/16014",
+    "quando": "2026-09-22T12:02:01+00:00",
+    "id": "ml:MLCUPOM",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELINOCARRINHO"
+    ],
+    "desconto": "22% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Produtos Selecionados",
+    "origem": "avidaefeitadedesconto/16013",
+    "quando": "2026-09-22T12:01:52+00:00",
+    "id": "ml:MELINOCARRINHO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  }
+]
