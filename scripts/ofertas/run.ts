@@ -392,13 +392,18 @@ async function main() {
   const porLoja: Record<MlItem["marketplace"], MlItem[]> = { ml: [], shopee: [] };
   const produtosDaRodada = new Set<string>();
   const titulosDaRodada = new Set<string>();
+  // Shopee: uma oferta por loja na rodada — a mesma loja anuncia o mesmo produto com
+  // títulos diferentes (ex.: dois "Ventilador de Teto 80w" seguidos no canal).
+  const lojasShopeeDaRodada = new Set<number>();
   for (const c of candidates) {
     const fila = porLoja[c.marketplace];
     if (fila.length >= cota(c.marketplace)) continue;
     const titulo = chaveTitulo(c.title);
     if (produtosDaRodada.has(c.productId) || titulosDaRodada.has(titulo)) continue;
+    if (c.marketplace === "shopee" && lojasShopeeDaRodada.has(c.sellerId)) continue;
     produtosDaRodada.add(c.productId);
     titulosDaRodada.add(titulo);
+    if (c.marketplace === "shopee") lojasShopeeDaRodada.add(c.sellerId);
     fila.push(c);
   }
   // Intercala (ML, Shopee, ML…) para o canal não ter uma sequência só de uma loja;
