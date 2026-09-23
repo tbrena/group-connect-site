@@ -49,6 +49,8 @@ const SITE_FILE = path.resolve("public/ofertas.json");
 const CONFIG_FILE = path.resolve("scripts/ofertas/config.json");
 /** Registro de "já publicada" é guardado por 30 dias (limpeza do arquivo). */
 const REPEAT_AFTER_MS = 30 * 24 * 60 * 60 * 1000;
+/** Fração do siteMax reservada às ofertas já postadas no Telegram; o resto é disputado pelo critério. */
+const GARANTIDAS_MAX_FRACAO = 0.7;
 /** Um PRODUTO só volta ao canal se o preço caiu pelo menos isto desde o último post… */
 const QUEDA_MINIMA_PARA_REPOSTAR = 0.05;
 /** …e nunca antes de 24 h, mesmo com queda. */
@@ -240,7 +242,7 @@ async function main() {
     minReputacao: 4,
     somenteLojaOficial: false,
     maxPerRun: 5,
-    siteMax: 99,
+    siteMax: 500,
     minPrice: 0,
     buscas: [],
   });
@@ -433,16 +435,27 @@ async function main() {
       ...toSiteOffer(item, now),
       publishedAt: entradaAnterior.get(item.id) ?? new Date(now).toISOString(),
     }));
-  // Vagas: as postadas no Telegram nos últimos 7 dias têm lugar garantido (o link /ir/
-  // delas precisa de prévia e comissão); o resto — antigas e novas — compete pelo
-  // critério do bot, para oferta nova boa não ficar de fora só porque chegou depois.
+  // Vagas: as postadas no Telegram têm lugar garantido (a prévia do link /ir/ delas usa
+  // o site) — mas só até GARANTIDAS_MAX_FRACAO do siteMax, as mais recentes primeiro.
+  // Sem esse teto o pool de postadas (30 dias × ~10 posts a cada 45 min) passava de
+  // 800 e ocupava o site inteiro: nada novo entrava, nem a Shopee. As postadas que
+  // ficam fora do teto não somem: disputam a vaga pelo critério junto com as novas,
+  // e o redirect /ir/ delas continua funcionando mesmo fora do site.
   const ordenar = (a: SiteOffer, b: SiteOffer) =>
     Number(b.oficial) - Number(a.oficial) || b.discount - a.discount;
-  const garantidas = revalidadas.filter((o) => tsDe(published[o.id]) !== undefined);
-  const disputam = [...revalidadas.filter((o) => tsDe(published[o.id]) === undefined), ...novos];
+  const vagasGarantidas = Math.floor(config.siteMax * GARANTIDAS_MAX_FRACAO);
+  const postadas = revalidadas
+    .filter((o) => tsDe(published[o.id]) !== undefined)
+    .sort((a, b) => (tsDe(published[b.id]) ?? 0) - (tsDe(published[a.id]) ?? 0));
+  const garantidas = postadas.slice(0, vagasGarantidas);
+  const disputam = [
+    ...postadas.slice(vagasGarantidas),
+    ...revalidadas.filter((o) => tsDe(published[o.id]) === undefined),
+    ...novos,
+  ];
   const site = [...garantidas.sort(ordenar), ...disputam.sort(ordenar)].slice(0, config.siteMax);
   console.log(
-    `site: ${garantidas.length} postadas garantidas + ${site.length - garantidas.length} por critério (${revalidadas.length} antigas revalidadas, ${removidas} removidas, ${erros} com erro mantidas, ${novos.length} novas candidatas) = ${site.length}`,
+    `site: ${garantidas.length} postadas garantidas (de ${postadas.length}, teto ${vagasGarantidas}) + ${site.length - garantidas.length} por critério (${revalidadas.length} antigas revalidadas, ${removidas} removidas, ${erros} com erro mantidas, ${novos.length} novas candidatas) = ${site.length}`,
   );
 
   // 5. Persiste estado, histórico e o JSON do site.

@@ -45,7 +45,7 @@ npm run ofertas           # publica no Telegram e atualiza public/ofertas.json
 
 - Buscas, desconto mínimo/máximo e quantidade por rodada: `scripts/ofertas/config.json`
 - Token do ML (Client Credentials, 6h) e histórico do que já foi publicado ficam em `.ofertas/` (ignorado pelo git)
-- Uma oferta não repete por 7 dias; a home mostra 6 e `/promo` mostra até `siteMax` (99)
+- A home mostra 6 ofertas e `/promo` mostra até `siteMax` (500); no máximo 70% das vagas ficam com ofertas já postadas no Telegram (as mais recentes), o resto é disputado por ofertas novas
 
 ### Fonte Shopee (dormente até ter chave)
 
