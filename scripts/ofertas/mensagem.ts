@@ -34,6 +34,8 @@ export interface DadosMensagem {
   categoria?: string | null | undefined;
   /** 🥇🥈🥉 das 3 melhores da rodada (só posts novos); no lugar do emoji da categoria */
   medalha?: string | undefined;
+  /** cupom de categoria que baixa mais o preço (scripts/ofertas/cupons-telegram.ts) */
+  cupom?: { codigo: string; precoFinal: number; regra: string } | undefined;
 }
 
 /** "+56 mil" / "+1,2 mil" / "463" — como os apps mostram. */
@@ -72,7 +74,10 @@ export interface Botao {
 const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 
 /** Linhas comuns à legenda e ao texto do WhatsApp, já com a formatação de cada um. */
-function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) => string }) {
+function linhas(
+  d: DadosMensagem,
+  f: { b: (s: string) => string; s: (s: string) => string; code?: (s: string) => string },
+) {
   const out: string[] = [];
   const { emoji, frase } = chamadaDaOferta(d.categoria, d.id);
   out.push(`${d.medalha ?? emoji} ${f.b(frase)}`, "");
@@ -91,6 +96,13 @@ function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) 
       `✅ Por: ${f.b(brl(d.price))}`,
     );
   }
+  // "Pode sair por": o cupom vale para a categoria, mas a loja decide que produtos participam.
+  if (d.cupom) {
+    out.push(
+      `🎟️ Com o cupom ${(f.code ?? f.b)(d.cupom.codigo)}: pode sair por ${f.b(brl(d.cupom.precoFinal))}`,
+      `     (${d.cupom.regra}; se o produto participar)`,
+    );
+  }
   // Prova social: só a partir de 100 vendas, que é quando o número impressiona.
   if (d.vendas && d.vendas >= 100) out.push(`🛍️ ${formatarVendas(d.vendas)} vendidos`);
   if (d.lowest30d) out.push("📉 Menor preço dos últimos 30 dias");
@@ -104,7 +116,12 @@ function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) 
 export function legendaTelegram(d: DadosMensagem): string {
   const esc = { ...d, title: escapeHtml(d.title) };
   return [
-    ...linhas(esc, { b: (s) => `<b>${s}</b>`, s: (s) => `<s>${s}</s>` }),
+    ...linhas(esc, {
+      b: (s) => `<b>${s}</b>`,
+      s: (s) => `<s>${s}</s>`,
+      // <code>: no Telegram, tocar copia o cupom
+      code: (s) => `<code>${escapeHtml(s)}</code>`,
+    }),
     "",
     `🛒 <a href="${linkRastreado(d, "tg")}">${nomeDoMarketplace(d)}</a>`,
     "",

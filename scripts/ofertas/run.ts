@@ -27,7 +27,12 @@ import {
   searchDeals,
   type MlItem,
 } from "./ml-client.ts";
-import { rodadaDeCupons, type ConfigCupons } from "./cupons-telegram.ts";
+import {
+  cuponsDeCategoria,
+  melhorCupom,
+  rodadaDeCupons,
+  type ConfigCupons,
+} from "./cupons-telegram.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
 import { medalhaDaPosicao } from "../../src/lib/chamadas.ts";
@@ -439,10 +444,14 @@ async function main() {
       `Telegram pulado nesta rodada: última postagem há ${minutosDesdeUltima} min (mínimo ${MIN_INTERVALO_POSTS_MS / 60_000}). Site será atualizado.\n`,
     );
   }
+  // Cupons de categoria das últimas 12 h (coletados na rodada anterior) para ir junto na oferta.
+  const cupons = await cuponsDeCategoria(12).catch(() => []);
   for (const [posicao, item] of picked.entries()) {
     const link = linkRastreado(item, "tg");
     // picked já vem do melhor para o pior: as 3 primeiras da rodada ganham medalha.
-    const dados = { ...dadosDe(item), medalha: medalhaDaPosicao(posicao) };
+    const base = dadosDe(item);
+    const cupom = melhorCupom({ ...base, marketplace: item.marketplace }, cupons) ?? undefined;
+    const dados = { ...base, medalha: medalhaDaPosicao(posicao), cupom };
     const text = legendaTelegram(dados);
     const etiquetas = [
       item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",

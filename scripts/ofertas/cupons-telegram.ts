@@ -301,6 +301,105 @@ export async function rodadaDeCupons(cfg: ConfigCupons, postar: boolean): Promis
   }
 }
 
+/**
+ * Categorias do site cobertas pelo escopo de um cupom ("Tecnologia e Eletrodomésticos").
+ * Cupom de lista/seleção de afiliado ("Achados", "Seleção de Produtos") não casa com
+ * nada: não há como saber que produtos estão na lista, então não vai em oferta nenhuma.
+ */
+const ESCOPOS: Array<[RegExp, string[]]> = [
+  [/tecnologia/i, ["Informática", "Eletrônicos", "Celulares", "Smartwatches", "Games"]],
+  [/eletrodom|eletroport/i, ["Eletrodomésticos"]],
+  [/inform[aá]tica|computador|notebook/i, ["Informática"]],
+  [/celular|smartphone/i, ["Celulares"]],
+  [/eletr[oô]nicos/i, ["Eletrônicos"]],
+  [/beleza|perfum/i, ["Beleza"]],
+  [/sa[uú]de/i, ["Saúde"]],
+  [/casa|decora|m[oó]ve/i, ["Casa e Decoração"]],
+  [/moda|cal[çc]ado|roupa|t[eê]nis/i, ["Moda e Calçados"]],
+  [/esporte|fitness|suplemento/i, ["Esportes"]],
+  [/brinquedo/i, ["Brinquedos"]],
+  [/\bgames?\b|videogame|gamer/i, ["Games"]],
+  [/\bpets?\b/i, ["Pet"]],
+  [/beb[eê]s?\b/i, ["Bebês"]],
+  [/ferramenta|constru/i, ["Ferramentas"]],
+  [/automotiv|\bcarros?\b|ve[ií]culo/i, ["Automotivo"]],
+  [/supermercado|\bmercado\b/i, ["Mercado"]],
+];
+
+export function categoriasDoCupom(escopo: string | null): Set<string> {
+  const cats = new Set<string>();
+  if (escopo)
+    for (const [re, lista] of ESCOPOS) if (re.test(escopo)) lista.forEach((c) => cats.add(c));
+  return cats;
+}
+
+/** Cupons de categoria anunciados nas últimas `horas` (do public/cupons.json da rodada anterior). */
+export async function cuponsDeCategoria(horas: number, agora = Date.now()): Promise<SiteCupom[]> {
+  const todos = await lerJson<SiteCupom[]>(SITE_FILE, []);
+  return todos.filter(
+    (c) =>
+      c.codigos.length === 1 &&
+      c.desconto !== null &&
+      agora - new Date(c.quando).getTime() <= horas * HORA_MS &&
+      categoriasDoCupom(c.escopo).size > 0,
+  );
+}
+
+const reais = (v: string | null) =>
+  v === null
+    ? null
+    : Number(
+        v
+          .replace(/[^\d,.]/g, "")
+          .replace(/\./g, "")
+          .replace(",", "."),
+      );
+
+/** Cupom aplicado a uma oferta: código, preço com cupom e a regra em poucas palavras. */
+export interface CupomDaOferta {
+  codigo: string;
+  precoFinal: number;
+  regra: string;
+}
+
+/**
+ * O cupom de categoria que mais baixa o preço desta oferta (mesma loja, categoria
+ * coberta, compra mínima atingida), ou null. Economia abaixo de R$ 5 não vale a linha.
+ */
+export function melhorCupom(
+  oferta: { marketplace: Cupom["loja"]; categoria?: string | null | undefined; price: number },
+  cupons: SiteCupom[],
+): CupomDaOferta | null {
+  let melhor: CupomDaOferta | null = null;
+  for (const c of cupons) {
+    if (c.loja !== oferta.marketplace || !oferta.categoria) continue;
+    if (!categoriasDoCupom(c.escopo).has(oferta.categoria)) continue;
+    const minimo = reais(c.minimo);
+    if (minimo !== null && oferta.price < minimo) continue;
+    const pct = /^(\d+)% OFF$/.exec(c.desconto ?? "")?.[1];
+    const fixo = /^R\$ ([\d.,]+) OFF$/.exec(c.desconto ?? "")?.[1];
+    let economia = pct ? (oferta.price * Number(pct)) / 100 : fixo ? reais(fixo)! : 0;
+    const teto = reais(c.limite);
+    if (teto !== null) economia = Math.min(economia, teto);
+    economia = Math.floor(economia * 100) / 100;
+    if (economia < 5 || economia >= oferta.price) continue;
+    if (melhor && oferta.price - economia >= melhor.precoFinal) continue;
+    const regra = [
+      `${c.desconto}${c.escopo ? ` em ${c.escopo}` : ""}`,
+      c.limite && `até ${c.limite}`,
+      c.minimo && `mín. ${c.minimo}`,
+    ]
+      .filter(Boolean)
+      .join(", ");
+    melhor = {
+      codigo: c.codigos[0]!,
+      precoFinal: Math.round((oferta.price - economia) * 100) / 100,
+      regra,
+    };
+  }
+  return melhor;
+}
+
 // Teste: `node scripts/ofertas/cupons-telegram.ts canal1,canal2` só mostra, não posta.
 if (import.meta.url === `file://${process.argv[1]}`) {
   const canais = (process.argv[2] || "avidaefeitadedesconto")
