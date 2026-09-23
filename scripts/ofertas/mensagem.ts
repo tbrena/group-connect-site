@@ -2,6 +2,7 @@
  * Textos e botões de uma postagem — usados pelo run.ts (posts novos) e por
  * scripts avulsos que mexem em posts já publicados (a partir do ofertas.json).
  */
+import { chamadaDaOferta } from "../../src/lib/chamadas.ts";
 import { linkRastreado } from "./afiliado.ts";
 import { escapeHtml } from "./telegram.ts";
 
@@ -29,15 +30,19 @@ export interface DadosMensagem {
   marketplace?: "ml" | "shopee" | undefined;
   /** unidades vendidas do anúncio (Shopee) */
   vendas?: number | null | undefined;
+  /** nome da categoria no site — escolhe a chamada de efeito da primeira linha */
+  categoria?: string | null | undefined;
+  /** 🥇🥈🥉 das 3 melhores da rodada (só posts novos); no lugar do emoji da categoria */
+  medalha?: string | undefined;
 }
 
-/** "56 mil" / "1,2 mil" / "463" — como os apps mostram. */
+/** "+56 mil" / "+1,2 mil" / "463" — como os apps mostram. */
 export function formatarVendas(n: number): string {
   if (n < 1000) return String(n);
   const mil = n / 1000;
   // Trunca (nunca arredonda pra cima): prova social não pode inflar o número.
   const texto = mil < 10 ? String(Math.floor(mil * 10) / 10).replace(".", ",") : Math.floor(mil);
-  return `${texto} mil`;
+  return `+${texto} mil`;
 }
 
 const nomeDoMarketplace = (d: DadosMensagem) =>
@@ -69,6 +74,8 @@ const brl = (v: number) => v.toLocaleString("pt-BR", { style: "currency", curren
 /** Linhas comuns à legenda e ao texto do WhatsApp, já com a formatação de cada um. */
 function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) => string }) {
   const out: string[] = [];
+  const { emoji, frase } = chamadaDaOferta(d.categoria, d.id);
+  out.push(`${d.medalha ?? emoji} ${f.b(frase)}`, "");
   if (d.base === "media" && d.averagePrice != null) {
     out.push(
       `🔥 ${f.b(`${d.discount}% abaixo do preço médio`)} — ${d.title}`,
@@ -85,7 +92,7 @@ function linhas(d: DadosMensagem, f: { b: (s: string) => string; s: (s: string) 
     );
   }
   // Prova social: só a partir de 100 vendas, que é quando o número impressiona.
-  if (d.vendas && d.vendas >= 100) out.push(`🛍️ +${formatarVendas(d.vendas)} vendidos`);
+  if (d.vendas && d.vendas >= 100) out.push(`🛍️ ${formatarVendas(d.vendas)} vendidos`);
   if (d.lowest30d) out.push("📉 Menor preço dos últimos 30 dias");
   if (d.freeShipping) out.push("🚚 Frete grátis");
   if (d.oficial) out.push("🏷️ Promoção oficial do Mercado Livre");

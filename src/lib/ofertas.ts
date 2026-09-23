@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 
+import { chamadaDaOferta } from "@/lib/chamadas";
 import { linkRastreado } from "@/lib/rastreio";
 import { OFERTAS_DADOS_URL } from "@/lib/site";
 
@@ -136,17 +137,20 @@ export function assinaturaOfertas(ofertas: Oferta[]): string {
 }
 
 /** Texto pronto para colar no WhatsApp (usa a formatação *negrito* e ~riscado~ dele). */
-/** "56 mil" / "1,2 mil" / "463" — mesmo formato do bot (scripts/ofertas/mensagem.ts). */
+/** "+56 mil" / "+1,2 mil" / "463" — mesmo formato do bot (scripts/ofertas/mensagem.ts). */
 export function formatarVendas(n: number): string {
   if (n < 1000) return String(n);
   const mil = n / 1000;
   // Trunca (nunca arredonda pra cima): prova social não pode inflar o número.
   const texto = mil < 10 ? String(Math.floor(mil * 10) / 10).replace(".", ",") : Math.floor(mil);
-  return `${texto} mil`;
+  return `+${texto} mil`;
 }
 
 export function textoWhatsApp(oferta: Oferta): string {
   const linhas: string[] = [];
+  // Mesma chamada de efeito do post do Telegram (src/lib/chamadas.ts).
+  const { emoji, frase } = chamadaDaOferta(oferta.categoria, oferta.id);
+  linhas.push(`${emoji} *${frase}*`, "");
   if (oferta.base === "media" && oferta.averagePrice) {
     linhas.push(
       `🔥 *${oferta.discount}% abaixo do preço médio* — ${oferta.title}`,
@@ -163,7 +167,7 @@ export function textoWhatsApp(oferta: Oferta): string {
     );
   }
   if (oferta.vendas && oferta.vendas >= 100)
-    linhas.push(`🛍️ +${formatarVendas(oferta.vendas)} vendidos`);
+    linhas.push(`🛍️ ${formatarVendas(oferta.vendas)} vendidos`);
   if (oferta.lowest30d) linhas.push("📉 Menor preço dos últimos 30 dias");
   if (oferta.freeShipping) linhas.push("🚚 Frete grátis");
   if (oferta.oficial) linhas.push("🏷️ Promoção oficial do Mercado Livre");

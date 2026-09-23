@@ -29,6 +29,7 @@ import {
 } from "./ml-client.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
+import { medalhaDaPosicao } from "../../src/lib/chamadas.ts";
 import { revalidarShopee, searchShopeeDeals, shopeeFonte } from "./shopee-client.ts";
 import { sendPhoto } from "./telegram.ts";
 
@@ -233,6 +234,7 @@ async function salvarLinksShopee(
 function dadosDe(item: MlItem): DadosMensagem {
   return {
     ...item,
+    categoria: categoriaDe(item.fonte),
     freeShipping: Boolean(item.shipping?.free_shipping),
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
     quando: new Date().toISOString(),
@@ -336,9 +338,10 @@ async function main() {
       `Telegram pulado nesta rodada: última postagem há ${minutosDesdeUltima} min (mínimo ${MIN_INTERVALO_POSTS_MS / 60_000}). Site será atualizado.\n`,
     );
   }
-  for (const item of picked) {
+  for (const [posicao, item] of picked.entries()) {
     const link = linkRastreado(item, "tg");
-    const dados = dadosDe(item);
+    // picked já vem do melhor para o pior: as 3 primeiras da rodada ganham medalha.
+    const dados = { ...dadosDe(item), medalha: medalhaDaPosicao(posicao) };
     const text = legendaTelegram(dados);
     const etiquetas = [
       item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",

@@ -205,7 +205,7 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
 
         {oferta.vendas != null && oferta.vendas >= 100 && (
           <p className="mt-1.5 text-[11px] font-semibold text-orange-400">
-            🛍️ +{formatarVendas(oferta.vendas)} vendidos
+            🛍️ {formatarVendas(oferta.vendas)} vendidos
           </p>
         )}
         <p
