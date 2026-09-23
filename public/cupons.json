@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "DISNEY15"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": "Brinquedos",
+    "origem": "avidaefeitadedesconto/16051",
+    "quando": "2026-09-23T18:56:19+00:00",
+    "id": "ml:DISNEY15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "CUIDADO20OFF"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 99",
+    "escopo": "Cuidados Pessoais",
+    "origem": "avidaefeitadedesconto/16050",
+    "quando": "2026-09-23T18:39:13+00:00",
+    "id": "ml:CUIDADO20OFF",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SUPERPETSHOP"
     ],
     "desconto": "20% OFF",
