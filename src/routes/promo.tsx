@@ -88,16 +88,6 @@ function Promo() {
   const { ofertas, recarregar } = useOfertas();
   const [categoria, setCategoria] = useState<string | null>(null);
 
-  // Nome → quantidade, da maior para a menor; ofertas antigas sem categoria caem em "Outros".
-  const categorias = useMemo(() => {
-    const contagem = new Map<string, number>();
-    for (const o of ofertas) {
-      const nome = o.categoria ?? SEM_CATEGORIA;
-      contagem.set(nome, (contagem.get(nome) ?? 0) + 1);
-    }
-    return [...contagem.entries()].sort((a, b) => b[1] - a[1]);
-  }, [ofertas]);
-
   const [soLojaOficial, setSoLojaOficial] = useState(false);
   const [soNovas, setSoNovas] = useState(false);
   const [loja, setLoja] = useState<Loja | null>(null);
@@ -118,10 +108,38 @@ function Promo() {
   const [ehLocalhost, setEhLocalhost] = useState(false);
   useEffect(() => setEhLocalhost(import.meta.env.DEV && location.hostname === "localhost"), []);
   const [ordem, setOrdem] = useState<Ordem>("destaques");
-  const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
-  const totalNovas = ofertas.filter((o) => ehNova(o)).length;
   const totalShopee = ofertas.filter((o) => o.marketplace === "shopee").length;
   const totalMl = ofertas.length - totalShopee;
+
+  // Os demais chips contam só dentro da loja escolhida: com "Shopee" marcado, "Saúde (7)"
+  // não pode aparecer se as 7 forem do Mercado Livre — escolher dava lista vazia.
+  const daLoja = useMemo(
+    () => (loja ? ofertas.filter((o) => (o.marketplace ?? "ml") === loja) : ofertas),
+    [ofertas, loja],
+  );
+  const totalLojaOficial = daLoja.filter((o) => o.lojaOficial).length;
+  const totalNovas = daLoja.filter((o) => ehNova(o)).length;
+
+  // Nome → quantidade, da maior para a menor; ofertas antigas sem categoria caem em "Outros".
+  // A categoria escolhida continua na lista mesmo zerada, para dar pra desmarcar.
+  const categorias = useMemo(() => {
+    const contagem = new Map<string, number>();
+    for (const o of daLoja) {
+      const nome = o.categoria ?? SEM_CATEGORIA;
+      contagem.set(nome, (contagem.get(nome) ?? 0) + 1);
+    }
+    if (categoria && !contagem.has(categoria)) contagem.set(categoria, 0);
+    return [...contagem.entries()].sort((a, b) => b[1] - a[1]);
+  }, [daLoja, categoria]);
+
+  function limparFiltros() {
+    setCategoria(null);
+    setSoLojaOficial(false);
+    setSoNovas(false);
+    setBusca("");
+    if (ordem === "novas") setOrdem("destaques");
+    if (loja) alternarLoja(loja);
+  }
 
   const termo = normalizar(busca.trim());
   const filtradas = ofertas.filter(
@@ -267,7 +285,7 @@ function Promo() {
               className="mt-10 flex flex-wrap justify-center gap-2"
             >
               <Chip ativo={categoria === null} onClick={() => setCategoria(null)}>
-                Todas ({ofertas.length})
+                Todas ({daLoja.length})
               </Chip>
               {totalNovas > 0 && (
                 <Chip ativo={soNovas} onClick={alternarNovas}>
@@ -301,12 +319,27 @@ function Promo() {
             </nav>
           )}
 
-          {termo && (
+          {termo && visiveis.length > 0 && (
             <p className="mt-6 text-center text-sm text-muted-foreground">
-              {visiveis.length === 0
-                ? `Nada encontrado para “${busca.trim()}”.`
-                : `${visiveis.length} ${visiveis.length === 1 ? "oferta" : "ofertas"} para “${busca.trim()}”`}
+              {`${visiveis.length} ${visiveis.length === 1 ? "oferta" : "ofertas"} para “${busca.trim()}”`}
             </p>
+          )}
+
+          {ofertas.length > 0 && visiveis.length === 0 && (
+            <div className="mt-10 flex flex-col items-center gap-3 text-center">
+              <p className="text-sm text-muted-foreground">
+                {termo
+                  ? `Nada encontrado para “${busca.trim()}” com esses filtros.`
+                  : "Nenhuma oferta com essa combinação de filtros agora."}
+              </p>
+              <button
+                type="button"
+                onClick={limparFiltros}
+                className="rounded-full border border-ninja/40 bg-ninja/10 px-5 py-2 text-sm font-bold text-ninja transition-colors hover:bg-ninja/20"
+              >
+                Limpar filtros
+              </button>
+            </div>
           )}
 
           {visiveis.length > 0 && (
