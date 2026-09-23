@@ -45,7 +45,12 @@ jobs:
       # true quando o segredo existe (o contexto secrets não pode ir direto num `if`)
       TEM_DADOS: ${{ secrets.DADOS_DEPLOY_KEY != '' }}
     steps:
+      # ref: main (e não o commit do disparo): quem esperou na fila do `concurrency` precisa
+      # partir do que a execução anterior acabou de commitar, senão o push final conflita e
+      # o registro do que foi postado se perde.
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       - uses: actions/setup-node@v5
         with:

@@ -365,16 +365,18 @@ async function main() {
       `descartes ${JSON.stringify(funil.descartes)} · 404 da API ML ${JSON.stringify(estatisticas.naoEncontrado)} · ` +
       `${estatisticas.requisicoes} requisições`,
   );
-  // Se a API do ML caiu (metade das buscas falhou, ou nada passou), não publicar um site
-  // vazio por cima do bom: sai com erro para o Actions ficar vermelho.
-  if (
-    buscasFalhas > config.buscas.length / 2 ||
-    (candidates.length === 0 && config.buscas.length)
-  ) {
+  // Se a API caiu (metade das buscas falhou, ou as buscas não trouxeram NADA), não publicar
+  // um site vazio por cima do bom: sai com erro para o Actions ficar vermelho.
+  // Zero candidatos com as buscas trazendo ofertas é outra coisa: tudo já foi postado nas
+  // últimas 24 h. A rodada segue (site revalidado, cupons), só não há oferta nova no canal.
+  const itensDasBuscas = funil.ml.itens + funil.shopee.itens;
+  if (buscasFalhas > config.buscas.length / 2 || (itensDasBuscas === 0 && config.buscas.length)) {
     throw new Error(
-      `rodada abortada: ${buscasFalhas}/${config.buscas.length} buscas falharam, ${candidates.length} candidatos — site mantido como estava`,
+      `rodada abortada: ${buscasFalhas}/${config.buscas.length} buscas falharam, ${itensDasBuscas} ofertas encontradas — site mantido como estava`,
     );
   }
+  if (candidates.length === 0)
+    console.log("Nada novo: tudo o que as buscas acharam já foi postado.");
 
   // 2. Campanhas oficiais do ML primeiro, depois maior desconto real; limitado por execução.
   candidates.sort((a, b) => Number(b.oficial) - Number(a.oficial) || b.discount - a.discount);
