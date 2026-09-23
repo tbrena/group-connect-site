@@ -142,6 +142,8 @@ export interface ShopeeOptions {
   /** avaliação mínima (0–5) */
   minAvaliacao: number;
   limit?: number;
+  /** quantas páginas de `limit` buscar (padrão 1); para quando a Shopee diz que acabou */
+  paginas?: number;
 }
 
 /** `fonte` gravada na oferta (e chave da categoria em config.json). */
@@ -194,25 +196,30 @@ export async function searchShopeeDeals(opts: ShopeeOptions): Promise<MlItem[]> 
     return [];
   }
   const limit = opts.limit ?? 50;
-  const data = await shopeeGraphQL<{ productOfferV2: { nodes: ShopeeNode[] } }>(
-    ...((opts.lista !== undefined
-      ? // A lista pronta já vem na ordem da Shopee: sem ordenação própria.
-        [QUERY_PRODUCT_LISTA, { listType: opts.lista, page: 1, limit }]
-      : [
-          QUERY_PRODUCT_OFFER,
-          {
-            keyword: opts.query ?? null,
-            productCatId: opts.shopeeCategory ?? null,
-            sortType: SORT_MAIS_VENDIDOS,
-            page: 1,
-            limit,
-          },
-        ]) as [string, Record<string, unknown>]),
-  );
+  const nodes: ShopeeNode[] = [];
+  for (let page = 1; page <= (opts.paginas ?? 1); page++) {
+    const data = await shopeeGraphQL<{
+      productOfferV2: { nodes: ShopeeNode[]; pageInfo?: { hasNextPage?: boolean } };
+    }>(
+      ...((opts.lista !== undefined
+        ? // A lista pronta já vem na ordem da Shopee: sem ordenação própria.
+          [QUERY_PRODUCT_LISTA, { listType: opts.lista, page, limit }]
+        : [
+            QUERY_PRODUCT_OFFER,
+            {
+              keyword: opts.query ?? null,
+              productCatId: opts.shopeeCategory ?? null,
+              sortType: SORT_MAIS_VENDIDOS,
+              page,
+              limit,
+            },
+          ]) as [string, Record<string, unknown>]),
+    );
+    nodes.push(...(data.productOfferV2?.nodes ?? []));
+    if (!data.productOfferV2?.pageInfo?.hasNextPage) break;
+  }
   const fonte = shopeeFonte(opts);
-  return (data.productOfferV2?.nodes ?? [])
-    .map((n) => paraOferta(n, fonte, opts))
-    .filter((o): o is MlItem => o !== null);
+  return nodes.map((n) => paraOferta(n, fonte, opts)).filter((o): o is MlItem => o !== null);
 }
 
 /** Reavalia um anúncio já publicado (por itemId); null se sumiu ou já não passa no critério. */

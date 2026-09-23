@@ -144,6 +144,8 @@ interface Config {
     shopeeLista?: number;
     categoria?: string;
     limit?: number;
+    /** Shopee: páginas de `limit` a buscar (padrão 1) */
+    paginas?: number;
   }>;
 }
 
@@ -327,6 +329,7 @@ async function main() {
               shopeeCategory: busca.shopeeCategory,
               lista: busca.shopeeLista,
               limit: busca.limit,
+              paginas: busca.paginas,
               ...criterioShopee,
             })
           : await searchDeals({ ...busca, ...criterio });

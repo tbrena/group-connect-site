@@ -1,12 +1,15 @@
 {
-  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = teto de ofertas por rodada no Telegram; maxPorMarketplace = cota de cada loja na rodada; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas. shopeeLista = lista pronta da Shopee (2 = desconto alto + muitas vendas).",
+  "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = teto de ofertas por rodada no Telegram; maxPorMarketplace = cota de cada loja na rodada; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas. shopeeLista = lista pronta da Shopee (2 = desconto alto + muitas vendas). paginas (Shopee) = quantas paginas de limit buscar.",
   "minDiscount": 15,
   "maxDiscount": 70,
   "minSellers": 3,
   "minReputacao": 4,
   "somenteLojaOficial": false,
   "maxPerRun": 20,
-  "maxPorMarketplace": { "ml": 10, "shopee": 10 },
+  "maxPorMarketplace": {
+    "ml": 10,
+    "shopee": 10
+  },
   "siteMax": 500,
   "minPrice": 30,
   "shopee": {
@@ -439,43 +442,491 @@
       "shopeeLista": 2,
       "categoria": "Mais vendidos",
       "limit": 50,
-      "_": "Lista pronta da Shopee: desconto alto + muitas vendas (listType 2)"
+      "_": "Lista pronta da Shopee: desconto alto + muitas vendas (listType 2)",
+      "paginas": 4
     },
     {
       "fonte": "shopee",
       "query": "air fryer",
       "categoria": "Eletrodomésticos",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
     },
     {
       "fonte": "shopee",
       "query": "fone bluetooth",
       "categoria": "Eletrônicos",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
     },
     {
       "fonte": "shopee",
       "query": "smartwatch",
       "categoria": "Celulares",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
     },
     {
       "fonte": "shopee",
       "query": "perfume",
       "categoria": "Beleza",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
     },
     {
       "fonte": "shopee",
       "query": "tenis",
       "categoria": "Moda e Calçados",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
     },
     {
       "fonte": "shopee",
       "query": "brinquedo",
       "categoria": "Brinquedos",
-      "limit": 50
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "query": "smartwatch",
+      "categoria": "Celulares",
+      "limit": 30
+    },
+    {
+      "query": "power bank",
+      "categoria": "Celulares",
+      "limit": 30
+    },
+    {
+      "query": "carregador turbo",
+      "categoria": "Celulares",
+      "limit": 30
+    },
+    {
+      "query": "notebook",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "monitor gamer",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "teclado mecanico",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "mouse sem fio",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "ssd",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "tablet",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "impressora",
+      "categoria": "Informática",
+      "limit": 30
+    },
+    {
+      "query": "echo dot",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "fire tv stick",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "projetor",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "camera de seguranca",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "kindle",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "soundbar",
+      "categoria": "Eletrônicos",
+      "limit": 30
+    },
+    {
+      "query": "ventilador",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "aspirador de po",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "liquidificador",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "micro-ondas",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "sanduicheira",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "panela eletrica de arroz",
+      "categoria": "Eletrodomésticos",
+      "limit": 30
+    },
+    {
+      "query": "jogo de panelas",
+      "categoria": "Casa e Decoração",
+      "limit": 30
+    },
+    {
+      "query": "jogo de cama",
+      "categoria": "Casa e Decoração",
+      "limit": 30
+    },
+    {
+      "query": "cadeira de escritorio",
+      "categoria": "Casa e Decoração",
+      "limit": 30
+    },
+    {
+      "query": "lampada inteligente",
+      "categoria": "Casa e Decoração",
+      "limit": 30
+    },
+    {
+      "query": "tenis corrida",
+      "categoria": "Moda e Calçados",
+      "limit": 30
+    },
+    {
+      "query": "mochila",
+      "categoria": "Moda e Calçados",
+      "limit": 30
+    },
+    {
+      "query": "mala de viagem",
+      "categoria": "Moda e Calçados",
+      "limit": 30
+    },
+    {
+      "query": "bicicleta",
+      "categoria": "Esportes",
+      "limit": 30
+    },
+    {
+      "query": "whey protein",
+      "categoria": "Esportes",
+      "limit": 30
+    },
+    {
+      "query": "creatina",
+      "categoria": "Esportes",
+      "limit": 30
+    },
+    {
+      "query": "perfume masculino",
+      "categoria": "Beleza",
+      "limit": 30
+    },
+    {
+      "query": "perfume feminino",
+      "categoria": "Beleza",
+      "limit": 30
+    },
+    {
+      "query": "secador de cabelo",
+      "categoria": "Beleza",
+      "limit": 30
+    },
+    {
+      "query": "prancha alisadora",
+      "categoria": "Beleza",
+      "limit": 30
+    },
+    {
+      "query": "barbeador eletrico",
+      "categoria": "Beleza",
+      "limit": 30
+    },
+    {
+      "query": "lego",
+      "categoria": "Brinquedos",
+      "limit": 30
+    },
+    {
+      "query": "boneca",
+      "categoria": "Brinquedos",
+      "limit": 30
+    },
+    {
+      "query": "controle ps5",
+      "categoria": "Games",
+      "limit": 30
+    },
+    {
+      "query": "cadeira gamer",
+      "categoria": "Games",
+      "limit": 30
+    },
+    {
+      "query": "headset gamer",
+      "categoria": "Games",
+      "limit": 30
+    },
+    {
+      "query": "racao",
+      "categoria": "Pet",
+      "limit": 30
+    },
+    {
+      "query": "fralda",
+      "categoria": "Bebês",
+      "limit": 30
+    },
+    {
+      "query": "carrinho de bebe",
+      "categoria": "Bebês",
+      "limit": 30
+    },
+    {
+      "query": "furadeira",
+      "categoria": "Ferramentas",
+      "limit": 30
+    },
+    {
+      "query": "parafusadeira",
+      "categoria": "Ferramentas",
+      "limit": 30
+    },
+    {
+      "query": "pneu aro 14",
+      "categoria": "Automotivo",
+      "limit": 30
+    },
+    {
+      "query": "som automotivo",
+      "categoria": "Automotivo",
+      "limit": 30
+    },
+    {
+      "fonte": "shopee",
+      "query": "capinha celular",
+      "categoria": "Celulares",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "carregador",
+      "categoria": "Celulares",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "suporte celular carro",
+      "categoria": "Celulares",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "mouse",
+      "categoria": "Informática",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "teclado",
+      "categoria": "Informática",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "webcam",
+      "categoria": "Informática",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "caixa de som",
+      "categoria": "Eletrônicos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "fone de ouvido",
+      "categoria": "Eletrônicos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "lampada led",
+      "categoria": "Eletrônicos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "aspirador",
+      "categoria": "Eletrodomésticos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "mini processador",
+      "categoria": "Eletrodomésticos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "umidificador",
+      "categoria": "Eletrodomésticos",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "organizador",
+      "categoria": "Casa e Decoração",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "jogo de cama",
+      "categoria": "Casa e Decoração",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "garrafa termica",
+      "categoria": "Casa e Decoração",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "luminaria",
+      "categoria": "Casa e Decoração",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "tapete",
+      "categoria": "Casa e Decoração",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "bolsa feminina",
+      "categoria": "Moda e Calçados",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "relogio masculino",
+      "categoria": "Moda e Calçados",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "oculos de sol",
+      "categoria": "Moda e Calçados",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "camiseta",
+      "categoria": "Moda e Calçados",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "legging",
+      "categoria": "Moda e Calçados",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "maquiagem",
+      "categoria": "Beleza",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "skincare",
+      "categoria": "Beleza",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "protetor solar",
+      "categoria": "Beleza",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "whey",
+      "categoria": "Esportes",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "pet",
+      "categoria": "Pet",
+      "limit": 50,
+      "paginas": 2
+    },
+    {
+      "fonte": "shopee",
+      "query": "ferramenta",
+      "categoria": "Ferramentas",
+      "limit": 50,
+      "paginas": 2
     }
   ]
 }
