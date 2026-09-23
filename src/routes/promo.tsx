@@ -41,6 +41,13 @@ export const Route = createFileRoute("/promo")({
 
 const SEM_CATEGORIA = "Outros";
 
+/** Filtro por marketplace; também vem da URL (/promo?loja=shopee) para dar pra divulgar o link. */
+type Loja = "ml" | "shopee";
+const lojaDaUrl = (): Loja | null => {
+  const v = new URLSearchParams(location.search).get("loja");
+  return v === "ml" || v === "shopee" ? v : null;
+};
+
 type Ordem = "destaques" | "desconto" | "preco" | "novas";
 const ORDENS: Array<[Ordem, string]> = [
   ["destaques", "Destaques"],
@@ -93,7 +100,18 @@ function Promo() {
 
   const [soLojaOficial, setSoLojaOficial] = useState(false);
   const [soNovas, setSoNovas] = useState(false);
-  const [soShopee, setSoShopee] = useState(false);
+  const [loja, setLoja] = useState<Loja | null>(null);
+  // Lê ?loja= ao abrir (no cliente: o SSR não conhece a URL do filtro)…
+  useEffect(() => setLoja(lojaDaUrl()), []);
+  /** …e mantém a barra de endereço em dia, sem recarregar nem empilhar histórico. */
+  function alternarLoja(valor: Loja) {
+    const nova = loja === valor ? null : valor;
+    setLoja(nova);
+    const url = new URL(location.href);
+    if (nova) url.searchParams.set("loja", nova);
+    else url.searchParams.delete("loja");
+    history.replaceState(history.state, "", url);
+  }
   const [busca, setBusca] = useState("");
   // Só no PC do dono (localhost): o preview do Lovable também roda em modo dev, mas lá
   // o botão não funciona (sem .env) e só confunde.
@@ -103,6 +121,7 @@ function Promo() {
   const totalLojaOficial = ofertas.filter((o) => o.lojaOficial).length;
   const totalNovas = ofertas.filter((o) => ehNova(o)).length;
   const totalShopee = ofertas.filter((o) => o.marketplace === "shopee").length;
+  const totalMl = ofertas.length - totalShopee;
 
   const termo = normalizar(busca.trim());
   const filtradas = ofertas.filter(
@@ -110,7 +129,7 @@ function Promo() {
       (!categoria || (o.categoria ?? SEM_CATEGORIA) === categoria) &&
       (!soLojaOficial || o.lojaOficial) &&
       (!soNovas || ehNova(o)) &&
-      (!soShopee || o.marketplace === "shopee") &&
+      (!loja || (o.marketplace ?? "ml") === loja) &&
       (!termo || normalizar(`${o.title} ${o.loja ?? ""} ${o.categoria ?? ""}`).includes(termo)),
   );
   // "destaques" é a ordem do bot (campanha oficial primeiro, depois maior desconto real).
@@ -255,10 +274,15 @@ function Promo() {
                   🆕 Novas ({totalNovas})
                 </Chip>
               )}
-              {totalShopee > 0 && (
-                <Chip ativo={soShopee} onClick={() => setSoShopee(!soShopee)}>
-                  🛒 Shopee ({totalShopee})
-                </Chip>
+              {totalShopee > 0 && totalMl > 0 && (
+                <>
+                  <Chip ativo={loja === "ml"} onClick={() => alternarLoja("ml")}>
+                    🤝 Mercado Livre ({totalMl})
+                  </Chip>
+                  <Chip ativo={loja === "shopee"} onClick={() => alternarLoja("shopee")}>
+                    🛒 Shopee ({totalShopee})
+                  </Chip>
+                </>
               )}
               {categorias.map(([nome, qtd]) => (
                 <Chip

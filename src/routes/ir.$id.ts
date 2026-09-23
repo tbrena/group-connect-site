@@ -115,14 +115,16 @@ async function destinoShopee(id: string, origin: string): Promise<string> {
 
 async function paginaDePrevia(id: string, url: URL): Promise<Response> {
   const o = await buscarOferta(id, url.origin);
+  const shopee = id.startsWith("SP");
   const titulo = o
     ? `${brl(o.price)} · ${o.discount}% ${o.base === "media" ? "abaixo do preço médio" : "OFF"}`
-    : `Oferta no Mercado Livre — ${SITE_NAME}`;
+    : `Oferta ${shopee ? "na Shopee" : "no Mercado Livre"} — ${SITE_NAME}`;
   const descricao = o
     ? `${o.title}${o.averagePrice ? ` — preço médio ${brl(o.averagePrice)}` : ""}. Via ${SITE_NAME}.`
     : "Ofertas com desconto de verdade, comparadas com os outros vendedores.";
   const imagem = o?.image ?? absoluteUrl("/og-image.png");
-  const destino = linkAfiliado(id);
+  // Shopee: o link de afiliado só existe no JSON (offerLink); o do id é sem comissão.
+  const destino = shopee && o?.url ? o.url : linkAfiliado(id);
 
   const html = `<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">

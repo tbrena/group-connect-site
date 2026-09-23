@@ -9,7 +9,9 @@ import { createFileRoute } from "@tanstack/react-router";
  * dos marketplaces não garantem isso. Só hosts da lista passam (não é proxy
  * aberto), e a resposta fica em cache por um dia.
  */
-const HOSTS_PERMITIDOS = ["mlstatic.com", "susercontent.com"];
+// cf.shopee.com.br é a CDN das fotos que a Affiliate API da Shopee devolve (imageUrl);
+// só ela — não o domínio shopee.com.br inteiro, que tem encurtador e páginas.
+const HOSTS_PERMITIDOS = ["mlstatic.com", "susercontent.com", "cf.shopee.com.br"];
 
 export const Route = createFileRoute("/img")({
   server: {
