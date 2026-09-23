@@ -10,7 +10,12 @@
  *
  * Rodado direto é um TESTE: mostra o que seria postado e não posta nada.
  */
-import { escapeHtml } from "./telegram.ts";
+import fs from "node:fs/promises";
+import path from "node:path";
+
+import { affiliateLink } from "./afiliado.ts";
+import { linkAfiliadoShopee } from "./shopee-client.ts";
+import { escapeHtml, sendMessage } from "./telegram.ts";
 
 export interface Cupom {
   loja: "ml" | "shopee";
@@ -30,8 +35,31 @@ export interface Cupom {
   quando: string;
 }
 
-/** Janela: cupom anunciado há mais que isso provavelmente já esgotou. */
-const MAX_IDADE_MS = 12 * 60 * 60 * 1000;
+/** Configuração em scripts/ofertas/config.json → "cupons". */
+export interface ConfigCupons {
+  /** canais públicos do Telegram (sem @) */
+  canais: string[];
+  /** teto de cupons postados no Telegram por rodada */
+  maxPorRodada: number;
+  /** só vai para o Telegram cupom anunciado há no máximo isso (cupom velho costuma ter esgotado) */
+  maxIdadeHoras: number;
+  /** o mesmo código não volta ao Telegram antes disso */
+  naoRepetirDias: number;
+  /** quanto tempo o cupom fica no site depois de anunciado */
+  siteHoras: number;
+}
+
+/** Cupom como vai para o site (public/cupons.json). */
+export interface SiteCupom extends Cupom {
+  /** loja:CODIGO(+CODIGO) */
+  id: string;
+  /** nosso link de afiliado (página de cupons do ML ou a Shopee) */
+  link: string;
+}
+
+const ESTADO_FILE = path.resolve(".ofertas/cupons.json");
+const SITE_FILE = path.resolve("public/cupons.json");
+const HORA_MS = 60 * 60 * 1000;
 
 /** Palavras em maiúsculas que aparecem perto de "cupom" e não são código. */
 const NAO_CODIGO = new Set([
@@ -154,7 +182,11 @@ export function extrairCupom(post: Post): Cupom | null {
 }
 
 /** Cupons recentes de ML/Shopee nos canais, sem repetir código. */
-export async function buscarCupons(canais: string[], agora = Date.now()): Promise<Cupom[]> {
+export async function buscarCupons(
+  canais: string[],
+  maxIdadeMs: number,
+  agora = Date.now(),
+): Promise<Cupom[]> {
   const vistos = new Set<string>();
   const cupons: Cupom[] = [];
   for (const canal of canais) {
@@ -166,7 +198,7 @@ export async function buscarCupons(canais: string[], agora = Date.now()): Promis
       continue;
     }
     for (const post of posts.reverse()) {
-      if (agora - new Date(post.quando).getTime() > MAX_IDADE_MS) continue;
+      if (agora - new Date(post.quando).getTime() > maxIdadeMs) continue;
       const cupom = extrairCupom(post);
       if (!cupom) continue;
       const chave = `${cupom.loja}:${cupom.codigos.join("+")}`;
@@ -201,6 +233,74 @@ export function mensagemCupom(c: Cupom, link: string): string {
   return linhas.join("\n");
 }
 
+const chaveCupom = (c: Cupom) => `${c.loja}:${c.codigos.join("+")}`;
+
+async function lerJson<T>(arquivo: string, padrao: T): Promise<T> {
+  try {
+    return JSON.parse(await fs.readFile(arquivo, "utf8")) as T;
+  } catch {
+    return padrao;
+  }
+}
+
+/**
+ * Rodada de cupons (chamada pelo run.ts): atualiza public/cupons.json e, se
+ * `postar`, manda para o Telegram os cupons recém-anunciados que ainda não
+ * foram postados. Um código já postado não volta antes de naoRepetirDias.
+ */
+export async function rodadaDeCupons(cfg: ConfigCupons, postar: boolean): Promise<void> {
+  const agora = Date.now();
+  const achados = await buscarCupons(cfg.canais, cfg.siteHoras * HORA_MS, agora);
+
+  const linkMl = affiliateLink("https://www.mercadolivre.com.br/cupons");
+  let linkShopee: string | null = null;
+  const linkDe = async (loja: Cupom["loja"]) =>
+    loja === "ml" ? linkMl : (linkShopee ??= await linkAfiliadoShopee("https://shopee.com.br/"));
+
+  // Site: o que já estava e ainda está na janela + o que apareceu agora.
+  const anteriores = await lerJson<SiteCupom[]>(SITE_FILE, []);
+  const porId = new Map<string, SiteCupom>();
+  for (const c of anteriores)
+    if (agora - new Date(c.quando).getTime() <= cfg.siteHoras * HORA_MS) porId.set(c.id, c);
+  for (const c of achados) {
+    const id = chaveCupom(c);
+    if (!porId.has(id)) porId.set(id, { ...c, id, link: await linkDe(c.loja) });
+  }
+  const site = [...porId.values()].sort((a, b) => b.quando.localeCompare(a.quando));
+  await fs.mkdir(path.dirname(SITE_FILE), { recursive: true });
+  await fs.writeFile(SITE_FILE, JSON.stringify(site, null, 2));
+  console.log(`cupons: ${achados.length} nos canais, ${site.length} no site`);
+
+  if (!postar) return;
+  // Estado: loja:CÓDIGO → quando foi postado. Um código repetido num anúncio novo não reposta.
+  const postados = await lerJson<Record<string, number>>(ESTADO_FILE, {});
+  for (const [k, ts] of Object.entries(postados))
+    if (agora - ts > cfg.naoRepetirDias * 24 * HORA_MS) delete postados[k];
+  const fila = site
+    .filter((c) => agora - new Date(c.quando).getTime() <= cfg.maxIdadeHoras * HORA_MS)
+    .filter((c) => !c.codigos.some((x) => postados[`${c.loja}:${x}`]))
+    .slice(0, cfg.maxPorRodada);
+  for (const c of fila) {
+    try {
+      await sendMessage(mensagemCupom(c, c.link), [
+        {
+          text: c.loja === "ml" ? "🎟️ Abrir cupons do Mercado Livre" : "🛒 Abrir a Shopee",
+          url: c.link,
+        },
+      ]);
+    } catch (err) {
+      console.error(`  cupom ${c.id} falhou: ${(err as Error).message}`);
+      continue;
+    }
+    for (const x of c.codigos) postados[`${c.loja}:${x}`] = agora;
+    // Salvo a cada post: se a rodada cair no meio, nada é repostado.
+    await fs.mkdir(path.dirname(ESTADO_FILE), { recursive: true });
+    await fs.writeFile(ESTADO_FILE, JSON.stringify(postados, null, 2));
+    console.log(`  cupom postado: ${c.id} (${c.origem})`);
+    await new Promise((r) => setTimeout(r, 3000));
+  }
+}
+
 // Teste: `node scripts/ofertas/cupons-telegram.ts canal1,canal2` só mostra, não posta.
 if (import.meta.url === `file://${process.argv[1]}`) {
   const canais = (process.argv[2] || "avidaefeitadedesconto")
@@ -231,8 +331,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     }
   }
 
-  const cupons = await buscarCupons(canais);
-  console.log(`\n══ Seriam postados ${cupons.length} cupons (últimas 12 h) ══`);
+  const cupons = await buscarCupons(canais, 3 * HORA_MS);
+  console.log(`\n══ Seriam postados ${cupons.length} cupons (últimas 3 h) ══`);
   for (const c of cupons) {
     const link =
       c.loja === "ml"

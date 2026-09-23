@@ -58,6 +58,25 @@ export async function shopeeGraphQL<T>(
   return json.data as T;
 }
 
+/**
+ * Link de afiliado para qualquer página da Shopee (ex.: a home, para cupons que
+ * valem no carrinho). Sem chave ou com erro, devolve a própria URL — o post sai
+ * do mesmo jeito, só sem comissão.
+ */
+export async function linkAfiliadoShopee(url: string): Promise<string> {
+  if (!shopeeConfigurada()) return url;
+  try {
+    const data = await shopeeGraphQL<{ generateShortLink?: { shortLink?: string } }>(
+      `mutation { generateShortLink(input: { originUrl: ${JSON.stringify(url)}, subIds: ["cupom"] }) { shortLink } }`,
+      {},
+    );
+    return data.generateShortLink?.shortLink || url;
+  } catch (err) {
+    console.error(`  link de afiliado da Shopee falhou (${(err as Error).message}); usando ${url}`);
+    return url;
+  }
+}
+
 /** Campos de productOfferV2 que usamos (nomes conforme a documentação da Affiliate Open API). */
 export interface ShopeeNode {
   itemId: string | number;

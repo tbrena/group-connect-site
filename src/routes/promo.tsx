@@ -3,6 +3,7 @@ import { MessageCircle, Search, Send, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import { AtualizarOfertas } from "@/components/AtualizarOfertas";
+import { CuponsDoDia } from "@/components/CuponsDoDia";
 import { pixelLead } from "@/lib/pixel";
 import { OfertaCard } from "@/components/OfertaCard";
 import {
@@ -287,6 +288,8 @@ function Promo() {
           {ehLocalhost && (
             <AtualizarOfertas assinatura={assinaturaOfertas(ofertas)} recarregar={recarregar} />
           )}
+
+          <CuponsDoDia loja={loja} />
 
           {ofertas.length > 0 && (
             <div className="mt-10 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">

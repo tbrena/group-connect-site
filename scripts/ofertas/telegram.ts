@@ -95,8 +95,14 @@ export function editarBotoes(messageId: number, botoes: BotaoUrl[]) {
   return call("editMessageReplyMarkup", { message_id: messageId, reply_markup: teclado(botoes) });
 }
 
-export function sendMessage(text: string) {
-  return call("sendMessage", { text, parse_mode: "HTML" });
+export function sendMessage(text: string, botoes?: BotaoUrl[]) {
+  return call("sendMessage", {
+    text,
+    parse_mode: "HTML",
+    reply_markup: teclado(botoes),
+    // Sem prévia: a de uma página de login (ex.: cupons do ML) só polui o post.
+    link_preview_options: { is_disabled: true },
+  });
 }
 
 export function escapeHtml(s: string): string {

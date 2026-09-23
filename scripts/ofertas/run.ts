@@ -27,6 +27,7 @@ import {
   searchDeals,
   type MlItem,
 } from "./ml-client.ts";
+import { rodadaDeCupons, type ConfigCupons } from "./cupons-telegram.ts";
 import { imagemDaOferta } from "./imagem.ts";
 import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
 import { medalhaDaPosicao } from "../../src/lib/chamadas.ts";
@@ -131,6 +132,8 @@ interface Config {
   minPrice: number;
   /** critério da Shopee (sem catálogo unificado, o desconto é o declarado: exigimos vendas e avaliação) */
   shopee?: { minDiscount: number; minVendas: number; minAvaliacao: number };
+  /** cupons de canais públicos do Telegram (scripts/ofertas/cupons-telegram.ts); ausente = desligado */
+  cupons?: ConfigCupons;
   buscas: Array<{
     /** "ml" (padrão) ou "shopee" */
     fonte?: "ml" | "shopee";
@@ -536,6 +539,16 @@ async function main() {
   await salvarCacheVendedores();
   await fs.writeFile(SITE_FILE, JSON.stringify(site, null, 2));
   console.log(`Site atualizado (${site.length} ofertas): ${SITE_FILE}`);
+
+  // 6. Cupons dos canais públicos: site sempre; Telegram só nas rodadas que postam.
+  //    Falha aqui não derruba a rodada — as ofertas já foram salvas.
+  if (config.cupons?.canais.length) {
+    try {
+      await rodadaDeCupons(config.cupons, !SITE_ONLY);
+    } catch (err) {
+      console.error(`cupons: rodada falhou (${(err as Error).message})`);
+    }
+  }
 }
 
 main().catch((err) => {

@@ -15,6 +15,14 @@
     "minAvaliacao": 4.5,
     "_": "Shopee nao tem catalogo unificado: desconto e o declarado; por isso exige vendas e avaliacao altas"
   },
+  "cupons": {
+    "canais": ["avidaefeitadedesconto"],
+    "maxPorRodada": 2,
+    "maxIdadeHoras": 3,
+    "naoRepetirDias": 7,
+    "siteHoras": 24,
+    "_": "Cupons de canais PUBLICOS do Telegram (t.me/s/<canal>): so codigo + loja + regras, so ML/Shopee, com o nosso link. Tirar os canais desliga."
+  },
   "buscas": [
     {
       "category": "MLB1055",

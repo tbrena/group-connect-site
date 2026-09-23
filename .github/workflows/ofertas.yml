@@ -102,11 +102,13 @@ jobs:
           git clone -q --depth 1 git@github.com:tbrena/preco-ninja-dados.git /tmp/dados
           cp public/ofertas.json /tmp/dados/ofertas.json
           [ -f public/links.json ] && cp public/links.json /tmp/dados/links.json || true
+          [ -f public/cupons.json ] && cp public/cupons.json /tmp/dados/cupons.json || true
           cd /tmp/dados
           git config user.name "preco-ninja-bot"
           git config user.email "bot@ofertaninja.online"
           git add ofertas.json
           [ -f links.json ] && git add links.json || true
+          [ -f cupons.json ] && git add cupons.json || true
           if git diff --cached --quiet; then echo "Sem mudanças no site."; exit 0; fi
           git commit -q -m "ofertas: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push -q
@@ -119,7 +121,7 @@ jobs:
           git config user.name "preco-ninja-bot"
           git config user.email "bot@ofertaninja.online"
           # Tudo que o bot grava e é versionado; o .gitignore deixa de fora token e chaves.
-          git add public/ofertas.json public/links.json .ofertas/
+          git add public/ofertas.json public/links.json public/cupons.json .ofertas/
           if git diff --cached --quiet; then
             echo "Nenhuma oferta nova."
             exit 0

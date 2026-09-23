@@ -29,6 +29,9 @@ export const OG_IMAGE_URL = absoluteUrl("/og-image.png");
 /** ofertas.json publicado pelo bot no repositório público de dados. */
 export const OFERTAS_DADOS_URL =
   "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/ofertas.json";
+/** Cupons de canais públicos do Telegram, publicados pelo bot (scripts/ofertas/cupons-telegram.ts). */
+export const CUPONS_DADOS_URL =
+  "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/cupons.json";
 /** id → link de afiliado das ofertas Shopee (o /ir/ usa quando a oferta já saiu do ofertas.json). */
 export const LINKS_DADOS_URL =
   "https://raw.githubusercontent.com/tbrena/preco-ninja-dados/main/links.json";
