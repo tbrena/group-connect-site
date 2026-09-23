@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "LOJASOFICIAIS"
+    ],
+    "desconto": "R$ 15 OFF",
+    "limite": null,
+    "minimo": "R$ 89",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16047",
+    "quando": "2026-09-23T16:17:35+00:00",
+    "id": "ml:LOJASOFICIAIS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODA2309"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/16045",
+    "quando": "2026-09-23T16:15:39+00:00",
+    "id": "ml:MODA2309",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE2309",
       "SITE2309TODO",
       "TODOSITE200"
