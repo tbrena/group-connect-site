@@ -12,7 +12,7 @@ export const SITE_NAME = "Preço Ninja";
 export const SITE_TITLE = "Preço Ninja — Ofertas que chegam primeiro";
 
 export const SITE_DESCRIPTION =
-  "Ofertas do Mercado Livre (preço pelo menos 15% abaixo dos outros vendedores) e da Shopee (anúncios bem avaliados e com muitas vendas), conferidas de hora em hora. Receba no WhatsApp ou no Telegram. Grátis.";
+  "Ofertas do Mercado Livre (preço pelo menos 10% abaixo dos outros vendedores) e da Shopee (anúncios bem avaliados e com muitas vendas), conferidas de hora em hora. Receba no WhatsApp ou no Telegram. Grátis.";
 
 export const TELEGRAM_CHANNEL_URL = "https://t.me/preconinjaofertas";
 

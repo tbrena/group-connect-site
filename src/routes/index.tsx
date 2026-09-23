@@ -44,7 +44,7 @@ const benefits = [
     icon: Percent,
     title: "Desconto de verdade",
     description:
-      "No Mercado Livre, só entra oferta pelo menos 15% abaixo do que os outros vendedores cobram pelo mesmo produto. Na Shopee, onde essa comparação não existe, só anúncios com muitas vendas e nota alta — e avisamos que o desconto é o informado pela loja.",
+      "No Mercado Livre, só entra oferta pelo menos 10% abaixo do que os outros vendedores cobram pelo mesmo produto. Na Shopee, onde essa comparação não existe, só anúncios com muitas vendas e nota alta — e avisamos que o desconto é o informado pela loja.",
   },
   {
     icon: Zap,
@@ -111,7 +111,7 @@ const faq = [
   {
     question: "Como vocês sabem que o desconto é real?",
     answer:
-      'No Mercado Livre, ignoramos o "de/por" que o vendedor escreve: olhamos o preço de todos os vendedores do mesmo produto e só chamamos de oferta quando o anúncio está pelo menos 15% abaixo da mediana deles — o preço médio e o número de vendedores aparecem em cada oferta. Na Shopee não existe essa comparação (cada anúncio é único), então o desconto é o informado pela loja; por isso só publicamos anúncios com pelo menos 100 vendas e nota 4,5 ou mais, e marcamos esses descontos como "informado pela loja".',
+      'No Mercado Livre, ignoramos o "de/por" que o vendedor escreve: olhamos o preço de todos os vendedores do mesmo produto e só chamamos de oferta quando o anúncio está pelo menos 10% abaixo da mediana deles — o preço médio e o número de vendedores aparecem em cada oferta. Na Shopee não existe essa comparação (cada anúncio é único), então o desconto é o informado pela loja; por isso só publicamos anúncios com pelo menos 100 vendas e nota 4,5 ou mais, e marcamos esses descontos como "informado pela loja".',
   },
   {
     question: "Como faço para sair do grupo?",

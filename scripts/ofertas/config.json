@@ -1,6 +1,6 @@
 {
   "_comentario": "Buscas a cada execucao (categoria = nome mostrado no site): query (palavra-chave no catalogo) ou category (id MLB -> mais vendidos). minDiscount = desconto REAL minimo (%) contra a mediana dos outros vendedores; minSellers = quantos outros vendedores precisa ter; maxDiscount = teto (acima e anuncio errado/golpe); minPrice em R$; maxPerRun = teto de ofertas por rodada no Telegram; maxPorMarketplace = cota de cada loja na rodada; siteMax = ofertas em public/ofertas.json. minReputacao = reputacao minima do vendedor (1-5, 0 desliga). somenteLojaOficial = true publica so loja oficial. fonte=shopee usa a Affiliate Open API (SHOPEE_APP_ID/SHOPEE_SECRET); sem chave, essas buscas sao puladas. shopeeLista = lista pronta da Shopee (2 = desconto alto + muitas vendas). paginas (Shopee) = quantas paginas de limit buscar.",
-  "minDiscount": 15,
+  "minDiscount": 10,
   "maxDiscount": 70,
   "minSellers": 3,
   "minReputacao": 4,
