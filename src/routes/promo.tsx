@@ -23,7 +23,7 @@ import {
 
 const PAGE_TITLE = `Promoções do dia — ${SITE_NAME}`;
 const PAGE_DESCRIPTION =
-  "As melhores promoções do Mercado Livre selecionadas hoje pelo Preço Ninja: descontos reais, frete grátis e link direto para comprar ou compartilhar no WhatsApp.";
+  "As melhores promoções do Mercado Livre e da Shopee selecionadas hoje pelo Preço Ninja: preço comparado com os outros vendedores, frete grátis e link direto para comprar ou compartilhar no WhatsApp.";
 
 export const Route = createFileRoute("/promo")({
   component: Promo,
@@ -219,7 +219,7 @@ function Promo() {
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-center text-base text-muted-foreground sm:text-lg">
             {ofertas.length > 0
-              ? `${ofertas.length} ofertas do Mercado Livre e da Shopee com desconto de verdade. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
+              ? `${ofertas.length} ofertas do Mercado Livre e da Shopee. Toque em Compartilhar para mandar no WhatsApp com o texto e o link prontos.`
               : "Estamos garimpando as ofertas de hoje. Volte daqui a pouco!"}
           </p>
           {atualizadoEm && (
@@ -367,7 +367,7 @@ function Promo() {
         </p>
         <p className="mt-2 text-xs">
           Privacidade: usamos cookies e o pixel da Meta para medir visitas e melhorar anúncios; não
-          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre.
+          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre ou à Shopee.
         </p>
       </footer>
 

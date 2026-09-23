@@ -44,7 +44,7 @@ const benefits = [
     icon: Percent,
     title: "Desconto de verdade",
     description:
-      'Só entra oferta com preço pelo menos 15% abaixo do que os outros vendedores cobram pelo mesmo produto — nada de "de/por" inventado.',
+      "No Mercado Livre, só entra oferta pelo menos 15% abaixo do que os outros vendedores cobram pelo mesmo produto. Na Shopee, onde essa comparação não existe, só anúncios com muitas vendas e nota alta — e avisamos que o desconto é o informado pela loja.",
   },
   {
     icon: Zap,
@@ -56,7 +56,7 @@ const benefits = [
     icon: ShoppingCart,
     title: "Vendedor confiável",
     description:
-      "Preferência a lojas oficiais e a vendedores com reputação alta no Mercado Livre. O nome da loja vai junto com a oferta.",
+      "Preferência a lojas oficiais e a vendedores bem avaliados: reputação alta no Mercado Livre, nota 4,5+ e 100+ vendas na Shopee. O nome da loja oficial vai junto com a oferta.",
   },
 ];
 
@@ -75,12 +75,13 @@ const steps = [
     icon: Tag,
     title: "Compre com desconto",
     description:
-      "Clique no link da oferta e finalize direto no Mercado Livre, no preço que mostramos.",
+      "Clique no link da oferta e finalize direto no Mercado Livre ou na Shopee, no preço que mostramos.",
   },
 ];
 
 const reasons = [
-  "Preço comparado com todos os vendedores antes de postar",
+  "Mercado Livre: preço comparado com todos os vendedores antes de postar",
+  "Shopee: só anúncios com 100+ vendas e nota 4,5 ou mais",
   "Ofertas novas toda hora, no WhatsApp e no Telegram",
   "Eletrodomésticos, eletrônicos, beleza, casa, games e mais",
   "Loja oficial e reputação do vendedor indicadas em cada oferta",
@@ -110,7 +111,7 @@ const faq = [
   {
     question: "Como vocês sabem que o desconto é real?",
     answer:
-      'Ignoramos o "de/por" que o vendedor escreve. Para cada produto, olhamos o preço de todos os vendedores no Mercado Livre e só chamamos de oferta quando o anúncio está pelo menos 15% abaixo da mediana deles. O preço médio e o número de vendedores aparecem em cada oferta.',
+      'No Mercado Livre, ignoramos o "de/por" que o vendedor escreve: olhamos o preço de todos os vendedores do mesmo produto e só chamamos de oferta quando o anúncio está pelo menos 15% abaixo da mediana deles — o preço médio e o número de vendedores aparecem em cada oferta. Na Shopee não existe essa comparação (cada anúncio é único), então o desconto é o informado pela loja; por isso só publicamos anúncios com pelo menos 100 vendas e nota 4,5 ou mais, e marcamos esses descontos como "informado pela loja".',
   },
   {
     question: "Como faço para sair do grupo?",
@@ -360,13 +361,13 @@ function Index() {
           </a>
         </p>
         <p className="mt-2">
-          © {new Date().getFullYear()} {SITE_NAME}. Não somos afiliados ao WhatsApp, ao Telegram nem
-          ao Mercado Livre. Podemos receber comissão por compras feitas através dos links
+          © {new Date().getFullYear()} {SITE_NAME}. Não somos afiliados ao WhatsApp, ao Telegram, ao
+          Mercado Livre nem à Shopee. Podemos receber comissão por compras feitas através dos links
           divulgados.
         </p>
         <p className="mt-2 text-xs">
           Privacidade: usamos cookies e o pixel da Meta para medir visitas e melhorar anúncios; não
-          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre.
+          coletamos nome, e-mail ou CPF. Os links de oferta levam ao Mercado Livre ou à Shopee.
         </p>
       </footer>
 

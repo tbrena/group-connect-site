@@ -199,6 +199,12 @@ export function OfertaCard({ oferta, compartilhar = false }: Props) {
           ) : (
             <p className="mt-0.5 text-[11px] text-muted-foreground">
               De <span className="line-through">{brl(oferta.originalPrice)}</span>
+              {oferta.marketplace === "shopee" && (
+                <span title="Na Shopee cada anúncio é único: não dá para comparar com outros vendedores, então o desconto é o que a loja informa.">
+                  {" "}
+                  · desconto informado pela loja
+                </span>
+              )}
             </p>
           )}
         </div>
