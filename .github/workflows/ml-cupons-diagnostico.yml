@@ -1,0 +1,27 @@
+# Diagnóstico sob demanda: dá para achar cupons oficiais do Mercado Livre automaticamente?
+# Abre as páginas públicas de cupons/ofertas do ML e sonda a API com o token do app
+# (scripts/ofertas/ml-cupons-diagnostico.ts). Só lê; não publica nem commita nada.
+name: Mercado Livre (cupons — diagnóstico)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  cupons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Instalar dependências do bot
+        run: npm ci --prefix scripts/ofertas
+      - name: Procurar cupons
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+        run: node scripts/ofertas/ml-cupons-diagnostico.ts
