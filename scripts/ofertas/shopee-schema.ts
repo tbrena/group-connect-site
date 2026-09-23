@@ -139,6 +139,57 @@ async function main(): Promise<void> {
     `query { shopeeOfferV2(page: 1, limit: 5) { nodes { ${campos} } } }`,
   )) as { shopeeOfferV2?: { nodes?: unknown[] } } | null;
   for (const n of amostra?.shopeeOfferV2?.nodes ?? []) console.log(JSON.stringify(n, null, 2));
+
+  console.log("\n── 4. Campanhas oficiais por palavra-chave (cupom automático?) ─");
+  for (const palavra of [
+    "cupom",
+    "voucher",
+    "frete grátis",
+    "cashback",
+    "desconto",
+    "oferta relâmpago",
+  ]) {
+    const r = (await tentar(
+      `shopeeOfferV2(keyword: "${palavra}")`,
+      `query { shopeeOfferV2(keyword: ${JSON.stringify(palavra)}, page: 1, limit: 10) { nodes { offerName offerType offerLink originalLink periodEndTime } } }`,
+    )) as { shopeeOfferV2?: { nodes?: Array<Record<string, unknown>> } } | null;
+    for (const n of r?.shopeeOfferV2?.nodes ?? [])
+      console.log(`   [tipo ${n["offerType"]}] ${n["offerName"]} → ${n["originalLink"]}`);
+  }
+  // Tipos de campanha existentes (sem palavra-chave, várias páginas).
+  const porTipo = new Map<string, string[]>();
+  for (let page = 1; page <= 5; page++) {
+    const r = (await tentar(
+      `shopeeOfferV2 página ${page}`,
+      `query { shopeeOfferV2(page: ${page}, limit: 50) { nodes { offerName offerType originalLink } pageInfo { hasNextPage } } }`,
+    )) as {
+      shopeeOfferV2?: {
+        nodes?: Array<Record<string, unknown>>;
+        pageInfo?: { hasNextPage?: boolean };
+      };
+    } | null;
+    for (const n of r?.shopeeOfferV2?.nodes ?? []) {
+      const tipo = String(n["offerType"]);
+      porTipo.set(tipo, [...(porTipo.get(tipo) ?? []), `${n["offerName"]} → ${n["originalLink"]}`]);
+    }
+    if (!r?.shopeeOfferV2?.pageInfo?.hasNextPage) break;
+  }
+  for (const [tipo, itens] of porTipo) {
+    console.log(`   offerType ${tipo}: ${itens.length} campanhas`);
+    for (const i of itens.slice(0, 8)) console.log(`      ${i}`);
+  }
+
+  console.log("\n── 5. productOfferV2 por listType (relâmpago / mais vendidos?) ──");
+  for (const listType of [0, 1, 2, 3, 4, 5, 6]) {
+    const r = (await tentar(
+      `productOfferV2(listType: ${listType})`,
+      `query { productOfferV2(listType: ${listType}, page: 1, limit: 5) { nodes { productName price priceDiscountRate sales periodEndTime offerLink } } }`,
+    )) as { productOfferV2?: { nodes?: Array<Record<string, unknown>> } } | null;
+    for (const n of r?.productOfferV2?.nodes ?? [])
+      console.log(
+        `   -${n["priceDiscountRate"]}% R$${n["price"]} · ${n["sales"]} vendas · fim ${n["periodEndTime"]} · ${String(n["productName"]).slice(0, 60)}`,
+      );
+  }
 }
 
 await main();
