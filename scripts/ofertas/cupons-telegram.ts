@@ -20,8 +20,10 @@ export interface Cupom {
   desconto: string | null;
   /** teto do desconto, "R$ 500" */
   limite: string | null;
-  /** compra mínima, "R$ 99" */
+  /** compra mínima, "R$ 99" (omitida quando irrisória, tipo R$ 1) */
   minimo: string | null;
+  /** onde vale, tirado do título: "Entregas Full", "Tecnologia e Eletrodomésticos" */
+  escopo: string | null;
   /** canal/123 de onde veio (para log e para não repetir) */
   origem: string;
   /** ISO da postagem no canal */
@@ -121,11 +123,22 @@ export function extrairCupom(post: Post): Cupom | null {
   }
   if (codigos.length === 0) return null;
 
-  const dinheiro = (v: string) => `R$ ${v.replace(/,00$/, "")}`;
+  // "R$ 19," no fim da frase: a vírgula/ponto final não faz parte do valor.
+  const valor = (v: string | undefined) => v?.replace(/[.,]+$/, "").replace(/,00$/, "");
+  const dinheiro = (v: string) => `R$ ${v}`;
   const pct = /(\d{1,2})\s?%\s?(?:off|de desconto|em|no|na)/i.exec(t)?.[1];
-  const reais = /R\$\s?([\d.,]+)\s?(?:off|de desconto)/i.exec(t)?.[1];
-  const limite = /limitad[oa]\s+a\s+R\$\s?([\d.,]+)/i.exec(t)?.[1];
-  const minimo = /(?:acima de|a partir de|m[íi]nim[oa] de)\s+R\$\s?([\d.,]+)/i.exec(t)?.[1] ?? null;
+  const reais = valor(/R\$\s?([\d.,]+)\s?(?:off|de desconto)/i.exec(t)?.[1]);
+  const limite = valor(
+    /(?:limitad[oa]\s+a|limite\s+de|m[áa]ximo\s+de)\s+R\$\s?([\d.,]+)/i.exec(t)?.[1],
+  );
+  const minimo = valor(/(?:acima de|a partir de|m[íi]nim[oa] de)\s+R\$\s?([\d.,]+)/i.exec(t)?.[1]);
+  // Mínimo de "R$ 1" é o mesmo que nenhum.
+  const minimoUtil = !!minimo && Number(minimo.replace(/\./g, "").replace(",", ".")) >= 10;
+  // Título "20% em Queima de Estoque no Mercado Livre" → "Queima de Estoque".
+  const escopo =
+    /\d+\s?%\s+em\s+(.+?)\s+(?:no|do|na|da)\s+(?:mercado\s*livre|meli|shopee)\b/i
+      .exec(t.split("\n")[0] ?? "")?.[1]
+      ?.trim() ?? null;
 
   return {
     loja: ml ? "ml" : "shopee",
@@ -133,7 +146,8 @@ export function extrairCupom(post: Post): Cupom | null {
     desconto:
       codigos.length > 1 ? null : pct ? `${pct}% OFF` : reais ? `${dinheiro(reais)} OFF` : null,
     limite: limite ? dinheiro(limite) : null,
-    minimo: codigos.length > 1 || !minimo ? null : dinheiro(minimo),
+    minimo: codigos.length > 1 || !minimoUtil ? null : dinheiro(minimo!),
+    escopo: escopo && escopo.length <= 50 ? escopo : null,
     origem: post.id,
     quando: post.quando,
   };
@@ -170,6 +184,7 @@ export function mensagemCupom(c: Cupom, link: string): string {
   const linhas = [`🎟️ <b>CUPOM ${loja}</b>`, ""];
   const regras = [c.desconto, c.limite && `limite de ${c.limite} de desconto`].filter(Boolean);
   if (regras.length) linhas.push(`🏷️ ${regras.join(" · ")}`);
+  if (c.escopo) linhas.push(`📦 Vale em: ${escapeHtml(c.escopo)}`);
   if (c.minimo) linhas.push(`🛒 Compra mínima: ${c.minimo}`);
   if (c.codigos.length > 1) linhas.push("🏷️ Desconto varia conforme o valor da compra");
   linhas.push(
@@ -204,8 +219,12 @@ if (import.meta.url === `file://${process.argv[1]}`) {
         console.log(`   ${c ? "🎟️" : "  "} ${p.quando.slice(0, 16)} ${resumo}`);
         if (c)
           console.log(
-            `      → ${c.loja} ${c.codigos.join("/")} · ${c.desconto ?? "-"} · limite ${c.limite ?? "-"} · mín ${c.minimo ?? "-"}`,
+            `      → ${c.loja} ${c.codigos.join("/")} · ${c.desconto ?? "-"} · limite ${c.limite ?? "-"} · mín ${c.minimo ?? "-"} · em ${c.escopo ?? "-"}`,
           );
+        // Fala de ML/Shopee mas não achou código: mostra as linhas com "cupom" para ajustar.
+        else if (/mercado\s*livre|\bmeli\b|shopee/i.test(p.texto))
+          for (const l of p.texto.split("\n").filter((l) => /cupo|c[oó]digo/i.test(l)))
+            console.log(`      ? ${l.slice(0, 140)}`);
       }
     } catch (err) {
       console.log(`── ${canal}: ERRO ${(err as Error).message}`);
