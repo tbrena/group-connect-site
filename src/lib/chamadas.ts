@@ -20,6 +20,15 @@ const CHAMADAS: Record<string, { emoji: string; frases: string[] }> = {
       "DESCONTO PRA QUEM VIVE NO CELULAR",
     ],
   },
+  Smartwatches: {
+    emoji: "⌚",
+    frases: [
+      "SMARTWATCH NO PRECINHO",
+      "SAÚDE E NOTIFICAÇÕES NO PULSO",
+      "O RELÓGIO QUE FAZ DE TUDO",
+      "PRA MONITORAR O TREINO",
+    ],
+  },
   Informática: {
     emoji: "💻",
     frases: [

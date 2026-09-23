@@ -203,7 +203,14 @@ function referencia(item: MlItem): number {
 
 /** fonte (MLB1055 ou "q:air fryer") → nome da categoria configurado em config.json. */
 let categorias = new Map<string, string>();
-const categoriaDe = (fonte: string) => categorias.get(fonte) ?? "Outros";
+/**
+ * Relógio inteligente vira "Smartwatches" venha de onde vier (a categoria de celulares do
+ * ML, a busca "relogio masculino" da Shopee…): antes eram ~3/4 da categoria Celulares.
+ */
+const SMARTWATCH =
+  /smart\s?watch|smart\s?band|rel[oó]gio inteligente|\bmi band\b|galaxy watch|apple watch|amazfit/i;
+const categoriaDe = (item: { fonte: string; title: string }) =>
+  SMARTWATCH.test(item.title) ? "Smartwatches" : (categorias.get(item.fonte) ?? "Outros");
 
 function toSiteOffer(item: MlItem, now: number): SiteOffer {
   return {
@@ -211,7 +218,7 @@ function toSiteOffer(item: MlItem, now: number): SiteOffer {
     productId: item.productId,
     marketplace: item.marketplace,
     fonte: item.fonte,
-    categoria: categoriaDe(item.fonte),
+    categoria: categoriaDe(item),
     title: item.title,
     price: item.price,
     originalPrice: referencia(item),
@@ -260,7 +267,7 @@ async function salvarLinksShopee(
 function dadosDe(item: MlItem): DadosMensagem {
   return {
     ...item,
-    categoria: categoriaDe(item.fonte),
+    categoria: categoriaDe(item),
     freeShipping: Boolean(item.shipping?.free_shipping),
     lowest30d: menorPrecoEm30Dias(item.productId, item.price),
     quando: new Date().toISOString(),
