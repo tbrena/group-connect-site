@@ -95,7 +95,7 @@ const faq = [
   {
     question: "Vou receber spam ou mensagens demais?",
     answer:
-      "No Telegram saem cerca de 15 ofertas por hora, todas com desconto real. No WhatsApp mandamos as melhores do dia. Se preferir só olhar quando quiser, a página de promoções tem tudo, com busca e filtros.",
+      "No Telegram saem cerca de 20 ofertas por hora (10 do Mercado Livre e 10 da Shopee). No WhatsApp mandamos as melhores do dia. Se preferir só olhar quando quiser, a página de promoções tem tudo, com busca e filtros.",
   },
   {
     question: "Preciso me cadastrar ou informar meus dados?",

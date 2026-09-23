@@ -122,7 +122,10 @@ interface Config {
   minReputacao: number;
   /** só publica anúncios de loja oficial (corta ~75% das ofertas) */
   somenteLojaOficial: boolean;
+  /** teto total de posts no Telegram por rodada */
   maxPerRun: number;
+  /** cota por marketplace dentro da rodada (ex.: { ml: 10, shopee: 10 }); sem isso, só o teto total */
+  maxPorMarketplace?: Partial<Record<"ml" | "shopee", number>>;
   /** quantas ofertas ficam em public/ofertas.json (home mostra 6, /promo mostra todas) */
   siteMax: number;
   minPrice: number;
@@ -346,17 +349,29 @@ async function main() {
   candidates.sort((a, b) => Number(b.oficial) - Number(a.oficial) || b.discount - a.discount);
   // Sem repetir dentro da rodada: o mesmo produto pode vir de duas buscas (categoria e
   // palavra-chave) com anúncios diferentes, e na Shopee várias lojas usam o mesmo título.
+  // Cota por marketplace: o desconto da Shopee é o declarado pelo vendedor (maior) e o do
+  // ML é o real contra a mediana (menor); sem cota a Shopee levava todas as vagas.
   const limite = MAX_ARG || config.maxPerRun;
-  const picked: MlItem[] = [];
+  const cota = (m: MlItem["marketplace"]) => config.maxPorMarketplace?.[m] ?? limite;
+  const porLoja: Record<MlItem["marketplace"], MlItem[]> = { ml: [], shopee: [] };
   const produtosDaRodada = new Set<string>();
   const titulosDaRodada = new Set<string>();
   for (const c of candidates) {
-    if (picked.length >= limite) break;
+    const fila = porLoja[c.marketplace];
+    if (fila.length >= cota(c.marketplace)) continue;
     const titulo = chaveTitulo(c.title);
     if (produtosDaRodada.has(c.productId) || titulosDaRodada.has(titulo)) continue;
     produtosDaRodada.add(c.productId);
     titulosDaRodada.add(titulo);
-    picked.push(c);
+    fila.push(c);
+  }
+  // Intercala (ML, Shopee, ML…) para o canal não ter uma sequência só de uma loja;
+  // cada fila já vem da melhor para a pior, então as medalhas vão para as primeiras.
+  const picked: MlItem[] = [];
+  for (let i = 0; picked.length < limite; i++) {
+    const vez = [porLoja.ml[i], porLoja.shopee[i]].filter((x): x is MlItem => x !== undefined);
+    if (!vez.length) break;
+    picked.push(...vez.slice(0, limite - picked.length));
   }
   const hist = tamanhoHistorico();
   console.log(
