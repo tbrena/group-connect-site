@@ -79,14 +79,28 @@ export interface ShopeeNode {
   periodEndTime?: number | null;
 }
 
-export const QUERY_PRODUCT_OFFER = `
-  query ($keyword: String, $productCatId: Int, $listType: Int, $sortType: Int, $page: Int, $limit: Int) {
-    productOfferV2(keyword: $keyword, productCatId: $productCatId, listType: $listType, sortType: $sortType, page: $page, limit: $limit) {
+const CAMPOS_PRODUTO = `
       nodes {
         itemId shopId productName price priceMin priceDiscountRate sales ratingStar
         imageUrl shopName shopType productLink offerLink commissionRate periodEndTime
       }
-      pageInfo { page limit hasNextPage }
+      pageInfo { page limit hasNextPage }`;
+
+/** Busca por palavra-chave ou categoria. */
+export const QUERY_PRODUCT_OFFER = `
+  query ($keyword: String, $productCatId: Int, $sortType: Int, $page: Int, $limit: Int) {
+    productOfferV2(keyword: $keyword, productCatId: $productCatId, sortType: $sortType, page: $page, limit: $limit) {${CAMPOS_PRODUTO}
+    }
+  }`;
+
+/**
+ * Lista pronta (listType). Consulta separada de propósito: citar `listType` numa
+ * busca que não o usa faz a Shopee responder "got null for non-null" — mesmo sem
+ * mandar a variável.
+ */
+const QUERY_PRODUCT_LISTA = `
+  query ($listType: Int, $page: Int, $limit: Int) {
+    productOfferV2(listType: $listType, page: $page, limit: $limit) {${CAMPOS_PRODUTO}
     }
   }`;
 
@@ -160,19 +174,21 @@ export async function searchShopeeDeals(opts: ShopeeOptions): Promise<MlItem[]> 
     console.error("  Shopee: SHOPEE_APP_ID/SHOPEE_SECRET ausentes — fonte pulada");
     return [];
   }
+  const limit = opts.limit ?? 50;
   const data = await shopeeGraphQL<{ productOfferV2: { nodes: ShopeeNode[] } }>(
-    QUERY_PRODUCT_OFFER,
-    {
-      keyword: opts.query ?? null,
-      productCatId: opts.shopeeCategory ?? null,
-      // undefined (e não null) some do JSON: a Shopee recusa listType/sortType nulos
-      // explícitos ("got null for non-null") — foi o que derrubou as buscas por palavra.
-      listType: opts.lista,
-      // A lista pronta já vem na ordem da Shopee; ordenar por vendas só nas buscas.
-      sortType: opts.lista !== undefined ? undefined : SORT_MAIS_VENDIDOS,
-      page: 1,
-      limit: opts.limit ?? 50,
-    },
+    ...((opts.lista !== undefined
+      ? // A lista pronta já vem na ordem da Shopee: sem ordenação própria.
+        [QUERY_PRODUCT_LISTA, { listType: opts.lista, page: 1, limit }]
+      : [
+          QUERY_PRODUCT_OFFER,
+          {
+            keyword: opts.query ?? null,
+            productCatId: opts.shopeeCategory ?? null,
+            sortType: SORT_MAIS_VENDIDOS,
+            page: 1,
+            limit,
+          },
+        ]) as [string, Record<string, unknown>]),
   );
   const fonte = shopeeFonte(opts);
   return (data.productOfferV2?.nodes ?? [])
