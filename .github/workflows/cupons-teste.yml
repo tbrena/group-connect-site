@@ -1,0 +1,32 @@
+# Teste sob demanda dos cupons de canais públicos do Telegram (scripts/ofertas/cupons-telegram.ts).
+# Lê t.me/s/<canal>, extrai código + loja + regras e MOSTRA a mensagem que seria postada.
+# Não posta nem commita nada.
+name: Cupons do Telegram (teste)
+
+on:
+  workflow_dispatch:
+    inputs:
+      canais:
+        description: "Canais públicos separados por vírgula (sem @)"
+        type: string
+        required: false
+        default: avidaefeitadedesconto
+
+permissions:
+  contents: read
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Instalar dependências do bot
+        run: npm ci --prefix scripts/ofertas
+      - name: Ler os canais e simular os posts
+        env:
+          CANAIS: ${{ inputs.canais }}
+        run: node scripts/ofertas/cupons-telegram.ts "$CANAIS"
