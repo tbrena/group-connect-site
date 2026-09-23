@@ -1,10 +1,17 @@
-# Diagnóstico sob demanda da Affiliate Open API da Shopee (scripts/ofertas/shopee-schema.ts):
-# lista o que a API expõe (consultas, tipos com cara de cupom/campanha) e uma amostra
-# de campanhas. Só lê; não publica nem commita nada. Rodar pela aba Actions.
+# Diagnóstico sob demanda da Shopee. Só lê; não publica nem commita nada. Rodar pela aba Actions.
+# - sem `url`: sonda a Affiliate Open API (scripts/ofertas/shopee-schema.ts) — consultas,
+#   tipos com cara de cupom/campanha e uma amostra de campanhas;
+# - com `url`: abre o link seguindo os redirecionamentos (scripts/ofertas/link-diagnostico.ts)
+#   e mostra o destino e o que a página traz de cupom.
 name: Shopee (diagnóstico)
 
 on:
   workflow_dispatch:
+    inputs:
+      url:
+        description: "Link para abrir (opcional; vazio = sondar a API)"
+        type: string
+        required: false
 
 permissions:
   contents: read
@@ -20,7 +27,13 @@ jobs:
           node-version: 24
       - name: Instalar dependências do bot
         run: npm ci --prefix scripts/ofertas
+      - name: Abrir o link
+        if: inputs.url != ''
+        env:
+          URL_ALVO: ${{ inputs.url }}
+        run: node scripts/ofertas/link-diagnostico.ts "$URL_ALVO"
       - name: Sondar a API
+        if: inputs.url == ''
         env:
           SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
