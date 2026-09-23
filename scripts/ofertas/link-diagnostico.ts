@@ -56,4 +56,38 @@ if (res) {
   }
   console.log(`\nTrechos com cara de cupom (${trechos.size}):`);
   for (const t of trechos) console.log(`  … ${t} …`);
+
+  // Estrutura da página (para estudar landing pages): descrição, títulos, botões/links e o
+  // texto visível. Página montada só por JavaScript vem quase vazia aqui.
+  const semTags = (h: string) =>
+    h
+      .replace(/<[^>]+>/g, " ")
+      .replace(/&nbsp;/g, " ")
+      .replace(/&amp;/g, "&")
+      .replace(/\s+/g, " ")
+      .trim();
+  const descricao = /<meta[^>]+name="description"[^>]+content="([^"]*)"/i.exec(html)?.[1];
+  if (descricao) console.log(`\nDescrição: ${descricao}`);
+  console.log("\nTítulos:");
+  for (const m of html.matchAll(/<(h[1-4])[^>]*>([\s\S]*?)<\/\1>/gi)) {
+    const t = semTags(m[2]!);
+    if (t) console.log(`  ${m[1]!.toUpperCase()}: ${t.slice(0, 200)}`);
+  }
+  console.log("\nBotões e links:");
+  const vistos = new Set<string>();
+  for (const m of html.matchAll(/<(a|button)\b([^>]*)>([\s\S]*?)<\/\1>/gi)) {
+    const texto = semTags(m[3]!);
+    const href = /href="([^"]*)"/i.exec(m[2]!)?.[1] ?? "";
+    const linha = `${texto.slice(0, 80)} → ${href.slice(0, 120)}`;
+    if (!texto || vistos.has(linha)) continue;
+    vistos.add(linha);
+    console.log(`  ${linha}`);
+    if (vistos.size >= 80) break;
+  }
+  const visivel = semTags(
+    html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " "),
+  );
+  console.log(`\nTexto visível (${visivel.length} caracteres):`);
+  for (let i = 0; i < Math.min(visivel.length, 12_000); i += 200)
+    console.log(`  ${visivel.slice(i, i + 200)}`);
 }
