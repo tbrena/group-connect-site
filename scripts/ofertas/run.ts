@@ -457,6 +457,7 @@ async function main() {
       item.base === "media" ? `vs. média ${brl(item.averagePrice!)} de ${item.sellers}` : "de/por",
       item.oficial ? "OFICIAL" : "",
       menorPrecoEm30Dias(item.productId, item.price) ? "MENOR 30d" : "",
+      cupom ? `CUPOM ${cupom.codigo} → ${brl(cupom.precoFinal)}` : "",
     ]
       .filter(Boolean)
       .join(", ");
