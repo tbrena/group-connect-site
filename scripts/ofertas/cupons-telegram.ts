@@ -116,7 +116,7 @@ export function extrairCupom(post: Post): Cupom | null {
   const codigos: string[] = [];
   for (const linha of t.split("\n")) {
     if (!/cupo(m|ns)|c[oó]digo/i.test(linha)) continue;
-    for (const m of normalizar(linha).matchAll(/\b[A-Z][A-Z0-9]{3,19}\b/g)) {
+    for (const m of normalizar(linha).matchAll(/\b(?=[A-Z0-9]*[A-Z])[A-Z0-9]{4,20}\b/g)) {
       const c = m[0];
       if (!NAO_CODIGO.has(c) && !codigos.includes(c)) codigos.push(c);
     }
