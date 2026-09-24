@@ -16,8 +16,7 @@ export const SITE_DESCRIPTION =
 
 export const TELEGRAM_CHANNEL_URL = "https://t.me/preconinjaofertas";
 
-export const WHATSAPP_GROUP_URL =
-  "https://chat.whatsapp.com/Grj0LpGIotqF8sRbrh9LK5?s=cl&p=a&mlu=4&ilr=4";
+export const WHATSAPP_GROUP_URL = "https://chat.whatsapp.com/EBCbZMCRbcTEnXTvTLzBjC";
 
 /** Turns a site-relative path into an absolute URL on the production domain. */
 export function absoluteUrl(path: string): string {
