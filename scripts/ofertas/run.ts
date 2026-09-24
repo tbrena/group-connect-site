@@ -112,6 +112,8 @@ function jaPostadaSemQueda(published: Record<string, Publicada>, item: MlItem, n
   return false;
 }
 const PAUSA_ENTRE_POSTS_MS = 3000;
+/** Quantas ofertas da Shopee já no site são reconferidas por rodada (limite da API). */
+const SHOPEE_RECONFERIR_POR_RODADA = 60;
 
 async function salvarPublicadas(published: Record<string, Publicada>): Promise<void> {
   await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
@@ -521,6 +523,18 @@ async function main() {
   const entradaAnterior = new Map(siteOffers.map((o) => [o.id, o.publishedAt] as const));
   const candidatosPorId = new Map(candidates.map((c) => [c.id, c] as const));
   const antigas = siteOffers.filter((o) => o.base && o.productId);
+  // A API da Shopee tem limite de requisições por hora: com as buscas paginadas, reconferir
+  // as ~200 ofertas dela toda rodada estourava ("Rate limit exceeded"). Reconfere só as
+  // SHOPEE_RECONFERIR_POR_RODADA conferidas há mais tempo; as outras ficam como estavam
+  // até a vez delas (cada uma é reconferida a cada poucas horas).
+  const ehShopee = (o: SiteOffer) => o.marketplace === "shopee" || o.id.startsWith("SP");
+  const shopeeDaVez = new Set(
+    antigas
+      .filter((o) => ehShopee(o) && !candidatosPorId.has(o.id))
+      .sort((a, b) => (a.checkedAt ?? a.publishedAt).localeCompare(b.checkedAt ?? b.publishedAt))
+      .slice(0, SHOPEE_RECONFERIR_POR_RODADA)
+      .map((o) => o.id),
+  );
   let removidas = 0;
   let erros = 0;
   const revalidadas = (
@@ -528,6 +542,7 @@ async function main() {
       // Se a busca desta rodada já reavaliou o item, reaproveita (sem nova requisição).
       const daBusca = candidatosPorId.get(o.id);
       if (daBusca) return { ...toSiteOffer(daBusca, now), publishedAt: o.publishedAt };
+      if (ehShopee(o) && !shopeeDaVez.has(o.id)) return o;
       try {
         const atual = await (o.marketplace === "shopee" || o.id.startsWith("SP")
           ? revalidarShopee(o.id, o.fonte, criterioShopee)
