@@ -1,154 +1,108 @@
-# Bot de ofertas — Preço Ninja
+# Bot do WhatsApp — Preço Ninja
 
-Busca as ofertas do Mercado Livre, escolhe as melhores e posta no grupo do
-WhatsApp com foto, preço, desconto e **seu link de afiliado**. Roda no seu PC.
+Posta no seu grupo do WhatsApp **as mesmas ofertas e cupons do canal do
+Telegram**: foto, preço, desconto real, cupom quando houver, chamada de efeito
+e **seu link de afiliado** (Mercado Livre e Shopee).
+
+Quem escolhe as ofertas é o bot do GitHub (roda sozinho a cada 30 min). A cada
+rodada ele publica uma **fila** com os posts prontos; este bot, rodando no seu
+PC (ou num servidor), lê a fila e posta no grupo num ritmo seguro. É o mesmo
+modelo das ferramentas pagas para afiliados: um "cérebro" na nuvem e um número
+de WhatsApp conectado que só dispara.
 
 ## Antes de começar (leia, é importante)
 
-- **Use um número só para o bot.** O bot usa o WhatsApp como se fosse um
-  celular conectado ("Dispositivos conectados"). Isso não é permitido pelos
-  termos do WhatsApp e o número **pode ser banido**. Não use o seu número
-  pessoal. Um chip pré-pago novo resolve — deixe ele alguns dias em uso
-  normal (conversas, foto de perfil) antes de ligar o bot.
-- **O número do bot precisa ser participante do grupo** (e de preferência
-  admin, para ninguém apagar as postagens).
-- **Ritmo importa.** O padrão é 1 oferta a cada ~30 min, das 8h às 22h. Postar
-  a cada 2 minutos é o jeito mais rápido de ser banido.
+- **Use um número só para o bot, nunca o seu pessoal.** O bot entra no
+  WhatsApp como um aparelho conectado ("Dispositivos conectados"), o que não é
+  permitido pelos termos do WhatsApp: o número **pode ser banido**. Um chip
+  pré-pago resolve. Deixe o chip uns dias em uso normal (foto de perfil,
+  algumas conversas) antes de ligar o bot.
+- **Tenha um número reserva.** É o que as ferramentas pagas chamam de
+  "contingência": se o número do bot cair, você conecta o reserva (apaga a pasta
+  `auth/` e lê o QR code com ele) e segue postando.
+- **O número do bot precisa estar no grupo, como admin.** Deixe o grupo em
+  "só admins enviam mensagens" para ele virar um canal de ofertas.
+- **Ritmo importa.** Padrão: 1 post a cada ~6 min, no máximo 10 por hora, das
+  8h às 23h. Número novo: comece com `MAX_POR_HORA=4` na primeira semana.
 
-## 1. Instalar
+## 1. Instalar (uma vez)
 
-Precisa do [Node.js](https://nodejs.org) 20 ou mais novo.
+Precisa do [Node.js](https://nodejs.org) 22 ou mais novo (baixe a versão LTS).
 
 ```sh
 cd bot
 npm install
+copy .env.example .env      # no Mac/Linux: cp .env.example .env
 ```
 
-## 2. Configurar
+## 2. Conectar o WhatsApp e escolher o grupo
 
 ```sh
-cp .env.example .env      # no Windows: copy .env.example .env
+npm run grupos
 ```
 
-Abra o `.env` e preencha:
+Aparece um QR code no terminal: no celular **do número do bot**, abra WhatsApp
+→ **Dispositivos conectados** → **Conectar dispositivo** e escaneie. Depois o
+comando lista os grupos com o `GROUP_JID` de cada um. Copie o do seu grupo para
+o `.env` (linha `GROUP_JID=`). A sessão fica salva na pasta `auth/`; não precisa
+escanear de novo.
 
-| Variável | O que é |
-| --- | --- |
-| `ML_AFFILIATE_TOOL` e `ML_AFFILIATE_WORD` | No painel de afiliados do ML, gere um link de qualquer produto e copie os valores de `matt_tool=` e `matt_word=` da URL. |
-| `GROUP_NAME` | Nome do grupo (um trecho basta). Ou use `GROUP_JID`, veja o passo 3. |
-| `MIN_DISCOUNT_PERCENT` | Desconto mínimo para postar. Comece em 20–25%. |
-| `POST_INTERVAL_MINUTES` / `ACTIVE_HOURS` | Ritmo e horário das postagens. |
-
-As outras variáveis têm valores padrão e estão explicadas no próprio `.env.example`.
-
-## 2b. Ligar a API do Mercado Livre (recomendado)
-
-Sem isso o bot funciona lendo a página de ofertas do ML, que quebra quando o
-site muda de layout. Com a API oficial (gratuita) ele busca "tudo com X% de
-desconto em tal categoria" direto na fonte. Leva uns 10 minutos, uma vez só:
-
-1. Entre em [developers.mercadolivre.com.br](https://developers.mercadolivre.com.br)
-   com a sua conta do ML → **Minhas aplicações** → **Criar aplicação**.
-2. Preencha: nome (ex.: Preço Ninja Bot), **URL de redirecionamento**
-   `https://ofertaninja.online/ml-callback`, escopos **read** e
-   **offline_access** (o `offline_access` é o que permite renovar o token
-   sozinho). Os outros campos podem ficar no padrão.
-3. Copie a **Secret Key** para `ML_APP_SECRET` no `.env` (o App ID já vem preenchido).
-4. Rode `npm run ml:auth`. Ele mostra um link; abra, clique em **Autorizar**,
-   e a página ofertaninja.online/ml-callback mostra um código. Cole no terminal.
-
-Pronto: o token fica em `data/ml-token.json` e é renovado automaticamente.
-Se um dia aparecer "rode npm run ml:auth de novo", é só repetir o passo 4.
-
-Para escolher o que buscar, veja `ML_API_SEARCHES` no `.env.example`.
-
-## 3. Testar cada parte
+## 3. Testar
 
 ```sh
-npm run groups     # conecta (mostra o QR code na 1ª vez) e lista seus grupos com o JID
-npm run ml:auth    # autoriza a API do Mercado Livre (só se fez o passo 2b)
-npm run ml:test    # mostra as ofertas que o bot está enxergando no ML e de qual fonte
-npm run post:dry   # mostra a mensagem que seria postada, sem enviar nada
-npm run post:test  # envia UMA oferta de verdade no grupo, para você ver como fica
+npm run fila     # mostra o que está na fila e o próximo post, sem enviar nada
+npm run teste    # envia o próximo post AGORA no grupo, para ver como fica
 ```
-
-Na primeira conexão aparece um QR code no terminal: no celular do bot, abra
-WhatsApp → **Dispositivos conectados** → **Conectar dispositivo** e escaneie.
-A sessão fica salva na pasta `auth/`; não precisa escanear de novo.
 
 ## 4. Rodar
 
-```sh
-npm start
-```
+**Windows:** dê dois cliques em `iniciar.bat`. Deixe a janela aberta
+(pode minimizar). Se cair a internet ou o bot parar, ele volta sozinho em 30 s.
 
-Deixe o terminal aberto. `Ctrl+C` para parar. Se o PC desligar, é só rodar
-`npm start` de novo — o bot lembra o que já postou (`data/posted.json`).
+Para subir junto com o PC: tecla Windows + R → `shell:startup` → cole ali um
+**atalho** para o `iniciar.bat`.
 
-Para o bot subir sozinho quando o PC ligar (Windows): Agendador de Tarefas →
-Criar tarefa básica → "Ao fazer logon" → Ação: iniciar `npm` com argumentos
-`start` e "Iniciar em" apontando para a pasta `bot`.
+**Mac/Linux/servidor:** `npm start` (use `pm2` ou `systemd` para reiniciar sozinho).
 
-## Como a mensagem fica
+O PC precisa ficar ligado e com internet. Se preferir não depender do PC, um
+servidor Linux simples (VPS de ~R$ 25/mês) roda o mesmo bot 24 h.
 
-```
-⚡ *OFERTA RELÂMPAGO* — 32% OFF
+## Ajustes (arquivo `.env`)
 
-📦 *Smart TV Samsung 50" 4K UHD Crystal HDR*
+| Variável            | Padrão    | O que faz                                                          |
+| ------------------- | --------- | ------------------------------------------------------------------ |
+| `GROUP_JID`         | —         | Grupo(s) onde postar. Vários: separe por vírgula.                  |
+| `INTERVALO_MINUTOS` | 6         | Tempo entre posts (varia ±25% para não parecer robô).              |
+| `MAX_POR_HORA`      | 10        | Teto de posts por hora.                                            |
+| `ACTIVE_HOURS`      | 08-23     | Horário de Brasília em que posta.                                  |
+| `LOJAS`             | ml,shopee | Só `ml`, só `shopee` ou as duas.                                   |
+| `CUPONS`            | 1         | `0` para não postar os cupons.                                     |
+| `MAX_IDADE_MINUTOS` | 180       | Post mais velho que isso na fila é pulado (preço pode ter mudado). |
 
-❌ De: ~R$ 2.799,00~
-✅ Por: *R$ 1.899,00*
-💳 em 10x R$ 189,90 sem juros
-🚚 Frete grátis
-
-🛒 Compre aqui:
-https://www.mercadolivre.com.br/.../p/MLB19647811?matt_tool=...&matt_word=...
-
-⏳ Corre que o preço pode mudar a qualquer momento!
-_Preço Ninja • ofertaninja.online_
-```
-
-O texto está em `src/format.ts` — pode mudar à vontade.
+O texto das mensagens vem pronto do bot do GitHub (o mesmo do Telegram, com
+`*negrito*` do WhatsApp); para mudar o texto, muda lá, não aqui.
 
 ## Problemas comuns
 
-**"Nenhuma oferta reconhecida"** — o Mercado Livre mudou o HTML da página de
-ofertas. O bot salva a página em `data/debug-vazio-1.html`; mande esse
-arquivo para ajustar o leitor em `src/mercadolivre.ts` (função `parseCard`).
-Ou melhor: ligue a API (passo 2b) e esse problema deixa de existir.
-
-**"token recusado" / "Não consegui renovar o token"** — a autorização da API
-venceu ou foi revogada. Rode `npm run ml:auth` de novo.
-
-**"Mercado Livre bloqueou a requisição"** — o ML achou que era robô. Espere
-alguns minutos e aumente `POST_INTERVAL_MINUTES`. O bot já reaproveita a
-lista de ofertas por 20 min entre postagens justamente para não abusar.
-
 **"Sessão encerrada pelo WhatsApp"** — o aparelho foi desconectado no celular
-(ou o número foi banido). Apague a pasta `auth/` e rode de novo para ler um
-novo QR code.
+ou o número foi banido. Apague a pasta `auth/` e rode `npm run grupos` para ler
+um novo QR code (com o número reserva, se o outro caiu).
 
-**A foto não vai, só o texto** — o bot tenta a foto e, se falhar, manda o
-texto para não perder a postagem. Se acontecer sempre, veja a URL da foto em
-`npm run post:dry`.
+**"Nada novo na fila"** — normal: o bot do GitHub publica uma rodada a cada
+30 min, e este bot já postou o que tinha. Veja com `npm run fila`.
 
-**Quero postar só uma categoria** — em `ML_OFFERS_URLS`, use a página de
-ofertas com filtro de categoria (ex.: `...ofertas?category=MLB1051` para
-celulares). Abra mercadolivre.com.br/ofertas, filtre pela categoria e copie a
-URL.
+**A foto não vai, só o texto** — o bot tenta a foto e, se falhar, manda o texto
+para não perder o post.
 
 ## Estrutura
 
 ```
-src/index.ts         inicia tudo (npm start)
-src/cli.ts           comandos de teste
-src/config.ts        lê o .env
-src/offers.ts        decide a fonte das ofertas (API ou página)
-src/ml-api.ts        busca na API oficial do ML
-src/ml-auth.ts       autorização OAuth e renovação do token do ML
-src/mercadolivre.ts  lê a página de ofertas (reserva); monta o link de afiliado
-src/format.ts        texto da mensagem
-src/scheduler.ts     escolhe as ofertas e controla o ritmo
-src/whatsapp.ts      conexão com o WhatsApp (Baileys)
-src/store.ts         memória do que já foi postado (data/posted.json)
+src/index.ts      inicia tudo (npm start)
+src/cli.ts        comandos de teste (grupos, fila, teste)
+src/config.ts     lê o .env
+src/fila.ts       lê a fila publicada pelo bot do GitHub e escolhe o próximo post
+src/scheduler.ts  ritmo, horário e limite por hora
+src/whatsapp.ts   conexão com o WhatsApp (Baileys)
+src/store.ts      memória do que já foi postado (data/enviados.json)
+iniciar.bat       Windows: roda e reinicia sozinho se parar
 ```

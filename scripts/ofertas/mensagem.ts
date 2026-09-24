@@ -131,20 +131,20 @@ export function legendaTelegram(d: DadosMensagem): string {
 
 /**
  * Texto pronto para o WhatsApp (formatação *negrito* e ~riscado~ dele), com link
- * de origem "wa". Usa "％" (porcento largo) no lugar de "%": o wa.me decodifica
- * a URL mais de uma vez em alguns aparelhos e o "%" comum, que é o escape de
- * URL, chega errado.
+ * de origem "wa". Para ir dentro de um link wa.me (botão Compartilhar), usa "％"
+ * (porcento largo) no lugar de "%": o wa.me decodifica a URL mais de uma vez em
+ * alguns aparelhos e o "%" comum, que é o escape de URL, chega errado. Enviado
+ * direto pelo bot do WhatsApp (`paraLink: false`), vai o "%" normal.
  */
-export function textoWhatsApp(d: DadosMensagem): string {
-  return [
+export function textoWhatsApp(d: DadosMensagem, { paraLink = true } = {}): string {
+  const texto = [
     ...linhas(d, { b: (s) => `*${s}*`, s: (s) => `~${s}~` }),
     "",
     `🛒 Comprar: ${linkRastreado(d, "wa")}`,
     "",
     linhaHora(d),
-  ]
-    .join("\n")
-    .replace(/%/g, "％");
+  ].join("\n");
+  return paraLink ? texto.replace(/%/g, "％") : texto;
 }
 
 /** Botões embaixo do post: comprar (origem tg) e compartilhar no WhatsApp com o texto pronto. */

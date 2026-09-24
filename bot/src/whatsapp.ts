@@ -5,13 +5,13 @@ import makeWASocket, {
   fetchLatestBaileysVersion,
   useMultiFileAuthState,
   type WASocket,
-} from "@whiskeysockets/baileys";
+} from "baileys";
 import pino from "pino";
 import qrcode from "qrcode-terminal";
 
 import { config } from "./config";
+import type { ItemFila } from "./fila";
 import { log } from "./logger";
-import type { Offer } from "./mercadolivre";
 
 export interface GroupInfo {
   jid: string;
@@ -65,7 +65,7 @@ export class WhatsApp {
           const code = (update.lastDisconnect?.error as Boom | undefined)?.output?.statusCode;
           if (code === DisconnectReason.loggedOut) {
             const err = new Error(
-              "Sessão encerrada pelo WhatsApp. Apague a pasta bot/auth e rode de novo para ler um novo QR code.",
+              "Sessão encerrada pelo WhatsApp (aparelho desconectado ou número banido). Apague a pasta bot/auth e rode de novo para ler um novo QR code.",
             );
             log.error(err.message);
             reject(err);
@@ -94,14 +94,16 @@ export class WhatsApp {
       .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"));
   }
 
-  /** Encontra o grupo configurado (GROUP_JID tem prioridade; GROUP_NAME busca por trecho). */
-  async resolveGroup(): Promise<GroupInfo> {
+  /** Encontra os grupos configurados (GROUP_JID tem prioridade; GROUP_NAME busca por trecho). */
+  async resolveGroups(): Promise<GroupInfo[]> {
     const groups = await this.listGroups();
 
-    if (config.group.jid) {
-      const found = groups.find((g) => g.jid === config.group.jid);
-      if (found) return found;
-      throw new Error(`GROUP_JID "${config.group.jid}" não é um grupo em que este número está.`);
+    if (config.group.jids.length) {
+      return config.group.jids.map((jid) => {
+        const found = groups.find((g) => g.jid === jid);
+        if (!found) throw new Error(`GROUP_JID "${jid}" não é um grupo em que este número está.`);
+        return found;
+      });
     }
 
     if (!config.group.name) {
@@ -110,7 +112,7 @@ export class WhatsApp {
 
     const wanted = config.group.name.toLowerCase();
     const matches = groups.filter((g) => g.name.toLowerCase().includes(wanted));
-    if (matches.length === 1) return matches[0]!;
+    if (matches.length === 1) return [matches[0]!];
     if (matches.length === 0) {
       throw new Error(
         `Nenhum grupo com "${config.group.name}" no nome. Grupos disponíveis:\n` +
@@ -123,20 +125,20 @@ export class WhatsApp {
     );
   }
 
-  /** Envia a oferta com foto; se a foto falhar, envia só o texto para não perder a postagem. */
-  async sendOffer(jid: string, offer: Offer, caption: string): Promise<void> {
+  /** Envia o item da fila com foto; se a foto falhar, envia só o texto para não perder o post. */
+  async sendItem(jid: string, item: ItemFila): Promise<void> {
     await this.waitUntilReady();
     const sock = this.socket();
 
-    if (offer.image) {
+    if (item.imagem) {
       try {
-        await sock.sendMessage(jid, { image: { url: offer.image }, caption });
+        await sock.sendMessage(jid, { image: { url: item.imagem }, caption: item.texto });
         return;
       } catch (err) {
-        log.warn(`Não consegui enviar a foto de ${offer.id}, mandando só o texto. (${String(err)})`);
+        log.warn(`Não consegui enviar a foto de ${item.id}, mandando só o texto. (${String(err)})`);
       }
     }
-    await sock.sendMessage(jid, { text: caption });
+    await sock.sendMessage(jid, { text: item.texto });
   }
 
   async close(): Promise<void> {

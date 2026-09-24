@@ -2,27 +2,24 @@
   "name": "preco-ninja-bot",
   "private": true,
   "type": "module",
-  "description": "Posta ofertas do Mercado Livre automaticamente no grupo do WhatsApp do Preço Ninja",
+  "description": "Posta no grupo do WhatsApp as ofertas e cupons que o bot do Preço Ninja escolhe (fila publicada no GitHub)",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
     "start": "tsx src/index.ts",
-    "groups": "tsx src/cli.ts groups",
-    "ml:auth": "tsx src/cli.ts ml-auth",
-    "ml:test": "tsx src/cli.ts ml",
-    "post:dry": "tsx src/cli.ts post --dry",
-    "post:test": "tsx src/cli.ts post",
+    "grupos": "tsx src/cli.ts grupos",
+    "fila": "tsx src/cli.ts fila",
+    "teste": "tsx src/cli.ts teste",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^6.7.16",
-    "cheerio": "^1.0.0",
+    "baileys": "7.0.0-rc14",
     "dotenv": "^16.4.7",
-    "jimp": "0.16.13",
     "pino": "^9.6.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.3"
   },
   "devDependencies": {
     "@types/node": "^22.13.0",

@@ -14,6 +14,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 import { affiliateLink } from "./afiliado.ts";
+import { enfileirar } from "./fila-whatsapp.ts";
 import { linkAfiliadoShopee } from "./shopee-client.ts";
 import { escapeHtml, sendMessage } from "./telegram.ts";
 
@@ -210,20 +211,27 @@ export async function buscarCupons(
   return cupons;
 }
 
-/** Nossa mensagem (HTML do Telegram). O código em <code> vira "toque para copiar". */
-export function mensagemCupom(c: Cupom, link: string): string {
+/**
+ * Nossa mensagem. "tg" = HTML do Telegram (o código em <code> vira "toque para
+ * copiar"); "wa" = formatação do WhatsApp (*negrito*), para a fila do bot de lá.
+ */
+export function mensagemCupom(c: Cupom, link: string, formato: "tg" | "wa" = "tg"): string {
+  const tg = formato === "tg";
+  const b = (s: string) => (tg ? `<b>${s}</b>` : `*${s}*`);
+  const code = (s: string) => (tg ? `<code>${escapeHtml(s)}</code>` : `*${s}*`);
+  const txt = (s: string) => (tg ? escapeHtml(s) : s);
   const loja = c.loja === "ml" ? "MERCADO LIVRE" : "SHOPEE";
-  const linhas = [`🎟️ <b>CUPOM ${loja}</b>`, ""];
+  const linhas = [`🎟️ ${b(`CUPOM ${loja}`)}`, ""];
   const regras = [c.desconto, c.limite && `limite de ${c.limite} de desconto`].filter(Boolean);
   if (regras.length) linhas.push(`🏷️ ${regras.join(" · ")}`);
-  if (c.escopo) linhas.push(`📦 Vale em: ${escapeHtml(c.escopo)}`);
+  if (c.escopo) linhas.push(`📦 Vale em: ${txt(c.escopo)}`);
   if (c.minimo) linhas.push(`🛒 Compra mínima: ${c.minimo}`);
   if (c.codigos.length > 1) linhas.push("🏷️ Desconto varia conforme o valor da compra");
   linhas.push(
     "",
     c.codigos.length > 1
-      ? `Use um dos cupons: ${c.codigos.map((x) => `<code>${escapeHtml(x)}</code>`).join(", ")}`
-      : `Cupom: <code>${escapeHtml(c.codigos[0]!)}</code> (toque para copiar)`,
+      ? `Use um dos cupons: ${c.codigos.map(code).join(", ")}`
+      : `Cupom: ${code(c.codigos[0]!)}${tg ? " (toque para copiar)" : ""}`,
     "",
     c.loja === "ml"
       ? `👉 Adicione em Meus cupons ou no carrinho: ${link}`
@@ -293,6 +301,14 @@ export async function rodadaDeCupons(cfg: ConfigCupons, postar: boolean): Promis
       continue;
     }
     for (const x of c.codigos) postados[`${c.loja}:${x}`] = agora;
+    enfileirar({
+      tipo: "cupom",
+      id: c.id,
+      ordem: -1,
+      marketplace: c.loja,
+      texto: mensagemCupom(c, c.link, "wa"),
+      imagem: null,
+    });
     // Salvo a cada post: se a rodada cair no meio, nada é repostado.
     await fs.mkdir(path.dirname(ESTADO_FILE), { recursive: true });
     await fs.writeFile(ESTADO_FILE, JSON.stringify(postados, null, 2));

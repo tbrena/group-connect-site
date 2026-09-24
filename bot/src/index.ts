@@ -4,18 +4,18 @@ import { runForever } from "./scheduler";
 import { WhatsApp } from "./whatsapp";
 
 /**
- * Ponto de entrada do bot: conecta no WhatsApp, acha o grupo e fica postando.
- * Para rodar: `npm start` (dentro da pasta bot/).
+ * Ponto de entrada: conecta no WhatsApp, acha o(s) grupo(s) e fica postando
+ * o que o bot do GitHub coloca na fila. Para rodar: `npm start` (na pasta bot/).
  */
 async function main(): Promise<void> {
-  log.info(`${config.brand} bot — ${config.siteUrl}`);
+  log.info(`Preço Ninja — bot do WhatsApp (fila: ${config.filaUrl})`);
   warnAboutConfig(log.warn);
 
   const wa = new WhatsApp();
   await wa.connect();
 
-  const group = await wa.resolveGroup();
-  log.info(`Grupo: ${group.name} (${group.members} membros)`);
+  const groups = await wa.resolveGroups();
+  for (const g of groups) log.info(`Grupo: ${g.name} (${g.members} membros)`);
 
   const shutdown = async () => {
     log.info("Encerrando...");
@@ -25,7 +25,10 @@ async function main(): Promise<void> {
   process.on("SIGINT", shutdown);
   process.on("SIGTERM", shutdown);
 
-  await runForever(wa, group.jid);
+  await runForever(
+    wa,
+    groups.map((g) => g.jid),
+  );
 }
 
 main().catch((err) => {

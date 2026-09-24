@@ -33,8 +33,9 @@ import {
   rodadaDeCupons,
   type ConfigCupons,
 } from "./cupons-telegram.ts";
+import { enfileirar, salvarFila } from "./fila-whatsapp.ts";
 import { imagemDaOferta } from "./imagem.ts";
-import { botoes, legendaTelegram, type DadosMensagem } from "./mensagem.ts";
+import { botoes, legendaTelegram, textoWhatsApp, type DadosMensagem } from "./mensagem.ts";
 import { medalhaDaPosicao } from "../../src/lib/chamadas.ts";
 import { revalidarShopee, searchShopeeDeals, shopeeFonte } from "./shopee-client.ts";
 import { sendPhoto } from "./telegram.ts";
@@ -490,6 +491,15 @@ async function main() {
       console.error(`  post de ${item.id} falhou: ${(err as Error).message}`);
       continue;
     }
+    // O que saiu no Telegram vai para a fila do bot do WhatsApp (bot/), mesmo texto e cupom.
+    enfileirar({
+      tipo: "oferta",
+      id: item.id,
+      ordem: posicao,
+      marketplace: item.marketplace,
+      texto: textoWhatsApp(dados, { paraLink: false }),
+      imagem: item.thumbnail || null,
+    });
     // Estado salvo a cada post: se a rodada cair no meio, nada é repostado depois.
     await salvarPublicadas(published);
     // Pausa entre posts: o Telegram limita a ~20 mensagens/min por canal.
@@ -497,6 +507,8 @@ async function main() {
   }
 
   if (DRY) return;
+  // Já grava a fila do WhatsApp aqui: se algo abaixo falhar, o que foi postado não se perde.
+  await salvarFila();
 
   // 4. Site: os melhores candidatos desta rodada na frente, depois os que já
   //    estavam (sem repetir), limitado a siteMax. Entradas de antes do critério
@@ -604,6 +616,7 @@ async function main() {
       console.error(`cupons: rodada falhou (${(err as Error).message})`);
     }
   }
+  await salvarFila();
 }
 
 main().catch((err) => {
