@@ -12,7 +12,7 @@
 import { env } from "./env.ts";
 
 const SITE = "https://ofertaninja.online";
-const WHATSAPP = "https://chat.whatsapp.com/Grj0LpGIotqF8sRbrh9LK5?s=cl&p=a&mlu=4&ilr=4";
+const WHATSAPP = "https://chat.whatsapp.com/EBCbZMCRbcTEnXTvTLzBjC";
 const LOGO = `${SITE}/preco-ninja-logo.png`;
 
 const BOAS_VINDAS = [
