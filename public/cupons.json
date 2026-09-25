@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "TECH200"
+    ],
+    "desconto": "R$ 200 OFF",
+    "limite": null,
+    "minimo": "R$ 1599",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16081",
+    "quando": "2026-09-25T18:04:29+00:00",
+    "id": "ml:TECH200",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "AMODESCONTO"
     ],
     "desconto": "15% OFF",
@@ -98,20 +112,6 @@
     "origem": "avidaefeitadedesconto/16066",
     "quando": "2026-09-24T20:05:23+00:00",
     "id": "ml:WAPXP26",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "QUEIMADEESTOQUE24"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 49",
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16063",
-    "quando": "2026-09-24T18:06:39+00:00",
-    "id": "ml:QUEIMADEESTOQUE24",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
