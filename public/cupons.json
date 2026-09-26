@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MODA10"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/16097",
+    "quando": "2026-09-26T12:16:21+00:00",
+    "id": "ml:MODA10",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TODOSITE10"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 15",
+    "minimo": "R$ 99",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16096",
+    "quando": "2026-09-26T12:07:49+00:00",
+    "id": "ml:TODOSITE10",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "APROVEITAHOJE"
     ],
     "desconto": "10% OFF",
