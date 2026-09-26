@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T20:00:46.080Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 702,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 557,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP987393610-22797412872",
@@ -213,7 +213,7 @@
     "lowest30d": false,
     "vendas": 694,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 5680,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -357,7 +357,7 @@
     "lowest30d": false,
     "vendas": 597,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -597,7 +597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T20:00:46.080Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 790,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -1173,7 +1173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP979724994-23993275214",
@@ -1413,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 377,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -2520,6 +2520,30 @@
     "checkedAt": "2026-09-26T02:35:13.975Z"
   },
   {
+    "id": "SP526625785-23694530523",
+    "productId": "SP526625785-23694530523",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP ming",
+    "price": 625.99,
+    "originalPrice": 1490.45,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mfy8drkp0s971e",
+    "url": "https://s.shopee.com.br/7KxDeZXSdC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 691,
+    "publishedAt": "2026-09-23T17:35:12.754Z",
+    "checkedAt": "2026-09-26T06:05:20.618Z"
+  },
+  {
     "id": "SP1655354747-58251498745",
     "productId": "SP1655354747-58251498745",
     "marketplace": "shopee",
@@ -2685,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 2967,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP720952207-23892669902",
@@ -2709,7 +2733,7 @@
     "lowest30d": false,
     "vendas": 7057,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1114645438-23092951296",
@@ -2733,7 +2757,7 @@
     "lowest30d": false,
     "vendas": 2346,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1447668497-58210117276",
@@ -2757,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 950,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1443588636-22594940729",
@@ -2781,7 +2805,7 @@
     "lowest30d": false,
     "vendas": 704,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP602420985-16519402621",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 567,
     "publishedAt": "2026-09-23T16:35:16.424Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1619784139-58255874292",
@@ -2829,7 +2853,7 @@
     "lowest30d": false,
     "vendas": 272,
     "publishedAt": "2026-09-23T16:35:16.424Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1836615562-58212657626",
@@ -2853,7 +2877,7 @@
     "lowest30d": false,
     "vendas": 969,
     "publishedAt": "2026-09-23T16:35:16.424Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1630740918-23799490409",
@@ -2878,6 +2902,30 @@
     "vendas": 1840,
     "publishedAt": "2026-09-23T16:35:16.424Z",
     "checkedAt": "2026-09-26T02:35:13.975Z"
+  },
+  {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 625.99,
+    "originalPrice": 1490.45,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/8V9B2iT1GD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1270,
+    "publishedAt": "2026-09-23T16:05:18.085Z",
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -2925,7 +2973,7 @@
     "lowest30d": false,
     "vendas": 761,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1493421921-21998324835",
@@ -2949,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 2742,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -3144,30 +3192,6 @@
     "checkedAt": "2026-09-26T02:35:13.975Z"
   },
   {
-    "id": "SP526625785-23694530523",
-    "productId": "SP526625785-23694530523",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP ming",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mfy8drkp0s971e",
-    "url": "https://s.shopee.com.br/7KxDeZXSdC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 691,
-    "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
-  },
-  {
     "id": "SP301592546-23297414334",
     "productId": "SP301592546-23297414334",
     "marketplace": "shopee",
@@ -3189,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 669,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1620091770-40172232747",
@@ -3237,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 513,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -3261,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 2605,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP717396632-58208662452",
@@ -3270,8 +3294,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Caixa de Som Potente 200W IPX6 Bluetooth 5.4 TWS Multimídia Completa com LED",
-    "price": 256.96,
-    "originalPrice": 597.58,
+    "price": 257.96,
+    "originalPrice": 599.91,
     "discount": 57,
     "base": "vendedor",
     "averagePrice": null,
@@ -3285,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 436,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP608173291-58259500479",
@@ -3309,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 1367,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP832040275-22796235063",
@@ -3333,7 +3357,7 @@
     "lowest30d": false,
     "vendas": 620,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP421422443-22897545444",
@@ -3357,31 +3381,7 @@
     "lowest30d": false,
     "vendas": 2293,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
-  },
-  {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/8V9B2iT1GD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1270,
-    "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1462595809-22098406235",
@@ -3429,7 +3429,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T11:35:19.260Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP629805123-58205197736",
@@ -3798,8 +3798,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Inova Caixa De Som Bluetooth Tws Grave Potente 15h Bateria Portátil Grave Potente Com Radio a prova d' água",
-    "price": 69.6,
-    "originalPrice": 158.18,
+    "price": 69.99,
+    "originalPrice": 159.07,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -3813,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 1171,
     "publishedAt": "2026-09-23T16:35:16.424Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1636720176-58250985764",
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 3799,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1240652277-23295160242",
@@ -3909,7 +3909,7 @@
     "lowest30d": false,
     "vendas": 2197,
     "publishedAt": "2026-09-23T19:35:16.110Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1350045638-47915836868",
@@ -3933,7 +3933,7 @@
     "lowest30d": false,
     "vendas": 1149,
     "publishedAt": "2026-09-23T19:35:16.110Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP751256827-58206364376",
@@ -3957,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 3669,
     "publishedAt": "2026-09-23T19:35:16.110Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP438141773-20999848095",
@@ -3981,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 2988,
     "publishedAt": "2026-09-23T19:35:16.110Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP669404177-50411779803",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 5862,
     "publishedAt": "2026-09-23T19:35:16.110Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP338537405-52352168399",
@@ -4869,7 +4869,7 @@
     "lowest30d": false,
     "vendas": 798,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1240652277-58251519281",
@@ -4878,8 +4878,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
-    "price": 34.99,
-    "originalPrice": 74.45,
+    "price": 34.98,
+    "originalPrice": 74.43,
     "discount": 53,
     "base": "vendedor",
     "averagePrice": null,
@@ -4893,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 2368,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1240652277-58251614409",
@@ -5349,7 +5349,7 @@
     "lowest30d": false,
     "vendas": 1780,
     "publishedAt": "2026-09-23T19:06:49.479Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1582653079-47057598144",
@@ -5373,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 1670,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1109263850-49610876725",
@@ -5397,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 3015,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1627969128-58205114729",
@@ -5421,7 +5421,7 @@
     "lowest30d": false,
     "vendas": 2043,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1656637940-58202079450",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 1161,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1501872703-58209823545",
@@ -5469,7 +5469,7 @@
     "lowest30d": false,
     "vendas": 723,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1672861664-48702635501",
@@ -5493,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 933,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 3356,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1175743084-23197569048",
@@ -5541,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 1374,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP699143044-20452224775",
@@ -6117,7 +6117,7 @@
     "lowest30d": false,
     "vendas": 1542,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP438855294-18997751270",
@@ -6261,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 2028,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP435900175-23794684495",
@@ -6285,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 996,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP556197048-10763005356",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": 780,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -6333,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 461,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP413762733-22593964805",
@@ -7341,7 +7341,7 @@
     "lowest30d": false,
     "vendas": 545,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1493421921-22798813533",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": 500,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1658183207-58262231858",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 426,
     "publishedAt": "2026-09-24T04:05:14.268Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP359168917-19497608994",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T17:35:16.046Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "MLB7620607478",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "MLB3687097769",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "MLB5686403044",
@@ -8469,7 +8469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-22T03:05:14.682Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10845,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 908,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -10869,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 3461,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1356780532-22193811396",
@@ -10893,7 +10893,7 @@
     "lowest30d": false,
     "vendas": 1330,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -10989,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 3497,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11277,7 +11277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -11326,6 +11326,30 @@
     "vendas": 426,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-09-26T03:35:16.420Z"
+  },
+  {
+    "id": "SP1480010644-54052225033",
+    "productId": "SP1480010644-54052225033",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
+    "price": 78,
+    "originalPrice": 200,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkecw4985qc28",
+    "url": "https://s.shopee.com.br/2Vrxtibml3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3515,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -11616,30 +11640,6 @@
     "checkedAt": "2026-09-26T03:35:16.420Z"
   },
   {
-    "id": "SP1480010644-54052225033",
-    "productId": "SP1480010644-54052225033",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
-    "price": 79,
-    "originalPrice": 197.5,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkecw4985qc28",
-    "url": "https://s.shopee.com.br/2Vrxtibml3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3515,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T01:58:55.992Z"
-  },
-  {
     "id": "SP589696155-58211510076",
     "productId": "SP589696155-58211510076",
     "marketplace": "shopee",
@@ -11709,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 1172,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T01:58:55.992Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1234991453-58212383866",
@@ -11733,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 2471,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T01:58:55.992Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1331886707-23898664618",
@@ -11781,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 941,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-26T02:05:14.367Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   },
   {
     "id": "SP1609616938-58212921512",
@@ -11997,6 +11997,6 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T03:09:48.532Z",
-    "checkedAt": "2026-09-26T05:35:14.280Z"
+    "checkedAt": "2026-09-26T06:05:20.618Z"
   }
 ]
