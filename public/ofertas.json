@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 1012,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -213,7 +213,7 @@
     "lowest30d": false,
     "vendas": 248,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1654822470-22799185652",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1124742730-23199530397",
@@ -477,7 +477,7 @@
     "lowest30d": false,
     "vendas": 2255,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 812,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -693,7 +693,7 @@
     "lowest30d": false,
     "vendas": 884,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "MLB3859411227",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": 849,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-26T15:05:17.321Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -1101,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 477,
     "publishedAt": "2026-09-25T12:35:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1459307687-18199657078",
@@ -1317,7 +1317,7 @@
     "lowest30d": false,
     "vendas": 628,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 1143,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1320813117-58204576204",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": 2470,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1240425443-20498022316",
@@ -1509,7 +1509,7 @@
     "lowest30d": false,
     "vendas": 642,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -1872,6 +1872,30 @@
     "checkedAt": "2026-09-27T05:45:06.087Z"
   },
   {
+    "id": "MLB6243958084",
+    "productId": "MLB62786425",
+    "marketplace": "ml",
+    "fonte": "MLB455425",
+    "categoria": "Brinquedos",
+    "title": "LEGO Marvel Homem Aranha Vs. Motoqueiro Fantasma com Motocicleta 76335",
+    "price": 55.9,
+    "originalPrice": 139.34,
+    "discount": 60,
+    "base": "media",
+    "averagePrice": 139.34,
+    "sellers": 23,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_686701-MLA100242913479_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6243958084?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-23T21:35:14.809Z",
+    "checkedAt": "2026-09-27T07:05:15.783Z"
+  },
+  {
     "id": "SP408653169-46360468172",
     "productId": "SP408653169-46360468172",
     "marketplace": "shopee",
@@ -1893,7 +1917,7 @@
     "lowest30d": false,
     "vendas": 3709,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP753139334-58210495292",
@@ -1992,30 +2016,6 @@
     "checkedAt": "2026-09-27T05:35:13.674Z"
   },
   {
-    "id": "SP1855468372-58265041953",
-    "productId": "SP1855468372-58265041953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 55x75 cm",
-    "price": 40,
-    "originalPrice": 100,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mr57ho9hi0hx60",
-    "url": "https://s.shopee.com.br/AUuKNNSFP7",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2269,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T05:35:13.674Z"
-  },
-  {
     "id": "SP332130069-23693822652",
     "productId": "SP332130069-23693822652",
     "marketplace": "shopee",
@@ -2085,7 +2085,7 @@
     "lowest30d": false,
     "vendas": 15574,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -2397,7 +2397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T11:35:19.260Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -2589,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 900,
     "publishedAt": "2026-09-23T18:05:16.703Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -2949,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 1872,
     "publishedAt": "2026-09-23T16:35:16.424Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -3069,7 +3069,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1183719086-22593793702",
@@ -3189,7 +3189,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1078551010-23494626157",
@@ -3213,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 6839,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1408367819-23394279595",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 2171,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP328666563-58203053079",
@@ -3261,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 1144,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1635113142-23094458091",
@@ -3285,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 2846,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP301592546-23297414334",
@@ -3525,7 +3525,7 @@
     "lowest30d": false,
     "vendas": 408,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP629805123-58205197736",
@@ -3861,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 3863,
     "publishedAt": "2026-09-23T18:05:16.703Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1567009021-58251499390",
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 1439,
     "publishedAt": "2026-09-23T18:05:16.703Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1338454963-23898332843",
@@ -4197,7 +4197,7 @@
     "lowest30d": false,
     "vendas": 4052,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1735575008-58255873857",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 800,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP421422443-23298827140",
@@ -4533,7 +4533,7 @@
     "lowest30d": false,
     "vendas": 1308,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -4845,7 +4845,7 @@
     "lowest30d": false,
     "vendas": 1714,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1109263850-23298850030",
@@ -4869,7 +4869,7 @@
     "lowest30d": false,
     "vendas": 3468,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1259086167-46111240879",
@@ -4893,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 3039,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP397374716-18734750191",
@@ -5493,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 427,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1582653079-47057598144",
@@ -5949,7 +5949,7 @@
     "lowest30d": false,
     "vendas": 1281,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP561955327-18198180338",
@@ -5973,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 1984,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1801080383-51059248649",
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 1564,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1643769522-58202822916",
@@ -6189,7 +6189,31 @@
     "lowest30d": false,
     "vendas": 434,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
+  },
+  {
+    "id": "MLB7707301386",
+    "productId": "MLB19938121",
+    "marketplace": "ml",
+    "fonte": "MLB3813",
+    "categoria": "Celulares",
+    "title": "Fone Bluetooth Lenovo GM2 Pro Original TWS Sem Fio Bluetooth 5.3",
+    "price": 45,
+    "originalPrice": 90.05,
+    "discount": 50,
+    "base": "media",
+    "averagePrice": 90.05,
+    "sellers": 41,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_642779-MLA99508639238_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7707301386?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-27T06:35:13.562Z",
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7221,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 596,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP283834866-16583926437",
@@ -7245,7 +7269,7 @@
     "lowest30d": false,
     "vendas": 2395,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP267939016-22394521810",
@@ -7269,7 +7293,7 @@
     "lowest30d": false,
     "vendas": 3019,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP391739739-22397325916",
@@ -7293,7 +7317,7 @@
     "lowest30d": false,
     "vendas": 605,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1193476904-23497427454",
@@ -7317,7 +7341,7 @@
     "lowest30d": false,
     "vendas": 2594,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP386537194-44418252509",
@@ -7341,7 +7365,7 @@
     "lowest30d": false,
     "vendas": 686,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1440584830-21298202064",
@@ -7365,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 614,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1410138655-29236991524",
@@ -7677,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1661,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1172174226-58211821720",
@@ -7701,7 +7725,7 @@
     "lowest30d": false,
     "vendas": 408,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1613760239-25747110958",
@@ -7725,7 +7749,7 @@
     "lowest30d": false,
     "vendas": 3106,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1537828773-22894286824",
@@ -7917,7 +7941,7 @@
     "lowest30d": false,
     "vendas": 1586,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-09-27T03:05:14.378Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1032794147-51411262878",
@@ -7941,7 +7965,7 @@
     "lowest30d": false,
     "vendas": 1401,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-09-27T03:05:14.378Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1800846939-58210528634",
@@ -8109,7 +8133,7 @@
     "lowest30d": false,
     "vendas": 1379,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -8133,7 +8157,7 @@
     "lowest30d": false,
     "vendas": 1588,
     "publishedAt": "2026-09-24T11:35:14.488Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1537151130-58250157929",
@@ -8181,7 +8205,7 @@
     "lowest30d": false,
     "vendas": 1512,
     "publishedAt": "2026-09-23T17:35:12.754Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8206,30 +8230,6 @@
     "vendas": 2890,
     "publishedAt": "2026-09-26T03:05:17.043Z",
     "checkedAt": "2026-09-27T04:05:16.900Z"
-  },
-  {
-    "id": "MLB6243958084",
-    "productId": "MLB62786425",
-    "marketplace": "ml",
-    "fonte": "MLB455425",
-    "categoria": "Brinquedos",
-    "title": "LEGO Marvel Homem Aranha Vs. Motoqueiro Fantasma com Motocicleta 76335",
-    "price": 79.99,
-    "originalPrice": 139.34,
-    "discount": 43,
-    "base": "media",
-    "averagePrice": 139.34,
-    "sellers": 23,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_686701-MLA100242913479_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6243958084?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": 716,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "MLB3363311623",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-26T19:24:13.852Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": 6315,
     "publishedAt": "2026-09-25T05:35:14.502Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1282943389-22893740308",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "MLB3687097769",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "MLB5686403044",
@@ -8469,7 +8469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -8493,7 +8493,7 @@
     "lowest30d": false,
     "vendas": 1675,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8517,7 +8517,7 @@
     "lowest30d": false,
     "vendas": 1067,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8541,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 1519,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8565,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 1208,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -8637,7 +8637,7 @@
     "lowest30d": false,
     "vendas": 544,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -8661,7 +8661,7 @@
     "lowest30d": false,
     "vendas": 2018,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1829268664-58262252375",
@@ -8685,7 +8685,7 @@
     "lowest30d": false,
     "vendas": 1268,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:35:12.515Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -10149,7 +10149,7 @@
     "lowest30d": false,
     "vendas": 1107,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:05:14.378Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-22T03:05:14.682Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10654,6 +10654,30 @@
     "vendas": 823,
     "publishedAt": "2026-09-23T15:05:15.192Z",
     "checkedAt": "2026-09-27T03:35:12.515Z"
+  },
+  {
+    "id": "SP1404108062-22999371257",
+    "productId": "SP1404108062-22999371257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 3 T-Shirts Essenciais em Algodão",
+    "price": 139.9,
+    "originalPrice": 388.61,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
+    "url": "https://s.shopee.com.br/5Aso7vqFpO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1624,
+    "publishedAt": "2026-09-27T07:05:15.783Z",
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -11181,7 +11205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1638239765-58205100450",
@@ -11206,6 +11230,30 @@
     "vendas": 2103,
     "publishedAt": "2026-09-26T16:45:24.231Z",
     "checkedAt": "2026-09-27T04:35:13.986Z"
+  },
+  {
+    "id": "SP441503847-20899551729",
+    "productId": "SP441503847-20899551729",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Camiseta 100% Canelada Masculina",
+    "price": 34.16,
+    "originalPrice": 89.89,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29y4rf86lhi89",
+    "url": "https://s.shopee.com.br/4B0Gw5u3r6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2175,
+    "publishedAt": "2026-09-27T07:05:15.783Z",
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP332016197-58208127828",
@@ -11640,6 +11688,30 @@
     "checkedAt": "2026-09-27T06:35:13.562Z"
   },
   {
+    "id": "SP1855468372-58265041953",
+    "productId": "SP1855468372-58265041953",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 55x75 cm",
+    "price": 40,
+    "originalPrice": 100,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mr57ho9hi0hx60",
+    "url": "https://s.shopee.com.br/AUuKNNSFP7",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2269,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-27T05:35:13.674Z"
+  },
+  {
     "id": "SP452872883-23893335036",
     "productId": "SP452872883-23893335036",
     "marketplace": "shopee",
@@ -11781,7 +11853,7 @@
     "lowest30d": false,
     "vendas": 691,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:05:14.378Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -11805,7 +11877,7 @@
     "lowest30d": false,
     "vendas": 487,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T03:05:14.378Z"
+    "checkedAt": "2026-09-27T07:05:15.783Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -11926,77 +11998,5 @@
     "vendas": 523,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-09-27T05:35:13.674Z"
-  },
-  {
-    "id": "SP1234991453-58212383866",
-    "productId": "SP1234991453-58212383866",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "TÊNIS O2X FEMININO ACADEMIA SUPER PROMOÇÃO ENVIO IMEDIATO",
-    "price": 39.9,
-    "originalPrice": 99.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mnzq13gkvyf88f",
-    "url": "https://s.shopee.com.br/9V1n3Gf9ei",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2443,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T05:45:06.087Z"
-  },
-  {
-    "id": "SP1613384066-58216491416",
-    "productId": "SP1613384066-58216491416",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "10X Perfume ARA2725 Feminino by ARA2725 Woman Mulher",
-    "price": 43.9,
-    "originalPrice": 99.77,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-ms2jan8s3aiv83",
-    "url": "https://s.shopee.com.br/3g40ChaiLq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1269,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T05:45:06.087Z"
-  },
-  {
-    "id": "MLB7707301386",
-    "productId": "MLB19938121",
-    "marketplace": "ml",
-    "fonte": "MLB3813",
-    "categoria": "Celulares",
-    "title": "Fone Bluetooth Lenovo GM2 Pro Original TWS Sem Fio Bluetooth 5.3",
-    "price": 45,
-    "originalPrice": 90.05,
-    "discount": 50,
-    "base": "media",
-    "averagePrice": 90.05,
-    "sellers": 41,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_642779-MLA99508639238_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7707301386?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-27T06:35:13.562Z",
-    "checkedAt": "2026-09-27T06:35:13.562Z"
   }
 ]
