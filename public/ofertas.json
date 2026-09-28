@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 642,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -381,31 +381,7 @@
     "lowest30d": false,
     "vendas": 2299,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
-  },
-  {
-    "id": "MLB4943866566",
-    "productId": "MLB38655102",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
-    "price": 34.9,
-    "originalPrice": 110.32,
-    "discount": 68,
-    "base": "media",
-    "averagePrice": 110.32,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "NVFULLCOMM",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1124742730-23199530397",
@@ -573,7 +549,7 @@
     "lowest30d": false,
     "vendas": 101,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -621,7 +597,7 @@
     "lowest30d": false,
     "vendas": 577,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -792,6 +768,30 @@
     "checkedAt": "2026-09-28T01:35:23.922Z"
   },
   {
+    "id": "SP1398191070-29028867072",
+    "productId": "SP1398191070-29028867072",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Torneira De Cozinha Gourmet Alça Única Com Extensor De Spray Tubo De Água Flexível Superior Prateado Para Ajuste",
+    "price": 64.99,
+    "originalPrice": 191.15,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mjtxop93dsed0a",
+    "url": "https://s.shopee.com.br/qjohQKl5Y",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 8667,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
     "id": "SP1513043316-18398317475",
     "productId": "SP1513043316-18398317475",
     "marketplace": "shopee",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -885,7 +885,7 @@
     "lowest30d": false,
     "vendas": 525,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -909,7 +909,7 @@
     "lowest30d": false,
     "vendas": 1027,
     "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -957,7 +957,7 @@
     "lowest30d": false,
     "vendas": 342,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -1222,6 +1222,102 @@
     "vendas": 278,
     "publishedAt": "2026-09-24T15:35:16.598Z",
     "checkedAt": "2026-09-28T01:05:51.161Z"
+  },
+  {
+    "id": "SP1695969912-58252830945",
+    "productId": "SP1695969912-58252830945",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete de Atividades Bebê com Piano Removível — Som, Luz e Brinquedos Educativos",
+    "price": 73.99,
+    "originalPrice": 199.97,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj6hvwqwhjb79f",
+    "url": "https://s.shopee.com.br/5fp5yvhmKj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2734,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
+    "id": "SP1187975388-20899215101",
+    "productId": "SP1187975388-20899215101",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
+    "price": 32.9,
+    "originalPrice": 88.92,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
+    "url": "https://s.shopee.com.br/6fhdD1ekjA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 918,
+    "publishedAt": "2026-09-28T02:35:16.754Z",
+    "checkedAt": "2026-09-28T02:35:16.754Z"
+  },
+  {
+    "id": "SP1263962250-20897785759",
+    "productId": "SP1263962250-20897785759",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
+    "price": 33.45,
+    "originalPrice": 90.41,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz2mfohovzjr50",
+    "url": "https://s.shopee.com.br/4Vd8d2n083",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 719,
+    "publishedAt": "2026-09-28T02:35:16.754Z",
+    "checkedAt": "2026-09-28T02:35:16.754Z"
+  },
+  {
+    "id": "SP1735687593-58257435049",
+    "productId": "SP1735687593-58257435049",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 3 Blusa Tule Feminina Transparente de Academia Manga Curta Camisão Fitness Camiseta Treino",
+    "price": 55.99,
+    "originalPrice": 151.32,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm6910425jicbc",
+    "url": "https://s.shopee.com.br/9zy5BA17ji",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1570,
+    "publishedAt": "2026-09-28T02:35:16.754Z",
+    "checkedAt": "2026-09-28T02:35:16.754Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -1536,30 +1632,6 @@
     "checkedAt": "2026-09-28T01:35:23.922Z"
   },
   {
-    "id": "SP1120123880-20599095402",
-    "productId": "SP1120123880-20599095402",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 5 Camiseta Feminina Manga Curta Dry Fit Proteção Solar UV Baby Look Academia Treino Camisetas",
-    "price": 68.58,
-    "originalPrice": 180.47,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbme-lp9i0lzpc0bp0e",
-    "url": "https://s.shopee.com.br/7fa9V5YgcJ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 311,
-    "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
-  },
-  {
     "id": "SP441503847-20899551729",
     "productId": "SP441503847-20899551729",
     "marketplace": "shopee",
@@ -1725,7 +1797,7 @@
     "lowest30d": false,
     "vendas": 1823,
     "publishedAt": "2026-09-27T23:35:18.469Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -1944,30 +2016,6 @@
     "checkedAt": "2026-09-28T02:35:16.754Z"
   },
   {
-    "id": "MLB3476897011",
-    "productId": "MLB26194700",
-    "marketplace": "ml",
-    "fonte": "MLB199407",
-    "categoria": "Beleza",
-    "title": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 454g",
-    "price": 76.94,
-    "originalPrice": 190.34,
-    "discount": 60,
-    "base": "media",
-    "averagePrice": 190.34,
-    "sellers": 9,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_960608-MLA114681828514_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3476897011?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
     "id": "SP676651970-23293814378",
     "productId": "SP676651970-23293814378",
     "marketplace": "shopee",
@@ -2013,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 377,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1020746654-22098866638",
@@ -2110,6 +2158,30 @@
     "vendas": 412,
     "publishedAt": "2026-09-23T15:35:18.799Z",
     "checkedAt": "2026-09-28T02:05:14.986Z"
+  },
+  {
+    "id": "MLB3476897011",
+    "productId": "MLB26194700",
+    "marketplace": "ml",
+    "fonte": "MLB199407",
+    "categoria": "Beleza",
+    "title": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 454g",
+    "price": 76.94,
+    "originalPrice": 187.1,
+    "discount": 59,
+    "base": "media",
+    "averagePrice": 187.1,
+    "sellers": 9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_960608-MLA114681828514_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3476897011?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-26T12:27:20.892Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP332130069-23693822652",
@@ -2232,126 +2304,6 @@
     "checkedAt": "2026-09-28T00:05:17.954Z"
   },
   {
-    "id": "SP1060793149-21999248147",
-    "productId": "SP1060793149-21999248147",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador Sem Fio 3 Em 1 Para Carro Bivolt 9000Pa Mini De Pó Casa E De Uso Duplo",
-    "price": 32.99,
-    "originalPrice": 80.46,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd53-luu232tzalhx96",
-    "url": "https://s.shopee.com.br/80CzEZG8zN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2072,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
-    "id": "SP1339888238-23394402377",
-    "productId": "SP1339888238-23394402377",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "INOVA Fone De Ouvido Bluetooth 5.4 Toque DE Impressão Digital 72H Autonomia ANC Cancelando Ruído",
-    "price": 65.99,
-    "originalPrice": 160.95,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mpegqc82brwj57",
-    "url": "https://s.shopee.com.br/8fSg1n50rF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2577,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T00:05:17.954Z"
-  },
-  {
-    "id": "SP1495837089-23794414130",
-    "productId": "SP1495837089-23794414130",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 32.99,
-    "originalPrice": 80.46,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
-    "url": "https://s.shopee.com.br/20vm5XCelT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 657,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T00:05:17.954Z"
-  },
-  {
-    "id": "SP1337284628-22398929943",
-    "productId": "SP1337284628-22398929943",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 32.99,
-    "originalPrice": 80.46,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
-    "url": "https://s.shopee.com.br/3VkZsI6wis",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 369,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T00:05:17.954Z"
-  },
-  {
-    "id": "SP1451743836-20998028416",
-    "productId": "SP1451743836-20998028416",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Infantil Caixa De Som C/ Microfones Criança Karaokê Brincadeiras em Família Bluetooth 5.0 Karaokê Luzes led",
-    "price": 48.99,
-    "originalPrice": 119.49,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mldaj1h5wjk53d",
-    "url": "https://s.shopee.com.br/5fp55UFVPH",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1484,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T00:05:17.954Z"
-  },
-  {
     "id": "MLB6889488510",
     "productId": "MLB69980801",
     "marketplace": "ml",
@@ -2373,7 +2325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T11:35:19.260Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -3384,6 +3336,30 @@
     "checkedAt": "2026-09-28T00:35:19.114Z"
   },
   {
+    "id": "SP1367167422-48701416960",
+    "productId": "SP1367167422-48701416960",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa Feminina De Grande Capacidade De Nylon Leve De Ombro De Nicho De Viagem Macia Portátil",
+    "price": 70.99,
+    "originalPrice": 161.34,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821d9-mh1bho2it05kdf",
+    "url": "https://s.shopee.com.br/6q11qR2ilF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1595,
+    "publishedAt": "2026-09-23T20:35:20.546Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
     "id": "SP1724021947-58254952015",
     "productId": "SP1724021947-58254952015",
     "marketplace": "shopee",
@@ -4341,7 +4317,7 @@
     "lowest30d": false,
     "vendas": 494,
     "publishedAt": "2026-09-23T19:06:49.479Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP418336777-23693489707",
@@ -4989,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 2780,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1862389374-58263534401",
@@ -5013,7 +4989,7 @@
     "lowest30d": false,
     "vendas": 1213,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP310276173-58253968638",
@@ -5037,7 +5013,7 @@
     "lowest30d": false,
     "vendas": 2524,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP283972864-22297711029",
@@ -5061,31 +5037,7 @@
     "lowest30d": false,
     "vendas": 3503,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
-  },
-  {
-    "id": "SP457864097-8083342653",
-    "productId": "SP457864097-8083342653",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:maquiagem",
-    "categoria": "Beleza",
-    "title": "MISSHA M Perfect Cover BB Cream SPF42 PA+++ 20ml / 50ml | Embalagem em Renovação",
-    "price": 38.6,
-    "originalPrice": 82.13,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-821dl-mgn8wp71aadkdf",
-    "url": "https://s.shopee.com.br/60Ruqual8S",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4534,
-    "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP699143044-20452224775",
@@ -5109,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 1450,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP332130069-18599691410",
@@ -5229,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 1383,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1762161450-58262746169",
@@ -5253,7 +5205,7 @@
     "lowest30d": false,
     "vendas": 541,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1573981574-58205950313",
@@ -5277,7 +5229,7 @@
     "lowest30d": false,
     "vendas": 757,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP384005598-58208973330",
@@ -5301,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 2194,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1777841231-52407426682",
@@ -5373,7 +5325,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
+    "id": "MLB4943866566",
+    "productId": "MLB38655102",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
+    "price": 52.89,
+    "originalPrice": 110.32,
+    "discount": 52,
+    "base": "media",
+    "averagePrice": 110.32,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "NVFULLCOMM",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-27T05:05:14.581Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1582653079-47057598144",
@@ -5568,6 +5544,30 @@
     "checkedAt": "2026-09-28T00:35:19.114Z"
   },
   {
+    "id": "SP457864097-8083342653",
+    "productId": "SP457864097-8083342653",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:maquiagem",
+    "categoria": "Beleza",
+    "title": "MISSHA M Perfect Cover BB Cream SPF42 PA+++ 20ml / 50ml | Embalagem em Renovação",
+    "price": 38.99,
+    "originalPrice": 81.23,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-821dl-mgn8wp71aadkdf",
+    "url": "https://s.shopee.com.br/60Ruqual8S",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4534,
+    "publishedAt": "2026-09-23T22:05:17.623Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
     "id": "SP811879342-20199322470",
     "productId": "SP811879342-20199322470",
     "marketplace": "shopee",
@@ -5589,7 +5589,7 @@
     "lowest30d": false,
     "vendas": 712,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB4028764995",
@@ -5613,7 +5613,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB7272451088",
@@ -5637,7 +5637,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB4411250505",
@@ -5661,7 +5661,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP342086228-55612003632",
@@ -6096,30 +6096,6 @@
     "checkedAt": "2026-09-28T01:05:51.161Z"
   },
   {
-    "id": "SP1367167422-48701416960",
-    "productId": "SP1367167422-48701416960",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Feminina De Grande Capacidade De Nylon Leve De Ombro De Nicho De Viagem Macia Portátil",
-    "price": 78.39,
-    "originalPrice": 159.98,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821d9-mh1bho2it05kdf",
-    "url": "https://s.shopee.com.br/6q11qR2ilF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1595,
-    "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T00:35:19.114Z"
-  },
-  {
     "id": "SP392967703-16178844715",
     "productId": "SP392967703-16178844715",
     "marketplace": "shopee",
@@ -6165,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 1876,
     "publishedAt": "2026-09-27T02:05:16.687Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1365819178-23094699741",
@@ -6237,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 418,
     "publishedAt": "2026-09-24T17:35:37.798Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1302870944-22797678634",
@@ -6597,7 +6573,7 @@
     "lowest30d": false,
     "vendas": 2392,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1847534559-58262219872",
@@ -6621,7 +6597,7 @@
     "lowest30d": false,
     "vendas": 2089,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP296363855-13154336672",
@@ -6645,7 +6621,7 @@
     "lowest30d": false,
     "vendas": 7180,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP346235717-3175146832",
@@ -6669,7 +6645,7 @@
     "lowest30d": false,
     "vendas": 2681,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1161923923-23098393383",
@@ -6693,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 2051,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP387517673-19044723152",
@@ -6717,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 2144,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -6741,7 +6717,7 @@
     "lowest30d": false,
     "vendas": 1066,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1660218273-58203846893",
@@ -6765,7 +6741,7 @@
     "lowest30d": false,
     "vendas": 672,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1183078297-55056423485",
@@ -6789,7 +6765,7 @@
     "lowest30d": false,
     "vendas": 994,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1147903950-44553066762",
@@ -6813,7 +6789,7 @@
     "lowest30d": false,
     "vendas": 6011,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1556879699-58254498465",
@@ -7093,7 +7069,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mt45q21kcvt09d",
-    "url": "https://s.shopee.com.br/9pee2xzY8e",
+    "url": "https://s.shopee.com.br/W6ztXZNFF",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7101,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 17026,
     "publishedAt": "2026-09-23T18:35:16.739Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP634335437-58204159189",
@@ -8112,6 +8088,30 @@
     "checkedAt": "2026-09-28T00:43:12.627Z"
   },
   {
+    "id": "SP1120123880-20599095402",
+    "productId": "SP1120123880-20599095402",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 5 Camiseta Feminina Manga Curta Dry Fit Proteção Solar UV Baby Look Academia Treino Camisetas",
+    "price": 96.66,
+    "originalPrice": 179,
+    "discount": 46,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbme-lp9i0lzpc0bp0e",
+    "url": "https://s.shopee.com.br/7fa9V5YgcJ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 311,
+    "publishedAt": "2026-09-27T13:05:16.528Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
     "id": "SP1472462269-18999685903",
     "productId": "SP1472462269-18999685903",
     "marketplace": "shopee",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB3687097769",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "MLB5686403044",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -8614,6 +8614,30 @@
     "vendas": 871,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-09-28T01:05:51.161Z"
+  },
+  {
+    "id": "SP1768799994-22099613752",
+    "productId": "SP1768799994-22099613752",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Camiseta Unissex Com Bandeira Brasileira Estampa 22 Brasil Blusa Casual 100% Algodão Premium Confortável Jair Messias",
+    "price": 30,
+    "originalPrice": 100,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqqw9ffopfr7bf",
+    "url": "https://s.shopee.com.br/4Vd7KhsnBC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1558,
+    "publishedAt": "2026-09-28T03:05:15.246Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -9621,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 1313,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -9669,7 +9693,7 @@
     "lowest30d": false,
     "vendas": 3814,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -9693,7 +9717,7 @@
     "lowest30d": false,
     "vendas": 2512,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -9717,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 1419,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -9888,30 +9912,6 @@
     "checkedAt": "2026-09-28T01:35:23.922Z"
   },
   {
-    "id": "SP1007379684-23193574821",
-    "productId": "SP1007379684-23193574821",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "24 Pcs LouçA De Aço InoxidáVel Colher De Sobremesa Dourada / Luxuoso",
-    "price": 40.28,
-    "originalPrice": 118.47,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztl-mklyprfdk2rm83",
-    "url": "https://s.shopee.com.br/1BMfj2NsjH",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 9123,
-    "publishedAt": "2026-09-23T04:13:37.521Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
-  },
-  {
     "id": "SP1662953250-58202630911",
     "productId": "SP1662953250-58202630911",
     "marketplace": "shopee",
@@ -9933,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 11233,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1080062248-19497417249",
@@ -10173,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 833,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -10320,30 +10320,6 @@
     "checkedAt": "2026-09-28T02:05:14.986Z"
   },
   {
-    "id": "SP1398191070-29028867072",
-    "productId": "SP1398191070-29028867072",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Torneira De Cozinha Gourmet Alça Única Com Extensor De Spray Tubo De Água Flexível Superior Prateado Para Ajuste",
-    "price": 67.89,
-    "originalPrice": 188.58,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mjtxop93dsed0a",
-    "url": "https://s.shopee.com.br/qjohQKl5Y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 8667,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
     "id": "SP1493421921-22694294672",
     "productId": "SP1493421921-22694294672",
     "marketplace": "shopee",
@@ -10461,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 248,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -10485,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 153,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 1174,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -10533,7 +10509,7 @@
     "lowest30d": false,
     "vendas": 3250,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1815920431-58263877533",
@@ -10557,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 179,
     "publishedAt": "2026-09-23T14:35:17.916Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10581,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 3836,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -10638,8 +10614,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
-    "price": 369.99,
-    "originalPrice": 999.97,
+    "price": 372.99,
+    "originalPrice": 1008.08,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -10653,7 +10629,7 @@
     "lowest30d": false,
     "vendas": 661,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -10677,7 +10653,7 @@
     "lowest30d": false,
     "vendas": 1373,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -10848,78 +10824,6 @@
     "checkedAt": "2026-09-28T02:35:16.754Z"
   },
   {
-    "id": "SP1187975388-20899215101",
-    "productId": "SP1187975388-20899215101",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
-    "price": 32.9,
-    "originalPrice": 88.92,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
-    "url": "https://s.shopee.com.br/6fhdD1ekjA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 918,
-    "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
-    "id": "SP1263962250-20897785759",
-    "productId": "SP1263962250-20897785759",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.45,
-    "originalPrice": 90.41,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz2mfohovzjr50",
-    "url": "https://s.shopee.com.br/4Vd8d2n083",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 719,
-    "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
-    "id": "SP1735687593-58257435049",
-    "productId": "SP1735687593-58257435049",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 3 Blusa Tule Feminina Transparente de Academia Manga Curta Camisão Fitness Camiseta Treino",
-    "price": 55.99,
-    "originalPrice": 151.32,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm6910425jicbc",
-    "url": "https://s.shopee.com.br/9zy5BA17ji",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1570,
-    "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -10941,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 5720,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -10965,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 3866,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -11061,7 +10965,7 @@
     "lowest30d": false,
     "vendas": 1719,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:05:15.073Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1578690794-58251241094",
@@ -11085,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 621,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP717396632-21599194714",
@@ -11109,7 +11013,7 @@
     "lowest30d": false,
     "vendas": 542,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11133,7 +11037,7 @@
     "lowest30d": false,
     "vendas": 5279,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1541348350-58264273644",
@@ -11157,7 +11061,31 @@
     "lowest30d": false,
     "vendas": 869,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
+    "id": "SP1007379684-23193574821",
+    "productId": "SP1007379684-23193574821",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "24 Pcs LouçA De Aço InoxidáVel Colher De Sobremesa Dourada / Luxuoso",
+    "price": 45.88,
+    "originalPrice": 120.74,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztl-mklyprfdk2rm83",
+    "url": "https://s.shopee.com.br/1BMfj2NsjH",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 9123,
+    "publishedAt": "2026-09-23T04:13:37.521Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11181,7 +11109,7 @@
     "lowest30d": false,
     "vendas": 858,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-27T23:35:18.469Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP938876119-22298083710",
@@ -11229,7 +11157,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1638239765-58205100450",
@@ -11664,6 +11592,30 @@
     "checkedAt": "2026-09-28T02:05:14.986Z"
   },
   {
+    "id": "SP1384111782-23093553774",
+    "productId": "SP1384111782-23093553774",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
+    "price": 53.9,
+    "originalPrice": 138.21,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mpnps4fzbfuoca",
+    "url": "https://s.shopee.com.br/3qNQIr57wg",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5624,
+    "publishedAt": "2026-09-28T03:05:15.246Z",
+    "checkedAt": "2026-09-28T03:05:15.246Z"
+  },
+  {
     "id": "SP1483626750-23293978804",
     "productId": "SP1483626750-23293978804",
     "marketplace": "shopee",
@@ -11733,7 +11685,7 @@
     "lowest30d": false,
     "vendas": 1679,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:05:15.073Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1397772996-29842873054",
@@ -11757,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 2215,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-27T23:05:15.073Z"
+    "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
     "id": "SP1107015414-23498434410",
@@ -11904,30 +11856,6 @@
     "checkedAt": "2026-09-28T00:43:12.627Z"
   },
   {
-    "id": "SP1695969912-58252830945",
-    "productId": "SP1695969912-58252830945",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete de Atividades Bebê com Piano Removível — Som, Luz e Brinquedos Educativos",
-    "price": 79.99,
-    "originalPrice": 199.97,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj6hvwqwhjb79f",
-    "url": "https://s.shopee.com.br/4B0GfX8XcC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2734,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T01:05:51.161Z"
-  },
-  {
     "id": "SP1855468372-58265041953",
     "productId": "SP1855468372-58265041953",
     "marketplace": "shopee",
@@ -11998,5 +11926,77 @@
     "vendas": 2640,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-09-28T02:35:16.754Z"
+  },
+  {
+    "id": "SP1060793149-21999248147",
+    "productId": "SP1060793149-21999248147",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador Sem Fio 3 Em 1 Para Carro Bivolt 9000Pa Mini De Pó Casa E De Uso Duplo",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd53-luu232tzalhx96",
+    "url": "https://s.shopee.com.br/80CzEZG8zN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2072,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T02:35:16.754Z"
+  },
+  {
+    "id": "SP1339888238-23394402377",
+    "productId": "SP1339888238-23394402377",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "INOVA Fone De Ouvido Bluetooth 5.4 Toque DE Impressão Digital 72H Autonomia ANC Cancelando Ruído",
+    "price": 65.99,
+    "originalPrice": 160.95,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mpegqc82brwj57",
+    "url": "https://s.shopee.com.br/8fSg1n50rF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2577,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T00:05:17.954Z"
+  },
+  {
+    "id": "SP1495837089-23794414130",
+    "productId": "SP1495837089-23794414130",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
+    "url": "https://s.shopee.com.br/20vm5XCelT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 657,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T00:05:17.954Z"
   }
 ]
