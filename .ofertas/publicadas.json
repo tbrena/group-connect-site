@@ -691,8 +691,11 @@
     "msg": 233
   },
   "MLB2639685325": {
-    "ts": 1789953131493,
-    "msg": 234
+    "ts": 1790559323922,
+    "msg": 2463,
+    "price": 99.9,
+    "productId": "MLB6360396",
+    "titulo": "prancha ceramica profissional classic 180 taiff bivolt preto"
   },
   "MLB5209327411": {
     "ts": 1789953131493,
@@ -9866,9 +9869,9 @@
     "titulo": "mamadeira mam easy start 130ml anticolica e antivazamento"
   },
   "SP392239188-23596569225": {
-    "ts": 1790260519538,
-    "msg": 1689,
-    "price": 55.98,
+    "ts": 1790559323922,
+    "msg": 2464,
+    "price": 40.99,
     "productId": "SP392239188-23596569225",
     "titulo": "mochila bolsa feminina impermeavel grande resistente notebook escolar faculdade viagem moderna"
   },
@@ -14477,5 +14480,19 @@
     "price": 38.75,
     "productId": "MLB54473693",
     "titulo": "protetor solar facial com cor fps 70 alta cobertura l oreal paris solar expertise efeito make up 30g"
+  },
+  "MLB5574853682": {
+    "ts": 1790559323922,
+    "msg": 2465,
+    "price": 92.38,
+    "productId": "MLB20963051",
+    "titulo": "kaiak extremo deo colonia 100 ml"
+  },
+  "SP1703461431-58254505951": {
+    "ts": 1790559323922,
+    "msg": 2466,
+    "price": 209.9,
+    "productId": "SP1703461431-58254505951",
+    "titulo": "caixa de som 2000w com microfone e controle remoto funcoes karaoke e bluetooth"
   }
 }
