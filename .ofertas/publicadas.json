@@ -731,8 +731,11 @@
     "msg": 240
   },
   "MLB5340167648": {
-    "ts": 1789955526786,
-    "msg": 241
+    "ts": 1790609717463,
+    "msg": 2580,
+    "price": 81,
+    "productId": "MLB20969462",
+    "titulo": "fisher price zebra blocos surpresa cgn63 4 pecas"
   },
   "MLB6575305046": {
     "ts": 1789955526786,
@@ -767,8 +770,11 @@
     "msg": 249
   },
   "MLB6428496124": {
-    "ts": 1789957542434,
-    "msg": 250
+    "ts": 1790609717463,
+    "msg": 2582,
+    "price": 449.9,
+    "productId": "MLB54429015",
+    "titulo": "purificador midea slimpure bivolt cinza filtro 2 estagios"
   },
   "MLB5187982075": {
     "ts": 1789957542434,
@@ -902,8 +908,10 @@
     "titulo": "fone de ouvido airdots sem fio fone bluetooth"
   },
   "MLB4325362869": {
-    "ts": 1789960188532,
-    "msg": 287,
+    "ts": 1790609717463,
+    "msg": 2583,
+    "price": 34.49,
+    "productId": "MLB46159912",
     "titulo": "projetor de estrelas astronauta para quarto com luz nebulosa e galaxia"
   },
   "MLB3687097769": {
@@ -1616,9 +1624,9 @@
     "productId": "MLB27118390"
   },
   "MLB6444025356": {
-    "ts": 1789985115374,
-    "msg": 400,
-    "price": 94.9,
+    "ts": 1790609717463,
+    "msg": 2578,
+    "price": 85.62,
     "productId": "MLB25474028",
     "titulo": "camera ip a8 app icsee infravermelho prova d agua externa wifi hd cor branco"
   },
@@ -15011,5 +15019,54 @@
     "price": 124.6,
     "productId": "SP386204381-22098709371",
     "titulo": "manta liquida 20kg impermeabilizante plascolor"
+  },
+  "SP504754787-23892803207": {
+    "ts": 1790609717463,
+    "msg": 2579,
+    "price": 199.8,
+    "productId": "SP504754787-23892803207",
+    "titulo": "bicicleta bike crianca 2 a 5 anos aro 12 nathor infantil rosa c rodinha menina e menino"
+  },
+  "MLB4993216815": {
+    "ts": 1790609717463,
+    "msg": 2581,
+    "price": 227.16,
+    "productId": "MLB28365895",
+    "titulo": "ventilador de mesa 40cm arno x treme 7 7 pas 150w ve70"
+  },
+  "MLB6168344540": {
+    "ts": 1790609717463,
+    "msg": 2584,
+    "price": 151,
+    "productId": "MLB29476279",
+    "titulo": "drone dobravel e88 mini camera 4k uhd wi fi controle remoto preto"
+  },
+  "MLB5138128751": {
+    "ts": 1790609717463,
+    "msg": 2585,
+    "price": 303.05,
+    "productId": "MLB46981302",
+    "titulo": "fogao cooktop itatiaia essencial 4 bocas a gas preto bivolt"
+  },
+  "MLB4635845397": {
+    "ts": 1790609717463,
+    "msg": 2586,
+    "price": 137,
+    "productId": "MLB19766716",
+    "titulo": "cartao micro sd 64gb 32tbw"
+  },
+  "MLB3955240813": {
+    "ts": 1790609717463,
+    "msg": 2587,
+    "price": 249.9,
+    "productId": "MLB40287285",
+    "titulo": "water cooler 240mm rise mode black argb"
+  },
+  "MLB4320614433": {
+    "ts": 1790609717463,
+    "msg": 2588,
+    "price": 64.5,
+    "productId": "MLB55688817",
+    "titulo": "kit amend acidificante equilibrio e leave in antifrizz"
   }
 }
