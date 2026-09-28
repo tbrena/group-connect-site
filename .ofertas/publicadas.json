@@ -605,8 +605,11 @@
     "msg": 213
   },
   "MLB4702964270": {
-    "ts": 1789948853582,
-    "msg": 214
+    "ts": 1790553917954,
+    "msg": 2458,
+    "price": 39.9,
+    "productId": "MLB19546573",
+    "titulo": "bateria cr2032 duracell com 5 unidades"
   },
   "MLB4300683443": {
     "ts": 1789948853582,
@@ -14450,5 +14453,12 @@
     "price": 98.99,
     "productId": "SP353689953-44233098615",
     "titulo": "kit 5 camisetas dry fit uv personalizadas com sua logo ou estampa preferida"
+  },
+  "MLB5144370129": {
+    "ts": 1790553917954,
+    "msg": 2459,
+    "price": 1851.55,
+    "productId": "MLB52300325",
+    "titulo": "maquina de lavar electrolux 13kg cesto inox lda13 branco"
   }
 }
