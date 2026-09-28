@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -261,7 +261,7 @@
     "lowest30d": false,
     "vendas": 3629,
     "publishedAt": "2026-09-24T17:05:17.752Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -813,7 +813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1101,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 100,
     "publishedAt": "2026-09-27T19:16:01.397Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -1269,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 918,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -1293,7 +1293,7 @@
     "lowest30d": false,
     "vendas": 719,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-28T02:35:16.754Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -1464,30 +1464,6 @@
     "checkedAt": "2026-09-28T04:35:23.113Z"
   },
   {
-    "id": "SP1459307687-18199657078",
-    "productId": "SP1459307687-18199657078",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato",
-    "price": 51.99,
-    "originalPrice": 140.51,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvz-mig6w6yij1fmb5",
-    "url": "https://s.shopee.com.br/8Kppf7F0L5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 8774,
-    "publishedAt": "2026-09-23T18:05:16.703Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
     "id": "SP373745451-19253571158",
     "productId": "SP373745451-19253571158",
     "marketplace": "shopee",
@@ -1605,7 +1581,7 @@
     "lowest30d": false,
     "vendas": 1814,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -1749,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 906,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -1758,8 +1734,8 @@
     "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
     "title": "Bolsa Feminina Veludo Cotelê Capacidade Ombro e Transversal Multi Bolsos Alça Ajustável Casual",
-    "price": 36.99,
-    "originalPrice": 97.34,
+    "price": 36.98,
+    "originalPrice": 97.32,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -1773,7 +1749,31 @@
     "lowest30d": false,
     "vendas": 893,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
+  },
+  {
+    "id": "SP452872883-22397380042",
+    "productId": "SP452872883-22397380042",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "JAMI JAMI Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro S2420",
+    "price": 48.49,
+    "originalPrice": 127.61,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt3a6p57lkw047",
+    "url": "https://s.shopee.com.br/BU8VKHHTv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 954,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -1920,6 +1920,30 @@
     "checkedAt": "2026-09-28T03:35:24.086Z"
   },
   {
+    "id": "SP979724994-23993275214",
+    "productId": "SP979724994-23993275214",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Estante 6 OU 5 Prateleiras Cozinha de Aço Multiuso Panelas Casa Sala Quarto Organizador",
+    "price": 69,
+    "originalPrice": 176.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyartcdant3ce",
+    "url": "https://s.shopee.com.br/LnY6U0vhV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2851,
+    "publishedAt": "2026-09-23T15:35:18.799Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
+  },
+  {
     "id": "SP1299445449-22197758424",
     "productId": "SP1299445449-22197758424",
     "marketplace": "shopee",
@@ -2061,7 +2085,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -2085,7 +2109,7 @@
     "lowest30d": false,
     "vendas": 1396,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP656211032-22799443692",
@@ -2157,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 169,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP907076717-58204551078",
@@ -2181,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 972,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1397772996-58211345817",
@@ -2205,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 412,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB3476897011",
@@ -2229,7 +2253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -2278,30 +2302,6 @@
     "vendas": 2103,
     "publishedAt": "2026-09-23T14:59:45.074Z",
     "checkedAt": "2026-09-28T03:35:24.086Z"
-  },
-  {
-    "id": "SP452872883-22397380042",
-    "productId": "SP452872883-22397380042",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "JAMI JAMI Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro S2420",
-    "price": 52.89,
-    "originalPrice": 129,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt3a6p57lkw047",
-    "url": "https://s.shopee.com.br/BU8VKHHTv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 954,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
   },
   {
     "id": "SP293152127-45054396139",
@@ -2424,54 +2424,6 @@
     "checkedAt": "2026-09-28T05:35:19.795Z"
   },
   {
-    "id": "SP979724994-23993275214",
-    "productId": "SP979724994-23993275214",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Estante 6 OU 5 Prateleiras Cozinha de Aço Multiuso Panelas Casa Sala Quarto Organizador",
-    "price": 72.99,
-    "originalPrice": 173.79,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyartcdant3ce",
-    "url": "https://s.shopee.com.br/LnY6U0vhV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2851,
-    "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
-    "id": "SP1641619591-58203648169",
-    "productId": "SP1641619591-58203648169",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch XiYuVear  H1 Tela 1.45\" Chamada Bluetooth Monitor Cardíaco Sono Notificações Relógio Inteligente Android iOS",
-    "price": 62.77,
-    "originalPrice": 149.45,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mtgf3yqfny8193",
-    "url": "https://s.shopee.com.br/113EvdyJa6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 556,
-    "publishedAt": "2026-09-23T19:06:49.479Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
     "id": "SP1371911195-51450633186",
     "productId": "SP1371911195-51450633186",
     "marketplace": "shopee",
@@ -2517,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 140,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1229262903-22094514639",
@@ -2694,8 +2646,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-    "price": 148.99,
-    "originalPrice": 354.74,
+    "price": 55,
+    "originalPrice": 130.95,
     "discount": 58,
     "base": "vendedor",
     "averagePrice": null,
@@ -2709,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 5615,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-09-28T03:35:24.086Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP486951299-58256761785",
@@ -3021,7 +2973,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T11:35:19.260Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1183719086-22593793702",
@@ -3046,6 +2998,30 @@
     "vendas": 1122,
     "publishedAt": "2026-09-25T13:05:16.362Z",
     "checkedAt": "2026-09-28T05:05:21.083Z"
+  },
+  {
+    "id": "SP1459307687-18199657078",
+    "productId": "SP1459307687-18199657078",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato",
+    "price": 59.99,
+    "originalPrice": 139.51,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvz-mig6w6yij1fmb5",
+    "url": "https://s.shopee.com.br/8Kppf7F0L5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 8774,
+    "publishedAt": "2026-09-23T18:05:16.703Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1855363700-58263878399",
@@ -3493,7 +3469,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82608-mknw9ym097uv9a",
-    "url": "https://s.shopee.com.br/5fp1GTlA3B",
+    "url": "https://s.shopee.com.br/2BFE4KPfgu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3501,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 3079,
     "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP457864097-41713766789",
@@ -3936,20 +3912,44 @@
     "checkedAt": "2026-09-28T02:35:16.754Z"
   },
   {
+    "id": "SP1641619591-58203648169",
+    "productId": "SP1641619591-58203648169",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch XiYuVear  H1 Tela 1.45\" Chamada Bluetooth Monitor Cardíaco Sono Notificações Relógio Inteligente Android iOS",
+    "price": 67.49,
+    "originalPrice": 149.98,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mtgf3yqfny8193",
+    "url": "https://s.shopee.com.br/113EvdyJa6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 556,
+    "publishedAt": "2026-09-23T19:06:49.479Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
+  },
+  {
     "id": "SP1636720176-58250985764",
     "productId": "SP1636720176-58250985764",
     "marketplace": "shopee",
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Caneca Térmica Copo Magnética Misturador De Bebidas Mixer Café Shake 380ml Suco Elétrica Recarregável",
-    "price": 30.99,
-    "originalPrice": 68.87,
+    "price": 30.98,
+    "originalPrice": 68.84,
     "discount": 55,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82271-mhgw69jgatja8d",
-    "url": "https://s.shopee.com.br/1VzW7eVH2o",
+    "url": "https://s.shopee.com.br/70KTdUAd36",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3957,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 1367,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1241281618-22893475704",
@@ -3981,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 157,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1240652277-23295160242",
@@ -4509,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 2760,
     "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP991338332-21799829866",
@@ -4557,7 +4557,7 @@
     "lowest30d": false,
     "vendas": 963,
     "publishedAt": "2026-09-23T20:05:16.526Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1354781978-56855656628",
@@ -4581,7 +4581,7 @@
     "lowest30d": false,
     "vendas": 222,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP991338332-23298943553",
@@ -4605,7 +4605,7 @@
     "lowest30d": false,
     "vendas": 3086,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1627969128-58205120292",
@@ -4629,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 1127,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1797330630-58263459751",
@@ -4653,7 +4653,7 @@
     "lowest30d": false,
     "vendas": 1926,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP530370669-22101448576",
@@ -4677,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 1678,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1664564950-58214255300",
@@ -4701,7 +4701,7 @@
     "lowest30d": false,
     "vendas": 525,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1356795237-23394415810",
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 815,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1034396314-23897904339",
@@ -4749,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 2553,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1259086167-21797748168",
@@ -4918,30 +4918,6 @@
     "vendas": 4596,
     "publishedAt": "2026-09-23T21:35:14.809Z",
     "checkedAt": "2026-09-28T03:35:24.086Z"
-  },
-  {
-    "id": "SP1661007426-58250499162",
-    "productId": "SP1661007426-58250499162",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Varal De Chão 3 Andares Para Roupas e Calcinhas 4 Rodas Dobrável Reforçado e Portátil",
-    "price": 69.99,
-    "originalPrice": 148.91,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjstbmw9gh6q18",
-    "url": "https://s.shopee.com.br/8AWQ3u1hWc",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2177,
-    "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
   },
   {
     "id": "SP1409551027-58202925870",
@@ -5397,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB4943866566",
@@ -5421,7 +5397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -5733,7 +5709,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB7272451088",
@@ -5757,7 +5733,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB4411250505",
@@ -5781,7 +5757,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP342086228-55612003632",
@@ -5901,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 1379,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -5925,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 3843,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1242044379-23197485445",
@@ -5949,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 2332,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP747746791-19428227444",
@@ -5973,7 +5949,7 @@
     "lowest30d": false,
     "vendas": 768,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1284795277-23594826253",
@@ -6288,6 +6264,30 @@
     "checkedAt": "2026-09-28T03:05:15.246Z"
   },
   {
+    "id": "SP1661007426-58250499162",
+    "productId": "SP1661007426-58250499162",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Varal De Chão 3 Andares Para Roupas e Calcinhas 4 Rodas Dobrável Reforçado e Portátil",
+    "price": 74.95,
+    "originalPrice": 149.9,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjstbmw9gh6q18",
+    "url": "https://s.shopee.com.br/8AWQ3u1hWc",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2177,
+    "publishedAt": "2026-09-24T12:35:15.740Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
+  },
+  {
     "id": "SP1302870944-22797678634",
     "productId": "SP1302870944-22797678634",
     "marketplace": "shopee",
@@ -6333,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 2874,
     "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP667672441-58258190467",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": 1222,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1800696414-58209354173",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 732,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP932850533-22192886850",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 873,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1860098702-58264684239",
@@ -7150,30 +7150,6 @@
     "vendas": 1088,
     "publishedAt": "2026-09-24T10:05:16.579Z",
     "checkedAt": "2026-09-28T02:35:16.754Z"
-  },
-  {
-    "id": "SP1368960729-21799856205",
-    "productId": "SP1368960729-21799856205",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Carregador Completo Turbo Power Para Xiaomi Cabo USB + Cabo Tipo C 33W Original",
-    "price": 34.9,
-    "originalPrice": 68.43,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-megbwl8xxgqq4f",
-    "url": "https://s.shopee.com.br/1VzSnj1LHg",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1735,
-    "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -7725,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1763,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB4232405681",
@@ -7749,7 +7725,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1537828773-22894286824",
@@ -7773,7 +7749,7 @@
     "lowest30d": false,
     "vendas": 963,
     "publishedAt": "2026-09-24T16:35:19.627Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -7966,6 +7942,30 @@
     "vendas": 1371,
     "publishedAt": "2026-09-24T07:05:16.933Z",
     "checkedAt": "2026-09-28T04:35:23.113Z"
+  },
+  {
+    "id": "SP1368960729-21799856205",
+    "productId": "SP1368960729-21799856205",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador Completo Turbo Power Para Xiaomi Cabo USB + Cabo Tipo C 33W Original",
+    "price": 35.9,
+    "originalPrice": 67.74,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-megbwl8xxgqq4f",
+    "url": "https://s.shopee.com.br/1VzSnj1LHg",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1735,
+    "publishedAt": "2026-09-24T02:05:15.166Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1800846939-58210528634",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8280,30 +8280,6 @@
     "checkedAt": "2026-09-28T05:05:21.083Z"
   },
   {
-    "id": "SP437927074-20099603380",
-    "productId": "SP437927074-20099603380",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM",
-    "price": 36.72,
-    "originalPrice": 61.2,
-    "discount": 40,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
-    "url": "https://s.shopee.com.br/40gqTEZR95",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3061,
-    "publishedAt": "2026-09-26T04:05:18.825Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
     "id": "SP1494995608-56559188991",
     "productId": "SP1494995608-56559188991",
     "marketplace": "shopee",
@@ -8352,6 +8328,30 @@
     "checkedAt": "2026-09-28T05:05:21.083Z"
   },
   {
+    "id": "SP437927074-20099603380",
+    "productId": "SP437927074-20099603380",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM",
+    "price": 40.39,
+    "originalPrice": 61.2,
+    "discount": 34,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
+    "url": "https://s.shopee.com.br/40gqTEZR95",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3061,
+    "publishedAt": "2026-09-26T04:05:18.825Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
+  },
+  {
     "id": "SP395166866-58209769278",
     "productId": "SP395166866-58209769278",
     "marketplace": "shopee",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB3687097769",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "MLB5686403044",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -10197,7 +10197,7 @@
     "lowest30d": false,
     "vendas": 996,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -10245,7 +10245,7 @@
     "lowest30d": false,
     "vendas": 1980,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -10269,7 +10269,7 @@
     "lowest30d": false,
     "vendas": 6521,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -10293,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 3358,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -10317,7 +10317,7 @@
     "lowest30d": false,
     "vendas": 2552,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP281898655-42514418718",
@@ -10341,31 +10341,7 @@
     "lowest30d": false,
     "vendas": 3929,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
-  },
-  {
-    "id": "SP1412882242-58251675475",
-    "productId": "SP1412882242-58251675475",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Carregador de Bateria 12V Inteligente Mazzilli – LCD, 15AH a 100AH, Carrega Carro e Moto REAL",
-    "price": 42.96,
-    "originalPrice": 119.33,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1gnl18tw5f82",
-    "url": "https://s.shopee.com.br/9AOwchPJ2K",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3205,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -10389,7 +10365,7 @@
     "lowest30d": false,
     "vendas": 637,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP362859393-23794818747",
@@ -10581,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 869,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -10677,7 +10653,7 @@
     "lowest30d": false,
     "vendas": 1623,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -10701,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 1115,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -10725,7 +10701,7 @@
     "lowest30d": false,
     "vendas": 1880,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -10749,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 1755,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -10758,8 +10734,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
-    "price": 49.99,
-    "originalPrice": 135.11,
+    "price": 43.99,
+    "originalPrice": 118.89,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -10773,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 885,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -10797,7 +10773,7 @@
     "lowest30d": false,
     "vendas": 3525,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1356780532-22193811396",
@@ -11181,7 +11157,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-28T05:35:19.795Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1638239765-58205100450",
@@ -11565,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 1027,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -11589,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 2768,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-28T02:05:14.986Z"
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   },
   {
     "id": "SP337714883-23899122798",
@@ -11998,5 +11974,29 @@
     "vendas": 730,
     "publishedAt": "2026-09-23T15:35:18.799Z",
     "checkedAt": "2026-09-28T04:05:15.110Z"
+  },
+  {
+    "id": "SP1412882242-58251675475",
+    "productId": "SP1412882242-58251675475",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador de Bateria 12V Inteligente Mazzilli – LCD, 15AH a 100AH, Carrega Carro e Moto REAL",
+    "price": 49.98,
+    "originalPrice": 119,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1gnl18tw5f82",
+    "url": "https://s.shopee.com.br/9AOwchPJ2K",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3205,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-28T05:52:40.991Z"
   }
 ]
