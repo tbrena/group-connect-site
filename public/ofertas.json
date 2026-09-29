@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -213,7 +213,7 @@
     "lowest30d": false,
     "vendas": 376,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-09-29T00:32:25.488Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -816,6 +816,30 @@
     "checkedAt": "2026-09-29T02:05:15.634Z"
   },
   {
+    "id": "SP1587140702-58259049816",
+    "productId": "SP1587140702-58259049816",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO",
+    "price": 51.99,
+    "originalPrice": 157.55,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mnw7prj7241t25",
+    "url": "https://s.shopee.com.br/4qFxSlWGSA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3318,
+    "publishedAt": "2026-09-29T03:05:49.997Z",
+    "checkedAt": "2026-09-29T03:05:49.997Z"
+  },
+  {
     "id": "SP1863279175-58217517406",
     "productId": "SP1863279175-58217517406",
     "marketplace": "shopee",
@@ -861,7 +885,7 @@
     "lowest30d": false,
     "vendas": 261,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1397809275-58252647017",
@@ -1197,7 +1221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1509,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 1008,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -1677,7 +1701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -1701,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 486,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -1710,14 +1734,14 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
-    "price": 35.99,
-    "originalPrice": 99.97,
+    "price": 35.98,
+    "originalPrice": 99.94,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
-    "url": "https://s.shopee.com.br/30oLVGDkVz",
+    "url": "https://s.shopee.com.br/8fSj7GREkW",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 385,
     "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -1845,7 +1869,7 @@
     "lowest30d": false,
     "vendas": 901,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -1854,8 +1878,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.5,
-    "originalPrice": 90.54,
+    "price": 33.45,
+    "originalPrice": 90.41,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -1869,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 722,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -1917,7 +1941,7 @@
     "lowest30d": false,
     "vendas": 780,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -2013,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 105,
     "publishedAt": "2026-09-26T03:35:16.420Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP373745451-19253571158",
@@ -2037,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 2244,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP883941882-58261389057",
@@ -2157,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 1868,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -2181,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 984,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP441503847-20899551729",
@@ -2253,7 +2277,7 @@
     "lowest30d": false,
     "vendas": 434,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1543712029-57955156907",
@@ -2469,7 +2493,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -2685,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 330,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -2757,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 1061,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1661007426-58267485793",
@@ -2949,7 +2973,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -2973,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 1352,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -2997,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 444,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP457864097-25338080323",
@@ -3213,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 389,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP441185571-22693072879",
@@ -3237,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 343,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1078551010-23494626157",
@@ -3429,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 13263,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP332130069-23693822652",
@@ -3885,30 +3909,6 @@
     "lowest30d": false,
     "vendas": 1324,
     "publishedAt": "2026-09-23T18:05:16.703Z",
-    "checkedAt": "2026-09-29T02:35:16.404Z"
-  },
-  {
-    "id": "SP392967703-16178844715",
-    "productId": "SP392967703-16178844715",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
-    "price": 94.99,
-    "originalPrice": 215.89,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
-    "url": "https://s.shopee.com.br/W6yInZd7X",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 450,
-    "publishedAt": "2026-09-23T17:35:12.754Z",
     "checkedAt": "2026-09-29T02:35:16.404Z"
   },
   {
@@ -5349,7 +5349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1748398536-57108039282",
@@ -5637,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "MLB7272451088",
@@ -5661,7 +5661,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "MLB3725747499",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP342086228-55612003632",
@@ -6189,7 +6189,7 @@
     "lowest30d": false,
     "vendas": 7058,
     "publishedAt": "2026-09-26T14:35:16.816Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP438855294-18997751270",
@@ -7773,7 +7773,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1537828773-22894286824",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T14:05:15.505Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8349,7 +8349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8781,7 +8781,7 @@
     "lowest30d": false,
     "vendas": 2141,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -8805,7 +8805,7 @@
     "lowest30d": false,
     "vendas": 13433,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8829,7 +8829,7 @@
     "lowest30d": false,
     "vendas": 650,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8853,7 +8853,7 @@
     "lowest30d": false,
     "vendas": 7904,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1569849623-58267323515",
@@ -8877,7 +8877,31 @@
     "lowest30d": false,
     "vendas": 4539,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
+  },
+  {
+    "id": "SP451371260-22397622407",
+    "productId": "SP451371260-22397622407",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador De Ar E Aromatizador Grande 24H Com 2 Saídas De Ar 3 Em 1 Multifuncional Com LED",
+    "price": 31.79,
+    "originalPrice": 99.34,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqcqmw35zqwx85",
+    "url": "https://s.shopee.com.br/9pedux6vk1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4404,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -9102,8 +9126,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Ventilador de Teto 80W LED Lâmpada Controle Remoto Luminária Economica de Energia 6 lâminas Bivolt",
-    "price": 63.99,
-    "originalPrice": 199.97,
+    "price": 64.99,
+    "originalPrice": 203.09,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -9117,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 1517,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9189,7 +9213,7 @@
     "lowest30d": false,
     "vendas": 2764,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1240425443-23893313838",
@@ -9213,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 5096,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1662583623-52763574749",
@@ -9237,7 +9261,7 @@
     "lowest30d": false,
     "vendas": 7385,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -9285,31 +9309,7 @@
     "lowest30d": false,
     "vendas": 506,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
-  },
-  {
-    "id": "SP451371260-22397622407",
-    "productId": "SP451371260-22397622407",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador De Ar E Aromatizador Grande 24H Com 2 Saídas De Ar 3 Em 1 Multifuncional Com LED",
-    "price": 32.79,
-    "originalPrice": 99.36,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqcqmw35zqwx85",
-    "url": "https://s.shopee.com.br/9pedux6vk1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4404,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9333,7 +9333,7 @@
     "lowest30d": false,
     "vendas": 621,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9357,7 +9357,7 @@
     "lowest30d": false,
     "vendas": 835,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9381,7 +9381,7 @@
     "lowest30d": false,
     "vendas": 1010,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9405,7 +9405,7 @@
     "lowest30d": false,
     "vendas": 2182,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9429,7 +9429,7 @@
     "lowest30d": false,
     "vendas": 2119,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -9453,7 +9453,7 @@
     "lowest30d": false,
     "vendas": 1305,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9477,7 +9477,7 @@
     "lowest30d": false,
     "vendas": 771,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -9501,7 +9501,7 @@
     "lowest30d": false,
     "vendas": 506,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9525,7 +9525,7 @@
     "lowest30d": false,
     "vendas": 2221,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -9549,7 +9549,7 @@
     "lowest30d": false,
     "vendas": 1082,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9573,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 326,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9589,7 +9589,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtgkqipd7aww15",
-    "url": "https://s.shopee.com.br/4fwXMeMu8O",
+    "url": "https://s.shopee.com.br/20vpJLX23M",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9597,7 +9597,7 @@
     "lowest30d": false,
     "vendas": 426,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9645,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 3763,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9696,28 +9696,28 @@
     "checkedAt": "2026-09-29T01:05:14.799Z"
   },
   {
-    "id": "SP1587140702-58259049816",
-    "productId": "SP1587140702-58259049816",
+    "id": "SP1550654557-23298543447",
+    "productId": "SP1550654557-23298543447",
     "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO",
-    "price": 51.99,
-    "originalPrice": 157.55,
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Kit Skincare Vitamina C Sabonete+Esfoliante+Gel Hidratante+Serum Clareador Dermachem",
+    "price": 39.99,
+    "originalPrice": 121.18,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mnw7prj7241t25",
-    "url": "https://s.shopee.com.br/4qFxSlWGSA",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbp86kciva6x15",
+    "url": "https://s.shopee.com.br/gQPm1yDOh",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3318,
-    "publishedAt": "2026-09-29T03:05:49.997Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "vendas": 987,
+    "publishedAt": "2026-09-24T19:29:50.206Z",
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -9741,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 4973,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1043389652-23998793385",
@@ -9765,7 +9765,7 @@
     "lowest30d": false,
     "vendas": 195,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -9789,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 1352,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -9813,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 1084,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -9837,7 +9837,7 @@
     "lowest30d": false,
     "vendas": 1914,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1723473029-23094999147",
@@ -9861,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 2106,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 2984,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -9933,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 2576,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -9957,7 +9957,7 @@
     "lowest30d": false,
     "vendas": 1109,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9981,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 687,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1658934983-58204681823",
@@ -10005,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 1129,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1311372885-41809564883",
@@ -10030,30 +10030,6 @@
     "vendas": 826,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-09-29T01:05:14.799Z"
-  },
-  {
-    "id": "SP1550654557-23298543447",
-    "productId": "SP1550654557-23298543447",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Kit Skincare Vitamina C Sabonete+Esfoliante+Gel Hidratante+Serum Clareador Dermachem",
-    "price": 42,
-    "originalPrice": 120,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbp86kciva6x15",
-    "url": "https://s.shopee.com.br/gQPm1yDOh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 987,
-    "publishedAt": "2026-09-24T19:29:50.206Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10941,7 +10917,7 @@
     "lowest30d": false,
     "vendas": 597,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11301,7 +11277,7 @@
     "lowest30d": false,
     "vendas": 1074,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1510947962-28040999242",
@@ -11421,7 +11397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-29T03:05:49.997Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11589,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 2524,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T00:05:14.341Z"
+    "checkedAt": "2026-09-29T03:35:13.407Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -11998,5 +11974,29 @@
     "vendas": 787,
     "publishedAt": "2026-09-23T17:35:12.754Z",
     "checkedAt": "2026-09-29T02:05:15.634Z"
+  },
+  {
+    "id": "SP392967703-16178844715",
+    "productId": "SP392967703-16178844715",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
+    "price": 94.99,
+    "originalPrice": 215.89,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
+    "url": "https://s.shopee.com.br/W6yInZd7X",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 450,
+    "publishedAt": "2026-09-23T17:35:12.754Z",
+    "checkedAt": "2026-09-29T02:35:16.404Z"
   }
 ]
