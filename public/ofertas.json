@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1569804599-23598922504",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 1481,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-09-29T23:35:17.201Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP838651758-52459273810",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 169,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-09-29T23:35:17.201Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -402,10 +402,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1140,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:35:17.201Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -426,10 +426,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2648,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:35:17.201Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 476,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -957,7 +957,7 @@
     "lowest30d": false,
     "vendas": 113,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -1005,7 +1005,7 @@
     "lowest30d": false,
     "vendas": 208,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1738971782-22699530209",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 298,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB3859411227",
@@ -1221,7 +1221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP372130636-58217479066",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": 104,
     "publishedAt": "2026-09-28T18:35:16.890Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -1917,7 +1917,7 @@
     "lowest30d": false,
     "vendas": 1118,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -2109,7 +2109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -2253,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 321,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1027415014-19598793518",
@@ -2325,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 302,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -2685,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 314,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP441503847-20899551729",
@@ -2925,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 302,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -2997,7 +2997,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3309,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 4477,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP328666563-23998713893",
@@ -3453,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 377,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1020746654-22098866638",
@@ -3549,7 +3549,7 @@
     "lowest30d": false,
     "vendas": 2159,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -3573,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 5594,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -3933,7 +3933,7 @@
     "lowest30d": false,
     "vendas": 583,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1104525762-20697728235",
@@ -4101,7 +4101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB5811879470",
@@ -4125,7 +4125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1616052629-58254217913",
@@ -4194,10 +4194,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1589,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1724021947-58254952015",
@@ -4938,10 +4938,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1167,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP283972864-22297711029",
@@ -4962,10 +4962,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3432,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP699143044-20452224775",
@@ -4986,10 +4986,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1433,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP332130069-18599691410",
@@ -5106,10 +5106,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1312,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1762161450-58262746169",
@@ -5130,10 +5130,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 529,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1573981574-58205950313",
@@ -5154,10 +5154,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 747,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1777841231-52407426682",
@@ -5229,7 +5229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB3725747499",
@@ -5253,7 +5253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1582653079-47057598144",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 4640,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP811879342-20199322470",
@@ -5466,10 +5466,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 789,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1354781962-56855656714",
@@ -5565,7 +5565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP342086228-55612003632",
@@ -6045,7 +6045,7 @@
     "lowest30d": false,
     "vendas": 2398,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 1863,
     "publishedAt": "2026-09-27T02:05:16.687Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -6189,7 +6189,7 @@
     "lowest30d": false,
     "vendas": 429,
     "publishedAt": "2026-09-24T17:35:37.798Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1302870944-22797678634",
@@ -6618,10 +6618,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2194,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1847534559-58262219872",
@@ -6642,10 +6642,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2045,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP296363855-13154336672",
@@ -6666,10 +6666,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 7229,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP346235717-3175146832",
@@ -6690,10 +6690,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2622,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1161923923-23098393383",
@@ -6714,10 +6714,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2114,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP387517673-19044723152",
@@ -6738,10 +6738,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2169,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1660218273-58203846893",
@@ -6762,10 +6762,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 670,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1183078297-55056423485",
@@ -6786,10 +6786,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 989,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1147903950-44553066762",
@@ -6810,10 +6810,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 5630,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1556879699-58254498465",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 7811,
     "publishedAt": "2026-09-29T08:35:37.351Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP359168917-19497608994",
@@ -7677,7 +7677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1537828773-22894286824",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": 2304,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB4028764995",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-24T03:35:16.394Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1006863047-23994985063",
@@ -8229,7 +8229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB3830992651",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T18:17:49.122Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB7620607478",
@@ -8383,10 +8383,10 @@
     "categoria": "Informática",
     "title": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
     "price": 399.9,
-    "originalPrice": 507.88,
-    "discount": 21,
+    "originalPrice": 514.5,
+    "discount": 22,
     "base": "media",
-    "averagePrice": 507.88,
+    "averagePrice": 514.5,
     "sellers": 35,
     "image": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7620607478?matt_word=promoninja&matt_tool=19839069",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T07:05:16.080Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -9549,7 +9549,7 @@
     "lowest30d": false,
     "vendas": 1347,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -9594,10 +9594,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3766,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -9618,10 +9618,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1386,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -9765,7 +9765,7 @@
     "lowest30d": false,
     "vendas": 10744,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -9912,30 +9912,6 @@
     "checkedAt": "2026-09-30T01:34:17.314Z"
   },
   {
-    "id": "SP1311372885-41809564883",
-    "productId": "SP1311372885-41809564883",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2026 original Smartwatch S10 Pro Mini Chamada Bluetooth Com monitor De Frequência Cardíaca Do Calculadora",
-    "price": 43.98,
-    "originalPrice": 125.66,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbzoc0zr0um1a",
-    "url": "https://s.shopee.com.br/BU7w71h2W",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 822,
-    "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
-  },
-  {
     "id": "SP1835108407-58264295508",
     "productId": "SP1835108407-58264295508",
     "marketplace": "shopee",
@@ -9981,7 +9957,7 @@
     "lowest30d": false,
     "vendas": 441,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1192668514-44902618171",
@@ -10194,10 +10170,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 201,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -10218,10 +10194,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 160,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -10242,10 +10218,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1193,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -10266,10 +10242,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3029,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1815920431-58263877533",
@@ -10290,10 +10266,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 181,
     "publishedAt": "2026-09-23T14:35:17.916Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10314,10 +10290,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3764,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -10437,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 663,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -10461,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 1392,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -10722,10 +10698,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 5729,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -10746,10 +10722,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 4137,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -10770,10 +10746,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1051,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1132754268-23195153059",
@@ -10794,10 +10770,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3742,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-29T23:05:15.729Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11373,7 +11349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-09-30T02:05:16.004Z"
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11902,6 +11878,30 @@
     "vendas": 1277,
     "publishedAt": "2026-09-23T18:35:16.739Z",
     "checkedAt": "2026-09-30T02:05:16.004Z"
+  },
+  {
+    "id": "SP1311372885-41809564883",
+    "productId": "SP1311372885-41809564883",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2026 original Smartwatch S10 Pro Mini Chamada Bluetooth Com monitor De Frequência Cardíaca Do Calculadora",
+    "price": 43.98,
+    "originalPrice": 99.95,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbzoc0zr0um1a",
+    "url": "https://s.shopee.com.br/BU7w71h2W",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 822,
+    "publishedAt": "2026-09-23T03:30:08.026Z",
+    "checkedAt": "2026-09-30T02:35:15.140Z"
   },
   {
     "id": "SP751256827-58206364376",
