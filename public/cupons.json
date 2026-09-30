@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "TVS3009"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": "R$ 899",
+    "escopo": "TVs e Celulares",
+    "origem": "avidaefeitadedesconto/16170",
+    "quando": "2026-09-30T18:08:16+00:00",
+    "id": "ml:TVS3009",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "DECORAO3009"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 89",
+    "escopo": "Decoração e Eletros",
+    "origem": "avidaefeitadedesconto/16169",
+    "quando": "2026-09-30T18:03:01+00:00",
+    "id": "ml:DECORAO3009",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MODA3009"
     ],
     "desconto": "10% OFF",
@@ -111,20 +139,6 @@
     "origem": "avidaefeitadedesconto/16155",
     "quando": "2026-09-29T22:14:55+00:00",
     "id": "ml:SECULUS30",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "QUEIMA29"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 49",
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16152",
-    "quando": "2026-09-29T18:01:53+00:00",
-    "id": "ml:QUEIMA29",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
