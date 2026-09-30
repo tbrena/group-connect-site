@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MODA3009"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/16165",
+    "quando": "2026-09-30T15:05:13+00:00",
+    "id": "ml:MODA3009",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "LIVROS15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 20",
+    "minimo": "R$ 19",
+    "escopo": "Livros",
+    "origem": "avidaefeitadedesconto/16163",
+    "quando": "2026-09-30T14:32:48+00:00",
+    "id": "ml:LIVROS15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE3009",
       "SITE60",
       "SITE200"
@@ -97,90 +125,6 @@
     "origem": "avidaefeitadedesconto/16152",
     "quando": "2026-09-29T18:01:53+00:00",
     "id": "ml:QUEIMA29",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BEBESEPETS15"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 89",
-    "escopo": "Bebês e Pets",
-    "origem": "avidaefeitadedesconto/16151",
-    "quando": "2026-09-29T15:03:53+00:00",
-    "id": "ml:BEBESEPETS15",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "HOJEVAI"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": "R$ 149",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/16146",
-    "quando": "2026-09-29T12:16:16+00:00",
-    "id": "ml:HOJEVAI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DESCONTOMELI"
-    ],
-    "desconto": "30% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Descontos Especiais",
-    "origem": "avidaefeitadedesconto/16145",
-    "quando": "2026-09-29T12:16:09+00:00",
-    "id": "ml:DESCONTOMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFNOMELI"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16144",
-    "quando": "2026-09-29T12:16:00+00:00",
-    "id": "ml:OFFNOMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SONOMELI"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Ofertas",
-    "origem": "avidaefeitadedesconto/16143",
-    "quando": "2026-09-29T12:15:48+00:00",
-    "id": "ml:SONOMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VEMPROMELI"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16142",
-    "quando": "2026-09-29T12:15:41+00:00",
-    "id": "ml:VEMPROMELI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
