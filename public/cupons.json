@@ -2,6 +2,78 @@
   {
     "loja": "ml",
     "codigos": [
+      "TODOSITE3009",
+      "SITE60",
+      "SITE200"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16161",
+    "quando": "2026-09-30T12:04:27+00:00",
+    "id": "ml:TODOSITE3009+SITE60+SITE200",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELHORPROMOHJ"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/16160",
+    "quando": "2026-09-30T12:01:44+00:00",
+    "id": "ml:MELHORPROMOHJ",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "VEMDEOFFMELI"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Achados",
+    "origem": "avidaefeitadedesconto/16159",
+    "quando": "2026-09-30T12:01:21+00:00",
+    "id": "ml:VEMDEOFFMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELICOMPRACERTA"
+    ],
+    "desconto": "22% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Lista de Ofertas",
+    "origem": "avidaefeitadedesconto/16158",
+    "quando": "2026-09-30T12:01:00+00:00",
+    "id": "ml:MELICOMPRACERTA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MLMELHORESPROMOS"
+    ],
+    "desconto": "18% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16157",
+    "quando": "2026-09-30T12:00:37+00:00",
+    "id": "ml:MLMELHORESPROMOS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SECULUS30"
     ],
     "desconto": "30% OFF",
