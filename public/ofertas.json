@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -69,7 +69,7 @@
     "lowest30d": true,
     "vendas": 2676,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -213,7 +213,7 @@
     "lowest30d": false,
     "vendas": 271,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 195,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1457186080-18099949098",
@@ -456,30 +456,6 @@
     "checkedAt": "2026-10-01T14:35:16.076Z"
   },
   {
-    "id": "SP1926504795-58267597637",
-    "productId": "SP1926504795-58267597637",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "3M Bivolt 110V–220V Cortina de Luz LED Natal Estrela 5 Pontas Pisca-pisca Quintal Festa KL-511",
-    "price": 30.99,
-    "originalPrice": 99.97,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-msnpda76kwlg21",
-    "url": "https://s.shopee.com.br/qjv4oM5Qv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 233,
-    "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
-  },
-  {
     "id": "SP1757833285-58256652658",
     "productId": "SP1757833285-58256652658",
     "marketplace": "shopee",
@@ -549,7 +525,7 @@
     "lowest30d": true,
     "vendas": 1148,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -597,7 +573,7 @@
     "lowest30d": false,
     "vendas": 997,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -621,7 +597,7 @@
     "lowest30d": false,
     "vendas": 175,
     "publishedAt": "2026-09-26T12:35:50.774Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -816,6 +792,30 @@
     "checkedAt": "2026-10-01T14:05:14.675Z"
   },
   {
+    "id": "SP1553736756-23298708556",
+    "productId": "SP1553736756-23298708556",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Carregador de bateria automotivo inteligente 12 V Display Digital Automático Energia Reparação Puls-envio imediato",
+    "price": 48.39,
+    "originalPrice": 151.22,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-mqg18txjv30r61",
+    "url": "https://s.shopee.com.br/gQUwiw0of",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1370,
+    "publishedAt": "2026-09-28T15:05:16.350Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
     "id": "SP1480118625-49501660876",
     "productId": "SP1480118625-49501660876",
     "marketplace": "shopee",
@@ -885,7 +885,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1509,7 +1509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 2773,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -1893,7 +1893,7 @@
     "lowest30d": true,
     "vendas": 177,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -1917,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 440,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -1941,7 +1941,7 @@
     "lowest30d": true,
     "vendas": 960,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP728389176-58217580101",
@@ -2061,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 217,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2157,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 784,
     "publishedAt": "2026-09-27T21:05:15.305Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -2205,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 517,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -2229,7 +2229,7 @@
     "lowest30d": true,
     "vendas": 619,
     "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -2253,7 +2253,7 @@
     "lowest30d": true,
     "vendas": 249,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -2301,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 1206,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP791283306-17184102852",
@@ -2397,7 +2397,7 @@
     "lowest30d": false,
     "vendas": 1101,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -2445,7 +2445,7 @@
     "lowest30d": false,
     "vendas": 255,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -2454,8 +2454,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.45,
-    "originalPrice": 90.41,
+    "price": 33.5,
+    "originalPrice": 90.54,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2469,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 732,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -2493,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 1578,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -2517,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 826,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-01T12:05:16.680Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -2565,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 534,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1543234103-42553389179",
@@ -2805,7 +2805,7 @@
     "lowest30d": false,
     "vendas": 2093,
     "publishedAt": "2026-09-27T07:05:15.783Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP359168917-42565175368",
@@ -2902,6 +2902,30 @@
     "vendas": 2069,
     "publishedAt": "2026-10-01T01:05:12.599Z",
     "checkedAt": "2026-10-01T12:05:16.680Z"
+  },
+  {
+    "id": "SP1926504795-58267597637",
+    "productId": "SP1926504795-58267597637",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "3M Bivolt 110V–220V Cortina de Luz LED Natal Estrela 5 Pontas Pisca-pisca Quintal Festa KL-511",
+    "price": 38.99,
+    "originalPrice": 99.97,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820me-msnpda76kwlg21",
+    "url": "https://s.shopee.com.br/3qNXHTKDlz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 233,
+    "publishedAt": "2026-09-30T15:32:03.838Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1459307687-23698466561",
@@ -3144,30 +3168,6 @@
     "checkedAt": "2026-10-01T13:35:15.737Z"
   },
   {
-    "id": "SP1553736756-23298708556",
-    "productId": "SP1553736756-23298708556",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Carregador de bateria automotivo inteligente 12 V Display Digital Automático Energia Reparação Puls-envio imediato",
-    "price": 58.98,
-    "originalPrice": 151.23,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-mqg18txjv30r61",
-    "url": "https://s.shopee.com.br/gQUwiw0of",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1370,
-    "publishedAt": "2026-09-28T15:05:16.350Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
-  },
-  {
     "id": "MLB4705243893",
     "productId": "MLB21163160",
     "marketplace": "ml",
@@ -3189,7 +3189,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3669,7 +3669,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB4863689399",
@@ -3693,7 +3693,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4149,7 +4149,7 @@
     "lowest30d": true,
     "vendas": 2090,
     "publishedAt": "2026-09-30T03:35:14.882Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -4381,7 +4381,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj2vh9s15vl6c",
-    "url": "https://s.shopee.com.br/113LHHv4vy",
+    "url": "https://s.shopee.com.br/4qG4XWThwM",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4389,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 2882,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1616052629-58254217913",
@@ -4536,6 +4536,30 @@
     "checkedAt": "2026-10-01T14:05:14.675Z"
   },
   {
+    "id": "SP1661676033-58258175621",
+    "productId": "SP1661676033-58258175621",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Jogo de Lençol com Elástico de Estampado 100% Algodão lavado Fronha —Estampadas Sortidas e Tamanhos",
+    "price": 42.99,
+    "originalPrice": 95.53,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mmlgcyp4veo037",
+    "url": "https://s.shopee.com.br/3qNXRwQNAr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 800,
+    "publishedAt": "2026-10-01T15:05:15.177Z",
+    "checkedAt": "2026-10-01T15:05:15.177Z"
+  },
+  {
     "id": "SP1665287075-58254858029",
     "productId": "SP1665287075-58254858029",
     "marketplace": "shopee",
@@ -4653,6 +4677,30 @@
     "lowest30d": true,
     "vendas": 1907,
     "publishedAt": "2026-09-24T06:35:17.845Z",
+    "checkedAt": "2026-10-01T15:05:15.177Z"
+  },
+  {
+    "id": "SP418872496-23793614115",
+    "productId": "SP418872496-23793614115",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Jogo de Cama Lençol 400 Fios Micropercal",
+    "price": 32.8,
+    "originalPrice": 71.3,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtliod5oxk3m9c",
+    "url": "https://s.shopee.com.br/6fhip9FaPy",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1316,
+    "publishedAt": "2026-10-01T15:05:15.177Z",
     "checkedAt": "2026-10-01T15:05:15.177Z"
   },
   {
@@ -4797,7 +4845,31 @@
     "lowest30d": true,
     "vendas": 591,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
+    "id": "SP1240652277-58251519281",
+    "productId": "SP1240652277-58251519281",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
+    "price": 34.68,
+    "originalPrice": 73.79,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi59t0ifxfk25c",
+    "url": "https://s.shopee.com.br/1LgBfscXsd",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2412,
+    "publishedAt": "2026-09-23T21:35:14.809Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1240652277-58251614409",
@@ -4917,7 +4989,7 @@
     "lowest30d": true,
     "vendas": 1513,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1862389374-58263534401",
@@ -5037,7 +5109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1748398536-57108039282",
@@ -5085,7 +5157,7 @@
     "lowest30d": true,
     "vendas": 2862,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1627969128-58205114729",
@@ -5109,7 +5181,7 @@
     "lowest30d": true,
     "vendas": 1867,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1656637940-58202079450",
@@ -5133,7 +5205,7 @@
     "lowest30d": true,
     "vendas": 1086,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1501872703-58209823545",
@@ -5157,7 +5229,7 @@
     "lowest30d": true,
     "vendas": 770,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -5181,7 +5253,7 @@
     "lowest30d": true,
     "vendas": 3376,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP457864097-8083342653",
@@ -5208,30 +5280,6 @@
     "checkedAt": "2026-10-01T14:35:16.076Z"
   },
   {
-    "id": "MLB4470720075",
-    "productId": "MLB22477690",
-    "marketplace": "ml",
-    "fonte": "MLB199407",
-    "categoria": "Beleza",
-    "title": "Sérum Facial Principia Mix-01 Uso Noturno Para Todos os Tipos de Pele",
-    "price": 35.9,
-    "originalPrice": 74,
-    "discount": 51,
-    "base": "media",
-    "averagePrice": 74,
-    "sellers": 46,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_661969-MLA96768245047_102025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4470720075?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "KAMAIA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
-  },
-  {
     "id": "MLB7272451088",
     "productId": "MLB69633419",
     "marketplace": "ml",
@@ -5253,7 +5301,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB4411250505",
@@ -5277,7 +5325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -5688,6 +5736,30 @@
     "checkedAt": "2026-10-01T14:35:16.076Z"
   },
   {
+    "id": "MLB4470720075",
+    "productId": "MLB22477690",
+    "marketplace": "ml",
+    "fonte": "MLB199407",
+    "categoria": "Beleza",
+    "title": "Sérum Facial Principia Mix-01 Uso Noturno Para Todos os Tipos de Pele",
+    "price": 36.75,
+    "originalPrice": 74,
+    "discount": 50,
+    "base": "media",
+    "averagePrice": 74,
+    "sellers": 46,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_661969-MLA96768245047_102025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4470720075?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "KAMAIA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-29T22:35:14.999Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
     "id": "SP387523771-43981426348",
     "productId": "SP387523771-43981426348",
     "marketplace": "shopee",
@@ -5709,7 +5781,7 @@
     "lowest30d": false,
     "vendas": 4549,
     "publishedAt": "2026-09-29T17:05:13.547Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -5806,30 +5878,6 @@
     "vendas": 3734,
     "publishedAt": "2026-09-23T21:05:15.199Z",
     "checkedAt": "2026-10-01T15:05:15.177Z"
-  },
-  {
-    "id": "SP1240652277-58251519281",
-    "productId": "SP1240652277-58251519281",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
-    "price": 34.98,
-    "originalPrice": 69.96,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi59t0ifxfk25c",
-    "url": "https://s.shopee.com.br/1LgBfscXsd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2412,
-    "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
   },
   {
     "id": "SP1245123960-27086519481",
@@ -6013,7 +6061,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mph0okuosphdae",
-    "url": "https://s.shopee.com.br/7KxOsyWlnx",
+    "url": "https://s.shopee.com.br/6fhin4Ahpj",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6021,7 +6069,7 @@
     "lowest30d": true,
     "vendas": 1963,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP435900175-23794684495",
@@ -6045,7 +6093,7 @@
     "lowest30d": true,
     "vendas": 1000,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP556197048-10763005356",
@@ -6069,7 +6117,7 @@
     "lowest30d": true,
     "vendas": 713,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -6093,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 512,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP413762733-22593964805",
@@ -6717,7 +6765,7 @@
     "lowest30d": false,
     "vendas": 860,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -6837,7 +6885,7 @@
     "lowest30d": true,
     "vendas": 592,
     "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1493421921-22798813533",
@@ -6861,7 +6909,7 @@
     "lowest30d": true,
     "vendas": 536,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1658183207-58262231858",
@@ -6885,7 +6933,31 @@
     "lowest30d": true,
     "vendas": 426,
     "publishedAt": "2026-09-24T04:05:14.268Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
+    "id": "SP1175743084-23197569048",
+    "productId": "SP1175743084-23197569048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti- queda IDALI LIFE",
+    "price": 512.69,
+    "originalPrice": 1005.27,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "url": "https://s.shopee.com.br/8AWWLYNdrM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1389,
+    "publishedAt": "2026-09-23T23:05:20.581Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP394192376-22427790769",
@@ -7341,7 +7413,7 @@
     "lowest30d": true,
     "vendas": 2725,
     "publishedAt": "2026-09-24T06:35:17.845Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1284795277-58254359578",
@@ -7365,7 +7437,7 @@
     "lowest30d": true,
     "vendas": 2096,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP452872883-18497752862",
@@ -7629,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7680,30 +7752,6 @@
     "checkedAt": "2026-10-01T12:05:16.680Z"
   },
   {
-    "id": "SP1175743084-23197569048",
-    "productId": "SP1175743084-23197569048",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti- queda IDALI LIFE",
-    "price": 539.99,
-    "originalPrice": 999.98,
-    "discount": 46,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
-    "url": "https://s.shopee.com.br/8AWWLYNdrM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1389,
-    "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
-  },
-  {
     "id": "SP1472462269-18999685903",
     "productId": "SP1472462269-18999685903",
     "marketplace": "shopee",
@@ -7725,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 1824,
     "publishedAt": "2026-09-24T11:35:14.488Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -7776,28 +7824,28 @@
     "checkedAt": "2026-10-01T12:35:21.480Z"
   },
   {
-    "id": "MLB5811879470",
-    "productId": "MLB39960346",
+    "id": "MLB2974151655",
+    "productId": "MLB19850243",
     "marketplace": "ml",
-    "fonte": "MLB1648",
-    "categoria": "Informática",
-    "title": "Controle Sem Fio Joystick Genérico Bluetooth Compatível Para Ps4 Videogame Tv Samsung Pc P4 Ps 4 Manete Pc Gamer Tv Smart Controle Bluetooth Celular Headset Sem Fio Com P2 Marca Redfin",
-    "price": 55.9,
-    "originalPrice": 99,
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
+    "price": 33.1,
+    "originalPrice": 59.47,
     "discount": 44,
     "base": "media",
-    "averagePrice": 99,
-    "sellers": 6,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5811879470?matt_word=promoninja&matt_tool=19839069",
+    "averagePrice": 59.47,
+    "sellers": 33,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
+    "lojaOficial": true,
+    "loja": "VOBELLA",
     "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "publishedAt": "2026-09-30T18:35:12.749Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -7896,30 +7944,6 @@
     "checkedAt": "2026-10-01T15:05:15.177Z"
   },
   {
-    "id": "SP811879342-20199322470",
-    "productId": "SP811879342-20199322470",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Britânia 5,5L Antiaderente Gold 1500W BFR51",
-    "price": 349.9,
-    "originalPrice": 624.82,
-    "discount": 44,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259u-mtqwuoij7sp261",
-    "url": "https://s.shopee.com.br/3LRG3PLMwd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 827,
-    "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
-  },
-  {
     "id": "MLB5187059120",
     "productId": "MLB42105593",
     "marketplace": "ml",
@@ -7941,7 +7965,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -7992,30 +8016,6 @@
     "checkedAt": "2026-10-01T12:35:21.480Z"
   },
   {
-    "id": "MLB6224601478",
-    "productId": "MLB45423403",
-    "marketplace": "ml",
-    "fonte": "MLB455425",
-    "categoria": "Brinquedos",
-    "title": "Lego 77242 Speed Champions Ferrari Sf24 F1 Quantidade de peças 275",
-    "price": 166.9,
-    "originalPrice": 266.9,
-    "discount": 37,
-    "base": "media",
-    "averagePrice": 266.9,
-    "sellers": 42,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_857306-MLA100035167343_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6224601478?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-01T04:05:13.514Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
-  },
-  {
     "id": "SP1242044379-23293253949",
     "productId": "SP1242044379-23293253949",
     "marketplace": "shopee",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB5442821636",
@@ -8085,7 +8085,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T06:05:14.676Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": 470,
     "publishedAt": "2026-10-01T04:05:13.514Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -8157,31 +8157,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T12:35:21.480Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
-    "id": "MLB2974151655",
-    "productId": "MLB19850243",
+    "id": "MLB5811879470",
+    "productId": "MLB39960346",
     "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
-    "price": 43.77,
-    "originalPrice": 59.26,
+    "fonte": "MLB1648",
+    "categoria": "Informática",
+    "title": "Controle Sem Fio Joystick Genérico Bluetooth Compatível Para Ps4 Videogame Tv Samsung Pc P4 Ps 4 Manete Pc Gamer Tv Smart Controle Bluetooth Celular Headset Sem Fio Com P2 Marca Redfin",
+    "price": 55.9,
+    "originalPrice": 75.4,
     "discount": 26,
     "base": "media",
-    "averagePrice": 59.26,
-    "sellers": 32,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
+    "averagePrice": 75.4,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5811879470?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
     "oficial": false,
-    "lojaOficial": true,
-    "loja": "VOBELLA",
+    "lojaOficial": false,
+    "loja": null,
     "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "publishedAt": "2026-09-29T20:05:18.762Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB6500430174",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T18:17:49.122Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB4039445285",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB5690651572",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB5317844777",
@@ -8277,7 +8277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB7707499492",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB5119946035",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB6624023256",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB4712532313",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T11:35:13.669Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8638,6 +8638,30 @@
     "vendas": 1584,
     "publishedAt": "2026-09-30T16:35:18.237Z",
     "checkedAt": "2026-10-01T14:35:16.076Z"
+  },
+  {
+    "id": "SP418336777-20199545071",
+    "productId": "SP418336777-20199545071",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
+    "price": 54.99,
+    "originalPrice": 177.39,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
+    "url": "https://s.shopee.com.br/1BMm0h5xUu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4723,
+    "publishedAt": "2026-09-24T03:05:19.247Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -8925,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 714,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP451371260-22397622407",
@@ -9286,30 +9310,6 @@
     "vendas": 4234,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-01T14:05:14.675Z"
-  },
-  {
-    "id": "SP418336777-20199545071",
-    "productId": "SP418336777-20199545071",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
-    "price": 54.99,
-    "originalPrice": 166.64,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
-    "url": "https://s.shopee.com.br/1BMm0h5xUu",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4723,
-    "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -10680,6 +10680,30 @@
     "checkedAt": "2026-10-01T14:05:14.675Z"
   },
   {
+    "id": "MLB4601817757",
+    "productId": "MLB36968895",
+    "marketplace": "ml",
+    "fonte": "MLB5360",
+    "categoria": "Bebês",
+    "title": "Bomba Tira Leite Materno Elétrica Portátil + Mamadeira Extratora Amamentação Sem BPA Coletor Sugador Bombinha Peito 3 Modos 9 Níveis de Sucção Recarregável Silenciosa Display Digita Kateluo",
+    "price": 47.49,
+    "originalPrice": 126.9,
+    "discount": 63,
+    "base": "media",
+    "averagePrice": 126.9,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_823693-MLA115574675911_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4601817757?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-01T15:35:19.943Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -10992,6 +11016,30 @@
     "checkedAt": "2026-10-01T15:05:15.177Z"
   },
   {
+    "id": "SP938876119-22298083710",
+    "productId": "SP938876119-22298083710",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Patinete Infantil 3 Rodas De Led Dobrável Scooter Crianças--1715",
+    "price": 47.59,
+    "originalPrice": 125.24,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhj-m3b6n3lxgp9jda",
+    "url": "https://s.shopee.com.br/6VOHpEe6zd",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3696,
+    "publishedAt": "2026-09-23T03:30:08.026Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
     "id": "SP1638239765-58205100450",
     "productId": "SP1638239765-58205100450",
     "marketplace": "shopee",
@@ -11109,7 +11157,7 @@
     "lowest30d": true,
     "vendas": 1252,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1765235104-58214016955",
@@ -11133,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 456,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -11349,7 +11397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11421,7 +11469,7 @@
     "lowest30d": true,
     "vendas": 2144,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP1107015414-23498434410",
@@ -11445,7 +11493,7 @@
     "lowest30d": true,
     "vendas": 2335,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP380575792-23798850010",
@@ -11493,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 4289,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP753139334-58210495292",
@@ -11517,7 +11565,7 @@
     "lowest30d": true,
     "vendas": 814,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP445873850-18097674259",
@@ -11589,7 +11637,7 @@
     "lowest30d": true,
     "vendas": 2753,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP368328709-40727316477",
@@ -11613,7 +11661,7 @@
     "lowest30d": true,
     "vendas": 2474,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
     "id": "SP332016197-58208127828",
@@ -11760,6 +11808,30 @@
     "checkedAt": "2026-10-01T14:35:16.076Z"
   },
   {
+    "id": "SP1462595809-51417153718",
+    "productId": "SP1462595809-51417153718",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Camiseta Masculino Light T-shirt Insider",
+    "price": 79.99,
+    "originalPrice": 190.45,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mslnrbijquiu34",
+    "url": "https://s.shopee.com.br/40gwqn5zXX",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 382,
+    "publishedAt": "2026-10-01T15:35:19.943Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
     "id": "SP1510947962-28040999242",
     "productId": "SP1510947962-28040999242",
     "marketplace": "shopee",
@@ -11782,30 +11854,6 @@
     "vendas": 684,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-01T14:05:14.675Z"
-  },
-  {
-    "id": "SP938876119-22298083710",
-    "productId": "SP938876119-22298083710",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Patinete Infantil 3 Rodas De Led Dobrável Scooter Crianças--1715",
-    "price": 51.99,
-    "originalPrice": 120.91,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhj-m3b6n3lxgp9jda",
-    "url": "https://s.shopee.com.br/6VOHpEe6zd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3696,
-    "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T11:35:13.669Z"
   },
   {
     "id": "SP741746705-19450011094",
@@ -11854,30 +11902,6 @@
     "vendas": 15662,
     "publishedAt": "2026-09-24T02:05:15.166Z",
     "checkedAt": "2026-10-01T12:05:16.680Z"
-  },
-  {
-    "id": "SP1661676033-58258175621",
-    "productId": "SP1661676033-58258175621",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Jogo de Lençol com Elástico de Estampado 100% Algodão lavado Fronha —Estampadas Sortidas e Tamanhos",
-    "price": 42.99,
-    "originalPrice": 95.53,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mmlgcyp4veo037",
-    "url": "https://s.shopee.com.br/3qNXRwQNAr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 800,
-    "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
   },
   {
     "id": "SP991338332-21799829866",
@@ -11950,30 +11974,6 @@
     "vendas": 1050,
     "publishedAt": "2026-09-23T20:35:20.546Z",
     "checkedAt": "2026-10-01T13:35:15.737Z"
-  },
-  {
-    "id": "SP418872496-23793614115",
-    "productId": "SP418872496-23793614115",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Jogo de Cama Lençol 400 Fios Micropercal",
-    "price": 32.8,
-    "originalPrice": 71.3,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtliod5oxk3m9c",
-    "url": "https://s.shopee.com.br/6fhip9FaPy",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1316,
-    "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
   },
   {
     "id": "SP332130069-18599691410",
