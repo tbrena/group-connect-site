@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "OFERTA"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": "Eletroportáteis e Climatização",
+    "origem": "avidaefeitadedesconto/16189",
+    "quando": "2026-10-01T13:50:44+00:00",
+    "id": "ml:OFERTA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "PROMOAQU"
+    ],
+    "desconto": "8% OFF",
+    "limite": "R$ 300",
+    "minimo": "R$ 150",
+    "escopo": "Eletrodomésticos e TVs",
+    "origem": "avidaefeitadedesconto/16188",
+    "quando": "2026-10-01T13:50:27+00:00",
+    "id": "ml:PROMOAQU",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TEMPROMO"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 79",
+    "escopo": "Casa e Decoração",
+    "origem": "avidaefeitadedesconto/16187",
+    "quando": "2026-10-01T13:50:15+00:00",
+    "id": "ml:TEMPROMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "ECONOMIAMELI"
     ],
     "desconto": "20% OFF",
