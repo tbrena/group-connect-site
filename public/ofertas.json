@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1493959555-41272600558",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 378,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -165,7 +165,7 @@
     "lowest30d": false,
     "vendas": 825,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1613384066-58251055523",
@@ -909,7 +909,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1029,7 +1029,7 @@
     "lowest30d": false,
     "vendas": 490,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1050,10 +1050,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2953,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -1173,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 276,
     "publishedAt": "2026-09-29T01:05:14.799Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1354452432-21199837561",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 277,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1397809275-58252647017",
@@ -1221,7 +1221,7 @@
     "lowest30d": false,
     "vendas": 334,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -1245,7 +1245,7 @@
     "lowest30d": false,
     "vendas": 359,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -1296,30 +1296,6 @@
     "checkedAt": "2026-09-30T23:12:08.055Z"
   },
   {
-    "id": "MLB3859411227",
-    "productId": "MLB18564533",
-    "marketplace": "ml",
-    "fonte": "MLB186456",
-    "categoria": "Games",
-    "title": "Back 4 Blood Standard Edition (Físico)",
-    "price": 39.99,
-    "originalPrice": 119.9,
-    "discount": 67,
-    "base": "media",
-    "averagePrice": 119.9,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_799185-MLA99610455640_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3859411227?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
-  },
-  {
     "id": "SP372130636-58217479066",
     "productId": "SP372130636-58217479066",
     "marketplace": "shopee",
@@ -1341,7 +1317,7 @@
     "lowest30d": false,
     "vendas": 434,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1860098702-58266070880",
@@ -1365,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 1860,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -1389,7 +1365,7 @@
     "lowest30d": false,
     "vendas": 3259,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -1434,10 +1410,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 342,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -1461,7 +1437,7 @@
     "lowest30d": true,
     "vendas": 2186,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -1533,7 +1509,7 @@
     "lowest30d": false,
     "vendas": 522,
     "publishedAt": "2026-09-25T12:35:16.526Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1593984429-58206240257",
@@ -1584,6 +1560,30 @@
     "checkedAt": "2026-10-01T00:35:14.270Z"
   },
   {
+    "id": "MLB3859411227",
+    "productId": "MLB18564533",
+    "marketplace": "ml",
+    "fonte": "MLB186456",
+    "categoria": "Games",
+    "title": "Back 4 Blood Standard Edition (Físico)",
+    "price": 39.99,
+    "originalPrice": 118.45,
+    "discount": 66,
+    "base": "media",
+    "averagePrice": 118.45,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799185-MLA99610455640_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3859411227?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-25T19:05:15.802Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
+  },
+  {
     "id": "SP1662989296-58200253216",
     "productId": "SP1662989296-58200253216",
     "marketplace": "shopee",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 11269,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB7729873464",
@@ -1629,7 +1629,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T20:35:16.962Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 1356,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1578690794-58251241094",
@@ -1725,7 +1725,7 @@
     "lowest30d": true,
     "vendas": 603,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -1773,7 +1773,7 @@
     "lowest30d": false,
     "vendas": 902,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1424438285-58215207709",
@@ -1893,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 1986,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -1986,10 +1986,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 440,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -2010,10 +2010,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 960,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP457864097-27620799823",
@@ -2086,6 +2086,30 @@
     "vendas": 562,
     "publishedAt": "2026-09-29T19:35:26.518Z",
     "checkedAt": "2026-09-30T23:35:18.183Z"
+  },
+  {
+    "id": "SP1127030290-50914065614",
+    "productId": "SP1127030290-50914065614",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Relógio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc ",
+    "price": 108.99,
+    "originalPrice": 302.75,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259p-mqp7i7vu7jf344",
+    "url": "https://s.shopee.com.br/20vp2nGNcA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 217,
+    "publishedAt": "2026-09-28T23:35:18.557Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2277,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 517,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -2301,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 449,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-09-30T22:05:15.385Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 7351,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1613760239-42627022095",
@@ -2854,30 +2878,6 @@
     "vendas": 134,
     "publishedAt": "2026-09-29T00:37:00.254Z",
     "checkedAt": "2026-09-30T22:35:14.028Z"
-  },
-  {
-    "id": "SP1127030290-50914065614",
-    "productId": "SP1127030290-50914065614",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Relógio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc ",
-    "price": 112.99,
-    "originalPrice": 297.34,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259p-mqp7i7vu7jf344",
-    "url": "https://s.shopee.com.br/20vp2nGNcA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 217,
-    "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
   },
   {
     "id": "SP1430771203-22094984499",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 2403,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1297519240-24897571457",
@@ -3381,7 +3381,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3405,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 1132,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1129221357-58263168560",
@@ -3501,7 +3501,7 @@
     "lowest30d": true,
     "vendas": 2278,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -3981,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 637,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1543712029-57955156907",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 614,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -4197,7 +4197,7 @@
     "lowest30d": false,
     "vendas": 4645,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -4392,6 +4392,30 @@
     "checkedAt": "2026-09-30T22:35:14.028Z"
   },
   {
+    "id": "SP450664666-20497747354",
+    "productId": "SP450664666-20497747354",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Antipulgas Para Cães Simparic 20mg De 5,1-10kg 1 Comprimido",
+    "price": 61.95,
+    "originalPrice": 140.8,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj2vh9s15vl6c",
+    "url": "https://s.shopee.com.br/6AlQfDwFvO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2882,
+    "publishedAt": "2026-10-01T00:35:14.270Z",
+    "checkedAt": "2026-10-01T00:35:14.270Z"
+  },
+  {
     "id": "SP1616052629-58254217913",
     "productId": "SP1616052629-58254217913",
     "marketplace": "shopee",
@@ -4485,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 501,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -5301,7 +5325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB3725747499",
@@ -5325,7 +5349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1748398536-57108039282",
@@ -5349,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 407,
     "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1109263850-49610876725",
@@ -5565,7 +5589,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB7272451088",
@@ -5589,7 +5613,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP342086228-55612003632",
@@ -5805,7 +5829,7 @@
     "lowest30d": false,
     "vendas": 1296,
     "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP561955327-18198180338",
@@ -5829,7 +5853,7 @@
     "lowest30d": true,
     "vendas": 2527,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1801080383-51059248649",
@@ -5853,7 +5877,7 @@
     "lowest30d": true,
     "vendas": 1705,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1643769522-58202822916",
@@ -6045,7 +6069,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T08:35:16.545Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7077,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 624,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP283834866-16583926437",
@@ -7101,7 +7125,7 @@
     "lowest30d": true,
     "vendas": 2160,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP267939016-22394521810",
@@ -7125,31 +7149,7 @@
     "lowest30d": true,
     "vendas": 2950,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
-  },
-  {
-    "id": "SP1193476904-23497427454",
-    "productId": "SP1193476904-23497427454",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Alfaiataria Feminina Cintura Alta Com Ziper Social Slim Fino Elegante Empresaria Blogueira",
-    "price": 35.65,
-    "originalPrice": 69.9,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq82p8815152d",
-    "url": "https://s.shopee.com.br/1gJ0Tj7HAO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2478,
-    "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP386537194-44418252509",
@@ -7197,7 +7197,31 @@
     "lowest30d": true,
     "vendas": 2412,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
+  },
+  {
+    "id": "SP391739739-22397325916",
+    "productId": "SP391739739-22397325916",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador Difusor Aromatizador 300ml Ultrassônico Estilo Branco com Led 7 cores com controle",
+    "price": 33.99,
+    "originalPrice": 66.65,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5f-lxbio42pdphkf0",
+    "url": "https://s.shopee.com.br/3qNV3gv6Ie",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 551,
+    "publishedAt": "2026-09-24T02:35:15.869Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1410138655-29236991524",
@@ -7485,7 +7509,7 @@
     "lowest30d": false,
     "vendas": 393,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1613760239-25747110958",
@@ -7509,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 2798,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP332059670-42983658852",
@@ -7557,7 +7581,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1537828773-22894286824",
@@ -7725,7 +7749,7 @@
     "lowest30d": true,
     "vendas": 1579,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1032794147-51411262878",
@@ -7749,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 1372,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1368960729-21799856205",
@@ -7920,30 +7944,6 @@
     "checkedAt": "2026-09-30T23:35:18.183Z"
   },
   {
-    "id": "MLB5811879470",
-    "productId": "MLB39960346",
-    "marketplace": "ml",
-    "fonte": "MLB1648",
-    "categoria": "Informática",
-    "title": "Controle Sem Fio Joystick Genérico Bluetooth Compatível Para Ps4 Videogame Tv Samsung Pc P4 Ps 4 Manete Pc Gamer Tv Smart Controle Bluetooth Celular Headset Sem Fio Com P2 Marca Redfin",
-    "price": 51,
-    "originalPrice": 94.45,
-    "discount": 46,
-    "base": "media",
-    "averagePrice": 94.45,
-    "sellers": 7,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5811879470?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
-  },
-  {
     "id": "SP1472462269-18999685903",
     "productId": "SP1472462269-18999685903",
     "marketplace": "shopee",
@@ -7989,7 +7989,7 @@
     "lowest30d": true,
     "vendas": 1294,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -8109,7 +8109,31 @@
     "lowest30d": false,
     "vendas": 742,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
+  },
+  {
+    "id": "MLB5811879470",
+    "productId": "MLB39960346",
+    "marketplace": "ml",
+    "fonte": "MLB1648",
+    "categoria": "Informática",
+    "title": "Controle Sem Fio Joystick Genérico Bluetooth Compatível Para Ps4 Videogame Tv Samsung Pc P4 Ps 4 Manete Pc Gamer Tv Smart Controle Bluetooth Celular Headset Sem Fio Com P2 Marca Redfin",
+    "price": 51,
+    "originalPrice": 89.9,
+    "discount": 43,
+    "base": "media",
+    "averagePrice": 89.9,
+    "sellers": 8,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5811879470?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-29T20:05:18.762Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8181,31 +8205,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
-  },
-  {
-    "id": "SP391739739-22397325916",
-    "productId": "SP391739739-22397325916",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador Difusor Aromatizador 300ml Ultrassônico Estilo Branco com Led 7 cores com controle",
-    "price": 39.99,
-    "originalPrice": 65.56,
-    "discount": 39,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5f-lxbio42pdphkf0",
-    "url": "https://s.shopee.com.br/3qNV3gv6Ie",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 551,
-    "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB4039445285",
@@ -8277,7 +8277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -8301,7 +8301,7 @@
     "lowest30d": true,
     "vendas": 6327,
     "publishedAt": "2026-09-25T05:35:14.502Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB5317844777",
@@ -8349,7 +8349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB6500430174",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T18:17:49.122Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": 1066,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8493,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 1515,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1193,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 1867,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -10125,7 +10125,7 @@
     "lowest30d": false,
     "vendas": 1088,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -11301,7 +11301,7 @@
     "lowest30d": true,
     "vendas": 631,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -11325,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 366,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -11349,7 +11349,7 @@
     "lowest30d": true,
     "vendas": 5311,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -11469,7 +11469,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11494,6 +11494,30 @@
     "vendas": 1085,
     "publishedAt": "2026-09-23T14:59:45.074Z",
     "checkedAt": "2026-10-01T00:05:14.344Z"
+  },
+  {
+    "id": "SP1640657682-57902938444",
+    "productId": "SP1640657682-57902938444",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+    "price": 38.9,
+    "originalPrice": 99.74,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+    "url": "https://s.shopee.com.br/9fLJSoNDVt",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2069,
+    "publishedAt": "2026-10-01T01:05:12.599Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1397772996-58211345817",
@@ -11781,7 +11805,7 @@
     "lowest30d": true,
     "vendas": 667,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -11805,7 +11829,7 @@
     "lowest30d": false,
     "vendas": 461,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   },
   {
     "id": "SP1588692817-23893972335",
@@ -11904,30 +11928,6 @@
     "checkedAt": "2026-09-30T23:12:08.055Z"
   },
   {
-    "id": "SP450664666-20497747354",
-    "productId": "SP450664666-20497747354",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Antipulgas Para Cães Simparic 20mg De 5,1-10kg 1 Comprimido",
-    "price": 61.95,
-    "originalPrice": 140.8,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj2vh9s15vl6c",
-    "url": "https://s.shopee.com.br/6AlQfDwFvO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2882,
-    "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-01T00:35:14.270Z"
-  },
-  {
     "id": "SP293152127-45054396139",
     "productId": "SP293152127-45054396139",
     "marketplace": "shopee",
@@ -11949,6 +11949,30 @@
     "lowest30d": false,
     "vendas": 15662,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-09-30T21:35:18.050Z"
+    "checkedAt": "2026-10-01T01:05:12.599Z"
+  },
+  {
+    "id": "MLB5318089031",
+    "productId": "MLB60416809",
+    "marketplace": "ml",
+    "fonte": "MLB199407",
+    "categoria": "Beleza",
+    "title": "Hidrabene Protetor facial Solar FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+    "price": 39.9,
+    "originalPrice": 55.9,
+    "discount": 29,
+    "base": "media",
+    "averagePrice": 55.9,
+    "sellers": 41,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_691073-MLA109924601057_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5318089031?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-01T01:05:12.599Z",
+    "checkedAt": "2026-10-01T01:05:12.599Z"
   }
 ]
