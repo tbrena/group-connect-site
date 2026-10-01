@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -189,7 +189,7 @@
     "lowest30d": false,
     "vendas": 177,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -453,7 +453,7 @@
     "lowest30d": false,
     "vendas": 486,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -741,7 +741,7 @@
     "lowest30d": false,
     "vendas": 3056,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -861,7 +861,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 359,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -1269,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 1860,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -1293,7 +1293,7 @@
     "lowest30d": false,
     "vendas": 3259,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -1341,7 +1341,7 @@
     "lowest30d": true,
     "vendas": 947,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -1365,7 +1365,7 @@
     "lowest30d": true,
     "vendas": 342,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -1461,7 +1461,7 @@
     "lowest30d": false,
     "vendas": 2737,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB3859411227",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1509,7 +1509,31 @@
     "lowest30d": true,
     "vendas": 11269,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
+  },
+  {
+    "id": "SP1727047778-53064833713",
+    "productId": "SP1727047778-53064833713",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminária Plafon Moderno Dourado LED, Para Sala, Quarto, Hall de Entrada, Sala de Estar Bivolt 85-265V",
+    "price": 69.99,
+    "originalPrice": 199.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-mr38pg39lcldeb",
+    "url": "https://s.shopee.com.br/LnfRhLzKN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 151,
+    "publishedAt": "2026-10-01T17:35:14.068Z",
+    "checkedAt": "2026-10-01T17:35:14.068Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -1653,7 +1677,7 @@
     "lowest30d": false,
     "vendas": 1356,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1578690794-58251241094",
@@ -1677,7 +1701,7 @@
     "lowest30d": true,
     "vendas": 603,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -1749,7 +1773,7 @@
     "lowest30d": false,
     "vendas": 902,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1424438285-58215207709",
@@ -1821,7 +1845,7 @@
     "lowest30d": false,
     "vendas": 1986,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -1869,7 +1893,7 @@
     "lowest30d": true,
     "vendas": 911,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -1893,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 702,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -2325,7 +2349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T15:35:19.943Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -2710,6 +2734,30 @@
     "vendas": 332,
     "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-01T16:05:14.961Z"
+  },
+  {
+    "id": "SP1677892241-58202842410",
+    "productId": "SP1677892241-58202842410",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luminária Solar Com Sensor Refletor Solar Com Placa Solar 2200/2000/1600W",
+    "price": 155,
+    "originalPrice": 407.89,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mtdzuexu0w03d5",
+    "url": "https://s.shopee.com.br/40gxoR81tB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 139,
+    "publishedAt": "2026-10-01T17:35:14.068Z",
+    "checkedAt": "2026-10-01T17:35:14.068Z"
   },
   {
     "id": "SP1398196452-26044322175",
@@ -3261,7 +3309,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3525,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 563,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1142946053-50500111351",
@@ -3549,7 +3597,7 @@
     "lowest30d": false,
     "vendas": 196,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1127030290-22098329060",
@@ -3693,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 1354,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP907076717-58204551078",
@@ -3720,6 +3768,30 @@
     "checkedAt": "2026-10-01T17:05:14.396Z"
   },
   {
+    "id": "SP1386778754-22698715022",
+    "productId": "SP1386778754-22698715022",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Conjunto Lustres Teto Luminária Pendente Bambu Rattan Rústico Trançado Artesanal Fibra Natural",
+    "price": 99,
+    "originalPrice": 241.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825as-ms67rbk1ifi881",
+    "url": "https://s.shopee.com.br/AAHb9lkYMv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 205,
+    "publishedAt": "2026-10-01T17:35:14.068Z",
+    "checkedAt": "2026-10-01T17:35:14.068Z"
+  },
+  {
     "id": "MLB7531521420",
     "productId": "MLB69254970",
     "marketplace": "ml",
@@ -3741,7 +3813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4863689399",
@@ -3765,7 +3837,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -3861,7 +3933,7 @@
     "lowest30d": false,
     "vendas": 5618,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1320813117-58204576204",
@@ -3885,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 1322,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -4077,7 +4149,7 @@
     "lowest30d": true,
     "vendas": 1601,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -4101,7 +4173,7 @@
     "lowest30d": false,
     "vendas": 1210,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP457864097-25338080323",
@@ -4221,7 +4293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T17:05:14.396Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -4245,7 +4317,7 @@
     "lowest30d": true,
     "vendas": 624,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP316557325-22998326555",
@@ -4293,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 870,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1058400587-20497993626",
@@ -4389,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 313,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1183719086-22593793702",
@@ -4488,6 +4560,30 @@
     "checkedAt": "2026-10-01T16:35:14.298Z"
   },
   {
+    "id": "SP1256536666-42667368581",
+    "productId": "SP1256536666-42667368581",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 3/8 Iluminarias Arandela Decorativa Interno Externo Spot Parede a Prova D água A+",
+    "price": 42.69,
+    "originalPrice": 97.02,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqmmws7yg0e803",
+    "url": "https://s.shopee.com.br/AKb1M4jv1y",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 266,
+    "publishedAt": "2026-10-01T17:35:14.068Z",
+    "checkedAt": "2026-10-01T17:35:14.068Z"
+  },
+  {
     "id": "SP450664666-20497747354",
     "productId": "SP450664666-20497747354",
     "marketplace": "shopee",
@@ -4581,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP332130069-23693822652",
@@ -4605,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 2134,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-10-01T15:05:15.177Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP629805123-58205197736",
@@ -4725,7 +4821,7 @@
     "lowest30d": false,
     "vendas": 756,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP549655861-22099059804",
@@ -4870,30 +4966,6 @@
     "vendas": 227,
     "publishedAt": "2026-10-01T10:05:49.038Z",
     "checkedAt": "2026-10-01T17:35:14.068Z"
-  },
-  {
-    "id": "SP1468415010-22094228144",
-    "productId": "SP1468415010-22094228144",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-    "price": 59.49,
-    "originalPrice": 129.33,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-    "url": "https://s.shopee.com.br/7ptfPpVOn5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2474,
-    "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
   },
   {
     "id": "SP468417400-47454565755",
@@ -5205,7 +5277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1748398536-57108039282",
@@ -5304,52 +5376,28 @@
     "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
-    "id": "SP1501872703-58209823545",
-    "productId": "SP1501872703-58209823545",
+    "id": "SP1468415010-22094228144",
+    "productId": "SP1468415010-22094228144",
     "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
+    "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
-    "title": "Tenis Masculino + Relogio + Meia Esportivo Versatil Corrida Treino Academia Envio Imediato",
-    "price": 57.56,
-    "originalPrice": 119.92,
-    "discount": 52,
+    "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+    "price": 63.99,
+    "originalPrice": 130.59,
+    "discount": 51,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mnmuhfc5e1hg35",
-    "url": "https://s.shopee.com.br/2BFIfPzlrN",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+    "url": "https://s.shopee.com.br/7ptfPpVOn5",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 770,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T15:35:19.943Z"
-  },
-  {
-    "id": "SP1197145594-22397665281",
-    "productId": "SP1197145594-22397665281",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
-    "price": 94.99,
-    "originalPrice": 197.9,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814",
-    "url": "https://s.shopee.com.br/50ZU2doeLE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3376,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T15:35:19.943Z"
+    "vendas": 2474,
+    "publishedAt": "2026-09-23T23:05:20.581Z",
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB7272451088",
@@ -5373,7 +5421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4411250505",
@@ -5397,7 +5445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -5805,7 +5853,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -5853,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 1891,
     "publishedAt": "2026-09-27T02:05:16.687Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -5949,7 +5997,7 @@
     "lowest30d": true,
     "vendas": 446,
     "publishedAt": "2026-09-24T17:35:37.798Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1661007426-58250499162",
@@ -6381,7 +6429,7 @@
     "lowest30d": true,
     "vendas": 2124,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1847534559-58262219872",
@@ -6405,7 +6453,7 @@
     "lowest30d": true,
     "vendas": 2056,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP296363855-13154336672",
@@ -6429,7 +6477,7 @@
     "lowest30d": true,
     "vendas": 7254,
     "publishedAt": "2026-09-24T00:35:16.144Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP346235717-3175146832",
@@ -6453,7 +6501,7 @@
     "lowest30d": true,
     "vendas": 2615,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1161923923-23098393383",
@@ -6477,7 +6525,7 @@
     "lowest30d": true,
     "vendas": 2151,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1660218273-58203846893",
@@ -6501,7 +6549,7 @@
     "lowest30d": true,
     "vendas": 666,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1183078297-55056423485",
@@ -6525,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 1009,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1147903950-44553066762",
@@ -6549,7 +6597,7 @@
     "lowest30d": true,
     "vendas": 5470,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1556879699-58254498465",
@@ -6768,30 +6816,6 @@
     "checkedAt": "2026-10-01T17:05:14.396Z"
   },
   {
-    "id": "SP1672861664-48702635501",
-    "productId": "SP1672861664-48702635501",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "SKMEI 2218 Relógio De Pulso Esportivo Digital Para Homens Com Contagem Regressiva E Cronômetro 5Bar À Prova D'água",
-    "price": 34.32,
-    "originalPrice": 68.64,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-822yx-mhzox1l05y4lb3",
-    "url": "https://s.shopee.com.br/AKb0OQUops",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 860,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T15:35:19.943Z"
-  },
-  {
     "id": "SP296363855-42121901827",
     "productId": "SP296363855-42121901827",
     "marketplace": "shopee",
@@ -6984,30 +7008,6 @@
     "checkedAt": "2026-10-01T15:35:19.943Z"
   },
   {
-    "id": "SP1175743084-23197569048",
-    "productId": "SP1175743084-23197569048",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti- queda IDALI LIFE",
-    "price": 512.69,
-    "originalPrice": 1005.27,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
-    "url": "https://s.shopee.com.br/8AWWLYNdrM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1389,
-    "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-01T15:35:19.943Z"
-  },
-  {
     "id": "SP394192376-22427790769",
     "productId": "SP394192376-22427790769",
     "marketplace": "shopee",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": 7888,
     "publishedAt": "2026-09-29T08:35:37.351Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP287296555-3743287858",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": 2197,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP332059670-42983658852",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": 562,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4232405681",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -8037,7 +8037,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB5442821636",
@@ -8109,7 +8109,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T06:05:14.676Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4039445285",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB5690651572",
@@ -8229,7 +8229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB5317844777",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB7707499492",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB6500430174",
@@ -8301,7 +8301,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T18:17:49.122Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB5119946035",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB6624023256",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4712532313",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T11:35:13.669Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1584,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -9573,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 1371,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 3741,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -9669,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 1382,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1043389652-23998793385",
@@ -9789,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 10569,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -10077,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 442,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1192668514-44902618171",
@@ -10101,30 +10101,6 @@
     "lowest30d": false,
     "vendas": 520,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
-  },
-  {
-    "id": "SP1727047778-53064833713",
-    "productId": "SP1727047778-53064833713",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminária Plafon Moderno Dourado LED, Para Sala, Quarto, Hall de Entrada, Sala de Estar Bivolt 85-265V",
-    "price": 69.99,
-    "originalPrice": 199.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-mr38pg39lcldeb",
-    "url": "https://s.shopee.com.br/LnfRhLzKN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 151,
-    "publishedAt": "2026-10-01T17:35:14.068Z",
     "checkedAt": "2026-10-01T17:35:14.068Z"
   },
   {
@@ -10245,7 +10221,7 @@
     "lowest30d": true,
     "vendas": 187,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -10269,7 +10245,7 @@
     "lowest30d": true,
     "vendas": 170,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -10293,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 1182,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -10317,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 2999,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP281898655-42514418718",
@@ -10389,7 +10365,7 @@
     "lowest30d": true,
     "vendas": 3714,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -10485,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 673,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 1413,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -10782,8 +10758,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Porta Joia Acrílico Luxo Com 3 Camadas Brinco Anel Compartimento caixa de armazenamento de jóias",
-    "price": 37.98,
-    "originalPrice": 99.95,
+    "price": 37.25,
+    "originalPrice": 98.03,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -10794,10 +10770,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 5772,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -10821,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 4376,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -10845,7 +10821,7 @@
     "lowest30d": true,
     "vendas": 1034,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11110,30 +11086,6 @@
     "vendas": 1966,
     "publishedAt": "2026-09-26T16:45:24.231Z",
     "checkedAt": "2026-10-01T15:05:15.177Z"
-  },
-  {
-    "id": "SP1677892241-58202842410",
-    "productId": "SP1677892241-58202842410",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luminária Solar Com Sensor Refletor Solar Com Placa Solar 2200/2000/1600W",
-    "price": 155,
-    "originalPrice": 407.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mtdzuexu0w03d5",
-    "url": "https://s.shopee.com.br/40gxoR81tB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 139,
-    "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
   },
   {
     "id": "SP806572838-23194388249",
@@ -11469,7 +11421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11832,30 +11784,6 @@
     "checkedAt": "2026-10-01T17:35:14.068Z"
   },
   {
-    "id": "SP1386778754-22698715022",
-    "productId": "SP1386778754-22698715022",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Conjunto Lustres Teto Luminária Pendente Bambu Rattan Rústico Trançado Artesanal Fibra Natural",
-    "price": 99,
-    "originalPrice": 241.46,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825as-ms67rbk1ifi881",
-    "url": "https://s.shopee.com.br/AAHb9lkYMv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 205,
-    "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
-  },
-  {
     "id": "SP1132754268-23195153059",
     "productId": "SP1132754268-23195153059",
     "marketplace": "shopee",
@@ -11877,7 +11805,7 @@
     "lowest30d": false,
     "vendas": 3794,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T14:35:16.076Z"
+    "checkedAt": "2026-10-01T18:05:17.877Z"
   },
   {
     "id": "SP1510947962-28040999242",
@@ -11952,30 +11880,6 @@
     "checkedAt": "2026-10-01T16:05:14.961Z"
   },
   {
-    "id": "SP1256536666-42667368581",
-    "productId": "SP1256536666-42667368581",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 3/8 Iluminarias Arandela Decorativa Interno Externo Spot Parede a Prova D água A+",
-    "price": 42.69,
-    "originalPrice": 97.02,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqmmws7yg0e803",
-    "url": "https://s.shopee.com.br/AKb1M4jv1y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 266,
-    "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-01T17:35:14.068Z"
-  },
-  {
     "id": "SP991338332-21799829866",
     "productId": "SP991338332-21799829866",
     "marketplace": "shopee",
@@ -11998,5 +11902,101 @@
     "vendas": 1582,
     "publishedAt": "2026-09-23T20:35:20.546Z",
     "checkedAt": "2026-10-01T17:35:14.068Z"
+  },
+  {
+    "id": "SP1501872703-58209823545",
+    "productId": "SP1501872703-58209823545",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "Tenis Masculino + Relogio + Meia Esportivo Versatil Corrida Treino Academia Envio Imediato",
+    "price": 57.56,
+    "originalPrice": 119.92,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mnmuhfc5e1hg35",
+    "url": "https://s.shopee.com.br/2BFIfPzlrN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 770,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
+    "id": "SP1197145594-22397665281",
+    "productId": "SP1197145594-22397665281",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
+    "price": 94.99,
+    "originalPrice": 197.9,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814",
+    "url": "https://s.shopee.com.br/50ZU2doeLE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3376,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
+    "id": "SP1672861664-48702635501",
+    "productId": "SP1672861664-48702635501",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "SKMEI 2218 Relógio De Pulso Esportivo Digital Para Homens Com Contagem Regressiva E Cronômetro 5Bar À Prova D'água",
+    "price": 34.32,
+    "originalPrice": 68.64,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-822yx-mhzox1l05y4lb3",
+    "url": "https://s.shopee.com.br/AKb0OQUops",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 860,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
+  },
+  {
+    "id": "SP1175743084-23197569048",
+    "productId": "SP1175743084-23197569048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti- queda IDALI LIFE",
+    "price": 512.69,
+    "originalPrice": 1005.27,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "url": "https://s.shopee.com.br/8AWWLYNdrM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1389,
+    "publishedAt": "2026-09-23T23:05:20.581Z",
+    "checkedAt": "2026-10-01T15:35:19.943Z"
   }
 ]
