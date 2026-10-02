@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 1757,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP838651758-52459273810",
@@ -381,7 +381,7 @@
     "lowest30d": false,
     "vendas": 1106,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -390,8 +390,8 @@
     "fonte": "shopee:q:oculos de sol",
     "categoria": "Moda e Calçados",
     "title": "Kit Óculos de Sol Quadrado Masculino UV400 Estilo Justin Madeira Acetato Premium Unissex",
-    "price": 34.97,
-    "originalPrice": 112.81,
+    "price": 34.99,
+    "originalPrice": 112.87,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 299,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -646,6 +646,30 @@
     "vendas": 302,
     "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
+    "id": "SP1547936322-22394291048",
+    "productId": "SP1547936322-22394291048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2025 Novo Relógio Smartwatch Tela Amoled Serie X10 NFC,IP67à prova de água",
+    "price": 67,
+    "originalPrice": 216.13,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn28vhpzsftd6",
+    "url": "https://s.shopee.com.br/5LCKVIeS6u",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 256,
+    "publishedAt": "2026-09-24T12:35:15.740Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1716664673-46455634006",
@@ -909,7 +933,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -933,7 +957,7 @@
     "lowest30d": false,
     "vendas": 298,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -957,7 +981,7 @@
     "lowest30d": true,
     "vendas": 219,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -981,31 +1005,55 @@
     "lowest30d": true,
     "vendas": 410,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
-    "id": "SP1547936322-22394291048",
-    "productId": "SP1547936322-22394291048",
+    "id": "SP728389176-58217601055",
+    "productId": "SP728389176-58217601055",
     "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2025 Novo Relógio Smartwatch Tela Amoled Serie X10 NFC,IP67à prova de água",
-    "price": 69,
-    "originalPrice": 215.63,
-    "discount": 68,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
+    "price": 99.99,
+    "originalPrice": 303,
+    "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn28vhpzsftd6",
-    "url": "https://s.shopee.com.br/5LCKVIeS6u",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
+    "url": "https://s.shopee.com.br/9AP307qMWI",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
-    "vendas": 256,
-    "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "lowest30d": false,
+    "vendas": 319,
+    "publishedAt": "2026-10-02T02:35:13.202Z",
+    "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
+    "id": "SP1860098702-58266177953",
+    "productId": "SP1860098702-58266177953",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Hidrabene Sérum Facial GHK-Cu Peptídeo de Cobre – Firmeza e Densidade 700 Nano Peptídeos",
+    "price": 79.8,
+    "originalPrice": 241.82,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mruiu80lt89102",
+    "url": "https://s.shopee.com.br/5VVmCO85nA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1190,
+    "publishedAt": "2026-10-02T02:35:13.202Z",
+    "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -1125,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 500,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1149,7 +1197,7 @@
     "lowest30d": true,
     "vendas": 2975,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -1605,7 +1653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -2424,6 +2472,30 @@
     "checkedAt": "2026-10-02T01:35:13.719Z"
   },
   {
+    "id": "SP457864097-23524387565",
+    "productId": "SP457864097-23524387565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
+    "price": 46.98,
+    "originalPrice": 126.97,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
+    "url": "https://s.shopee.com.br/60S2nJ6BmD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2812,
+    "publishedAt": "2026-10-02T02:35:13.202Z",
+    "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
     "id": "SP1447668497-22299215183",
     "productId": "SP1447668497-22299215183",
     "marketplace": "shopee",
@@ -2520,6 +2592,30 @@
     "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
+    "id": "SP1359974122-58205769513",
+    "productId": "SP1359974122-58205769513",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Nórdica Com Cabo Em Madeira 1 Litro - Mantém Quente Café Chá Cozinha e Escritório",
+    "price": 49.98,
+    "originalPrice": 135.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpspivim33sxb6",
+    "url": "https://s.shopee.com.br/9fLJpX8Q4O",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 391,
+    "publishedAt": "2026-09-29T16:05:17.624Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
     "id": "SP1027415014-19598793518",
     "productId": "SP1027415014-19598793518",
     "marketplace": "shopee",
@@ -2542,30 +2638,6 @@
     "vendas": 1156,
     "publishedAt": "2026-09-29T14:35:21.998Z",
     "checkedAt": "2026-10-02T01:35:13.719Z"
-  },
-  {
-    "id": "SP1656146284-23299367733",
-    "productId": "SP1656146284-23299367733",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Pantalona Feminina Social em Alfaiataria Cargo Wide Leg Casual Para Trabalhar",
-    "price": 40.69,
-    "originalPrice": 109.97,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtfofbeqv9j4df",
-    "url": "https://s.shopee.com.br/gQUsltzYE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 307,
-    "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -2661,7 +2733,7 @@
     "lowest30d": false,
     "vendas": 388,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -2829,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 117,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1613760239-42627022095",
@@ -2854,30 +2926,6 @@
     "vendas": 1094,
     "publishedAt": "2026-09-29T18:05:17.050Z",
     "checkedAt": "2026-10-02T02:05:17.642Z"
-  },
-  {
-    "id": "SP1359974122-58205769513",
-    "productId": "SP1359974122-58205769513",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Nórdica Com Cabo Em Madeira 1 Litro - Mantém Quente Café Chá Cozinha e Escritório",
-    "price": 51.99,
-    "originalPrice": 136.82,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpspivim33sxb6",
-    "url": "https://s.shopee.com.br/9fLJpX8Q4O",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 391,
-    "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3144,30 +3192,6 @@
     "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
-    "id": "SP316479006-22331954820",
-    "productId": "SP316479006-22331954820",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Pulverizador Nano K5 Portátil Recarregável Esterilizador Umidificador Hidratação De Cabelo Jardim Casa Profissional",
-    "price": 54.9,
-    "originalPrice": 140.77,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7reo4-m8owwqoi7zdz95",
-    "url": "https://s.shopee.com.br/6L4rfG4JFZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 174,
-    "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
-  },
-  {
     "id": "SP426565286-22998062592",
     "productId": "SP426565286-22998062592",
     "marketplace": "shopee",
@@ -3357,7 +3381,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3549,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 744,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -3622,6 +3646,30 @@
     "vendas": 4654,
     "publishedAt": "2026-09-30T15:32:03.838Z",
     "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
+    "id": "SP316479006-22331954820",
+    "productId": "SP316479006-22331954820",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Pulverizador Nano K5 Portátil Recarregável Esterilizador Umidificador Hidratação De Cabelo Jardim Casa Profissional",
+    "price": 55.9,
+    "originalPrice": 139.75,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7reo4-m8owwqoi7zdz95",
+    "url": "https://s.shopee.com.br/6L4rfG4JFZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 174,
+    "publishedAt": "2026-09-29T23:35:17.201Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -3717,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 1007,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -3933,7 +3981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB4863689399",
@@ -3957,7 +4005,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -3981,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 289,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1295890416-49355388730",
@@ -4005,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 266,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -4101,7 +4149,7 @@
     "lowest30d": false,
     "vendas": 1381,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1543712029-57955156907",
@@ -4578,10 +4626,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1018,
     "publishedAt": "2026-09-25T13:05:16.362Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1459307687-18199657078",
@@ -4662,8 +4710,8 @@
     "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
     "title": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
-    "price": 33.9,
-    "originalPrice": 77.05,
+    "price": 32.9,
+    "originalPrice": 74.77,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -4677,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 725,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP724248208-58214396610",
@@ -4701,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 1124,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -4725,7 +4773,7 @@
     "lowest30d": false,
     "vendas": 302,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1358566916-58217310867",
@@ -4821,7 +4869,7 @@
     "lowest30d": false,
     "vendas": 1021,
     "publishedAt": "2026-09-29T18:05:17.050Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1724021947-58254952015",
@@ -4965,7 +5013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T21:35:13.221Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -5086,6 +5134,30 @@
     "vendas": 4776,
     "publishedAt": "2026-09-29T21:05:17.821Z",
     "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
+    "id": "SP1656146284-23299367733",
+    "productId": "SP1656146284-23299367733",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Pantalona Feminina Social em Alfaiataria Cargo Wide Leg Casual Para Trabalhar",
+    "price": 49.49,
+    "originalPrice": 109.98,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtfofbeqv9j4df",
+    "url": "https://s.shopee.com.br/gQUsltzYE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 307,
+    "publishedAt": "2026-09-28T18:05:15.508Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1636720176-58250985764",
@@ -5253,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 1198,
     "publishedAt": "2026-09-23T21:35:14.809Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1397076460-23298359374",
@@ -5421,7 +5493,7 @@
     "lowest30d": true,
     "vendas": 585,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP290073877-26590217787",
@@ -5469,55 +5541,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
-  },
-  {
-    "id": "SP1748398536-57108039282",
-    "productId": "SP1748398536-57108039282",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
-    "price": 90.99,
-    "originalPrice": 189.56,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
-    "url": "https://s.shopee.com.br/4LJnwZAYde",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 410,
-    "publishedAt": "2026-09-23T21:05:15.199Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
-  },
-  {
-    "id": "SP561955327-18198180338",
-    "productId": "SP561955327-18198180338",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Chaleira Elétrica Inox Portátil 1,8l Jarra Térmica Esquenta Chá Ferve Água Rápido Inma 110v ou 220v",
-    "price": 38,
-    "originalPrice": 79.17,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8xslfqll0xu53",
-    "url": "https://s.shopee.com.br/7ptfW5JvZl",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2672,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -5541,7 +5565,7 @@
     "lowest30d": false,
     "vendas": 196,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -5589,7 +5613,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB7272451088",
@@ -5613,7 +5637,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB4411250505",
@@ -5637,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -5878,30 +5902,6 @@
     "vendas": 816,
     "publishedAt": "2026-09-23T23:35:14.999Z",
     "checkedAt": "2026-10-02T00:35:13.478Z"
-  },
-  {
-    "id": "SP1284795277-23594826253",
-    "productId": "SP1284795277-23594826253",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Grande De Ombro Esportiva Trabalhar Faculdade Mulher Nylon Impermeável Alça Transversal",
-    "price": 58.8,
-    "originalPrice": 120,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6bbbxm5ts5d",
-    "url": "https://s.shopee.com.br/9zyA64BgAL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1282,
-    "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -6909,7 +6909,7 @@
     "lowest30d": false,
     "vendas": 7114,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP283834866-16583926437",
@@ -6981,7 +6981,7 @@
     "lowest30d": true,
     "vendas": 803,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1493421921-22798813533",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7101,7 +7101,7 @@
     "lowest30d": true,
     "vendas": 1358,
     "publishedAt": "2026-09-24T04:35:15.105Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP393634986-3580493544",
@@ -7125,7 +7125,7 @@
     "lowest30d": true,
     "vendas": 784,
     "publishedAt": "2026-09-24T05:24:25.818Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1810633399-58260049998",
@@ -7149,7 +7149,7 @@
     "lowest30d": true,
     "vendas": 566,
     "publishedAt": "2026-09-24T05:24:25.818Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1163208131-50963938857",
@@ -7173,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 125,
     "publishedAt": "2026-09-24T05:35:15.560Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP552896405-43079698414",
@@ -7197,7 +7197,7 @@
     "lowest30d": true,
     "vendas": 5361,
     "publishedAt": "2026-09-24T05:35:15.560Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1362216407-58211860960",
@@ -7221,7 +7221,7 @@
     "lowest30d": true,
     "vendas": 1373,
     "publishedAt": "2026-09-24T06:05:14.224Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1172174226-58211821720",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": 756,
     "publishedAt": "2026-09-25T02:05:14.973Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7917,7 +7917,7 @@
     "lowest30d": true,
     "vendas": 7313,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB2974151655",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": 1105,
     "publishedAt": "2026-09-24T05:35:15.560Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1494995608-56559188991",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": 2966,
     "publishedAt": "2026-09-26T03:05:17.043Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB5187059120",
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1780103830-58261209291",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": 3100,
     "publishedAt": "2026-09-24T04:35:15.105Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T21:20:24.524Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB4039445285",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB5690651572",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB5317844777",
@@ -8277,7 +8277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB7707499492",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB5119946035",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB6624023256",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB4712532313",
@@ -8397,7 +8397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T11:35:13.669Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8493,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 2716,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 7876,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -8637,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 829,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 468,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8718,8 +8718,8 @@
     "fonte": "shopee:q:camiseta",
     "categoria": "Moda e Calçados",
     "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "price": 74,
-    "originalPrice": 238.71,
+    "price": 74.9,
+    "originalPrice": 241.61,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -8730,10 +8730,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 2347,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8757,7 +8757,7 @@
     "lowest30d": false,
     "vendas": 2061,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8781,7 +8781,7 @@
     "lowest30d": false,
     "vendas": 2002,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8805,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 565,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8829,7 +8829,7 @@
     "lowest30d": false,
     "vendas": 614,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -8904,6 +8904,30 @@
     "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
+    "id": "SP1404108062-22999371257",
+    "productId": "SP1404108062-22999371257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 3 T-Shirts Essenciais em Algodão",
+    "price": 119.9,
+    "originalPrice": 386.77,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
+    "url": "https://s.shopee.com.br/5fpApr42tb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1852,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
     "id": "SP1124778541-23098646347",
     "productId": "SP1124778541-23098646347",
     "marketplace": "shopee",
@@ -8973,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 2728,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -8997,7 +9021,7 @@
     "lowest30d": true,
     "vendas": 1784,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9006,8 +9030,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Carregador de carro retrátil, carregador rápido de para carro 4 em 1 para iPhone e Android",
-    "price": 40.99,
-    "originalPrice": 128.09,
+    "price": 40.95,
+    "originalPrice": 127.97,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -9018,10 +9042,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1936,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9045,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 1739,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9672,54 +9696,6 @@
     "checkedAt": "2026-10-02T01:08:59.854Z"
   },
   {
-    "id": "SP728389176-58217601055",
-    "productId": "SP728389176-58217601055",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
-    "url": "https://s.shopee.com.br/9AP307qMWI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 319,
-    "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
-  },
-  {
-    "id": "SP1860098702-58266177953",
-    "productId": "SP1860098702-58266177953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Hidrabene Sérum Facial GHK-Cu Peptídeo de Cobre – Firmeza e Densidade 700 Nano Peptídeos",
-    "price": 79.8,
-    "originalPrice": 241.82,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mruiu80lt89102",
-    "url": "https://s.shopee.com.br/5VVmCO85nA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1190,
-    "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
-  },
-  {
     "id": "SP1043389652-23998793385",
     "productId": "SP1043389652-23998793385",
     "marketplace": "shopee",
@@ -10053,7 +10029,7 @@
     "lowest30d": false,
     "vendas": 2616,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10341,7 +10317,7 @@
     "lowest30d": false,
     "vendas": 2660,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10413,7 +10389,7 @@
     "lowest30d": true,
     "vendas": 434,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -10557,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 1370,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -10726,30 +10702,6 @@
     "vendas": 137,
     "publishedAt": "2026-10-01T16:35:14.298Z",
     "checkedAt": "2026-10-02T00:05:17.456Z"
-  },
-  {
-    "id": "SP457864097-23524387565",
-    "productId": "SP457864097-23524387565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
-    "price": 46.98,
-    "originalPrice": 126.97,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
-    "url": "https://s.shopee.com.br/60S2nJ6BmD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2812,
-    "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -11421,7 +11373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-02T02:35:13.202Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11613,7 +11565,7 @@
     "lowest30d": true,
     "vendas": 496,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -11781,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 870,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -11952,51 +11904,99 @@
     "checkedAt": "2026-10-02T01:04:36.057Z"
   },
   {
-    "id": "SP1801080383-51059248649",
-    "productId": "SP1801080383-51059248649",
+    "id": "SP1638165366-23599241533",
+    "productId": "SP1638165366-23599241533",
     "marketplace": "shopee",
     "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
-    "title": "CHUNTA 2026 Tênis De Corrida Malha Respirável Absorção De Choque Unissex Treinamento Profissional Laien Azul 36-45",
-    "price": 140.5,
-    "originalPrice": 286.73,
-    "discount": 51,
+    "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
+    "price": 45,
+    "originalPrice": 100,
+    "discount": 55,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-822zl-mocn0jmx5m2zb5",
-    "url": "https://s.shopee.com.br/5AsuEmjFtG",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvf-mmnn6odp2qkm03",
+    "url": "https://s.shopee.com.br/5AsuEmemsW",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1773,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "vendas": 2846,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
+    "id": "SP1638165366-23294741602",
+    "productId": "SP1638165366-23294741602",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
+    "price": 45,
+    "originalPrice": 100,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
+    "url": "https://s.shopee.com.br/7AdycSbdpp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1794,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
+    "id": "SP1748398536-57108039282",
+    "productId": "SP1748398536-57108039282",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
+    "price": 90.99,
+    "originalPrice": 189.56,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
+    "url": "https://s.shopee.com.br/4LJnwZAYde",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 410,
+    "publishedAt": "2026-09-23T21:05:15.199Z",
     "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
-    "id": "SP1643769522-58202822916",
-    "productId": "SP1643769522-58202822916",
+    "id": "SP561955327-18198180338",
+    "productId": "SP561955327-18198180338",
     "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Echo Dot 5ª Geração Alexa Smart Speaker Bluetooth WiFi",
-    "price": 48.99,
-    "originalPrice": 99.98,
-    "discount": 51,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Chaleira Elétrica Inox Portátil 1,8l Jarra Térmica Esquenta Chá Ferve Água Rápido Inma 110v ou 220v",
+    "price": 38,
+    "originalPrice": 79.17,
+    "discount": 52,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mtoz99x2cd8g21",
-    "url": "https://s.shopee.com.br/7ptfPoMw4g",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8xslfqll0xu53",
+    "url": "https://s.shopee.com.br/7ptfW5JvZl",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 992,
+    "vendas": 2672,
     "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T02:35:13.202Z"
   }
 ]
