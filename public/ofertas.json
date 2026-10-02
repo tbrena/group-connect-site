@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -189,7 +189,7 @@
     "lowest30d": false,
     "vendas": 180,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -384,6 +384,30 @@
     "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
+    "id": "SP1404108062-22999371257",
+    "productId": "SP1404108062-22999371257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 3 T-Shirts Essenciais em Algodão",
+    "price": 119.9,
+    "originalPrice": 386.77,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
+    "url": "https://s.shopee.com.br/5fpApr42tb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1852,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
     "id": "SP1309459053-23898624738",
     "productId": "SP1309459053-23898624738",
     "marketplace": "shopee",
@@ -429,7 +453,7 @@
     "lowest30d": false,
     "vendas": 496,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -813,7 +837,7 @@
     "lowest30d": false,
     "vendas": 3009,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -933,7 +957,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1006,6 +1030,30 @@
     "vendas": 410,
     "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
+    "id": "SP394192376-22427790769",
+    "productId": "SP394192376-22427790769",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Castanha do Pará/Brasil Inteira 1Kg - P&P",
+    "price": 56.89,
+    "originalPrice": 172.39,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-23020-k54u5v5mw2nvf8",
+    "url": "https://s.shopee.com.br/7VGpgJJkEE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 697,
+    "publishedAt": "2026-10-01T03:35:13.959Z",
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -1128,30 +1176,6 @@
     "checkedAt": "2026-10-02T02:05:17.642Z"
   },
   {
-    "id": "SP394192376-22427790769",
-    "productId": "SP394192376-22427790769",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Castanha do Pará/Brasil Inteira 1Kg - P&P",
-    "price": 56.89,
-    "originalPrice": 172.39,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-23020-k54u5v5mw2nvf8",
-    "url": "https://s.shopee.com.br/7VGpgJJkEE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 697,
-    "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-02T01:08:59.854Z"
-  },
-  {
     "id": "SP1257628820-29200230546",
     "productId": "SP1257628820-29200230546",
     "marketplace": "shopee",
@@ -1245,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 1356,
     "publishedAt": "2026-09-29T17:35:18.359Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -1317,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 349,
     "publishedAt": "2026-09-29T01:05:14.799Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1354452432-21199837561",
@@ -1341,7 +1365,7 @@
     "lowest30d": false,
     "vendas": 287,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1397809275-58252647017",
@@ -1365,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 321,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -1389,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 482,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -1446,8 +1470,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "Kit Linha Coreana Hidrabene K-Sérum Harmonizador Facial + Retinal Shot + Sérum GHK-Cu + Sérum PDRN Skincare",
-    "price": 79.8,
-    "originalPrice": 241.82,
+    "price": 79.9,
+    "originalPrice": 242.12,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -1458,10 +1482,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1991,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -1485,7 +1509,7 @@
     "lowest30d": true,
     "vendas": 3305,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -1533,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 981,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -1653,7 +1677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -3237,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 189,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP400392100-55315362916",
@@ -3261,31 +3285,7 @@
     "lowest30d": false,
     "vendas": 378,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
-  },
-  {
-    "id": "SP1297519240-24897571457",
-    "productId": "SP1297519240-24897571457",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Lampada Led Smart Inteligente Wifi 2.4 Bulbo Hp 20w 30w 40w 50w 2700K 6500K RGB Bivolt Neo Avant",
-    "price": 69.99,
-    "originalPrice": 179.46,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mtr989w4hgxt05",
-    "url": "https://s.shopee.com.br/8V9NbgArHY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 283,
-    "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP777798362-23097144074",
@@ -3309,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 320,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -3381,7 +3381,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3981,7 +3981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB4863689399",
@@ -4005,7 +4005,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4197,7 +4197,7 @@
     "lowest30d": false,
     "vendas": 414,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP410040838-22497996785",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 164,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1462595809-51417153718",
@@ -4677,7 +4677,7 @@
     "lowest30d": true,
     "vendas": 395,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP441185571-22693072879",
@@ -4701,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -4992,6 +4992,54 @@
     "checkedAt": "2026-10-02T01:04:36.057Z"
   },
   {
+    "id": "SP1638165366-23294741602",
+    "productId": "SP1638165366-23294741602",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
+    "price": 45,
+    "originalPrice": 100,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
+    "url": "https://s.shopee.com.br/7AdycSbdpp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1794,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:35:17.142Z"
+  },
+  {
+    "id": "SP1638165366-23599241533",
+    "productId": "SP1638165366-23599241533",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
+    "price": 45,
+    "originalPrice": 100,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvf-mmnn6odp2qkm03",
+    "url": "https://s.shopee.com.br/5AsuEmemsW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2846,
+    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-02T03:05:15.523Z"
+  },
+  {
     "id": "MLB7586508816",
     "productId": "MLB19489040",
     "marketplace": "ml",
@@ -5013,7 +5061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T21:35:13.221Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -5061,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 149,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1661676033-58258175621",
@@ -5304,6 +5352,30 @@
     "checkedAt": "2026-10-02T00:35:13.478Z"
   },
   {
+    "id": "SP1297519240-24897571457",
+    "productId": "SP1297519240-24897571457",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Lampada Led Smart Inteligente Wifi 2.4 Bulbo Hp 20w 30w 40w 50w 2700K 6500K RGB Bivolt Neo Avant",
+    "price": 76.9,
+    "originalPrice": 167.17,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mtr989w4hgxt05",
+    "url": "https://s.shopee.com.br/8V9NbgArHY",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 283,
+    "publishedAt": "2026-09-28T21:05:17.970Z",
+    "checkedAt": "2026-10-02T03:35:17.142Z"
+  },
+  {
     "id": "SP359168917-19497608994",
     "productId": "SP359168917-19497608994",
     "marketplace": "shopee",
@@ -5472,30 +5544,6 @@
     "checkedAt": "2026-10-02T01:04:36.057Z"
   },
   {
-    "id": "SP1644993263-58251422543",
-    "productId": "SP1644993263-58251422543",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "GEE·BON Masculino Aço Inoxidável – À Prova d'Água, Quartzo Automático, Elegante,Premium",
-    "price": 47,
-    "originalPrice": 100,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqy6f8wjfvgl8c",
-    "url": "https://s.shopee.com.br/1AoDa29PG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 585,
-    "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
-  },
-  {
     "id": "SP290073877-26590217787",
     "productId": "SP290073877-26590217787",
     "marketplace": "shopee",
@@ -5541,7 +5589,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -5613,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB7272451088",
@@ -5637,7 +5685,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB4411250505",
@@ -5661,7 +5709,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -5997,7 +6045,7 @@
     "lowest30d": true,
     "vendas": 7072,
     "publishedAt": "2026-09-26T14:35:16.816Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -6078,8 +6126,8 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto",
-    "price": 59.89,
-    "originalPrice": 119.78,
+    "price": 59.88,
+    "originalPrice": 119.76,
     "discount": 50,
     "base": "vendedor",
     "averagePrice": null,
@@ -6093,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 14114,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP312817154-22999415374",
@@ -6816,30 +6864,6 @@
     "checkedAt": "2026-10-02T00:35:13.478Z"
   },
   {
-    "id": "SP932850533-22192886850",
-    "productId": "SP932850533-22192886850",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Sem Fio Grande potencia 5v Bluetooth Portatil com Entrada Microfone P10",
-    "price": 99.99,
-    "originalPrice": 199.98,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mmuqs7klvoqp45",
-    "url": "https://s.shopee.com.br/9KiTCZHE1l",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 856,
-    "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
-  },
-  {
     "id": "SP296363855-42121901827",
     "productId": "SP296363855-42121901827",
     "marketplace": "shopee",
@@ -7053,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7342,30 +7366,6 @@
     "vendas": 2207,
     "publishedAt": "2026-09-24T01:05:16.139Z",
     "checkedAt": "2026-10-02T01:08:59.854Z"
-  },
-  {
-    "id": "SP332059670-42983658852",
-    "productId": "SP332059670-42983658852",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Piano Infantil Teclado Musical Fazendinha 12 Teclas Som de Animais Brinquedo Bebê Criança Branco Pratitudo Toys",
-    "price": 41.9,
-    "originalPrice": 80.58,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-ms19tz1dcb2fcc",
-    "url": "https://s.shopee.com.br/50ZU2bOzV9",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2149,
-    "publishedAt": "2026-09-23T23:35:14.999Z",
-    "checkedAt": "2026-10-02T00:35:13.478Z"
   },
   {
     "id": "SP438855294-18997751270",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1780103830-58261209291",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8184,30 +8184,6 @@
     "checkedAt": "2026-10-02T02:35:13.202Z"
   },
   {
-    "id": "MLB5005813228",
-    "productId": "MLB36684802",
-    "marketplace": "ml",
-    "fonte": "MLB439347",
-    "categoria": "Eletrodomésticos",
-    "title": "Chapa Prancha De Cabelo Taiff Elegance Red Íon Preto",
-    "price": 169.9,
-    "originalPrice": 229.9,
-    "discount": 26,
-    "base": "media",
-    "averagePrice": 229.9,
-    "sellers": 34,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_847199-MLA110044311509_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5005813228?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "BELLE_NOVA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-01T21:20:24.524Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
-  },
-  {
     "id": "MLB4039445285",
     "productId": "MLB41517253",
     "marketplace": "ml",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB5690651572",
@@ -8253,7 +8229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB5317844777",
@@ -8277,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB7707499492",
@@ -8301,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB3758861673",
@@ -8311,11 +8287,11 @@
     "categoria": "Bebês",
     "title": "Bebê Conforto Para Bebê Comfort de 0 à 13kgs Preto Maxi Baby",
     "price": 299.9,
-    "originalPrice": 364.95,
-    "discount": 18,
+    "originalPrice": 370,
+    "discount": 19,
     "base": "media",
-    "averagePrice": 364.95,
-    "sellers": 5,
+    "averagePrice": 370,
+    "sellers": 4,
     "image": "https://http2.mlstatic.com/D_NQ_NP_814542-MLA99940292565_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3758861673?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8325,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB5119946035",
@@ -8349,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB6624023256",
@@ -8373,7 +8349,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
+  },
+  {
+    "id": "MLB5005813228",
+    "productId": "MLB36684802",
+    "marketplace": "ml",
+    "fonte": "MLB439347",
+    "categoria": "Eletrodomésticos",
+    "title": "Chapa Prancha De Cabelo Taiff Elegance Red Íon Preto",
+    "price": 202.34,
+    "originalPrice": 229.9,
+    "discount": 12,
+    "base": "media",
+    "averagePrice": 229.9,
+    "sellers": 34,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_847199-MLA110044311509_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5005813228?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "BELLE_NOVA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-01T21:20:24.524Z",
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB4712532313",
@@ -8397,7 +8397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T11:35:13.669Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 1966,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 721,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8901,31 +8901,7 @@
     "lowest30d": true,
     "vendas": 8492,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
-  },
-  {
-    "id": "SP1404108062-22999371257",
-    "productId": "SP1404108062-22999371257",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 3 T-Shirts Essenciais em Algodão",
-    "price": 119.9,
-    "originalPrice": 386.77,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
-    "url": "https://s.shopee.com.br/5fpApr42tb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1852,
-    "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1124778541-23098646347",
@@ -8973,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 4336,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9093,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 2530,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9117,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 828,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9141,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 7581,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9165,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 2783,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1569849623-58267323515",
@@ -9189,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 5262,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1240425443-23893313838",
@@ -9213,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 5701,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1662583623-52763574749",
@@ -9237,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 7147,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -9309,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 1815,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -9333,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 519,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9357,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 813,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9381,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 861,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9405,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 960,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9429,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 2225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9453,31 +9429,7 @@
     "lowest30d": true,
     "vendas": 2087,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
-  },
-  {
-    "id": "SP1585429562-58201056244",
-    "productId": "SP1585429562-58201056244",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
-    "price": 48.99,
-    "originalPrice": 148.45,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
-    "url": "https://s.shopee.com.br/W74gL2Boj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1691,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9501,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 2141,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9525,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 313,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9549,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 410,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9573,7 +9525,7 @@
     "lowest30d": false,
     "vendas": 979,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9621,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 1521,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -9645,7 +9597,7 @@
     "lowest30d": false,
     "vendas": 3748,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9717,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 193,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -9741,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 1258,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -9765,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 5026,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -9789,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 1378,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9861,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 3001,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -9885,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 2714,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -9909,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 1068,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9981,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 1088,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -10005,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 526,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10053,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 14847,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10296,6 +10248,30 @@
     "checkedAt": "2026-10-02T01:08:59.854Z"
   },
   {
+    "id": "SP1585429562-58201056244",
+    "productId": "SP1585429562-58201056244",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
+    "price": 53.99,
+    "originalPrice": 149.97,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
+    "url": "https://s.shopee.com.br/W74gL2Boj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1691,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-02T03:35:17.142Z"
+  },
+  {
     "id": "SP1468415010-23194993945",
     "productId": "SP1468415010-23194993945",
     "marketplace": "shopee",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 752,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1829268664-58262252375",
@@ -10701,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 137,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -10965,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 2081,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-02T00:05:17.456Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11373,7 +11349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
+    "checkedAt": "2026-10-02T03:35:17.142Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11904,51 +11880,27 @@
     "checkedAt": "2026-10-02T01:04:36.057Z"
   },
   {
-    "id": "SP1638165366-23599241533",
-    "productId": "SP1638165366-23599241533",
+    "id": "SP1644993263-58251422543",
+    "productId": "SP1644993263-58251422543",
     "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
+    "fonte": "shopee:q:relogio masculino",
     "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
-    "price": 45,
+    "title": "GEE·BON Masculino Aço Inoxidável – À Prova d'Água, Quartzo Automático, Elegante,Premium",
+    "price": 47,
     "originalPrice": 100,
-    "discount": 55,
+    "discount": 53,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvf-mmnn6odp2qkm03",
-    "url": "https://s.shopee.com.br/5AsuEmemsW",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqy6f8wjfvgl8c",
+    "url": "https://s.shopee.com.br/1AoDa29PG",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2846,
-    "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-02T03:05:15.523Z"
-  },
-  {
-    "id": "SP1638165366-23294741602",
-    "productId": "SP1638165366-23294741602",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
-    "price": 45,
-    "originalPrice": 100,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-    "url": "https://s.shopee.com.br/7AdycSbdpp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1794,
-    "publishedAt": "2026-10-02T03:05:15.523Z",
+    "vendas": 585,
+    "publishedAt": "2026-09-23T23:05:20.581Z",
     "checkedAt": "2026-10-02T03:05:15.523Z"
   },
   {
@@ -11998,5 +11950,53 @@
     "vendas": 2672,
     "publishedAt": "2026-09-23T22:35:14.885Z",
     "checkedAt": "2026-10-02T02:35:13.202Z"
+  },
+  {
+    "id": "SP932850533-22192886850",
+    "productId": "SP932850533-22192886850",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Sem Fio Grande potencia 5v Bluetooth Portatil com Entrada Microfone P10",
+    "price": 99.99,
+    "originalPrice": 199.98,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mmuqs7klvoqp45",
+    "url": "https://s.shopee.com.br/9KiTCZHE1l",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 856,
+    "publishedAt": "2026-09-23T23:35:14.999Z",
+    "checkedAt": "2026-10-02T00:35:13.478Z"
+  },
+  {
+    "id": "SP332059670-42983658852",
+    "productId": "SP332059670-42983658852",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Piano Infantil Teclado Musical Fazendinha 12 Teclas Som de Animais Brinquedo Bebê Criança Branco Pratitudo Toys",
+    "price": 41.9,
+    "originalPrice": 80.58,
+    "discount": 48,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-ms19tz1dcb2fcc",
+    "url": "https://s.shopee.com.br/50ZU2bOzV9",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2149,
+    "publishedAt": "2026-09-23T23:35:14.999Z",
+    "checkedAt": "2026-10-02T00:35:13.478Z"
   }
 ]
