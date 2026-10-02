@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 1757,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP838651758-52459273810",
@@ -381,7 +381,7 @@
     "lowest30d": false,
     "vendas": 1106,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 299,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -648,6 +648,30 @@
     "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
+    "id": "SP1716664673-46455634006",
+    "productId": "SP1716664673-46455634006",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Novos Sapatos Esportivos Casuais De Placa De Carbono Com Almofada Macia E Tênis De Corrida off-road Antiderrapantes Ao A",
+    "price": 89.96,
+    "originalPrice": 281.13,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8261q-mjwjcfqfs1zbe4",
+    "url": "https://s.shopee.com.br/6VOJBh1Ium",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1219,
+    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
+  },
+  {
     "id": "SP1870747351-58215693918",
     "productId": "SP1870747351-58215693918",
     "marketplace": "shopee",
@@ -885,7 +909,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -909,7 +933,7 @@
     "lowest30d": false,
     "vendas": 298,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -933,7 +957,7 @@
     "lowest30d": true,
     "vendas": 219,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -957,7 +981,7 @@
     "lowest30d": true,
     "vendas": 410,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -981,7 +1005,7 @@
     "lowest30d": true,
     "vendas": 256,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -1101,7 +1125,7 @@
     "lowest30d": false,
     "vendas": 500,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1125,7 +1149,7 @@
     "lowest30d": true,
     "vendas": 2975,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-01T21:05:14.812Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -1602,10 +1626,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -2110,6 +2134,30 @@
     "vendas": 913,
     "publishedAt": "2026-09-24T10:05:16.579Z",
     "checkedAt": "2026-10-01T21:35:13.221Z"
+  },
+  {
+    "id": "SP321618298-58208305945",
+    "productId": "SP321618298-58208305945",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis masculino e feminino casual moderno elegante premium leve confortável macio promoção",
+    "price": 59.9,
+    "originalPrice": 166.39,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mr6k0ux5yww7ac",
+    "url": "https://s.shopee.com.br/2qV0oxFGMQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 861,
+    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
     "id": "SP728389176-58217580101",
@@ -2853,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 391,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3141,7 +3189,7 @@
     "lowest30d": false,
     "vendas": 174,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP426565286-22998062592",
@@ -3189,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 189,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP400392100-55315362916",
@@ -3213,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 378,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1297519240-24897571457",
@@ -3229,7 +3277,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mtr989w4hgxt05",
-    "url": "https://s.shopee.com.br/70KYedImGq",
+    "url": "https://s.shopee.com.br/8V9NbgArHY",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3237,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 283,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3285,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 320,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -3357,7 +3405,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3526,6 +3574,30 @@
     "vendas": 114,
     "publishedAt": "2026-09-24T15:35:16.598Z",
     "checkedAt": "2026-10-01T23:05:16.203Z"
+  },
+  {
+    "id": "SP1737398657-23899314269",
+    "productId": "SP1737398657-23899314269",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Feminino SNEEKS Conforto Garantido Estiloso",
+    "price": 39.99,
+    "originalPrice": 99.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhzw71161vmc4",
+    "url": "https://s.shopee.com.br/7KxQBDy8E7",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 744,
+    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -3885,7 +3957,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB4863689399",
@@ -3909,7 +3981,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4101,7 +4173,7 @@
     "lowest30d": false,
     "vendas": 414,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP410040838-22497996785",
@@ -4125,7 +4197,7 @@
     "lowest30d": false,
     "vendas": 164,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1462595809-51417153718",
@@ -4581,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 395,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP441185571-22693072879",
@@ -4605,7 +4677,55 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
+  },
+  {
+    "id": "SP720761573-58257615949",
+    "productId": "SP720761573-58257615949",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
+    "price": 33.9,
+    "originalPrice": 77.05,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
+    "url": "https://s.shopee.com.br/70KZmbzOu5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 725,
+    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
+  },
+  {
+    "id": "SP724248208-58214396610",
+    "productId": "SP724248208-58214396610",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Esportivo Unissex com Conforto e Leveza",
+    "price": 39.56,
+    "originalPrice": 89.91,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mqp3tleisbnlb9",
+    "url": "https://s.shopee.com.br/4qG5Cd7eIs",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1124,
+    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -4869,7 +4989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T21:35:13.221Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -4917,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 149,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1661676033-58258175621",
@@ -5349,7 +5469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1748398536-57108039282",
@@ -5469,7 +5589,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T22:35:14.999Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB7272451088",
@@ -5493,7 +5613,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB4411250505",
@@ -5517,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -5760,126 +5880,6 @@
     "checkedAt": "2026-10-01T21:05:14.812Z"
   },
   {
-    "id": "SP1284795277-23594826253",
-    "productId": "SP1284795277-23594826253",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Grande De Ombro Esportiva Trabalhar Faculdade Mulher Nylon Impermeável Alça Transversal",
-    "price": 58.8,
-    "originalPrice": 120,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6bbbxm5ts5d",
-    "url": "https://s.shopee.com.br/9zyA64BgAL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1282,
-    "publishedAt": "2026-09-23T22:05:17.623Z",
-    "checkedAt": "2026-10-01T23:05:16.203Z"
-  },
-  {
-    "id": "SP1801080383-51059248649",
-    "productId": "SP1801080383-51059248649",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "CHUNTA 2026 Tênis De Corrida Malha Respirável Absorção De Choque Unissex Treinamento Profissional Laien Azul 36-45",
-    "price": 140.5,
-    "originalPrice": 286.73,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-822zl-mocn0jmx5m2zb5",
-    "url": "https://s.shopee.com.br/5AsuEmjFtG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1773,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T23:05:16.203Z"
-  },
-  {
-    "id": "SP1643769522-58202822916",
-    "productId": "SP1643769522-58202822916",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Echo Dot 5ª Geração Alexa Smart Speaker Bluetooth WiFi",
-    "price": 48.99,
-    "originalPrice": 99.98,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mtoz99x2cd8g21",
-    "url": "https://s.shopee.com.br/7ptfPoMw4g",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 992,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
-  },
-  {
-    "id": "SP711129134-22197709806",
-    "productId": "SP711129134-22197709806",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Luz de LED com Sensor para Armário 60cm Ultra Fina 3 Cores, Recarregável (Branco/Quente/Natural)",
-    "price": 33.99,
-    "originalPrice": 69.37,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mtf8z6st2ept2c",
-    "url": "https://s.shopee.com.br/8AWVoQdTJY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2101,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
-  },
-  {
-    "id": "SP1392752117-58260323596",
-    "productId": "SP1392752117-58260323596",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador Portátil Sem Fio Recarregável Alta Potência, Ideal para Limpeza Diária em Casa e no Carro",
-    "price": 38.99,
-    "originalPrice": 79.57,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820mx-mnzgm99xoidd96",
-    "url": "https://s.shopee.com.br/70KYxPS5E3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1265,
-    "publishedAt": "2026-09-23T22:35:14.885Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
-  },
-  {
     "id": "SP387523771-43981426348",
     "productId": "SP387523771-43981426348",
     "marketplace": "shopee",
@@ -5970,10 +5970,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 7072,
     "publishedAt": "2026-09-26T14:35:16.816Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 14114,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP312817154-22999415374",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -8047,11 +8047,11 @@
     "categoria": "Bebês",
     "title": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
     "price": 47.82,
-    "originalPrice": 79.44,
+    "originalPrice": 79.9,
     "discount": 40,
     "base": "media",
-    "averagePrice": 79.44,
-    "sellers": 15,
+    "averagePrice": 79.9,
+    "sellers": 14,
     "image": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5187059120?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8181,7 +8181,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T06:05:14.676Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB5005813228",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T21:20:24.524Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB4039445285",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB5690651572",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB5317844777",
@@ -8263,11 +8263,11 @@
     "categoria": "Informática",
     "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
     "price": 326,
-    "originalPrice": 415,
-    "discount": 21,
+    "originalPrice": 420,
+    "discount": 22,
     "base": "media",
-    "averagePrice": 415,
-    "sellers": 8,
+    "averagePrice": 420,
+    "sellers": 7,
     "image": "https://http2.mlstatic.com/D_NQ_NP_962098-MLA115695831628_092026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5317844777?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8277,7 +8277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-30T23:05:14.655Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB7707499492",
@@ -8291,7 +8291,7 @@
     "discount": 20,
     "base": "media",
     "averagePrice": 299,
-    "sellers": 27,
+    "sellers": 28,
     "image": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7707499492?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB5119946035",
@@ -8339,7 +8339,7 @@
     "discount": 14,
     "base": "media",
     "averagePrice": 250,
-    "sellers": 13,
+    "sellers": 12,
     "image": "https://http2.mlstatic.com/D_NQ_NP_851480-MLA99475762726_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5119946035?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB4712532313",
@@ -8370,10 +8370,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T11:35:13.669Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 1966,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 721,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 8492,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1124778541-23098646347",
@@ -8949,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 4336,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9069,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 2530,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9093,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 828,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9117,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 7581,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9141,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 2783,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1569849623-58267323515",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 5262,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1240425443-23893313838",
@@ -9189,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 5701,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1662583623-52763574749",
@@ -9213,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 7147,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -9238,30 +9238,6 @@
     "vendas": 4209,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-01T21:20:24.524Z"
-  },
-  {
-    "id": "SP1716664673-46455634006",
-    "productId": "SP1716664673-46455634006",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Novos Sapatos Esportivos Casuais De Placa De Carbono Com Almofada Macia E Tênis De Corrida off-road Antiderrapantes Ao A",
-    "price": 89.96,
-    "originalPrice": 281.13,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8261q-mjwjcfqfs1zbe4",
-    "url": "https://s.shopee.com.br/6VOJBh1Ium",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1219,
-    "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -9309,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 1815,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -9333,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 519,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9357,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 813,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9381,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 861,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9405,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 960,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9429,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 2225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9453,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 2087,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -9477,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 1691,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9501,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 2141,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9525,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 313,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9549,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 410,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9573,7 +9549,7 @@
     "lowest30d": false,
     "vendas": 979,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9621,7 +9597,7 @@
     "lowest30d": false,
     "vendas": 1521,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -9645,7 +9621,7 @@
     "lowest30d": false,
     "vendas": 3748,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9717,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 193,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -9741,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 1258,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -9765,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 5026,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -9789,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 1378,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9861,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 3001,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -9885,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 2714,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -9909,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 1068,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9981,7 +9957,7 @@
     "lowest30d": false,
     "vendas": 1088,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -10005,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 526,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10053,7 +10029,7 @@
     "lowest30d": false,
     "vendas": 14847,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10392,30 +10368,6 @@
     "checkedAt": "2026-10-01T21:05:14.812Z"
   },
   {
-    "id": "SP321618298-58208305945",
-    "productId": "SP321618298-58208305945",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis masculino e feminino casual moderno elegante premium leve confortável macio promoção",
-    "price": 59.9,
-    "originalPrice": 166.39,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mr6k0ux5yww7ac",
-    "url": "https://s.shopee.com.br/2qV0oxFGMQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 861,
-    "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
-  },
-  {
     "id": "SP280795353-23597640147",
     "productId": "SP280795353-23597640147",
     "marketplace": "shopee",
@@ -10581,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 752,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1829268664-58262252375",
@@ -10773,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 137,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -11037,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 2081,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-01T20:35:17.569Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11445,7 +11397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
+    "checkedAt": "2026-10-02T00:05:17.456Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11760,30 +11712,6 @@
     "checkedAt": "2026-10-01T22:05:14.399Z"
   },
   {
-    "id": "SP1737398657-23899314269",
-    "productId": "SP1737398657-23899314269",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Feminino SNEEKS Conforto Garantido Estiloso",
-    "price": 39.99,
-    "originalPrice": 99.98,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhzw71161vmc4",
-    "url": "https://s.shopee.com.br/7KxQBDy8E7",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 744,
-    "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-01T23:35:12.903Z"
-  },
-  {
     "id": "SP1737398657-58204318514",
     "productId": "SP1737398657-58204318514",
     "marketplace": "shopee",
@@ -11952,51 +11880,123 @@
     "checkedAt": "2026-10-01T21:20:24.524Z"
   },
   {
-    "id": "SP720761573-58257615949",
-    "productId": "SP720761573-58257615949",
+    "id": "SP1284795277-23594826253",
+    "productId": "SP1284795277-23594826253",
     "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
+    "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
-    "price": 33.9,
-    "originalPrice": 77.05,
-    "discount": 56,
+    "title": "Bolsa Grande De Ombro Esportiva Trabalhar Faculdade Mulher Nylon Impermeável Alça Transversal",
+    "price": 58.8,
+    "originalPrice": 120,
+    "discount": 51,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
-    "url": "https://s.shopee.com.br/70KZmbzOu5",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6bbbxm5ts5d",
+    "url": "https://s.shopee.com.br/9zyA64BgAL",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 725,
-    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "vendas": 1282,
+    "publishedAt": "2026-09-23T22:05:17.623Z",
+    "checkedAt": "2026-10-01T23:05:16.203Z"
+  },
+  {
+    "id": "SP1801080383-51059248649",
+    "productId": "SP1801080383-51059248649",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "CHUNTA 2026 Tênis De Corrida Malha Respirável Absorção De Choque Unissex Treinamento Profissional Laien Azul 36-45",
+    "price": 140.5,
+    "originalPrice": 286.73,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-822zl-mocn0jmx5m2zb5",
+    "url": "https://s.shopee.com.br/5AsuEmjFtG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1773,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "checkedAt": "2026-10-01T23:05:16.203Z"
+  },
+  {
+    "id": "SP1643769522-58202822916",
+    "productId": "SP1643769522-58202822916",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Echo Dot 5ª Geração Alexa Smart Speaker Bluetooth WiFi",
+    "price": 48.99,
+    "originalPrice": 99.98,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mtoz99x2cd8g21",
+    "url": "https://s.shopee.com.br/7ptfPoMw4g",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 992,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
     "checkedAt": "2026-10-01T23:35:12.903Z"
   },
   {
-    "id": "SP724248208-58214396610",
-    "productId": "SP724248208-58214396610",
+    "id": "SP711129134-22197709806",
+    "productId": "SP711129134-22197709806",
     "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Esportivo Unissex com Conforto e Leveza",
-    "price": 39.56,
-    "originalPrice": 89.91,
-    "discount": 56,
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Luz de LED com Sensor para Armário 60cm Ultra Fina 3 Cores, Recarregável (Branco/Quente/Natural)",
+    "price": 33.99,
+    "originalPrice": 69.37,
+    "discount": 51,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mqp3tleisbnlb9",
-    "url": "https://s.shopee.com.br/4qG5Cd7eIs",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mtf8z6st2ept2c",
+    "url": "https://s.shopee.com.br/8AWVoQdTJY",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 1124,
-    "publishedAt": "2026-10-01T23:35:12.903Z",
+    "lowest30d": true,
+    "vendas": 2101,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
+    "checkedAt": "2026-10-01T23:35:12.903Z"
+  },
+  {
+    "id": "SP1392752117-58260323596",
+    "productId": "SP1392752117-58260323596",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador Portátil Sem Fio Recarregável Alta Potência, Ideal para Limpeza Diária em Casa e no Carro",
+    "price": 38.99,
+    "originalPrice": 79.57,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820mx-mnzgm99xoidd96",
+    "url": "https://s.shopee.com.br/70KYxPS5E3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1265,
+    "publishedAt": "2026-09-23T22:35:14.885Z",
     "checkedAt": "2026-10-01T23:35:12.903Z"
   }
 ]
