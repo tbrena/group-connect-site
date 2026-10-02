@@ -2,6 +2,92 @@
   {
     "loja": "ml",
     "codigos": [
+      "SITE30",
+      "TODOSITE40",
+      "SITE100"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16206",
+    "quando": "2026-10-02T12:06:46+00:00",
+    "id": "ml:SITE30+TODOSITE40+SITE100",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SEMPREPROMO"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16205",
+    "quando": "2026-10-02T12:02:30+00:00",
+    "id": "ml:SEMPREPROMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "VALEDESCONTO"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/16204",
+    "quando": "2026-10-02T12:02:18+00:00",
+    "id": "ml:VALEDESCONTO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "DESCONTO"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16203",
+    "quando": "2026-10-02T12:02:12+00:00",
+    "id": "ml:DESCONTO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "VALEPROMO"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Promos",
+    "origem": "avidaefeitadedesconto/16202",
+    "quando": "2026-10-02T12:02:03+00:00",
+    "id": "ml:VALEPROMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MEUVALE"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Ofertas",
+    "origem": "avidaefeitadedesconto/16201",
+    "quando": "2026-10-02T12:01:56+00:00",
+    "id": "ml:MEUVALE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SITE0110"
     ],
     "desconto": "10% OFF",
@@ -109,76 +195,6 @@
     "origem": "avidaefeitadedesconto/16182",
     "quando": "2026-10-01T12:22:08+00:00",
     "id": "ml:OFERTAS",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PROMOML"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 100",
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16180",
-    "quando": "2026-10-01T12:04:08+00:00",
-    "id": "ml:PROMOML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DESCONTOSMELI"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": "R$ 149",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/16179",
-    "quando": "2026-10-01T12:04:03+00:00",
-    "id": "ml:DESCONTOSMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ECONOMIA"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16178",
-    "quando": "2026-10-01T12:03:57+00:00",
-    "id": "ml:ECONOMIA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PROMOCERTA"
-    ],
-    "desconto": "22% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Lista Especial",
-    "origem": "avidaefeitadedesconto/16177",
-    "quando": "2026-10-01T12:03:50+00:00",
-    "id": "ml:PROMOCERTA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFAQUI"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16176",
-    "quando": "2026-10-01T12:03:43+00:00",
-    "id": "ml:OFFAQUI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
