@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP392239188-58205885907",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 317,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-03T01:05:13.306Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1470360164-28228483057",
@@ -261,7 +261,7 @@
     "lowest30d": false,
     "vendas": 934,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-03T01:05:13.306Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1613384066-58251055523",
@@ -480,6 +480,30 @@
     "checkedAt": "2026-10-03T01:35:12.786Z"
   },
   {
+    "id": "SP543131983-14478149714",
+    "productId": "SP543131983-14478149714",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
+    "price": 99.99,
+    "originalPrice": 322.55,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
+    "url": "https://s.shopee.com.br/9zy9znJ9jc",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 663,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
+  },
+  {
     "id": "SP1404108062-22999371257",
     "productId": "SP1404108062-22999371257",
     "marketplace": "shopee",
@@ -502,6 +526,30 @@
     "vendas": 1959,
     "publishedAt": "2026-10-02T03:05:15.523Z",
     "checkedAt": "2026-10-03T01:35:12.786Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 39.99,
+    "originalPrice": 129,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/1BMm8rCkMM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 780,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -693,7 +741,7 @@
     "lowest30d": true,
     "vendas": 1741,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -717,7 +765,7 @@
     "lowest30d": true,
     "vendas": 765,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-03T01:05:13.306Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -741,7 +789,7 @@
     "lowest30d": false,
     "vendas": 246,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-03T01:05:13.306Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1654822470-22799185652",
@@ -765,7 +813,7 @@
     "lowest30d": true,
     "vendas": 297,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-03T01:05:13.306Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -813,7 +861,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-02T21:05:14.630Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -910,30 +958,6 @@
     "vendas": 363,
     "publishedAt": "2026-10-01T20:05:19.306Z",
     "checkedAt": "2026-10-03T01:05:13.306Z"
-  },
-  {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 40.99,
-    "originalPrice": 128.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/1BMm8rCkMM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 780,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
   },
   {
     "id": "SP1432047811-46861500842",
@@ -1101,7 +1125,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1581,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 567,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -1821,7 +1845,7 @@
     "lowest30d": false,
     "vendas": 3087,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB3859411227",
@@ -1845,31 +1869,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
-  },
-  {
-    "id": "SP1662989296-58200253216",
-    "productId": "SP1662989296-58200253216",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Jogo C/ 4 ou 2 Travesseiro Pluma de Ganso Confortavel e Macio Antiacaro 50x70cm",
-    "price": 30.98,
-    "originalPrice": 91.12,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjve1j1ueww5a",
-    "url": "https://s.shopee.com.br/60S3SMlLJ6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 11266,
-    "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1192668514-44902618171",
@@ -1918,30 +1918,6 @@
     "vendas": 1710,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-03T02:05:18.459Z"
-  },
-  {
-    "id": "SP543131983-14478149714",
-    "productId": "SP543131983-14478149714",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
-    "price": 110.99,
-    "originalPrice": 317.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
-    "url": "https://s.shopee.com.br/9zy9znJ9jc",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 663,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2302,6 +2278,30 @@
     "vendas": 2109,
     "publishedAt": "2026-09-25T13:35:20.026Z",
     "checkedAt": "2026-10-03T01:55:10.966Z"
+  },
+  {
+    "id": "SP1662989296-58200253216",
+    "productId": "SP1662989296-58200253216",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Jogo C/ 4 ou 2 Travesseiro Pluma de Ganso Confortavel e Macio Antiacaro 50x70cm",
+    "price": 31.99,
+    "originalPrice": 91.4,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjve1j1ueww5a",
+    "url": "https://s.shopee.com.br/60S3SMlLJ6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 11266,
+    "publishedAt": "2026-09-25T10:35:15.579Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -2781,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 3511,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -2886,8 +2886,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "INOVA Caixa De Som Bluetooth Tws Estéreo Alta Hifi Longa Duração IPX6 Speaker Portátil Som Potente Casa Caixa Som",
-    "price": 79.99,
-    "originalPrice": 216.19,
+    "price": 79.98,
+    "originalPrice": 216.16,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2901,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 435,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -3189,7 +3189,31 @@
     "lowest30d": false,
     "vendas": 114,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
+  },
+  {
+    "id": "SP1640657682-57902938444",
+    "productId": "SP1640657682-57902938444",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+    "price": 37.8,
+    "originalPrice": 99.47,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+    "url": "https://s.shopee.com.br/AAHcU83CZR",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2249,
+    "publishedAt": "2026-10-01T01:05:12.599Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1613760239-42627022095",
@@ -3429,31 +3453,7 @@
     "lowest30d": false,
     "vendas": 899,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
-  },
-  {
-    "id": "SP1640657682-57902938444",
-    "productId": "SP1640657682-57902938444",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
-    "price": 38.9,
-    "originalPrice": 99.74,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-    "url": "https://s.shopee.com.br/AAHcU83CZR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2249,
-    "publishedAt": "2026-10-01T01:05:12.599Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1926504795-58267597637",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 1784,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP426565286-22998062592",
@@ -3525,7 +3525,7 @@
     "lowest30d": false,
     "vendas": 7555,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1549432275-22894650995",
@@ -3549,7 +3549,7 @@
     "lowest30d": false,
     "vendas": 195,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP400392100-55315362916",
@@ -3573,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 383,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP777798362-23097144074",
@@ -3693,7 +3693,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3717,7 +3717,7 @@
     "lowest30d": true,
     "vendas": 1167,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1129221357-58263168560",
@@ -3813,7 +3813,7 @@
     "lowest30d": true,
     "vendas": 2254,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -3861,7 +3861,7 @@
     "lowest30d": true,
     "vendas": 115,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP691044039-45403255215",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 775,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP728389176-58217580101",
@@ -4101,7 +4101,7 @@
     "lowest30d": false,
     "vendas": 4692,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP316479006-22331954820",
@@ -4125,7 +4125,7 @@
     "lowest30d": false,
     "vendas": 175,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 1029,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -4269,7 +4269,7 @@
     "lowest30d": false,
     "vendas": 369,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -4293,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 198,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4317,7 +4317,7 @@
     "lowest30d": true,
     "vendas": 1076,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1695969912-58252830945",
@@ -4437,7 +4437,7 @@
     "lowest30d": false,
     "vendas": 1175,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1386778754-22698715022",
@@ -4485,7 +4485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4605,7 +4605,7 @@
     "lowest30d": false,
     "vendas": 623,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -4717,7 +4717,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjbnlae6ae4maf",
-    "url": "https://s.shopee.com.br/3LRGgYQf77",
+    "url": "https://s.shopee.com.br/1BMohHMS0V",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 1238,
     "publishedAt": "2026-10-01T12:35:21.480Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1295890416-49355388730",
@@ -4750,6 +4750,30 @@
     "vendas": 276,
     "publishedAt": "2026-09-30T22:35:14.028Z",
     "checkedAt": "2026-10-03T01:05:13.306Z"
+  },
+  {
+    "id": "SP549655861-22099059804",
+    "productId": "SP549655861-22099059804",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calça Feminina Flare Pantalona Bege Jeans Premium Empina Bumbum Boca de Sino Cos Alto Com Elastano",
+    "price": 58.8,
+    "originalPrice": 140,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytdcdv09ona9",
+    "url": "https://s.shopee.com.br/4B0N9LXszl",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4942,
+    "publishedAt": "2026-09-29T21:05:17.821Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -4821,7 +4845,7 @@
     "lowest30d": true,
     "vendas": 248,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1193388723-22493242261",
@@ -4941,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 2417,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1267085301-22699386857",
@@ -5085,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 647,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1855363700-58263878399",
@@ -5253,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-01T19:35:14.487Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1256536666-42667368581",
@@ -5349,7 +5373,7 @@
     "lowest30d": true,
     "vendas": 576,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -5686,30 +5710,6 @@
     "vendas": 857,
     "publishedAt": "2026-10-01T14:35:16.076Z",
     "checkedAt": "2026-10-03T02:35:13.884Z"
-  },
-  {
-    "id": "SP549655861-22099059804",
-    "productId": "SP549655861-22099059804",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calça Feminina Flare Pantalona Bege Jeans Premium Empina Bumbum Boca de Sino Cos Alto Com Elastano",
-    "price": 62.99,
-    "originalPrice": 139.98,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytdcdv09ona9",
-    "url": "https://s.shopee.com.br/4B0N9LXszl",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4942,
-    "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -6453,7 +6453,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -6573,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1633008252-58261231522",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7101,7 +7101,7 @@
     "lowest30d": true,
     "vendas": 2088,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP391739739-22397325916",
@@ -7125,7 +7125,7 @@
     "lowest30d": true,
     "vendas": 551,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP386537194-44418252509",
@@ -7437,7 +7437,7 @@
     "lowest30d": false,
     "vendas": 400,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1613760239-25747110958",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 2801,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP438855294-18997751270",
@@ -7629,7 +7629,7 @@
     "lowest30d": true,
     "vendas": 1579,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1032794147-51411262878",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": 1387,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1368960729-21799856205",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 2955,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP408653169-52858085838",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": 2995,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1006863047-23994985063",
@@ -7917,7 +7917,7 @@
     "lowest30d": true,
     "vendas": 1275,
     "publishedAt": "2026-09-24T02:35:15.869Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB2974151655",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP564780452-42350102136",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP811879342-23794641068",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": 6358,
     "publishedAt": "2026-09-25T05:35:14.502Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB5690651572",
@@ -8277,7 +8277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB4039445285",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB7707499492",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB3758861673",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB5119946035",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T09:35:14.226Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1998,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 1029,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8550,8 +8550,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Luminária de Mesa Moderna Touch com Controle Remoto, Luz LED de Cabeceira com Timer Ajustável",
-    "price": 45.69,
-    "originalPrice": 152.3,
+    "price": 45.68,
+    "originalPrice": 152.27,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -8565,7 +8565,7 @@
     "lowest30d": true,
     "vendas": 1516,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 1219,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 2038,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -10077,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 1127,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -11205,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 665,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -11229,7 +11229,7 @@
     "lowest30d": true,
     "vendas": 479,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -11253,7 +11253,7 @@
     "lowest30d": true,
     "vendas": 5255,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -11349,7 +11349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-03T03:35:12.237Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11733,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 490,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-03T02:35:13.884Z"
   },
   {
-    "id": "SP1494995608-56559188991",
-    "productId": "SP1494995608-56559188991",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "HUAWEI WATCH FIT 5 | Smartwatch Watch | 182\" AMOLED Lightweight Design | Mini Workout | 64 GB | GPS",
-    "price": 844,
-    "originalPrice": 1507.14,
-    "discount": 44,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-msy2uvg3ka9y8b",
-    "url": "https://s.shopee.com.br/4LJnmLbo4m",
-    "freeShipping": false,
+    "id": "MLB7324004066",
+    "productId": "MLB75682176",
+    "marketplace": "ml",
+    "fonte": "MLB264787",
+    "categoria": "Beleza",
+    "title": "Gokoco GD037 Modeladora/Cacheadora - Preto",
+    "price": 199,
+    "originalPrice": 399,
+    "discount": 50,
+    "base": "media",
+    "averagePrice": 399,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_653652-MLA113721401192_072026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7324004066?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 753,
-    "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-03T00:35:13.739Z"
+    "vendas": null,
+    "publishedAt": "2026-10-03T04:05:12.456Z",
+    "checkedAt": "2026-10-03T04:05:12.456Z"
   }
 ]
