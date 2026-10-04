@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "LIVROS0410"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 199",
+    "escopo": "Livros e Jogos",
+    "origem": "avidaefeitadedesconto/16244",
+    "quando": "2026-10-04T15:18:01+00:00",
+    "id": "ml:LIVROS0410",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MOBILIA0410"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": "R$ 1099",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16243",
+    "quando": "2026-10-04T15:17:51+00:00",
+    "id": "ml:MOBILIA0410",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE0410"
     ],
     "desconto": "R$ 50 OFF",
@@ -53,20 +81,6 @@
     "origem": "avidaefeitadedesconto/16238",
     "quando": "2026-10-04T03:14:25+00:00",
     "id": "ml:RESGATEFULL0410",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BEBES0310"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 40",
-    "minimo": null,
-    "escopo": "Bebês e Pets",
-    "origem": "avidaefeitadedesconto/16237",
-    "quando": "2026-10-03T15:13:44+00:00",
-    "id": "ml:BEBES0310",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
