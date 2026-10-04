@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -43,9 +43,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1102,
+    "vendas": 1169,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -163,9 +163,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1352,
+    "vendas": 1317,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -187,9 +187,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2802,
+    "vendas": 2719,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -235,9 +235,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 940,
+    "vendas": 886,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1569804599-23598922504",
@@ -715,9 +715,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1213,
+    "vendas": 1217,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -835,9 +835,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 246,
+    "vendas": 244,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1654822470-22799185652",
@@ -859,9 +859,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 287,
+    "vendas": 273,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -1173,7 +1173,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1339,9 +1339,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2494,
+    "vendas": 2511,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -1363,9 +1363,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 541,
+    "vendas": 555,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-04T16:35:15.478Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -1893,7 +1893,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1917,6 +1917,30 @@
     "lowest30d": true,
     "vendas": 11449,
     "publishedAt": "2026-09-25T10:35:15.579Z",
+    "checkedAt": "2026-10-04T19:05:13.218Z"
+  },
+  {
+    "id": "SP1855468372-58265041953",
+    "productId": "SP1855468372-58265041953",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 55x75 cm",
+    "price": 35,
+    "originalPrice": 100,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mr57ho9hi0hx60",
+    "url": "https://s.shopee.com.br/gQajCKEuC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2031,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
     "checkedAt": "2026-10-04T19:05:13.218Z"
   },
   {
@@ -2616,6 +2640,30 @@
     "checkedAt": "2026-10-04T18:35:17.656Z"
   },
   {
+    "id": "SP1286676196-58263880417",
+    "productId": "SP1286676196-58263880417",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Caminha Sofá Pet Todos Tamanhos Com Travesseiro Ideal Cães e Gatos de Pequeno a Grande Porte Em Veludo Premium Reforçada",
+    "price": 129.9,
+    "originalPrice": 351.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259y-mqe3w27vfaxb9a",
+    "url": "https://s.shopee.com.br/4B0Std6unh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 908,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
+    "checkedAt": "2026-10-04T19:05:13.218Z"
+  },
+  {
     "id": "SP1876740465-23295121971",
     "productId": "SP1876740465-23295121971",
     "marketplace": "shopee",
@@ -2659,9 +2707,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 453,
+    "vendas": 456,
     "publishedAt": "2026-09-30T23:12:08.055Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -3141,7 +3189,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP396114006-23998767632",
@@ -3643,9 +3691,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2354,
+    "vendas": 2382,
     "publishedAt": "2026-10-01T01:05:12.599Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1926504795-58267597637",
@@ -3691,9 +3739,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1913,
+    "vendas": 1991,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP426565286-22998062592",
@@ -3715,9 +3763,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 7598,
+    "vendas": 7564,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1549432275-22894650995",
@@ -3739,9 +3787,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 204,
+    "vendas": 210,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP400392100-55315362916",
@@ -3763,9 +3811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 404,
+    "vendas": 411,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1297519240-24897571457",
@@ -3789,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 300,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3811,9 +3859,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3404,
+    "vendas": 3271,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP777798362-23097144074",
@@ -3835,9 +3883,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 335,
+    "vendas": 341,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -3933,7 +3981,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3955,9 +4003,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1167,
+    "vendas": 1168,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1129221357-58263168560",
@@ -4051,9 +4099,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2251,
+    "vendas": 2193,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -4069,15 +4117,39 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81zuh-ml4favk9v1tvf8",
-    "url": "https://s.shopee.com.br/2gBa9py7sv",
+    "url": "https://s.shopee.com.br/9AP8t230IF",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 114,
+    "vendas": 113,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
+  },
+  {
+    "id": "SP1023765996-23199129943",
+    "productId": "SP1023765996-23199129943",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Kit 2 un Arranhador De Canto Para Gatos Protetor Canto Sofá Cama Box",
+    "price": 39.69,
+    "originalPrice": 99.23,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mogtv5q8r28017",
+    "url": "https://s.shopee.com.br/W7AWtKsF9",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1229,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
+    "checkedAt": "2026-10-04T19:05:13.218Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -4291,9 +4363,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 815,
+    "vendas": 831,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP728389176-58217580101",
@@ -4387,9 +4459,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4779,
+    "vendas": 4792,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP316479006-22331954820",
@@ -4411,9 +4483,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 175,
+    "vendas": 178,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -4501,15 +4573,15 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82634-mmga7nipga33cd",
-    "url": "https://s.shopee.com.br/W79qMq0pq",
+    "url": "https://s.shopee.com.br/8Kq1l3k3A4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1034,
+    "vendas": 1027,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -4579,9 +4651,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 393,
+    "vendas": 383,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -4603,9 +4675,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 202,
+    "vendas": 201,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4629,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 1065,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -4651,9 +4723,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1373,
+    "vendas": 1362,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP907076717-58204551078",
@@ -4747,9 +4819,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1175,
+    "vendas": 1176,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1386778754-22698715022",
@@ -4797,7 +4869,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4819,9 +4891,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 281,
+    "vendas": 278,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -4867,9 +4939,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 633,
+    "vendas": 623,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -5011,9 +5083,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1409,
+    "vendas": 1520,
     "publishedAt": "2026-10-01T12:35:21.480Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1295890416-49355388730",
@@ -5035,9 +5107,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 276,
+    "vendas": 278,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP549655861-22099059804",
@@ -5059,9 +5131,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 5073,
+    "vendas": 5192,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -5131,9 +5203,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 251,
+    "vendas": 250,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1193388723-22493242261",
@@ -5203,9 +5275,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 247,
+    "vendas": 245,
     "publishedAt": "2026-10-02T14:05:14.128Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1767575955-58265818230",
@@ -5299,9 +5371,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2480,
+    "vendas": 2538,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1104525762-20697728235",
@@ -5371,9 +5443,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 959,
+    "vendas": 923,
     "publishedAt": "2026-09-25T13:05:16.362Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1459307687-18199657078",
@@ -5419,9 +5491,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 658,
+    "vendas": 644,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1855363700-58263878399",
@@ -5611,9 +5683,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 767,
+    "vendas": 786,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP724248208-58214396610",
@@ -5635,9 +5707,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1065,
+    "vendas": 1007,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -5659,9 +5731,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 406,
+    "vendas": 441,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1358566916-58217310867",
@@ -5683,9 +5755,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 243,
+    "vendas": 277,
     "publishedAt": "2026-10-01T19:35:14.487Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1256536666-42667368581",
@@ -5779,9 +5851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 634,
+    "vendas": 678,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -5830,54 +5902,6 @@
     "vendas": 2148,
     "publishedAt": "2026-09-23T14:59:45.074Z",
     "checkedAt": "2026-10-04T18:21:03.601Z"
-  },
-  {
-    "id": "SP629805123-58205197736",
-    "productId": "SP629805123-58205197736",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 3 potes Organizadores Geladeira Organizador Alimentos Vegetais Cozinha Moderna",
-    "price": 34.98,
-    "originalPrice": 79.5,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82608-mknw9ym097uv9a",
-    "url": "https://s.shopee.com.br/40h1rxVKob",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3151,
-    "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-10-04T17:35:17.145Z"
-  },
-  {
-    "id": "SP1800846939-58210528634",
-    "productId": "SP1800846939-58210528634",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Kit 2 Toalhas de Banho Grandes Macias Alta Absorção Toque Suave Secagem Rápida. 70x140cm",
-    "price": 49.27,
-    "originalPrice": 111.98,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82596-mtdvd2zjk0sh98",
-    "url": "https://s.shopee.com.br/7VGu4Hwfql",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1932,
-    "publishedAt": "2026-09-24T06:05:14.224Z",
-    "checkedAt": "2026-10-04T18:05:14.621Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -6192,6 +6216,30 @@
     "checkedAt": "2026-10-04T17:35:17.145Z"
   },
   {
+    "id": "SP1658183207-58258793992",
+    "productId": "SP1658183207-58258793992",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "BASIKE Localizador Bluetooth Compatível com Android e iOS para Rastreador de Objetos Perdidos/Pet",
+    "price": 58.79,
+    "originalPrice": 127.8,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820mh-morqs1zak079e8",
+    "url": "https://s.shopee.com.br/905ieVoVz5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1518,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
+    "checkedAt": "2026-10-04T19:05:13.218Z"
+  },
+  {
     "id": "SP1362857362-58206175995",
     "productId": "SP1362857362-58206175995",
     "marketplace": "shopee",
@@ -6456,30 +6504,6 @@
     "checkedAt": "2026-10-04T17:35:17.145Z"
   },
   {
-    "id": "SP1397076460-23298359374",
-    "productId": "SP1397076460-23298359374",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Roupeiro Guarda Roupa Portatil Cabideiro Arara Para Roupa Sapateira Organizador Multiuso Armário",
-    "price": 94.48,
-    "originalPrice": 205.39,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkt-m642rqkvabq625",
-    "url": "https://s.shopee.com.br/2LYlyh1bB1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2760,
-    "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-10-04T17:35:17.145Z"
-  },
-  {
     "id": "SP1542039589-20699836502",
     "productId": "SP1542039589-20699836502",
     "marketplace": "shopee",
@@ -6621,7 +6645,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -7053,7 +7077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB4411250505",
@@ -7077,7 +7101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7176,6 +7200,30 @@
     "checkedAt": "2026-10-04T18:05:14.621Z"
   },
   {
+    "id": "SP753981666-58208125768",
+    "productId": "SP753981666-58208125768",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Rastreador Inteligente Smart Tag Compatível com Find Hub Google Android para Chaves Pets Malas",
+    "price": 32.98,
+    "originalPrice": 65.96,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mmkdzvftpyiudb",
+    "url": "https://s.shopee.com.br/3qNcV18BTb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1189,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
+    "checkedAt": "2026-10-04T19:05:13.218Z"
+  },
+  {
     "id": "MLB3513753783",
     "productId": "MLB9397003",
     "marketplace": "ml",
@@ -7197,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB3587206809",
@@ -7221,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7464,54 +7512,6 @@
     "checkedAt": "2026-10-04T18:05:14.621Z"
   },
   {
-    "id": "SP634335437-58204159189",
-    "productId": "SP634335437-58204159189",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Feminina Media Triangle Elegante com Alça de Ombro Transversal e Lateral Couro Pu Premium",
-    "price": 39.97,
-    "originalPrice": 79.94,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzte66cvyf641",
-    "url": "https://s.shopee.com.br/8Kq1Ua5JH6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1129,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-04T18:05:14.621Z"
-  },
-  {
-    "id": "SP528261467-49108107903",
-    "productId": "SP528261467-49108107903",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
-    "price": 79.9,
-    "originalPrice": 159.8,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
-    "url": "https://s.shopee.com.br/3g4BGxuzVZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3683,
-    "publishedAt": "2026-09-24T09:35:18.035Z",
-    "checkedAt": "2026-10-04T17:35:17.145Z"
-  },
-  {
     "id": "SP1251322845-23898785642",
     "productId": "SP1251322845-23898785642",
     "marketplace": "shopee",
@@ -7531,9 +7531,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1620,
+    "vendas": 1565,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7627,9 +7627,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 589,
+    "vendas": 597,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7843,9 +7843,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1564,
+    "vendas": 1553,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1032794147-51411262878",
@@ -7867,9 +7867,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1423,
+    "vendas": 1402,
     "publishedAt": "2026-09-24T07:05:16.933Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1468415010-23893219807",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -8037,7 +8037,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1494995608-42830228238",
@@ -8133,7 +8133,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-04T10:05:15.534Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8251,9 +8251,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 6311,
+    "vendas": 6212,
     "publishedAt": "2026-09-25T05:35:14.502Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB3758861673",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB4039445285",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB5690651572",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB7707499492",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB3773596863",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-03T09:35:12.762Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8515,9 +8515,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2087,
+    "vendas": 2141,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8539,9 +8539,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1021,
+    "vendas": 1028,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8563,9 +8563,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1492,
+    "vendas": 1458,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8587,9 +8587,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1257,
+    "vendas": 1268,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -9187,9 +9187,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1954,
+    "vendas": 1842,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -9960,30 +9960,6 @@
     "checkedAt": "2026-10-04T18:21:03.601Z"
   },
   {
-    "id": "SP1855468372-58265041953",
-    "productId": "SP1855468372-58265041953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 55x75 cm",
-    "price": 35,
-    "originalPrice": 100,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mr57ho9hi0hx60",
-    "url": "https://s.shopee.com.br/gQajCKEuC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2031,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
-  },
-  {
     "id": "SP1673514861-58252475087",
     "productId": "SP1673514861-58252475087",
     "marketplace": "shopee",
@@ -10003,9 +9979,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1119,
+    "vendas": 1116,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -10608,30 +10584,6 @@
     "checkedAt": "2026-10-04T17:05:17.005Z"
   },
   {
-    "id": "SP1286676196-58263880417",
-    "productId": "SP1286676196-58263880417",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Caminha Sofá Pet Todos Tamanhos Com Travesseiro Ideal Cães e Gatos de Pequeno a Grande Porte Em Veludo Premium Reforçada",
-    "price": 129.9,
-    "originalPrice": 351.08,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259y-mqe3w27vfaxb9a",
-    "url": "https://s.shopee.com.br/4B0Std6unh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 908,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
-  },
-  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -11203,9 +11155,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 675,
+    "vendas": 681,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -11227,9 +11179,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 514,
+    "vendas": 537,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -11251,9 +11203,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 5220,
+    "vendas": 5139,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1203451725-22597456045",
@@ -11349,7 +11301,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11736,30 +11688,6 @@
     "checkedAt": "2026-10-04T17:35:17.145Z"
   },
   {
-    "id": "SP1023765996-23199129943",
-    "productId": "SP1023765996-23199129943",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Kit 2 un Arranhador De Canto Para Gatos Protetor Canto Sofá Cama Box",
-    "price": 39.69,
-    "originalPrice": 99.23,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mogtv5q8r28017",
-    "url": "https://s.shopee.com.br/W7AWtKsF9",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1229,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
-  },
-  {
     "id": "SP706485941-24714753678",
     "productId": "SP706485941-24714753678",
     "marketplace": "shopee",
@@ -11779,9 +11707,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 499,
+    "vendas": 513,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-04T16:05:19.514Z"
+    "checkedAt": "2026-10-04T19:35:19.976Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -11808,6 +11736,54 @@
     "checkedAt": "2026-10-04T18:21:03.601Z"
   },
   {
+    "id": "SP629805123-58205197736",
+    "productId": "SP629805123-58205197736",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 3 potes Organizadores Geladeira Organizador Alimentos Vegetais Cozinha Moderna",
+    "price": 34.98,
+    "originalPrice": 79.5,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82608-mknw9ym097uv9a",
+    "url": "https://s.shopee.com.br/40h1rxVKob",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3151,
+    "publishedAt": "2026-09-24T09:35:18.035Z",
+    "checkedAt": "2026-10-04T17:35:17.145Z"
+  },
+  {
+    "id": "SP1800846939-58210528634",
+    "productId": "SP1800846939-58210528634",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Kit 2 Toalhas de Banho Grandes Macias Alta Absorção Toque Suave Secagem Rápida. 70x140cm",
+    "price": 49.27,
+    "originalPrice": 111.98,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82596-mtdvd2zjk0sh98",
+    "url": "https://s.shopee.com.br/7VGu4Hwfql",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1932,
+    "publishedAt": "2026-09-24T06:05:14.224Z",
+    "checkedAt": "2026-10-04T18:05:14.621Z"
+  },
+  {
     "id": "SP341167297-22692897607",
     "productId": "SP341167297-22692897607",
     "marketplace": "shopee",
@@ -11832,28 +11808,28 @@
     "checkedAt": "2026-10-04T18:05:14.621Z"
   },
   {
-    "id": "SP1658183207-58258793992",
-    "productId": "SP1658183207-58258793992",
+    "id": "SP1397076460-23298359374",
+    "productId": "SP1397076460-23298359374",
     "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "BASIKE Localizador Bluetooth Compatível com Android e iOS para Rastreador de Objetos Perdidos/Pet",
-    "price": 58.79,
-    "originalPrice": 127.8,
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Roupeiro Guarda Roupa Portatil Cabideiro Arara Para Roupa Sapateira Organizador Multiuso Armário",
+    "price": 94.48,
+    "originalPrice": 205.39,
     "discount": 54,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820mh-morqs1zak079e8",
-    "url": "https://s.shopee.com.br/905ieVoVz5",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkt-m642rqkvabq625",
+    "url": "https://s.shopee.com.br/2LYlyh1bB1",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 1518,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
+    "lowest30d": true,
+    "vendas": 2760,
+    "publishedAt": "2026-09-24T09:35:18.035Z",
+    "checkedAt": "2026-10-04T17:35:17.145Z"
   },
   {
     "id": "SP1662583623-52763574749",
@@ -11928,6 +11904,54 @@
     "checkedAt": "2026-10-04T17:05:17.005Z"
   },
   {
+    "id": "SP634335437-58204159189",
+    "productId": "SP634335437-58204159189",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa Feminina Media Triangle Elegante com Alça de Ombro Transversal e Lateral Couro Pu Premium",
+    "price": 39.97,
+    "originalPrice": 79.94,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzte66cvyf641",
+    "url": "https://s.shopee.com.br/8Kq1Ua5JH6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1129,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-10-04T18:05:14.621Z"
+  },
+  {
+    "id": "SP528261467-49108107903",
+    "productId": "SP528261467-49108107903",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
+    "price": 79.9,
+    "originalPrice": 159.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
+    "url": "https://s.shopee.com.br/3g4BGxuzVZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3683,
+    "publishedAt": "2026-09-24T09:35:18.035Z",
+    "checkedAt": "2026-10-04T17:35:17.145Z"
+  },
+  {
     "id": "SP667672441-58258190467",
     "productId": "SP667672441-58258190467",
     "marketplace": "shopee",
@@ -11949,30 +11973,6 @@
     "lowest30d": true,
     "vendas": 1903,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-04T19:05:13.218Z"
-  },
-  {
-    "id": "SP753981666-58208125768",
-    "productId": "SP753981666-58208125768",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Rastreador Inteligente Smart Tag Compatível com Find Hub Google Android para Chaves Pets Malas",
-    "price": 32.98,
-    "originalPrice": 65.96,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mmkdzvftpyiudb",
-    "url": "https://s.shopee.com.br/3qNcV18BTb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1189,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
     "checkedAt": "2026-10-04T19:05:13.218Z"
   },
   {
