@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 2825,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -429,7 +429,7 @@
     "lowest30d": false,
     "vendas": 340,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -453,7 +453,7 @@
     "lowest30d": true,
     "vendas": 214,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -885,7 +885,7 @@
     "lowest30d": true,
     "vendas": 800,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -1077,7 +1077,7 @@
     "lowest30d": false,
     "vendas": 1164,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1101,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 413,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1432047811-46861500842",
@@ -1125,7 +1125,7 @@
     "lowest30d": false,
     "vendas": 627,
     "publishedAt": "2026-09-30T03:05:18.372Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -1149,7 +1149,7 @@
     "lowest30d": false,
     "vendas": 1320,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -1293,7 +1293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1893,7 +1893,7 @@
     "lowest30d": true,
     "vendas": 8169,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -1941,7 +1941,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -2061,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 490,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-05T11:05:14.019Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -2517,7 +2517,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3213,30 +3213,6 @@
     "lowest30d": true,
     "vendas": 257,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-05T13:35:14.015Z"
-  },
-  {
-    "id": "SP1325610951-23793196370",
-    "productId": "SP1325610951-23793196370",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2024 Novo T800 Ultra 2 Series 9 Resposta Ao Gesto Smart Watch Carregador Sem Fio À Prova D'água",
-    "price": 36.8,
-    "originalPrice": 99.46,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyqg6j7x4cyd12",
-    "url": "https://s.shopee.com.br/1gJ6xKOfll",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 287,
-    "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-05T13:35:14.015Z"
   },
   {
@@ -4005,7 +3981,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -4893,7 +4869,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -5565,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 911,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5589,7 +5565,7 @@
     "lowest30d": false,
     "vendas": 1006,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1655406395-58208901366",
@@ -5613,7 +5589,7 @@
     "lowest30d": false,
     "vendas": 145,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP998773037-58260622031",
@@ -5661,7 +5637,7 @@
     "lowest30d": false,
     "vendas": 866,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5685,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 364,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1125543872-22194698355",
@@ -5949,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 844,
     "publishedAt": "2026-09-29T18:05:17.050Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1724021947-58254952015",
@@ -6045,7 +6021,7 @@
     "lowest30d": false,
     "vendas": 141,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -6093,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 1302,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -6117,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 959,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -6165,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 2838,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -6189,7 +6165,7 @@
     "lowest30d": false,
     "vendas": 522,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP280443173-56602981661",
@@ -6309,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 326,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB3725747499",
@@ -6333,7 +6309,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1636720176-58250985764",
@@ -6406,30 +6382,6 @@
     "vendas": 1184,
     "publishedAt": "2026-10-05T12:05:13.833Z",
     "checkedAt": "2026-10-05T12:05:13.833Z"
-  },
-  {
-    "id": "SP1803894758-46013185900",
-    "productId": "SP1803894758-46013185900",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Parafusadeira Furadeira Com 48V Bateria 2 Velocidades Uso Doméstico Com Baterias Duplas E Caixa De Ferramentas",
-    "price": 91.99,
-    "originalPrice": 199.98,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq4jhpqk46xbda",
-    "url": "https://s.shopee.com.br/8fSrEAxLRh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 6991,
-    "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
   },
   {
     "id": "SP1658183207-58258793992",
@@ -6549,7 +6501,7 @@
     "lowest30d": false,
     "vendas": 1686,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -6573,7 +6525,7 @@
     "lowest30d": false,
     "vendas": 1344,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP662418492-45509784058",
@@ -6597,7 +6549,7 @@
     "lowest30d": false,
     "vendas": 1221,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -6717,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP492409068-23994283505",
@@ -6966,8 +6918,8 @@
     "fonte": "shopee:q:suporte celular carro",
     "categoria": "Celulares",
     "title": "Suporte Celular Veicular Para Painel Carro Trava Ventosa Vidro 360º Graus Ajustavel Hmaston CJ-10",
-    "price": 33.8,
-    "originalPrice": 70.42,
+    "price": 18.87,
+    "originalPrice": 39.31,
     "discount": 52,
     "base": "vendedor",
     "averagePrice": null,
@@ -6978,10 +6930,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 378,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -7005,7 +6957,7 @@
     "lowest30d": false,
     "vendas": 141,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -7029,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 137,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP359168917-44351550997",
@@ -7053,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 117,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP330126581-58254315815",
@@ -7077,7 +7029,7 @@
     "lowest30d": false,
     "vendas": 874,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1025221483-58259568016",
@@ -7213,7 +7165,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825az-msr8a8hbxzb5eb",
-    "url": "https://s.shopee.com.br/905iFiOYWO",
+    "url": "https://s.shopee.com.br/gQc1Y56kc",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7221,7 +7173,7 @@
     "lowest30d": false,
     "vendas": 340,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1551412164-58210681509",
@@ -7293,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 196,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -7341,7 +7293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB4411250505",
@@ -7365,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7461,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP346235717-23292479898",
@@ -7509,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7678,6 +7630,30 @@
     "vendas": 489,
     "publishedAt": "2026-09-24T17:35:37.798Z",
     "checkedAt": "2026-10-05T12:35:15.197Z"
+  },
+  {
+    "id": "SP1803894758-46013185900",
+    "productId": "SP1803894758-46013185900",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Parafusadeira Furadeira Com 48V Bateria 2 Velocidades Uso Doméstico Com Baterias Duplas E Caixa De Ferramentas",
+    "price": 99.99,
+    "originalPrice": 196.06,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq4jhpqk46xbda",
+    "url": "https://s.shopee.com.br/8fSrEAxLRh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 6991,
+    "publishedAt": "2026-10-05T03:05:13.235Z",
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1251322845-23898785642",
@@ -7917,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB5187059120",
@@ -7941,7 +7917,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": 320,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB2974151655",
@@ -7989,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -8037,7 +8013,7 @@
     "lowest30d": false,
     "vendas": 754,
     "publishedAt": "2026-09-25T02:05:14.973Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -8061,7 +8037,7 @@
     "lowest30d": true,
     "vendas": 7453,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8085,7 +8061,31 @@
     "lowest30d": false,
     "vendas": 2960,
     "publishedAt": "2026-09-26T03:05:17.043Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
+  },
+  {
+    "id": "MLB7502648442",
+    "productId": "MLB19035706",
+    "marketplace": "ml",
+    "fonte": "MLB430598",
+    "categoria": "Informática",
+    "title": "Ssd 240gb interno Kingston Sa400s37/240g cor preto",
+    "price": 229,
+    "originalPrice": 389,
+    "discount": 41,
+    "base": "media",
+    "averagePrice": 389,
+    "sellers": 44,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893707-MLA84846929763_052025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7502648442?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-05T14:05:17.137Z",
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB3758861673",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB4039445285",
@@ -8287,11 +8287,11 @@
     "categoria": "Eletrodomésticos",
     "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
     "price": 137.61,
-    "originalPrice": 189.13,
+    "originalPrice": 189,
     "discount": 27,
     "base": "media",
-    "averagePrice": 189.13,
-    "sellers": 29,
+    "averagePrice": 189,
+    "sellers": 30,
     "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4039445285?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB7357420804",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T10:05:15.534Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB7707499492",
@@ -8335,10 +8335,10 @@
     "categoria": "Celulares",
     "title": "Samsung Galaxy Buds Core branco",
     "price": 225,
-    "originalPrice": 299,
-    "discount": 25,
+    "originalPrice": 296.63,
+    "discount": 24,
     "base": "media",
-    "averagePrice": 299,
+    "averagePrice": 296.63,
     "sellers": 27,
     "image": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7707499492?matt_word=promoninja&matt_tool=19839069",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB3773596863",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-03T09:35:12.762Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8493,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 2722,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 7911,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -8637,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 790,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -8701,7 +8701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
-    "url": "https://s.shopee.com.br/qjztmIMlG",
+    "url": "https://s.shopee.com.br/9fLQVuE4my",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 445,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 2260,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8757,7 +8757,7 @@
     "lowest30d": true,
     "vendas": 2039,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8781,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 1974,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8797,7 +8797,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
-    "url": "https://s.shopee.com.br/1BMqIOH65I",
+    "url": "https://s.shopee.com.br/8AWcj9Jmpb",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8805,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 491,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8829,7 +8829,7 @@
     "lowest30d": false,
     "vendas": 610,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 2616,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 1742,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9021,7 +9021,7 @@
     "lowest30d": true,
     "vendas": 2087,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 1490,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 3216,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10005,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 525,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 2859,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10272,6 +10272,30 @@
     "checkedAt": "2026-10-05T11:35:14.466Z"
   },
   {
+    "id": "SP1325610951-23793196370",
+    "productId": "SP1325610951-23793196370",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2024 Novo T800 Ultra 2 Series 9 Resposta Ao Gesto Smart Watch Carregador Sem Fio À Prova D'água",
+    "price": 36.8,
+    "originalPrice": 99.46,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyqg6j7x4cyd12",
+    "url": "https://s.shopee.com.br/1gJ6xKOfll",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 287,
+    "publishedAt": "2026-09-24T12:35:15.740Z",
+    "checkedAt": "2026-10-05T13:35:14.015Z"
+  },
+  {
     "id": "SP280795353-23597640147",
     "productId": "SP280795353-23597640147",
     "marketplace": "shopee",
@@ -10293,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 406,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -11349,7 +11373,7 @@
     "lowest30d": false,
     "vendas": 1463,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP447122151-22196501710",
@@ -11397,7 +11421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11589,7 +11613,7 @@
     "lowest30d": true,
     "vendas": 491,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -11757,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 878,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP451291172-58266510962",
@@ -11805,7 +11829,7 @@
     "lowest30d": false,
     "vendas": 397,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -11853,7 +11877,7 @@
     "lowest30d": true,
     "vendas": 386,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-05T10:35:13.710Z"
+    "checkedAt": "2026-10-05T14:35:16.691Z"
   },
   {
     "id": "SP441185571-22693072879",
@@ -11974,29 +11998,5 @@
     "vendas": 646,
     "publishedAt": "2026-09-24T10:35:15.927Z",
     "checkedAt": "2026-10-05T13:05:13.777Z"
-  },
-  {
-    "id": "MLB7502648442",
-    "productId": "MLB19035706",
-    "marketplace": "ml",
-    "fonte": "MLB430598",
-    "categoria": "Informática",
-    "title": "Ssd 240gb interno Kingston Sa400s37/240g cor preto",
-    "price": 229,
-    "originalPrice": 389,
-    "discount": 41,
-    "base": "media",
-    "averagePrice": 389,
-    "sellers": 44,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_893707-MLA84846929763_052025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7502648442?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T14:05:17.137Z",
-    "checkedAt": "2026-10-05T14:05:17.137Z"
   }
 ]
