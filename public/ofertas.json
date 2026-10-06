@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -213,7 +213,7 @@
     "lowest30d": false,
     "vendas": 1769,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -261,7 +261,7 @@
     "lowest30d": false,
     "vendas": 2466,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 429,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -477,7 +477,7 @@
     "lowest30d": true,
     "vendas": 323,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -501,7 +501,7 @@
     "lowest30d": true,
     "vendas": 327,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -622,6 +622,30 @@
     "vendas": 160,
     "publishedAt": "2026-10-03T12:35:13.942Z",
     "checkedAt": "2026-10-06T04:35:13.505Z"
+  },
+  {
+    "id": "SP543131983-14478149714",
+    "productId": "SP543131983-14478149714",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
+    "price": 99.99,
+    "originalPrice": 322.55,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
+    "url": "https://s.shopee.com.br/9peocI2eH1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 594,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -861,7 +885,7 @@
     "lowest30d": false,
     "vendas": 234,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1197,7 +1221,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 340,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -1845,7 +1869,7 @@
     "lowest30d": true,
     "vendas": 7996,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -1965,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 476,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -1990,30 +2014,6 @@
     "vendas": 1678,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-06T02:30:18.499Z"
-  },
-  {
-    "id": "SP543131983-14478149714",
-    "productId": "SP543131983-14478149714",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
-    "price": 110.99,
-    "originalPrice": 317.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
-    "url": "https://s.shopee.com.br/9peocI2eH1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 594,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -2253,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 2190,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-06T01:35:13.000Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -2445,7 +2445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3528,6 +3528,30 @@
     "checkedAt": "2026-10-06T03:05:12.318Z"
   },
   {
+    "id": "MLB6767556748",
+    "productId": "MLB63152047",
+    "marketplace": "ml",
+    "fonte": "MLB1132",
+    "categoria": "Brinquedos",
+    "title": "Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys",
+    "price": 42.9,
+    "originalPrice": 109.53,
+    "discount": 61,
+    "base": "media",
+    "averagePrice": 109.53,
+    "sellers": 5,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_702576-MLA110388417253_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6767556748?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "PLANETA_DO_BEBE",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-06T04:35:13.505Z",
+    "checkedAt": "2026-10-06T05:05:12.903Z"
+  },
+  {
     "id": "SP340113364-23393879708",
     "productId": "SP340113364-23393879708",
     "marketplace": "shopee",
@@ -3624,6 +3648,30 @@
     "checkedAt": "2026-10-06T03:35:13.970Z"
   },
   {
+    "id": "SP691044039-45403255215",
+    "productId": "SP691044039-45403255215",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Sapateira com Cabideiro 5 Prateleiras Organizador para Roupas e Sapatos",
+    "price": 38.9,
+    "originalPrice": 99.74,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mq4y8em542rmd7",
+    "url": "https://s.shopee.com.br/8fSqGF2iU2",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1494,
+    "publishedAt": "2026-10-02T22:05:13.115Z",
+    "checkedAt": "2026-10-06T05:05:12.903Z"
+  },
+  {
     "id": "SP1926504795-58267597637",
     "productId": "SP1926504795-58267597637",
     "marketplace": "shopee",
@@ -3670,6 +3718,30 @@
     "vendas": 2053,
     "publishedAt": "2026-09-30T15:32:03.838Z",
     "checkedAt": "2026-10-06T04:35:13.505Z"
+  },
+  {
+    "id": "SP316479006-22331954820",
+    "productId": "SP316479006-22331954820",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Pulverizador Nano K5 Portátil Recarregável Esterilizador Umidificador Hidratação De Cabelo Jardim Casa Profissional",
+    "price": 54.9,
+    "originalPrice": 140.77,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7reo4-m8owwqoi7zdz95",
+    "url": "https://s.shopee.com.br/4qG8lHC5o1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 176,
+    "publishedAt": "2026-09-29T23:35:17.201Z",
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP426565286-22998062592",
@@ -3789,7 +3861,7 @@
     "lowest30d": true,
     "vendas": 343,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -3885,7 +3957,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -3909,7 +3981,7 @@
     "lowest30d": true,
     "vendas": 1162,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1129221357-58263168560",
@@ -4005,7 +4077,7 @@
     "lowest30d": true,
     "vendas": 2106,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -4053,7 +4125,7 @@
     "lowest30d": true,
     "vendas": 114,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1692649392-23794965742",
@@ -4200,30 +4272,6 @@
     "checkedAt": "2026-10-06T03:05:12.318Z"
   },
   {
-    "id": "SP691044039-45403255215",
-    "productId": "SP691044039-45403255215",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Sapateira com Cabideiro 5 Prateleiras Organizador para Roupas e Sapatos",
-    "price": 39.99,
-    "originalPrice": 99.98,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mq4y8em542rmd7",
-    "url": "https://s.shopee.com.br/8fSqGF2iU2",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1494,
-    "publishedAt": "2026-10-02T22:05:13.115Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
-  },
-  {
     "id": "SP1630828144-58200483130",
     "productId": "SP1630828144-58200483130",
     "marketplace": "shopee",
@@ -4245,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 4684,
     "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -4317,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 850,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -4366,30 +4414,6 @@
     "vendas": 169,
     "publishedAt": "2026-09-30T17:05:14.390Z",
     "checkedAt": "2026-10-06T02:35:15.454Z"
-  },
-  {
-    "id": "SP316479006-22331954820",
-    "productId": "SP316479006-22331954820",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Pulverizador Nano K5 Portátil Recarregável Esterilizador Umidificador Hidratação De Cabelo Jardim Casa Profissional",
-    "price": 55.9,
-    "originalPrice": 139.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7reo4-m8owwqoi7zdz95",
-    "url": "https://s.shopee.com.br/4qG8lHC5o1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 176,
-    "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -4485,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 1013,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -4557,7 +4581,7 @@
     "lowest30d": true,
     "vendas": 378,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -4581,7 +4605,7 @@
     "lowest30d": true,
     "vendas": 205,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4605,7 +4629,7 @@
     "lowest30d": true,
     "vendas": 1048,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1695969912-58252830945",
@@ -4677,7 +4701,7 @@
     "lowest30d": false,
     "vendas": 1340,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -4701,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 1297,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1060511679-21199846359",
@@ -4725,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 250,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -4773,7 +4797,7 @@
     "lowest30d": true,
     "vendas": 2144,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1588692817-23893972335",
@@ -4821,7 +4845,7 @@
     "lowest30d": false,
     "vendas": 1176,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4837,7 +4861,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82257-mhh2y99h4xl165",
-    "url": "https://s.shopee.com.br/80D8fi3auO",
+    "url": "https://s.shopee.com.br/1Vzjyum40k",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4845,7 +4869,7 @@
     "lowest30d": false,
     "vendas": 276,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -4917,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 620,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -4941,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 178,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP356114339-22194903369",
@@ -4989,7 +5013,7 @@
     "lowest30d": false,
     "vendas": 173,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP728370135-58264934249",
@@ -5037,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 1623,
     "publishedAt": "2026-10-01T12:35:21.480Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -5085,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 271,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP549655861-22099059804",
@@ -5109,7 +5133,7 @@
     "lowest30d": true,
     "vendas": 5223,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -5181,7 +5205,7 @@
     "lowest30d": true,
     "vendas": 247,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1193388723-22493242261",
@@ -5214,8 +5238,8 @@
     "fonte": "shopee:q:brinquedo",
     "categoria": "Brinquedos",
     "title": "Carrinho de Controle Remoto Fórmula 1 Recarregável com Drift, Fumaça e Luzes | brinquedos infantis",
-    "price": 129.8,
-    "originalPrice": 301.86,
+    "price": 129.9,
+    "originalPrice": 302.09,
     "discount": 57,
     "base": "vendedor",
     "averagePrice": null,
@@ -5229,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 425,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1485077747-58252422740",
@@ -5277,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 242,
     "publishedAt": "2026-10-02T14:05:14.128Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1386778754-22698715022",
@@ -5349,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5445,7 +5469,7 @@
     "lowest30d": false,
     "vendas": 2568,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1104525762-20697728235",
@@ -5517,7 +5541,7 @@
     "lowest30d": true,
     "vendas": 890,
     "publishedAt": "2026-09-25T13:05:16.362Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1459307687-18199657078",
@@ -5565,7 +5589,7 @@
     "lowest30d": false,
     "vendas": 627,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -5829,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 808,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP724248208-58214396610",
@@ -5853,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 942,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -5877,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 483,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1358566916-58217310867",
@@ -5901,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 292,
     "publishedAt": "2026-10-01T19:35:14.487Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1256536666-42667368581",
@@ -5958,8 +5982,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Caixa De Som C/ 2 Microfones Bluetooth 5.0 Karaokê Luzes led, Entretenimento em Casa",
-    "price": 32.89,
-    "originalPrice": 74.75,
+    "price": 32.99,
+    "originalPrice": 74.98,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -5970,10 +5994,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 719,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -6021,7 +6045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1414801857-51155037778",
@@ -6309,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 4803,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -6334,30 +6358,6 @@
     "vendas": 328,
     "publishedAt": "2026-09-28T18:05:15.508Z",
     "checkedAt": "2026-10-06T01:35:13.000Z"
-  },
-  {
-    "id": "SP1636720176-58250985764",
-    "productId": "SP1636720176-58250985764",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Caneca Térmica Copo Magnética Misturador De Bebidas Mixer Café Shake 380ml Suco Elétrica Recarregável",
-    "price": 30.98,
-    "originalPrice": 68.84,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82271-mhgw69jgatja8d",
-    "url": "https://s.shopee.com.br/AUuVbu6j8o",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2043,
-    "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-06T02:35:15.454Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6678,7 +6678,7 @@
     "fonte": "MLB264051",
     "categoria": "Casa e Decoração",
     "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 47.54,
+    "price": 47.55,
     "originalPrice": 99.44,
     "discount": 52,
     "base": "media",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1364269886-58200973653",
@@ -7149,7 +7149,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB4411250505",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7197,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 194,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1284769631-21099552315",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1547311235-23598845230",
@@ -7341,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T17:05:13.055Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": 1514,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB5093883045",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB5187059120",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": 592,
     "publishedAt": "2026-10-04T23:05:16.984Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 6092,
     "publishedAt": "2026-09-25T05:35:14.502Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB4039445285",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB7707499492",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB3725747499",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB5337897161",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T21:05:44.888Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB3758861673",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB3773596863",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-03T09:35:12.762Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB7741091548",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-05T18:05:13.144Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB4355581410",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-21T15:35:15.593Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8496,6 +8496,30 @@
     "checkedAt": "2026-10-06T01:35:13.000Z"
   },
   {
+    "id": "SP1484279813-20298320200",
+    "productId": "SP1484279813-20298320200",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminária Led Escrever De Caneta Lousa Quadro Mesa Anotações",
+    "price": 35.49,
+    "originalPrice": 118.3,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfp7x0vf1fo3c",
+    "url": "https://s.shopee.com.br/5fpFee4ya4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2147,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-06T05:05:12.903Z"
+  },
+  {
     "id": "SP1362857362-58251035399",
     "productId": "SP1362857362-58251035399",
     "marketplace": "shopee",
@@ -8517,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 1017,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8541,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 1407,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8565,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 1258,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -8710,30 +8734,6 @@
     "vendas": 419,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-06T01:35:13.000Z"
-  },
-  {
-    "id": "SP1484279813-20298320200",
-    "productId": "SP1484279813-20298320200",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminária Led Escrever De Caneta Lousa Quadro Mesa Anotações",
-    "price": 35.49,
-    "originalPrice": 114.48,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfp7x0vf1fo3c",
-    "url": "https://s.shopee.com.br/5fpFee4ya4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2147,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 1747,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -10245,7 +10245,7 @@
     "lowest30d": false,
     "vendas": 1128,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -11397,7 +11397,7 @@
     "lowest30d": false,
     "vendas": 679,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -11421,7 +11421,7 @@
     "lowest30d": true,
     "vendas": 559,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -11445,7 +11445,7 @@
     "lowest30d": true,
     "vendas": 5035,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-06T01:05:15.111Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -11565,7 +11565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
+    "checkedAt": "2026-10-06T05:05:12.903Z"
   },
   {
     "id": "SP1716641053-58263481481",
@@ -11590,30 +11590,6 @@
     "vendas": 1121,
     "publishedAt": "2026-09-23T14:59:45.074Z",
     "checkedAt": "2026-10-06T04:05:13.621Z"
-  },
-  {
-    "id": "MLB6767556748",
-    "productId": "MLB63152047",
-    "marketplace": "ml",
-    "fonte": "MLB1132",
-    "categoria": "Brinquedos",
-    "title": "Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys",
-    "price": 42.9,
-    "originalPrice": 110.03,
-    "discount": 61,
-    "base": "media",
-    "averagePrice": 110.03,
-    "sellers": 5,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_702576-MLA110388417253_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6767556748?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "PLANETA_DO_BEBE",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-06T04:35:13.505Z",
-    "checkedAt": "2026-10-06T04:35:13.505Z"
   },
   {
     "id": "SP907076717-58204551078",
@@ -11998,5 +11974,29 @@
     "vendas": 402,
     "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-06T01:35:13.000Z"
+  },
+  {
+    "id": "SP1636720176-58250985764",
+    "productId": "SP1636720176-58250985764",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Caneca Térmica Copo Magnética Misturador De Bebidas Mixer Café Shake 380ml Suco Elétrica Recarregável",
+    "price": 30.98,
+    "originalPrice": 68.84,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82271-mhgw69jgatja8d",
+    "url": "https://s.shopee.com.br/AUuVbu6j8o",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2043,
+    "publishedAt": "2026-09-24T12:35:15.740Z",
+    "checkedAt": "2026-10-06T02:35:15.454Z"
   }
 ]
