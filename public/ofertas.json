@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP418205294-20597875246",
@@ -45,7 +45,31 @@
     "lowest30d": false,
     "vendas": 3512,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
+  },
+  {
+    "id": "SP400434768-58206930308",
+    "productId": "SP400434768-58206930308",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "KIT ESSÊNCIAS 20ML + UMIDIFICADOR | AROMAS PARA CASA | PERFUME AMBIENTE",
+    "price": 29.99,
+    "originalPrice": 99.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mqtap867cnb78a",
+    "url": "https://s.shopee.com.br/6q1IKG07re",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1217,
+    "publishedAt": "2026-10-06T12:05:13.247Z",
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -588,7 +612,7 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259e-mslnrdtqst1l4f",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mslnrbijquiu34",
     "url": "https://s.shopee.com.br/20w22T2IlA",
     "freeShipping": false,
     "oficial": false,
@@ -597,7 +621,7 @@
     "lowest30d": true,
     "vendas": 1740,
     "publishedAt": "2026-10-01T15:35:19.943Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1207367861-18699230754",
@@ -645,7 +669,7 @@
     "lowest30d": false,
     "vendas": 539,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -693,7 +717,7 @@
     "lowest30d": true,
     "vendas": 281,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -717,7 +741,7 @@
     "lowest30d": true,
     "vendas": 507,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -861,55 +885,31 @@
     "lowest30d": true,
     "vendas": 1569,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
-    "id": "SP1472984464-58217006381",
-    "productId": "SP1472984464-58217006381",
+    "id": "SP1368260695-51613258322",
+    "productId": "SP1368260695-51613258322",
     "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Caneca Mixer Automática Recarregável   Misturador Magnético para Café Leite Chocolate com TampaUSB",
-    "price": 30.99,
-    "originalPrice": 99.97,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-msd314xxszk80e",
-    "url": "https://s.shopee.com.br/5At4ArNLaT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 822,
-    "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
-  },
-  {
-    "id": "SP400434768-58206930308",
-    "productId": "SP400434768-58206930308",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "KIT ESSÊNCIAS 20ML + UMIDIFICADOR | AROMAS PARA CASA | PERFUME AMBIENTE",
-    "price": 31.99,
-    "originalPrice": 99.97,
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit Camisa de Compressão + Short Dri-fit Masculino Camiseta Academia Treino BASICO Corrida",
+    "price": 47.79,
+    "originalPrice": 149.34,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mqtap867cnb78a",
-    "url": "https://s.shopee.com.br/3VkptMKdO9",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mq5bb1g9iozl97",
+    "url": "https://s.shopee.com.br/LnoaV2Uep",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1217,
-    "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "vendas": 452,
+    "publishedAt": "2026-10-07T11:05:13.800Z",
+    "checkedAt": "2026-10-07T11:05:13.800Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 382,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-07T08:05:14.310Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -1221,7 +1221,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 3255,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -2109,7 +2109,7 @@
     "lowest30d": false,
     "vendas": 1673,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2133,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 577,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -2157,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 150,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -2181,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 558,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1257628820-29200230546",
@@ -2325,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 3443,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -2349,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 905,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1424438285-58215207709",
@@ -2493,7 +2493,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3285,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 107,
     "publishedAt": "2026-10-07T00:35:14.874Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1661007426-22594666523",
@@ -3453,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 182,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1398196452-26044322175",
@@ -3670,6 +3670,30 @@
     "vendas": 677,
     "publishedAt": "2026-09-26T10:35:13.540Z",
     "checkedAt": "2026-10-07T10:05:50.865Z"
+  },
+  {
+    "id": "SP1636494323-23799143609",
+    "productId": "SP1636494323-23799143609",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 3 Camisetas Femininas Dry Fit Academia Fitness Corrida Treino Esportivo Confortável Fresquinha",
+    "price": 65.99,
+    "originalPrice": 169.21,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggyrnts0wec73",
+    "url": "https://s.shopee.com.br/AUuahBPn1z",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 205,
+    "publishedAt": "2026-10-07T11:05:13.800Z",
+    "checkedAt": "2026-10-07T11:05:13.800Z"
   },
   {
     "id": "SP1220163366-22198936338",
@@ -4053,7 +4077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -5349,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5733,7 +5757,7 @@
     "lowest30d": false,
     "vendas": 338,
     "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6117,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 2002,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -6189,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 160,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1661676033-58258175621",
@@ -6333,7 +6357,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6981,7 +7005,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB6767556748",
@@ -7005,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T04:35:13.505Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7149,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1075890129-46917445854",
@@ -7197,7 +7221,7 @@
     "lowest30d": false,
     "vendas": 585,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7245,7 +7269,7 @@
     "lowest30d": false,
     "vendas": 969,
     "publishedAt": "2026-10-03T22:59:48.754Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -7293,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7365,31 +7389,7 @@
     "lowest30d": true,
     "vendas": 6338,
     "publishedAt": "2026-09-26T14:35:16.816Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
-  },
-  {
-    "id": "SP1245123960-27086519481",
-    "productId": "SP1245123960-27086519481",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "Relógio Esportivo Verde SEIKO x PADI para Homens Relógio Clássico Multifuncional de Couro para Melhores Presentes Mascul",
-    "price": 66.39,
-    "originalPrice": 132.78,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfi6-m9ozkxr3rt0p6d",
-    "url": "https://s.shopee.com.br/1LgLJO6cNG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 501,
-    "publishedAt": "2026-09-24T17:35:37.798Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB5488803854",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T17:05:13.055Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1251322845-23898785642",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 675,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB5093883045",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB5187059120",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8214,7 +8214,7 @@
     "fonte": "MLB2526",
     "categoria": "Ferramentas",
     "title": "Parafusadeira e Furadeira com Impacto WAP BPFI 12K4 com Led de Iluminação Maleta",
-    "price": 230.77,
+    "price": 230.76,
     "originalPrice": 323.19,
     "discount": 29,
     "base": "media",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB6967026918",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T01:05:12.666Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB6191376032",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB7707499492",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB4318276571",
@@ -8311,10 +8311,10 @@
     "categoria": "Informática",
     "title": "Papel Fotográfico Adesivo 130g A4 Glossy Masterprint 100 Fls Cor Branco",
     "price": 40.69,
-    "originalPrice": 51.69,
-    "discount": 21,
+    "originalPrice": 50.99,
+    "discount": 20,
     "base": "media",
-    "averagePrice": 51.69,
+    "averagePrice": 50.99,
     "sellers": 46,
     "image": "https://http2.mlstatic.com/D_NQ_NP_621917-MLA96769693198_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4318276571?matt_word=promoninja&matt_tool=19839069",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T10:35:13.545Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB3758861673",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB3773596863",
@@ -8359,11 +8359,11 @@
     "categoria": "Informática",
     "title": "Impressora Multifuncional HP Smart Tank 584 - Preta",
     "price": 889.01,
-    "originalPrice": 1029,
-    "discount": 14,
+    "originalPrice": 1062,
+    "discount": 16,
     "base": "media",
-    "averagePrice": 1029,
-    "sellers": 26,
+    "averagePrice": 1062,
+    "sellers": 25,
     "image": "https://http2.mlstatic.com/D_NQ_NP_797897-MLA116198687211_082026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3773596863?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-03T09:35:12.762Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -8566,6 +8566,30 @@
     "vendas": 394,
     "publishedAt": "2026-10-02T12:35:19.029Z",
     "checkedAt": "2026-10-07T09:05:17.904Z"
+  },
+  {
+    "id": "SP1472984464-58217006381",
+    "productId": "SP1472984464-58217006381",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Caneca Mixer Automática Recarregável   Misturador Magnético para Café Leite Chocolate com TampaUSB",
+    "price": 30.99,
+    "originalPrice": 99.97,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-msd314xxszk80e",
+    "url": "https://s.shopee.com.br/5At4ArNLaT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 822,
+    "publishedAt": "2026-09-24T18:35:18.047Z",
+    "checkedAt": "2026-10-07T08:35:11.745Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -8781,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 1565,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8805,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 789,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8829,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 9049,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -8949,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 4021,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9045,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 2302,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9069,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 715,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9093,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 7289,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9117,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 2619,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -9142,30 +9166,6 @@
     "vendas": 3965,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-07T08:35:11.745Z"
-  },
-  {
-    "id": "SP1368260695-51613258322",
-    "productId": "SP1368260695-51613258322",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit Camisa de Compressão + Short Dri-fit Masculino Camiseta Academia Treino BASICO Corrida",
-    "price": 47.79,
-    "originalPrice": 149.34,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mq5bb1g9iozl97",
-    "url": "https://s.shopee.com.br/LnoaV2Uep",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 452,
-    "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9277,7 +9277,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
-    "url": "https://s.shopee.com.br/9petR0EBw7",
+    "url": "https://s.shopee.com.br/gQez6J5el",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9285,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 1561,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 499,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9357,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 1144,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9381,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 873,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9405,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 780,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9429,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 2167,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9453,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 1900,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9477,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 1785,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9493,7 +9493,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrs4kxqeojra8c",
-    "url": "https://s.shopee.com.br/9pet4MI6KI",
+    "url": "https://s.shopee.com.br/2VsJASCVwP",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9501,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 261,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9525,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 401,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9565,7 +9565,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mqp5spdtxj4177",
-    "url": "https://s.shopee.com.br/9Kicq5G5wy",
+    "url": "https://s.shopee.com.br/1BMva1HBdo",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9573,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 1157,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9621,7 +9621,7 @@
     "lowest30d": false,
     "vendas": 1587,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9669,7 +9669,7 @@
     "lowest30d": false,
     "vendas": 3585,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9837,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 175,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -9853,7 +9853,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ravt-mb2w188hbv4yb0",
-    "url": "https://s.shopee.com.br/8V9VqYJGdj",
+    "url": "https://s.shopee.com.br/1qccNFEeHs",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9861,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 1376,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -9885,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 1318,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9957,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 2871,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -9973,7 +9973,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
-    "url": "https://s.shopee.com.br/1AxggWyor",
+    "url": "https://s.shopee.com.br/5At4NBRBGR",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9981,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 2897,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10005,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 977,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1104525762-23998143402",
@@ -10045,7 +10045,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mq95l752ups2cf",
-    "url": "https://s.shopee.com.br/AUuaEDC7uJ",
+    "url": "https://s.shopee.com.br/6AlbZ352H0",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10053,7 +10053,7 @@
     "lowest30d": false,
     "vendas": 1040,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10077,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 2514,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10125,7 +10125,7 @@
     "lowest30d": false,
     "vendas": 17640,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10197,7 +10197,7 @@
     "lowest30d": false,
     "vendas": 153,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -10437,7 +10437,7 @@
     "lowest30d": true,
     "vendas": 513,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 695,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -10869,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 168,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11157,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 4846,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1723473029-23094999147",
@@ -11181,7 +11181,7 @@
     "lowest30d": false,
     "vendas": 1965,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T07:35:20.180Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11253,7 +11253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
+    "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -11736,30 +11736,6 @@
     "checkedAt": "2026-10-07T09:35:16.525Z"
   },
   {
-    "id": "SP1636494323-23799143609",
-    "productId": "SP1636494323-23799143609",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 3 Camisetas Femininas Dry Fit Academia Fitness Corrida Treino Esportivo Confortável Fresquinha",
-    "price": 65.99,
-    "originalPrice": 169.21,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggyrnts0wec73",
-    "url": "https://s.shopee.com.br/AUuahBPn1z",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 205,
-    "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-07T11:05:13.800Z"
-  },
-  {
     "id": "SP907076717-58204551078",
     "productId": "SP907076717-58204551078",
     "marketplace": "shopee",
@@ -11998,5 +11974,29 @@
     "vendas": 2253,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-07T10:05:50.865Z"
+  },
+  {
+    "id": "SP1245123960-27086519481",
+    "productId": "SP1245123960-27086519481",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "Relógio Esportivo Verde SEIKO x PADI para Homens Relógio Clássico Multifuncional de Couro para Melhores Presentes Mascul",
+    "price": 66.39,
+    "originalPrice": 132.78,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfi6-m9ozkxr3rt0p6d",
+    "url": "https://s.shopee.com.br/1LgLJO6cNG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 501,
+    "publishedAt": "2026-09-24T17:35:37.798Z",
+    "checkedAt": "2026-10-07T09:05:17.904Z"
   }
 ]
