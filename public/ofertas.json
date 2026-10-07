@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP418205294-20597875246",
@@ -165,7 +165,7 @@
     "lowest30d": false,
     "vendas": 1299,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -285,7 +285,7 @@
     "lowest30d": false,
     "vendas": 1259,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 2574,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 810,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1569804599-23598922504",
@@ -1077,7 +1077,7 @@
     "lowest30d": true,
     "vendas": 1236,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -1101,7 +1101,7 @@
     "lowest30d": true,
     "vendas": 642,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP354913181-21697995493",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 2755,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -1221,7 +1221,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1317,7 +1317,7 @@
     "lowest30d": false,
     "vendas": 1352,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP972053936-23998448883",
@@ -1437,7 +1437,7 @@
     "lowest30d": true,
     "vendas": 825,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-07T09:05:17.904Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -1917,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 108,
     "publishedAt": "2026-09-28T18:35:16.890Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -1941,7 +1941,31 @@
     "lowest30d": true,
     "vendas": 7921,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
+  },
+  {
+    "id": "SP1502681481-20898320113",
+    "productId": "SP1502681481-20898320113",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante Crianças",
+    "price": 35.99,
+    "originalPrice": 105.85,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
+    "url": "https://s.shopee.com.br/113VTc6Za6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3582,
+    "publishedAt": "2026-09-27T03:35:12.515Z",
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1320813117-58204576204",
@@ -1990,6 +2014,30 @@
     "vendas": 11223,
     "publishedAt": "2026-09-25T10:35:15.579Z",
     "checkedAt": "2026-10-07T09:05:17.904Z"
+  },
+  {
+    "id": "SP1242822355-41775559243",
+    "productId": "SP1242822355-41775559243",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Tinta para Piso Fosca 900g e 4,2kg Econômica Rende Muito Lua Branco/Cinza/Concreto/Preto",
+    "price": 35.9,
+    "originalPrice": 102.57,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mo4b1jzlqm8141",
+    "url": "https://s.shopee.com.br/7faNgwS7yv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3096,
+    "publishedAt": "2026-10-07T12:05:16.386Z",
+    "checkedAt": "2026-10-07T12:05:16.386Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -2373,7 +2421,7 @@
     "lowest30d": true,
     "vendas": 545,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -2397,7 +2445,7 @@
     "lowest30d": false,
     "vendas": 936,
     "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -2445,7 +2493,7 @@
     "lowest30d": true,
     "vendas": 375,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -2469,7 +2517,7 @@
     "lowest30d": true,
     "vendas": 1171,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB7531521420",
@@ -2493,7 +2541,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2517,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 845,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -2541,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 156,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -2589,7 +2637,7 @@
     "lowest30d": true,
     "vendas": 443,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -2613,7 +2661,7 @@
     "lowest30d": true,
     "vendas": 223,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2685,7 +2733,7 @@
     "lowest30d": true,
     "vendas": 772,
     "publishedAt": "2026-09-27T21:05:15.305Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -2710,30 +2758,6 @@
     "vendas": 378,
     "publishedAt": "2026-09-27T13:35:14.120Z",
     "checkedAt": "2026-10-07T09:35:16.525Z"
-  },
-  {
-    "id": "SP1502681481-20898320113",
-    "productId": "SP1502681481-20898320113",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante Crianças",
-    "price": 35.99,
-    "originalPrice": 99.97,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
-    "url": "https://s.shopee.com.br/1BMsU7nnSo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3582,
-    "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -3381,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP543131983-22892811239",
@@ -3405,7 +3429,7 @@
     "lowest30d": false,
     "vendas": 286,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3525,7 +3549,7 @@
     "lowest30d": true,
     "vendas": 2799,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3765,7 +3789,7 @@
     "lowest30d": false,
     "vendas": 797,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1765235104-58264020472",
@@ -4077,7 +4101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T03:35:24.086Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -4150,30 +4174,6 @@
     "vendas": 2073,
     "publishedAt": "2026-09-23T15:35:18.799Z",
     "checkedAt": "2026-10-07T10:35:13.545Z"
-  },
-  {
-    "id": "SP1926490670-58267468674",
-    "productId": "SP1926490670-58267468674",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
-    "price": 38.99,
-    "originalPrice": 99.97,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
-    "url": "https://s.shopee.com.br/5q8k4cSbvs",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1539,
-    "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-10-07T09:35:16.525Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -4293,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 550,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1630828144-58200483130",
@@ -4413,7 +4413,7 @@
     "lowest30d": false,
     "vendas": 1286,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP379700545-58212743078",
@@ -4485,7 +4485,7 @@
     "lowest30d": true,
     "vendas": 311,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP847608673-21698268068",
@@ -4573,7 +4573,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825zq-mm36v4rd0s8x39",
-    "url": "https://s.shopee.com.br/qk3gP2lzB",
+    "url": "https://s.shopee.com.br/5At4RGmF6g",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4581,7 +4581,7 @@
     "lowest30d": true,
     "vendas": 7061,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1267085301-22699386857",
@@ -4797,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 1089,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4821,7 +4821,7 @@
     "lowest30d": false,
     "vendas": 555,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1259086167-46111240879",
@@ -5013,7 +5013,7 @@
     "lowest30d": false,
     "vendas": 509,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP410040838-22497996785",
@@ -5205,7 +5205,7 @@
     "lowest30d": true,
     "vendas": 5536,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP979724994-23993275214",
@@ -5325,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 234,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1767575955-58265818230",
@@ -5349,7 +5349,7 @@
     "lowest30d": false,
     "vendas": 202,
     "publishedAt": "2026-10-01T10:05:49.038Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB4863689399",
@@ -5373,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5901,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 247,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1616052629-58254217913",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 670,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP470159845-41282373928",
@@ -6357,7 +6357,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6381,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 1134,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1658183207-58258793992",
@@ -6469,7 +6469,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-824ha-mfmrxjljij2m25",
-    "url": "https://s.shopee.com.br/50Zdg7oGAd",
+    "url": "https://s.shopee.com.br/8fSwVoAlrT",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6477,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 862,
     "publishedAt": "2026-10-02T22:58:15.377Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -6909,7 +6909,7 @@
     "lowest30d": false,
     "vendas": 3243,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -6933,7 +6933,7 @@
     "lowest30d": true,
     "vendas": 3112,
     "publishedAt": "2026-09-26T04:05:18.825Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1551412164-58210681509",
@@ -7005,7 +7005,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB6767556748",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T04:35:13.505Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 694,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1075890129-46917445854",
@@ -7317,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": 2813,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1365819178-23094699741",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T17:05:13.055Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1251322845-23898785642",
@@ -7438,30 +7438,6 @@
     "vendas": 1520,
     "publishedAt": "2026-10-04T12:35:13.324Z",
     "checkedAt": "2026-10-07T10:35:13.545Z"
-  },
-  {
-    "id": "MLB3587206809",
-    "productId": "MLB30455759",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Electrolux Filtro de Água Refil para Purificador Acqua Clean - Modelos PA21G, PA26G, PA31G, Refil Duração 12 Meses ou 3000L",
-    "price": 99.75,
-    "originalPrice": 196.75,
-    "discount": 49,
-    "base": "media",
-    "averagePrice": 196.75,
-    "sellers": 42,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_645715-MLA117133508591_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3587206809?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "LEROY_MERLIN BRASIL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7581,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -7606,6 +7582,30 @@
     "vendas": 416,
     "publishedAt": "2026-10-04T13:05:14.518Z",
     "checkedAt": "2026-10-07T11:05:13.800Z"
+  },
+  {
+    "id": "MLB3587206809",
+    "productId": "MLB30455759",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Electrolux Filtro de Água Refil para Purificador Acqua Clean - Modelos PA21G, PA26G, PA31G, Refil Duração 12 Meses ou 3000L",
+    "price": 99.75,
+    "originalPrice": 189.9,
+    "discount": 47,
+    "base": "media",
+    "averagePrice": 189.9,
+    "sellers": 42,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_645715-MLA117133508591_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3587206809?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "LEROY_MERLIN BRASIL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-02T21:35:13.666Z",
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -7669,7 +7669,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtoqjmcquozl03",
-    "url": "https://s.shopee.com.br/2qV968wVZM",
+    "url": "https://s.shopee.com.br/W7EmnfrR2",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": 1332,
     "publishedAt": "2026-09-25T11:05:14.358Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1388709282-22798642389",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB5093883045",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB5187059120",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": 969,
     "publishedAt": "2026-10-06T03:05:12.318Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB6967026918",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T01:05:12.666Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB6191376032",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB7707499492",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB4318276571",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T10:35:13.545Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB3758861673",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T06:05:15.385Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB3773596863",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-03T09:35:12.762Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB6624023256",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T05:35:13.062Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 822,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -9165,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 3965,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9181,7 +9181,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-820le-mmdewfdqpudg69",
-    "url": "https://s.shopee.com.br/8AWaxozBjQ",
+    "url": "https://s.shopee.com.br/2LYt4BKWys",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9189,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 279,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -9237,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 754,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -9757,7 +9757,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82633-ml5km3wcwq3376",
-    "url": "https://s.shopee.com.br/1LgLJN2YM8",
+    "url": "https://s.shopee.com.br/5fpKwH9SrD",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9765,7 +9765,7 @@
     "lowest30d": false,
     "vendas": 471,
     "publishedAt": "2026-10-06T18:05:15.574Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 680,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -9933,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 418,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10200,28 +10200,28 @@
     "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
-    "id": "SP1242822355-41775559243",
-    "productId": "SP1242822355-41775559243",
+    "id": "SP574679875-58215606510",
+    "productId": "SP574679875-58215606510",
     "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Tinta para Piso Fosca 900g e 4,2kg Econômica Rende Muito Lua Branco/Cinza/Concreto/Preto",
-    "price": 35.9,
-    "originalPrice": 102.57,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Moedor Elérico Multifuncional de Café e Especiarias 110V  Aço Inoxidável 4 Lâminas",
+    "price": 34.99,
+    "originalPrice": 99.97,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mo4b1jzlqm8141",
-    "url": "https://s.shopee.com.br/7faNgwS7yv",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
+    "url": "https://s.shopee.com.br/9V23bEVkK7",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3096,
-    "publishedAt": "2026-10-07T12:05:16.386Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "vendas": 2276,
+    "publishedAt": "2026-10-07T12:35:14.917Z",
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -10837,7 +10837,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mpnszoiek9og7e",
-    "url": "https://s.shopee.com.br/9APCbWy5DS",
+    "url": "https://s.shopee.com.br/3LRQBoY9yu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10845,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 3615,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1356780532-22193811396",
@@ -10869,7 +10869,7 @@
     "lowest30d": true,
     "vendas": 1255,
     "publishedAt": "2026-09-23T14:59:45.074Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP627750190-22798914047",
@@ -10896,30 +10896,6 @@
     "checkedAt": "2026-10-07T11:35:49.645Z"
   },
   {
-    "id": "SP400185488-58250005797",
-    "productId": "SP400185488-58250005797",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Camisa Camiseta T-Shirt Borboleta Floral Estilo Vintage Algodão Aesthetic",
-    "price": 33.26,
-    "originalPrice": 89.89,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg7zyzreplol8b",
-    "url": "https://s.shopee.com.br/7VGyx9IreJ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 276,
-    "publishedAt": "2026-09-28T13:47:18.833Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
-  },
-  {
     "id": "SP320028154-13656043688",
     "productId": "SP320028154-13656043688",
     "marketplace": "shopee",
@@ -10941,7 +10917,7 @@
     "lowest30d": false,
     "vendas": 175,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -11157,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 4121,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -11277,7 +11253,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T11:35:12.198Z",
-    "checkedAt": "2026-10-07T12:05:16.386Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
+  },
+  {
+    "id": "SP400185488-58250005797",
+    "productId": "SP400185488-58250005797",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Camisa Camiseta T-Shirt Borboleta Floral Estilo Vintage Algodão Aesthetic",
+    "price": 34.17,
+    "originalPrice": 89.92,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg7zyzreplol8b",
+    "url": "https://s.shopee.com.br/7VGyx9IreJ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 276,
+    "publishedAt": "2026-09-28T13:47:18.833Z",
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -11349,7 +11349,55 @@
     "lowest30d": false,
     "vendas": 608,
     "publishedAt": "2026-10-03T13:20:48.286Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
+  },
+  {
+    "id": "SP507645665-23194055670",
+    "productId": "SP507645665-23194055670",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Kit 12 Marmitas Potes 800ml com Travas Laterais BPA FREE - Alimentos organizadores de congelador PLASTICOS",
+    "price": 38,
+    "originalPrice": 100,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrzweol0dfk5ee",
+    "url": "https://s.shopee.com.br/W7Esh8Tb5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 117,
+    "publishedAt": "2026-10-07T12:35:14.917Z",
+    "checkedAt": "2026-10-07T12:35:14.917Z"
+  },
+  {
+    "id": "SP1926490670-58267468674",
+    "productId": "SP1926490670-58267468674",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
+    "price": 38.99,
+    "originalPrice": 99.97,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
+    "url": "https://s.shopee.com.br/5q8k4cSbvs",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1539,
+    "publishedAt": "2026-09-24T20:05:14.446Z",
+    "checkedAt": "2026-10-07T09:35:16.525Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -11637,7 +11685,7 @@
     "lowest30d": true,
     "vendas": 1001,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP1203451725-22597456045",
@@ -11877,7 +11925,7 @@
     "lowest30d": true,
     "vendas": 2133,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T08:35:11.745Z"
+    "checkedAt": "2026-10-07T12:35:14.917Z"
   },
   {
     "id": "SP753139334-58210495292",
@@ -11950,53 +11998,5 @@
     "vendas": 8283,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-07T09:35:16.525Z"
-  },
-  {
-    "id": "SP452872883-23893335036",
-    "productId": "SP452872883-23893335036",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
-    "price": 79.48,
-    "originalPrice": 198.7,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824ij-mpm4eovkx5349e",
-    "url": "https://s.shopee.com.br/2LYsVDtwV7",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2428,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T10:05:50.865Z"
-  },
-  {
-    "id": "SP368328709-40727316477",
-    "productId": "SP368328709-40727316477",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico Algodão Malha Premium",
-    "price": 39.96,
-    "originalPrice": 99.9,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zus-mid4uu60xeki52",
-    "url": "https://s.shopee.com.br/9V22yFZkXo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2253,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T10:05:50.865Z"
   }
 ]

@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "PROMOVALE"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Ofertas de Vendedores",
+    "origem": "avidaefeitadedesconto/16317",
+    "quando": "2026-10-07T12:15:25+00:00",
+    "id": "ml:PROMOVALE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TUDOEMPROMO"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Promos",
+    "origem": "avidaefeitadedesconto/16316",
+    "quando": "2026-10-07T12:15:18+00:00",
+    "id": "ml:TUDOEMPROMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "GARANTAMEUDESCONTO"
+    ],
+    "desconto": null,
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16315",
+    "quando": "2026-10-07T12:15:11+00:00",
+    "id": "ml:GARANTAMEUDESCONTO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOOSITE0710",
       "SITE0710"
     ],
@@ -208,34 +250,6 @@
     "origem": "avidaefeitadedesconto/16295",
     "quando": "2026-10-06T14:24:39+00:00",
     "id": "ml:COMPRASML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MEUVALEMELI"
-    ],
-    "desconto": "30% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16293",
-    "quando": "2026-10-06T12:14:20+00:00",
-    "id": "ml:MEUVALEMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VALEAPENA"
-    ],
-    "desconto": "30% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16292",
-    "quando": "2026-10-06T12:11:49+00:00",
-    "id": "ml:VALEAPENA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
