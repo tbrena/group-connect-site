@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "SUPERMERCADO0710"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 30",
+    "minimo": "R$ 99",
+    "escopo": "Supermercado",
+    "origem": "avidaefeitadedesconto/16337",
+    "quando": "2026-10-07T18:28:52+00:00",
+    "id": "ml:SUPERMERCADO0710",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "AUTO15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 50",
+    "minimo": null,
+    "escopo": "Automotivos e Ferramentas",
+    "origem": "avidaefeitadedesconto/16336",
+    "quando": "2026-10-07T18:28:47+00:00",
+    "id": "ml:AUTO15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SPORTS1010"
     ],
     "desconto": "10% OFF",
@@ -250,48 +278,6 @@
     "origem": "avidaefeitadedesconto/16304",
     "quando": "2026-10-06T21:26:02+00:00",
     "id": "ml:MELIELSEVE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MODA0610"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 119",
-    "escopo": "Moda e Bem-Estar",
-    "origem": "avidaefeitadedesconto/16302",
-    "quando": "2026-10-06T18:37:39+00:00",
-    "id": "ml:MODA0610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CASA0610"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 50",
-    "minimo": null,
-    "escopo": "Casa e Decoração",
-    "origem": "avidaefeitadedesconto/16301",
-    "quando": "2026-10-06T18:37:33+00:00",
-    "id": "ml:CASA0610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CASA06101010"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": null,
-    "escopo": "Casa e Construção",
-    "origem": "avidaefeitadedesconto/16300",
-    "quando": "2026-10-06T18:37:27+00:00",
-    "id": "ml:CASA06101010",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
