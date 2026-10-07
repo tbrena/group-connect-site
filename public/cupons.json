@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "BEBES15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 200",
+    "escopo": "Bebês e Pets",
+    "origem": "avidaefeitadedesconto/16332",
+    "quando": "2026-10-07T15:12:34+00:00",
+    "id": "ml:BEBES15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TVS150"
+    ],
+    "desconto": "R$ 150 OFF",
+    "limite": null,
+    "minimo": "R$ 1.199",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16329",
+    "quando": "2026-10-07T15:05:08+00:00",
+    "id": "ml:TVS150",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "COMPRANOML"
     ],
     "desconto": "50% OFF",
@@ -264,48 +292,6 @@
     "origem": "avidaefeitadedesconto/16299",
     "quando": "2026-10-06T16:10:44+00:00",
     "id": "ml:MODANOMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TIENDASOFICIALES0610"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/16298",
-    "quando": "2026-10-06T15:32:16+00:00",
-    "id": "ml:TIENDASOFICIALES0610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LIVROS0610"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 30",
-    "minimo": null,
-    "escopo": "Livros e Jogos",
-    "origem": "avidaefeitadedesconto/16297",
-    "quando": "2026-10-06T15:31:49+00:00",
-    "id": "ml:LIVROS0610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SAUDE0610"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 20",
-    "minimo": null,
-    "escopo": "Saúde e Bem-Estar",
-    "origem": "avidaefeitadedesconto/16296",
-    "quando": "2026-10-06T15:31:43+00:00",
-    "id": "ml:SAUDE0610",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
