@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MODANOML"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": "Moda",
+    "origem": "avidaefeitadedesconto/16384",
+    "quando": "2026-10-08T21:27:01+00:00",
+    "id": "ml:MODANOML",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "PELUCIAS10"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 50",
+    "escopo": "Pelúcias",
+    "origem": "avidaefeitadedesconto/16383",
+    "quando": "2026-10-08T21:12:16+00:00",
+    "id": "ml:PELUCIAS10",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "150TODOSITE"
     ],
     "desconto": "R$ 150 OFF",
