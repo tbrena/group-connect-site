@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP418205294-20597875246",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 1758,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -285,7 +285,7 @@
     "lowest30d": false,
     "vendas": 2447,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 420,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -477,7 +477,7 @@
     "lowest30d": true,
     "vendas": 320,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -501,7 +501,7 @@
     "lowest30d": true,
     "vendas": 319,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -840,6 +840,30 @@
     "checkedAt": "2026-10-08T00:35:14.250Z"
   },
   {
+    "id": "SP974102638-58210258643",
+    "productId": "SP974102638-58210258643",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
+    "price": 31.99,
+    "originalPrice": 99.97,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
+    "url": "https://s.shopee.com.br/2BFSIuPqeF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 119,
+    "publishedAt": "2026-10-07T19:35:15.586Z",
+    "checkedAt": "2026-10-08T02:35:48.838Z"
+  },
+  {
     "id": "SP1028459403-19099850967",
     "productId": "SP1028459403-19099850967",
     "marketplace": "shopee",
@@ -1173,31 +1197,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
-  },
-  {
-    "id": "SP974102638-58210258643",
-    "productId": "SP974102638-58210258643",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
-    "price": 32.99,
-    "originalPrice": 99.97,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
-    "url": "https://s.shopee.com.br/2BFSIuPqeF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 119,
-    "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1245,7 +1245,7 @@
     "lowest30d": false,
     "vendas": 3019,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-07T23:35:13.709Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 1678,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -1362,10 +1362,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 175,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 323,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 361,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1725,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 410,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -2178,10 +2178,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 189,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -2373,7 +2373,7 @@
     "lowest30d": true,
     "vendas": 925,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1424438285-58215207709",
@@ -2448,30 +2448,6 @@
     "checkedAt": "2026-10-07T23:35:13.709Z"
   },
   {
-    "id": "SP964196467-58206595769",
-    "productId": "SP964196467-58206595769",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein Feminino Blend Isolado Concentrado - 22G de proteína por poção - Zero Açucar",
-    "price": 49,
-    "originalPrice": 140,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mt8kns7wi4n6e7",
-    "url": "https://s.shopee.com.br/5q8jVZLuMf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 382,
-    "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-08T00:05:14.036Z"
-  },
-  {
     "id": "MLB7531521420",
     "productId": "MLB69254970",
     "marketplace": "ml",
@@ -2493,7 +2469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3333,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 108,
     "publishedAt": "2026-10-07T00:35:14.874Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1724093444-58255929142",
@@ -4029,7 +4005,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4869,7 +4845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -5301,7 +5277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -6021,7 +5997,7 @@
     "lowest30d": true,
     "vendas": 2050,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -6090,10 +6066,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 164,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1661676033-58258175621",
@@ -6285,7 +6261,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6861,7 +6837,7 @@
     "lowest30d": false,
     "vendas": 347,
     "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP376576138-22293577075",
@@ -7008,6 +6984,30 @@
     "checkedAt": "2026-10-08T00:05:14.036Z"
   },
   {
+    "id": "SP898761179-58257621281",
+    "productId": "SP898761179-58257621281",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
+    "price": 1639,
+    "originalPrice": 3344.9,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
+    "url": "https://s.shopee.com.br/9zyKC9ThlR",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 759,
+    "publishedAt": "2026-10-04T12:35:13.324Z",
+    "checkedAt": "2026-10-08T02:35:48.838Z"
+  },
+  {
     "id": "SP1551412164-58210681509",
     "productId": "SP1551412164-58210681509",
     "marketplace": "shopee",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7125,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T17:05:13.055Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1284769631-21099552315",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 675,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7317,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7389,7 +7389,7 @@
     "lowest30d": true,
     "vendas": 6214,
     "publishedAt": "2026-09-26T14:35:16.816Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP283972864-22893688758",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7534,30 +7534,6 @@
     "vendas": 368,
     "publishedAt": "2026-09-24T02:05:15.166Z",
     "checkedAt": "2026-10-08T01:05:12.855Z"
-  },
-  {
-    "id": "SP898761179-58257621281",
-    "productId": "SP898761179-58257621281",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-    "price": 1759,
-    "originalPrice": 3382.69,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
-    "url": "https://s.shopee.com.br/9zyKC9ThlR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 759,
-    "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7701,7 +7677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T18:05:19.356Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB6938947454",
@@ -7725,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7845,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1010063584-22893349226",
@@ -7869,7 +7845,7 @@
     "lowest30d": false,
     "vendas": 936,
     "publishedAt": "2026-10-03T22:59:48.754Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7917,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": 1012,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -8085,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8133,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T19:05:23.061Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB3830992651",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8182,6 +8158,30 @@
     "vendas": 386,
     "publishedAt": "2026-10-06T10:05:14.943Z",
     "checkedAt": "2026-10-07T23:35:13.709Z"
+  },
+  {
+    "id": "MLB4247892213",
+    "productId": "MLB59774342",
+    "marketplace": "ml",
+    "fonte": "MLB1246",
+    "categoria": "Beleza",
+    "title": "Principia Kit Limpeza E Hidratação Ch-01 + Ol-01 + Gl-02 Todo Tipo De Pele Dia/noite",
+    "price": 80.48,
+    "originalPrice": 119.58,
+    "discount": 33,
+    "base": "media",
+    "averagePrice": 119.58,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_609209-MLA94364515810_102025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4247892213?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "PRINCIPIA SKINCARE",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-08T02:05:13.586Z",
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8829,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 1530,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 806,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 9228,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -9021,7 +9021,7 @@
     "lowest30d": true,
     "vendas": 3960,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -9093,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 2321,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9117,7 +9117,7 @@
     "lowest30d": true,
     "vendas": 702,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9141,7 +9141,31 @@
     "lowest30d": true,
     "vendas": 2593,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
+  },
+  {
+    "id": "SP869193731-22797545994",
+    "productId": "SP869193731-22797545994",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
+    "price": 34.99,
+    "originalPrice": 109.34,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkg3crkndkfcc",
+    "url": "https://s.shopee.com.br/8pmMFAvWjm",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 7378,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -9237,7 +9261,7 @@
     "lowest30d": false,
     "vendas": 1139,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9325,7 +9349,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
-    "url": "https://s.shopee.com.br/gQez6J5el",
+    "url": "https://s.shopee.com.br/AAHlA2lLe9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9333,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 1582,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9381,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 480,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9405,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 1185,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9429,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 883,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9453,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 760,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9477,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 2198,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9501,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 1870,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9525,7 +9549,7 @@
     "lowest30d": true,
     "vendas": 1711,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9549,7 +9573,7 @@
     "lowest30d": true,
     "vendas": 262,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9573,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 401,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9613,7 +9637,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mqp5spdtxj4177",
-    "url": "https://s.shopee.com.br/1BMva1HBdo",
+    "url": "https://s.shopee.com.br/9V24Monszx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9621,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 1183,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9669,7 +9693,7 @@
     "lowest30d": false,
     "vendas": 1627,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -9741,7 +9765,7 @@
     "lowest30d": false,
     "vendas": 3605,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9909,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 175,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -9925,7 +9949,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ravt-mb2w188hbv4yb0",
-    "url": "https://s.shopee.com.br/1qccNFEeHs",
+    "url": "https://s.shopee.com.br/5q8m051qR9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9933,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 1388,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -9957,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 1332,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9982,6 +10006,30 @@
     "vendas": 9397,
     "publishedAt": "2026-09-25T10:35:15.579Z",
     "checkedAt": "2026-10-08T00:10:08.057Z"
+  },
+  {
+    "id": "SP964196467-58206595769",
+    "productId": "SP964196467-58206595769",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein Feminino Blend Isolado Concentrado - 22G de proteína por poção - Zero Açucar",
+    "price": 49,
+    "originalPrice": 140,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mt8kns7wi4n6e7",
+    "url": "https://s.shopee.com.br/5q8jVZLuMf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 382,
+    "publishedAt": "2026-09-25T00:35:15.497Z",
+    "checkedAt": "2026-10-08T00:05:14.036Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -10053,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 2903,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10077,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 2949,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10101,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 976,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1104525762-23998143402",
@@ -10173,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 1032,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10197,31 +10245,7 @@
     "lowest30d": false,
     "vendas": 2672,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
-  },
-  {
-    "id": "SP869193731-22797545994",
-    "productId": "SP869193731-22797545994",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
-    "price": 37.99,
-    "originalPrice": 108.54,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkg3crkndkfcc",
-    "url": "https://s.shopee.com.br/8pmMFAvWjm",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 7378,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10269,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 18274,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10341,7 +10365,7 @@
     "lowest30d": false,
     "vendas": 174,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -10581,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 527,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -10869,7 +10893,7 @@
     "lowest30d": false,
     "vendas": 702,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -10986,10 +11010,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 176,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11277,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 4895,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1723473029-23094999147",
@@ -11301,7 +11325,7 @@
     "lowest30d": false,
     "vendas": 1958,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-07T23:05:17.287Z"
+    "checkedAt": "2026-10-08T02:35:48.838Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11974,29 +11998,5 @@
     "vendas": 4077,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-08T01:05:12.855Z"
-  },
-  {
-    "id": "MLB4247892213",
-    "productId": "MLB59774342",
-    "marketplace": "ml",
-    "fonte": "MLB1246",
-    "categoria": "Beleza",
-    "title": "Principia Kit Limpeza E Hidratação Ch-01 + Ol-01 + Gl-02 Todo Tipo De Pele Dia/noite",
-    "price": 80.48,
-    "originalPrice": 119.58,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 119.58,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_609209-MLA94364515810_102025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4247892213?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "PRINCIPIA SKINCARE",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-08T02:05:13.586Z",
-    "checkedAt": "2026-10-08T02:05:13.586Z"
   }
 ]
