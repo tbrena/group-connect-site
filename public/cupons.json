@@ -1,5 +1,22 @@
 [
   {
+    "loja": "ml",
+    "codigos": [
+      "MELILOW",
+      "MELI2LOW",
+      "TODOSITE0910",
+      "SITETODOPREDD"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16407",
+    "quando": "2026-10-09T15:10:21+00:00",
+    "id": "ml:MELILOW+MELI2LOW+TODOSITE0910+SITETODOPREDD",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
     "loja": "shopee",
     "codigos": [
       "FESTIVAL50"
@@ -249,76 +266,6 @@
     "origem": "avidaefeitadedesconto/16381",
     "quando": "2026-10-08T20:38:14+00:00",
     "id": "ml:SITETODO0810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DISNEY20"
-    ],
-    "desconto": "20% OFF",
-    "limite": null,
-    "minimo": "R$ 79",
-    "escopo": "Brinquedos Disney",
-    "origem": "avidaefeitadedesconto/16371",
-    "quando": "2026-10-08T15:29:26+00:00",
-    "id": "ml:DISNEY20",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BONECAS10"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 50",
-    "escopo": "Bonecas",
-    "origem": "avidaefeitadedesconto/16370",
-    "quando": "2026-10-08T15:24:06+00:00",
-    "id": "ml:BONECAS10",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SOM0810"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 100",
-    "minimo": "R$ 500",
-    "escopo": "Som, Vídeo e Eletro",
-    "origem": "avidaefeitadedesconto/16369",
-    "quando": "2026-10-08T15:16:34+00:00",
-    "id": "ml:SOM0810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESPORTES0810"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Esportes",
-    "origem": "avidaefeitadedesconto/16368",
-    "quando": "2026-10-08T15:12:28+00:00",
-    "id": "ml:ESPORTES0810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TUDOPRACASA"
-    ],
-    "desconto": "R$ 100 OFF",
-    "limite": null,
-    "minimo": "R$ 899",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16367",
-    "quando": "2026-10-08T15:08:26+00:00",
-    "id": "ml:TUDOPRACASA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
