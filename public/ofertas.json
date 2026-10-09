@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -222,8 +222,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Power Bank Universal de 20.000mAh Carregador Portátil para Android e iOS, Inclui Lanterna Integrada  FLUX",
-    "price": 35.98,
-    "originalPrice": 119.93,
+    "price": 35.99,
+    "originalPrice": 119.97,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 1467,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 1218,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -405,7 +405,7 @@
     "lowest30d": true,
     "vendas": 2533,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -429,7 +429,7 @@
     "lowest30d": true,
     "vendas": 767,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1569804599-23598922504",
@@ -672,30 +672,6 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
-    "id": "SP497711388-22793151170",
-    "productId": "SP497711388-22793151170",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "2 Unidades Umidificador De Ar E Aromatizador De Ambiente Com Led Usb Purificador Ultrassônico Difusor Eelétrico",
-    "price": 38.58,
-    "originalPrice": 128.6,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lo-mso6r7dqe96u0f",
-    "url": "https://s.shopee.com.br/2gBkWg5tqK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 123,
-    "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
-  },
-  {
     "id": "SP1568541347-23199502567",
     "productId": "SP1568541347-23199502567",
     "marketplace": "shopee",
@@ -717,7 +693,31 @@
     "lowest30d": false,
     "vendas": 143,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
+  },
+  {
+    "id": "SP1547936322-21398271961",
+    "productId": "SP1547936322-21398271961",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch Original Tela Amoled NFC IP67 à prova d'água Esportivo Fitness Relógio Inteligente Para Android IOS",
+    "price": 67,
+    "originalPrice": 216.13,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn2us002i0pcc",
+    "url": "https://s.shopee.com.br/905oxsOu4I",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 166,
+    "publishedAt": "2026-10-08T18:05:13.753Z",
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1462595809-51417153718",
@@ -766,6 +766,54 @@
     "vendas": 156,
     "publishedAt": "2026-10-03T12:35:13.942Z",
     "checkedAt": "2026-10-09T00:35:13.683Z"
+  },
+  {
+    "id": "SP543131983-14478149714",
+    "productId": "SP543131983-14478149714",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
+    "price": 99.99,
+    "originalPrice": 322.55,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
+    "url": "https://s.shopee.com.br/5fpMjRAPYT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 569,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-09T03:35:17.442Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 39.99,
+    "originalPrice": 129,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/8V9XuMU73M",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 845,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -885,31 +933,7 @@
     "lowest30d": false,
     "vendas": 210,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
-  },
-  {
-    "id": "SP1547936322-21398271961",
-    "productId": "SP1547936322-21398271961",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch Original Tela Amoled NFC IP67 à prova d'água Esportivo Fitness Relógio Inteligente Para Android IOS",
-    "price": 69,
-    "originalPrice": 215.63,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn2us002i0pcc",
-    "url": "https://s.shopee.com.br/905oxsOu4I",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 166,
-    "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP974102638-58210258643",
@@ -1128,30 +1152,6 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 40.99,
-    "originalPrice": 128.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/8V9XuMU73M",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 845,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
-  },
-  {
     "id": "SP290073877-23694409684",
     "productId": "SP290073877-23694409684",
     "marketplace": "shopee",
@@ -1317,7 +1317,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1485,7 +1485,7 @@
     "lowest30d": true,
     "vendas": 628,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-09T00:05:13.391Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -2178,34 +2178,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1710,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
-  },
-  {
-    "id": "SP543131983-14478149714",
-    "productId": "SP543131983-14478149714",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
-    "price": 110.99,
-    "originalPrice": 317.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
-    "url": "https://s.shopee.com.br/5fpMjRAPYT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 569,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2517,7 +2493,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2925,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 187,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -3285,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 1378,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -3789,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 202,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1220163366-22198936338",
@@ -4173,7 +4149,7 @@
     "lowest30d": true,
     "vendas": 1245,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1465342892-58201517017",
@@ -4269,7 +4245,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4413,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 4997,
     "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -4485,7 +4461,7 @@
     "lowest30d": true,
     "vendas": 945,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP379700545-58212743078",
@@ -4533,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 177,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -4614,8 +4590,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Power Bank Solar 50000mAh Carregador Portátil Grande Capacidade USB com Cabo Universal",
-    "price": 120.13,
-    "originalPrice": 300.33,
+    "price": 119.83,
+    "originalPrice": 299.58,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -4629,7 +4605,7 @@
     "lowest30d": true,
     "vendas": 1050,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -4677,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 399,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -4701,7 +4677,7 @@
     "lowest30d": true,
     "vendas": 212,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4725,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 1074,
     "publishedAt": "2026-09-24T01:05:16.139Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1695969912-58252830945",
@@ -4773,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 1333,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP410705973-23694530547",
@@ -4797,7 +4773,7 @@
     "lowest30d": false,
     "vendas": 168,
     "publishedAt": "2026-10-08T20:05:49.656Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1060511679-21199846359",
@@ -4821,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 250,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -4902,8 +4878,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Carregador Power Bank Portátil de celular 20000mah Universal Saida 4 Cabos Cherrygo",
-    "price": 40.99,
-    "originalPrice": 99.98,
+    "price": 40.98,
+    "originalPrice": 99.95,
     "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
@@ -4914,10 +4890,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2007,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1588692817-23893972335",
@@ -4962,10 +4938,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1193,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -5013,7 +4989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -5037,7 +5013,7 @@
     "lowest30d": true,
     "vendas": 293,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP316557325-22998326555",
@@ -5133,7 +5109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5157,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 198,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP356114339-22194903369",
@@ -5205,7 +5181,7 @@
     "lowest30d": true,
     "vendas": 184,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP728370135-58264934249",
@@ -5253,7 +5229,7 @@
     "lowest30d": true,
     "vendas": 2104,
     "publishedAt": "2026-10-01T12:35:21.480Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -5301,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 262,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP549655861-22099059804",
@@ -5325,7 +5301,7 @@
     "lowest30d": true,
     "vendas": 5530,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -5376,6 +5352,30 @@
     "checkedAt": "2026-10-09T01:35:12.951Z"
   },
   {
+    "id": "SP333164875-19699297807",
+    "productId": "SP333164875-19699297807",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Café 1 Litro Click Abre e Fecha Premium",
+    "price": 73.62,
+    "originalPrice": 171.21,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfnu9kk505d33",
+    "url": "https://s.shopee.com.br/9fLVIVPfgT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 897,
+    "publishedAt": "2026-10-09T03:05:18.134Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
     "id": "SP1507074638-22794668024",
     "productId": "SP1507074638-22794668024",
     "marketplace": "shopee",
@@ -5397,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 530,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1485077747-58252422740",
@@ -5442,10 +5442,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 218,
     "publishedAt": "2026-10-02T14:05:14.128Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1386778754-22698715022",
@@ -5565,7 +5565,7 @@
     "lowest30d": false,
     "vendas": 2771,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1267085301-22699386857",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 1003,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1655406395-58208901366",
@@ -5829,7 +5829,7 @@
     "lowest30d": true,
     "vendas": 925,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP724248208-58214396610",
@@ -5853,7 +5853,7 @@
     "lowest30d": true,
     "vendas": 812,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -5877,7 +5877,7 @@
     "lowest30d": true,
     "vendas": 648,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1358566916-58217310867",
@@ -5901,7 +5901,7 @@
     "lowest30d": true,
     "vendas": 396,
     "publishedAt": "2026-10-01T19:35:14.487Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1256536666-42667368581",
@@ -5982,8 +5982,8 @@
     "fonte": "shopee:q:brinquedo",
     "categoria": "Brinquedos",
     "title": "Cercadinho Bebê Grande Chiqueirinho Infantil Cercado Portátil Dobrável de Seguro e Protegido",
-    "price": 265.99,
-    "originalPrice": 604.52,
+    "price": 265.89,
+    "originalPrice": 604.3,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 2009,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1724021947-58254952015",
@@ -6021,7 +6021,7 @@
     "lowest30d": true,
     "vendas": 991,
     "publishedAt": "2026-09-26T13:35:21.335Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -6381,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 5140,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB7627073664",
@@ -6405,7 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -7125,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB4411250505",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7197,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 204,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1414801857-51155037778",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 1485,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7821,7 +7821,7 @@
     "lowest30d": true,
     "vendas": 1163,
     "publishedAt": "2026-10-02T17:05:30.370Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB2974151655",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T21:35:15.303Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB3449639363",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8191,8 +8191,8 @@
     "categoria": "Beleza",
     "title": "Protetor Solar Facial Sunless FPS 50 - 60g Toque Seco - Original Envio Imediato",
     "price": 31.9,
-    "originalPrice": 46.91,
-    "discount": 32,
+    "originalPrice": 48.33,
+    "discount": 34,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 595,
     "publishedAt": "2026-10-04T23:05:16.984Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB5720722046",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB3725747499",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,6 +8421,30 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
+    "checkedAt": "2026-10-09T03:35:17.442Z"
+  },
+  {
+    "id": "SP497711388-22793151170",
+    "productId": "SP497711388-22793151170",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "2 Unidades Umidificador De Ar E Aromatizador De Ambiente Com Led Usb Purificador Ultrassônico Difusor Eelétrico",
+    "price": 38.58,
+    "originalPrice": 128.6,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820lo-mso6r7dqe96u0f",
+    "url": "https://s.shopee.com.br/2gBkWg5tqK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 123,
+    "publishedAt": "2026-09-25T19:05:15.802Z",
     "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
@@ -8493,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1006,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1800645556-58214040409",
@@ -8517,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 1303,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8541,7 +8565,7 @@
     "lowest30d": true,
     "vendas": 1326,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -8806,30 +8830,6 @@
     "vendas": 2008,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-09T00:05:13.391Z"
-  },
-  {
-    "id": "SP1484279813-20298320200",
-    "productId": "SP1484279813-20298320200",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminária Led Escrever De Caneta Lousa Quadro Mesa Anotações",
-    "price": 35.99,
-    "originalPrice": 116.1,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfp7x0vf1fo3c",
-    "url": "https://s.shopee.com.br/4fwooCgbRN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2367,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -9192,6 +9192,30 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
+    "id": "SP1484279813-20298320200",
+    "productId": "SP1484279813-20298320200",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminária Led Escrever De Caneta Lousa Quadro Mesa Anotações",
+    "price": 35.49,
+    "originalPrice": 110.91,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfp7x0vf1fo3c",
+    "url": "https://s.shopee.com.br/4fwooCgbRN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2367,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-09T03:35:17.442Z"
+  },
+  {
     "id": "SP1458737764-53660327247",
     "productId": "SP1458737764-53660327247",
     "marketplace": "shopee",
@@ -9333,7 +9357,7 @@
     "lowest30d": false,
     "vendas": 423,
     "publishedAt": "2026-10-08T23:57:11.511Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -9477,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 1665,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -11157,7 +11181,7 @@
     "lowest30d": false,
     "vendas": 245,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1711578499-58210121138",
@@ -11181,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 1812,
     "publishedAt": "2026-10-08T23:57:11.511Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -11637,7 +11661,7 @@
     "lowest30d": true,
     "vendas": 2013,
     "publishedAt": "2026-09-23T15:35:18.799Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -11685,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 111,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP806572838-23194388249",
@@ -11829,7 +11853,7 @@
     "lowest30d": false,
     "vendas": 698,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -11853,7 +11877,7 @@
     "lowest30d": true,
     "vendas": 657,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -11877,7 +11901,7 @@
     "lowest30d": true,
     "vendas": 4990,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -11950,30 +11974,6 @@
     "vendas": 1496,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-09T00:05:13.391Z"
-  },
-  {
-    "id": "SP333164875-19699297807",
-    "productId": "SP333164875-19699297807",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Café 1 Litro Click Abre e Fecha Premium",
-    "price": 73.62,
-    "originalPrice": 171.21,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfnu9kk505d33",
-    "url": "https://s.shopee.com.br/9fLVIVPfgT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 897,
-    "publishedAt": "2026-10-09T03:05:18.134Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1765235104-58214016955",
