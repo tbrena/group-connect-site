@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -94,6 +94,30 @@
     "vendas": 1605,
     "publishedAt": "2026-10-06T12:05:13.247Z",
     "checkedAt": "2026-10-09T02:35:13.511Z"
+  },
+  {
+    "id": "SP790605924-57707127537",
+    "productId": "SP790605924-57707127537",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode dar Banho",
+    "price": 59.9,
+    "originalPrice": 199.67,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyk3k7olon833",
+    "url": "https://s.shopee.com.br/905orfZEPK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2001,
+    "publishedAt": "2026-10-07T14:05:14.553Z",
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP418205294-20597875246",
@@ -453,7 +477,7 @@
     "lowest30d": true,
     "vendas": 2872,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP838651758-52459273810",
@@ -645,7 +669,7 @@
     "lowest30d": true,
     "vendas": 1246,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -837,7 +861,7 @@
     "lowest30d": true,
     "vendas": 621,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -1101,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 1135,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1125,7 +1149,7 @@
     "lowest30d": true,
     "vendas": 544,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -1173,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 529,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -1197,7 +1221,7 @@
     "lowest30d": true,
     "vendas": 1180,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -1230,8 +1254,8 @@
     "fonte": "shopee:q:ferramenta",
     "categoria": "Ferramentas",
     "title": "9 / 36 PCS Piso Vinílico Autocolante Adesivo Madeira 91cm x 15cm",
-    "price": 56.65,
-    "originalPrice": 177.03,
+    "price": 55.69,
+    "originalPrice": 174.03,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -1242,10 +1266,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2676,
     "publishedAt": "2026-09-29T02:35:16.404Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -1269,7 +1293,7 @@
     "lowest30d": true,
     "vendas": 219,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1449862876-58206112528",
@@ -1317,7 +1341,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1438,6 +1462,30 @@
     "vendas": 1362,
     "publishedAt": "2026-10-04T17:35:17.145Z",
     "checkedAt": "2026-10-09T02:35:13.511Z"
+  },
+  {
+    "id": "SP972053936-23998448883",
+    "productId": "SP972053936-23998448883",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
+    "price": 29.99,
+    "originalPrice": 90.88,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
+    "url": "https://s.shopee.com.br/2gBkSe1DzY",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 772,
+    "publishedAt": "2026-10-03T17:05:15.960Z",
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -2469,7 +2517,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2517,7 +2565,7 @@
     "lowest30d": true,
     "vendas": 170,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP983645094-57113764077",
@@ -2589,7 +2637,7 @@
     "lowest30d": true,
     "vendas": 229,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2661,7 +2709,7 @@
     "lowest30d": true,
     "vendas": 792,
     "publishedAt": "2026-09-27T21:05:15.305Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -2709,7 +2757,7 @@
     "lowest30d": false,
     "vendas": 716,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -2733,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 404,
     "publishedAt": "2026-10-08T14:35:53.766Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -3237,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 192,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP669642894-23797637786",
@@ -3357,7 +3405,7 @@
     "lowest30d": true,
     "vendas": 204,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3405,7 +3453,7 @@
     "lowest30d": true,
     "vendas": 306,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1398196452-26044322175",
@@ -3502,6 +3550,30 @@
     "vendas": 362,
     "publishedAt": "2026-09-29T16:05:17.624Z",
     "checkedAt": "2026-10-09T02:35:13.511Z"
+  },
+  {
+    "id": "SP1524383764-23493930815",
+    "productId": "SP1524383764-23493930815",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+    "price": 68.5,
+    "originalPrice": 180.26,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+    "url": "https://s.shopee.com.br/qk6HH8GyL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2970,
+    "publishedAt": "2026-09-29T12:35:18.138Z",
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3792,30 +3864,6 @@
     "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
-    "id": "SP972053936-23998448883",
-    "productId": "SP972053936-23998448883",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
-    "price": 34.99,
-    "originalPrice": 89.72,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
-    "url": "https://s.shopee.com.br/2gBkSe1DzY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 772,
-    "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
-  },
-  {
     "id": "SP1424438285-58215805759",
     "productId": "SP1424438285-58215805759",
     "marketplace": "shopee",
@@ -3829,7 +3877,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-mrlzw3npk5xe67",
-    "url": "https://s.shopee.com.br/2VsKGL1vaZ",
+    "url": "https://s.shopee.com.br/7faS904Bod",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3837,7 +3885,31 @@
     "lowest30d": false,
     "vendas": 815,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
+  },
+  {
+    "id": "SP400401910-22493275140",
+    "productId": "SP400401910-22493275140",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Conjunto Feminino Short com Blusa Cobre Tudo Moda Aerolook",
+    "price": 38.99,
+    "originalPrice": 99.97,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mt4mn8o6ncas61",
+    "url": "https://s.shopee.com.br/2VsKGL1n6D",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 559,
+    "publishedAt": "2026-10-03T17:05:15.960Z",
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP397374716-23895517734",
@@ -4149,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 2136,
     "publishedAt": "2026-10-08T11:05:16.635Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP662418492-48800631375",
@@ -4197,31 +4269,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
-  },
-  {
-    "id": "SP790605924-57707127537",
-    "productId": "SP790605924-57707127537",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode dar Banho",
-    "price": 79.9,
-    "originalPrice": 199.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyk3k7olon833",
-    "url": "https://s.shopee.com.br/905orfZEPK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2001,
-    "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -4294,30 +4342,6 @@
     "vendas": 4549,
     "publishedAt": "2026-10-03T17:35:13.618Z",
     "checkedAt": "2026-10-09T02:05:14.714Z"
-  },
-  {
-    "id": "SP400401910-22493275140",
-    "productId": "SP400401910-22493275140",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Conjunto Feminino Short com Blusa Cobre Tudo Moda Aerolook",
-    "price": 39.9,
-    "originalPrice": 99.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mt4mn8o6ncas61",
-    "url": "https://s.shopee.com.br/2VsKGL1n6D",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 559,
-    "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
   },
   {
     "id": "SP1630828144-58200483130",
@@ -4485,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 399,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP847608673-21698268068",
@@ -4581,7 +4605,7 @@
     "lowest30d": true,
     "vendas": 8597,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1267085301-22699386857",
@@ -4821,7 +4845,7 @@
     "lowest30d": false,
     "vendas": 1063,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP669626175-58217039645",
@@ -4869,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 556,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1259086167-46111240879",
@@ -4965,7 +4989,7 @@
     "lowest30d": false,
     "vendas": 1328,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB4863689399",
@@ -4989,7 +5013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -5040,30 +5064,6 @@
     "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
-    "id": "SP1524383764-23493930815",
-    "productId": "SP1524383764-23493930815",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
-    "price": 73.9,
-    "originalPrice": 180.24,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
-    "url": "https://s.shopee.com.br/qk6HH8GyL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2970,
-    "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
-  },
-  {
     "id": "SP1578690794-58251241094",
     "productId": "SP1578690794-58251241094",
     "marketplace": "shopee",
@@ -5109,7 +5109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5181,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 499,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP410040838-22497996785",
@@ -5358,8 +5358,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-    "price": 55,
-    "originalPrice": 130.95,
+    "price": 54.99,
+    "originalPrice": 130.93,
     "discount": 58,
     "base": "vendedor",
     "averagePrice": null,
@@ -5370,10 +5370,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 5730,
     "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -5469,7 +5469,7 @@
     "lowest30d": false,
     "vendas": 238,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1767575955-58265818230",
@@ -5493,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 193,
     "publishedAt": "2026-10-01T10:05:49.038Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5949,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 240,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1616052629-58254217913",
@@ -6141,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 658,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP470159845-41282373928",
@@ -6190,6 +6190,30 @@
     "vendas": 1076,
     "publishedAt": "2026-10-02T18:05:15.490Z",
     "checkedAt": "2026-10-09T04:05:14.775Z"
+  },
+  {
+    "id": "SP1197145594-22397665281",
+    "productId": "SP1197145594-22397665281",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
+    "price": 89.29,
+    "originalPrice": 198.42,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814",
+    "url": "https://s.shopee.com.br/gQg4yDJ5c",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3272,
+    "publishedAt": "2026-10-02T12:05:14.623Z",
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -6381,7 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6429,7 +6453,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6453,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 1120,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1658183207-58258793992",
@@ -6549,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 979,
     "publishedAt": "2026-10-02T22:58:15.377Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -6984,30 +7008,6 @@
     "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
-    "id": "SP1197145594-22397665281",
-    "productId": "SP1197145594-22397665281",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
-    "price": 94.99,
-    "originalPrice": 197.9,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814",
-    "url": "https://s.shopee.com.br/gQg4yDJ5c",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3272,
-    "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
-  },
-  {
     "id": "MLB3802748755",
     "productId": "MLB20611931",
     "marketplace": "ml",
@@ -7029,7 +7029,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-08T21:35:15.303Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7053,7 +7053,7 @@
     "lowest30d": true,
     "vendas": 3245,
     "publishedAt": "2026-09-26T04:05:18.825Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP898761179-58257621281",
@@ -7125,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB4411250505",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": 144,
     "publishedAt": "2026-10-08T14:35:53.766Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7237,7 +7237,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mswbhxf2uozsea",
-    "url": "https://s.shopee.com.br/113WTaC2Pi",
+    "url": "https://s.shopee.com.br/1gJEzyVV1X",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 797,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 2757,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1365819178-23094699741",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 403,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB6938947454",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": 1100,
     "publishedAt": "2026-10-06T03:05:12.318Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB6464994042",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T04:35:14.015Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB5187059120",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB3449639363",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB3830992651",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB3725747499",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-09T05:05:16.191Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -8469,7 +8469,7 @@
     "lowest30d": false,
     "vendas": 769,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": 842,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -9285,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 3993,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -9453,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 244,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -10053,7 +10053,7 @@
     "lowest30d": false,
     "vendas": 505,
     "publishedAt": "2026-10-06T18:05:15.574Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -10077,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 11294,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 630,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -10245,7 +10245,7 @@
     "lowest30d": false,
     "vendas": 939,
     "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10293,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 383,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -10317,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 1280,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -10341,7 +10341,7 @@
     "lowest30d": true,
     "vendas": 422,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -11133,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 3648,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP627750190-22798914047",
@@ -11253,7 +11253,7 @@
     "lowest30d": false,
     "vendas": 169,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -11445,7 +11445,7 @@
     "lowest30d": false,
     "vendas": 4179,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1104525762-23998143402",
@@ -11541,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 276,
     "publishedAt": "2026-09-28T13:47:18.833Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -11613,7 +11613,7 @@
     "lowest30d": false,
     "vendas": 625,
     "publishedAt": "2026-10-03T13:20:48.286Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1299445449-22197758424",
@@ -11901,7 +11901,7 @@
     "lowest30d": true,
     "vendas": 1027,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
     "id": "SP1203451725-22597456045",
