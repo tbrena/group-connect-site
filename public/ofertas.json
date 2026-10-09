@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 862,
     "publishedAt": "2026-10-08T23:35:13.181Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -117,7 +117,7 @@
     "lowest30d": true,
     "vendas": 1605,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP418205294-20597875246",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 3648,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -708,7 +708,7 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258z-mslnrcbowutj98",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mslnrbijquiu34",
     "url": "https://s.shopee.com.br/LnpeFRtdS",
     "freeShipping": false,
     "oficial": false,
@@ -717,7 +717,7 @@
     "lowest30d": true,
     "vendas": 2114,
     "publishedAt": "2026-10-01T15:35:19.943Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1207367861-18699230754",
@@ -744,30 +744,6 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
-    "id": "SP1763539024-58257809093",
-    "productId": "SP1763539024-58257809093",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
-    "price": 38.9,
-    "originalPrice": 125.48,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msf1h2hp9vd2ff",
-    "url": "https://s.shopee.com.br/4VdObt86kx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 579,
-    "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
     "id": "SP1309459053-23898624738",
     "productId": "SP1309459053-23898624738",
     "marketplace": "shopee",
@@ -789,7 +765,7 @@
     "lowest30d": false,
     "vendas": 274,
     "publishedAt": "2026-09-30T22:35:14.028Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -861,7 +837,7 @@
     "lowest30d": true,
     "vendas": 190,
     "publishedAt": "2026-09-26T12:35:50.774Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -1030,6 +1006,30 @@
     "vendas": 346,
     "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-09T00:35:13.683Z"
+  },
+  {
+    "id": "SP1763539024-58257809093",
+    "productId": "SP1763539024-58257809093",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
+    "price": 39.9,
+    "originalPrice": 124.69,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msf1h2hp9vd2ff",
+    "url": "https://s.shopee.com.br/4VdObt86kx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 579,
+    "publishedAt": "2026-10-02T13:49:41.861Z",
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -1254,8 +1254,8 @@
     "fonte": "shopee:q:ferramenta",
     "categoria": "Ferramentas",
     "title": "Furadeira/Parafusadeira de Sem fio, Bateria de 12V/48V, Com ou sem Mala, Bivolt",
-    "price": 73.99,
-    "originalPrice": 231.22,
+    "price": 74.99,
+    "originalPrice": 234.34,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -1266,10 +1266,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 2825,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB4943866566",
@@ -1293,7 +1293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1317,7 +1317,7 @@
     "lowest30d": false,
     "vendas": 961,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 3089,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -1413,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 1362,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1437,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 1789,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -1653,7 +1653,7 @@
     "lowest30d": true,
     "vendas": 1112,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 553,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -2472,6 +2472,30 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
+    "id": "SP867115662-23793884265",
+    "productId": "SP867115662-23793884265",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Pantalona Feminina Premium Alfaiataria Novo Lançamento",
+    "price": 34.9,
+    "originalPrice": 99.71,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8fb5s62p6a9de",
+    "url": "https://s.shopee.com.br/113WTa7hta",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 939,
+    "publishedAt": "2026-09-25T15:05:17.364Z",
+    "checkedAt": "2026-10-09T01:35:12.951Z"
+  },
+  {
     "id": "MLB7531521420",
     "productId": "MLB69254970",
     "marketplace": "ml",
@@ -2493,7 +2517,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2589,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 1395,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -2661,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 360,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -2733,7 +2757,7 @@
     "lowest30d": true,
     "vendas": 399,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 215,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -2829,7 +2853,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -2853,7 +2877,7 @@
     "lowest30d": false,
     "vendas": 1006,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -2874,10 +2898,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2632,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -2925,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1311097443-19199559900",
@@ -2973,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 231,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP859540579-23493848787",
@@ -2997,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 263,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1027415014-19598793518",
@@ -3069,7 +3093,7 @@
     "lowest30d": false,
     "vendas": 2433,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -3117,7 +3141,7 @@
     "lowest30d": true,
     "vendas": 1635,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -3141,7 +3165,7 @@
     "lowest30d": true,
     "vendas": 970,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -3168,30 +3192,6 @@
     "checkedAt": "2026-10-08T23:35:13.181Z"
   },
   {
-    "id": "SP1590001727-23893695703",
-    "productId": "SP1590001727-23893695703",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "OPK Relógio Masculino de Quartzo Aço Inox Impermeável E Luminoso Estilo Casual Presente Ideal 6026",
-    "price": 79.9,
-    "originalPrice": 215.95,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgxt3n7n3khaa",
-    "url": "https://s.shopee.com.br/W7FqYIShV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 649,
-    "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
-  },
-  {
     "id": "SP1543234103-42553389179",
     "productId": "SP1543234103-42553389179",
     "marketplace": "shopee",
@@ -3213,7 +3213,7 @@
     "lowest30d": true,
     "vendas": 117,
     "publishedAt": "2026-09-26T03:35:16.420Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3381,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 1998,
     "publishedAt": "2026-10-03T03:05:13.932Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1114645438-42664270345",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 362,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 452,
     "publishedAt": "2026-09-30T23:12:08.055Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1640657682-57902938444",
@@ -4149,7 +4149,7 @@
     "lowest30d": false,
     "vendas": 1349,
     "publishedAt": "2026-09-28T15:05:16.350Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP371439155-23392591433",
@@ -4269,7 +4269,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -5061,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 540,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB4232405681",
@@ -5085,7 +5085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5469,7 +5469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5805,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 2584,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 646,
     "publishedAt": "2026-10-07T13:35:16.557Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB3872728642",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -6309,7 +6309,7 @@
     "lowest30d": true,
     "vendas": 738,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1665287075-58254858029",
@@ -6405,7 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB3449639363",
@@ -6429,7 +6429,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6549,7 +6549,7 @@
     "lowest30d": false,
     "vendas": 1556,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 1141,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP468417400-47454565755",
@@ -6718,6 +6718,30 @@
     "vendas": 581,
     "publishedAt": "2026-09-28T13:35:15.619Z",
     "checkedAt": "2026-10-09T01:05:27.248Z"
+  },
+  {
+    "id": "SP1590001727-23893695703",
+    "productId": "SP1590001727-23893695703",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "OPK Relógio Masculino de Quartzo Aço Inox Impermeável E Luminoso Estilo Casual Presente Ideal 6026",
+    "price": 99.9,
+    "originalPrice": 217.17,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgxt3n7n3khaa",
+    "url": "https://s.shopee.com.br/W7FqYIShV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 649,
+    "publishedAt": "2026-09-26T13:05:16.077Z",
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -7002,10 +7026,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 8590,
     "publishedAt": "2026-10-02T13:05:16.871Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -7053,7 +7077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-08T21:35:15.303Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7149,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB4411250505",
@@ -7173,7 +7197,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7581,7 +7605,7 @@
     "lowest30d": false,
     "vendas": 5386,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP898761179-58257621281",
@@ -7629,7 +7653,7 @@
     "lowest30d": true,
     "vendas": 845,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7680,30 +7704,6 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
-    "id": "SP295737745-22994928105",
-    "productId": "SP295737745-22994928105",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa De Som Jbl Bluetooth À Prova D'água Boombox 4",
-    "price": 2340,
-    "originalPrice": 4333.33,
-    "discount": 46,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mmbyhw7pzwg4f2",
-    "url": "https://s.shopee.com.br/3LRRx9JIIC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 105,
-    "publishedAt": "2026-10-08T23:05:21.336Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
-  },
-  {
     "id": "SP1364269886-58200973653",
     "productId": "SP1364269886-58200973653",
     "marketplace": "shopee",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7831,11 +7831,11 @@
     "categoria": "Eletrônicos",
     "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
     "price": 33.1,
-    "originalPrice": 59.26,
+    "originalPrice": 59.47,
     "discount": 44,
     "base": "media",
-    "averagePrice": 59.26,
-    "sellers": 32,
+    "averagePrice": 59.47,
+    "sellers": 33,
     "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": 607,
     "publishedAt": "2026-10-07T17:35:13.560Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP325008325-21399263667",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8215,10 +8215,10 @@
     "categoria": "Mercado",
     "title": "Azeite de Oliva Extra Virgem Vidro Andorinha 500ml",
     "price": 33.9,
-    "originalPrice": 49.45,
-    "discount": 31,
+    "originalPrice": 48.67,
+    "discount": 30,
     "base": "media",
-    "averagePrice": 49.45,
+    "averagePrice": 48.67,
     "sellers": 47,
     "image": "https://http2.mlstatic.com/D_NQ_NP_764609-MLA111510472711_052026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5720722046?matt_word=promoninja&matt_tool=19839069",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB3725747499",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 225,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -8997,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 233,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -10128,30 +10128,6 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
-    "id": "SP867115662-23793884265",
-    "productId": "SP867115662-23793884265",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Pantalona Feminina Premium Alfaiataria Novo Lançamento",
-    "price": 34.9,
-    "originalPrice": 99.71,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8fb5s62p6a9de",
-    "url": "https://s.shopee.com.br/113WTa7hta",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 939,
-    "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
-  },
-  {
     "id": "SP1627872094-58200782275",
     "productId": "SP1627872094-58200782275",
     "marketplace": "shopee",
@@ -11197,7 +11173,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrr64lc7eb6fe",
-    "url": "https://s.shopee.com.br/40h8785IBM",
+    "url": "https://s.shopee.com.br/1VzobBALGN",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11205,7 +11181,7 @@
     "lowest30d": false,
     "vendas": 174,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -11325,7 +11301,7 @@
     "lowest30d": true,
     "vendas": 643,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1220163366-58201517935",
@@ -11349,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 2502,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1165606860-58262141857",
@@ -11373,7 +11349,7 @@
     "lowest30d": true,
     "vendas": 1623,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP717396632-21599194714",
@@ -11397,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 500,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11421,7 +11397,7 @@
     "lowest30d": true,
     "vendas": 5233,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1156409244-23299128342",
@@ -11541,7 +11517,7 @@
     "lowest30d": true,
     "vendas": 743,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11613,7 +11589,7 @@
     "lowest30d": true,
     "vendas": 1733,
     "publishedAt": "2026-09-26T16:45:24.231Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP416390148-21428880481",
@@ -11685,7 +11661,7 @@
     "lowest30d": false,
     "vendas": 1907,
     "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -11725,7 +11701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdniveqik91t2b",
-    "url": "https://s.shopee.com.br/3qNhup5ijb",
+    "url": "https://s.shopee.com.br/7AeBLaoq29",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11733,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 1582,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -11757,7 +11733,7 @@
     "lowest30d": true,
     "vendas": 1433,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -11781,7 +11757,7 @@
     "lowest30d": false,
     "vendas": 5835,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -11853,7 +11829,7 @@
     "lowest30d": true,
     "vendas": 2263,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP447122151-22792005725",
@@ -11973,7 +11949,7 @@
     "lowest30d": false,
     "vendas": 450,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:05:21.336Z"
+    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1829268664-58262252375",
