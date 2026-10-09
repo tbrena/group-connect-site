@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 193,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP400434768-18298068505",
@@ -189,7 +189,7 @@
     "lowest30d": false,
     "vendas": 2074,
     "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1180920205-22093160276",
@@ -525,7 +525,7 @@
     "lowest30d": false,
     "vendas": 423,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -549,7 +549,7 @@
     "lowest30d": true,
     "vendas": 227,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -670,30 +670,6 @@
     "vendas": 1246,
     "publishedAt": "2026-09-26T12:27:20.892Z",
     "checkedAt": "2026-10-09T05:35:15.161Z"
-  },
-  {
-    "id": "SP497711388-22793151170",
-    "productId": "SP497711388-22793151170",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "2 Unidades Umidificador De Ar E Aromatizador De Ambiente Com Led Usb Purificador Ultrassônico Difusor Eelétrico",
-    "price": 38.58,
-    "originalPrice": 128.6,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lo-mso6r7dqe96u0f",
-    "url": "https://s.shopee.com.br/2gBkWg5tqK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 123,
-    "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -888,6 +864,30 @@
     "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
+    "id": "SP1553736756-23298708556",
+    "productId": "SP1553736756-23298708556",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Carregador de bateria automotivo inteligente 12 V Display Digital Automático Energia Reparação Puls-envio imediato",
+    "price": 46.45,
+    "originalPrice": 149.84,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-mqg18txjv30r61",
+    "url": "https://s.shopee.com.br/3g4HiW21ZT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1349,
+    "publishedAt": "2026-09-28T15:05:16.350Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
     "id": "SP1725971117-58207922771",
     "productId": "SP1725971117-58207922771",
     "marketplace": "shopee",
@@ -1005,7 +1005,7 @@
     "lowest30d": false,
     "vendas": 595,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -1029,7 +1029,7 @@
     "lowest30d": false,
     "vendas": 492,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1341,7 +1341,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1437,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 691,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -1461,7 +1461,7 @@
     "lowest30d": false,
     "vendas": 1362,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP972053936-23998448883",
@@ -1509,7 +1509,7 @@
     "lowest30d": false,
     "vendas": 1789,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -1557,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 177,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1581,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 3219,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 1257,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -1725,7 +1725,7 @@
     "lowest30d": true,
     "vendas": 1112,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -1749,7 +1749,7 @@
     "lowest30d": true,
     "vendas": 553,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -1773,7 +1773,7 @@
     "lowest30d": true,
     "vendas": 5266,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T03:05:18.134Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1118395504-47513118746",
@@ -1918,6 +1918,30 @@
     "vendas": 2287,
     "publishedAt": "2026-10-02T03:05:15.523Z",
     "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "SP296363855-42121901827",
+    "productId": "SP296363855-42121901827",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Lencol Queen/Casal/King/Solteiro Jogo De Cama Casal 400 Fios Micropercal com Ponto Palito",
+    "price": 25.99,
+    "originalPrice": 76.44,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lbzg077f7",
+    "url": "https://s.shopee.com.br/9fLUlOEps8",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5386,
+    "publishedAt": "2026-10-01T03:35:13.959Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1593984429-58206240257",
@@ -2541,7 +2565,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2598,8 +2622,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 46.6,
-    "originalPrice": 129.44,
+    "price": 46.59,
+    "originalPrice": 129.42,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2613,7 +2637,7 @@
     "lowest30d": false,
     "vendas": 1395,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -2661,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 360,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -2757,7 +2781,7 @@
     "lowest30d": true,
     "vendas": 399,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -2829,7 +2853,7 @@
     "lowest30d": false,
     "vendas": 215,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -2853,7 +2877,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -2877,7 +2901,31 @@
     "lowest30d": false,
     "vendas": 1006,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
+    "id": "SP397374716-23895517734",
+    "productId": "SP397374716-23895517734",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Portátil Iluminação RGB TWS Estéreo FM",
+    "price": 59.56,
+    "originalPrice": 160.97,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfv9x1djogovff",
+    "url": "https://s.shopee.com.br/4qGF6exii9",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 452,
+    "publishedAt": "2026-09-30T23:12:08.055Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -2901,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 2632,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -2949,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1311097443-19199559900",
@@ -2997,7 +3045,7 @@
     "lowest30d": true,
     "vendas": 231,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP859540579-23493848787",
@@ -3021,7 +3069,31 @@
     "lowest30d": true,
     "vendas": 263,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
+    "id": "SP1359974122-58205769513",
+    "productId": "SP1359974122-58205769513",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Nórdica Com Cabo Em Madeira 1 Litro - Mantém Quente Café Chá Cozinha e Escritório",
+    "price": 49.98,
+    "originalPrice": 135.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpspivim33sxb6",
+    "url": "https://s.shopee.com.br/4B0YJR0G45",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 362,
+    "publishedAt": "2026-09-29T16:05:17.624Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1027415014-19598793518",
@@ -3069,7 +3141,7 @@
     "lowest30d": false,
     "vendas": 2433,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -3117,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 1635,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -3141,7 +3213,7 @@
     "lowest30d": true,
     "vendas": 970,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -3192,28 +3264,28 @@
     "checkedAt": "2026-10-09T06:03:15.479Z"
   },
   {
-    "id": "SP1543234103-42553389179",
-    "productId": "SP1543234103-42553389179",
+    "id": "SP1590001727-23893695703",
+    "productId": "SP1590001727-23893695703",
     "marketplace": "shopee",
-    "fonte": "shopee:q:oculos de sol",
+    "fonte": "shopee:q:relogio masculino",
     "categoria": "Moda e Calçados",
-    "title": "Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval TL",
-    "price": 39.98,
-    "originalPrice": 108.05,
+    "title": "OPK Relógio Masculino de Quartzo Aço Inox Impermeável E Luminoso Estilo Casual Presente Ideal 6026",
+    "price": 79.9,
+    "originalPrice": 215.95,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp0j7v0bherw36",
-    "url": "https://s.shopee.com.br/3qNhup1OEU",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgxt3n7n3khaa",
+    "url": "https://s.shopee.com.br/W7FqYIShV",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 117,
-    "publishedAt": "2026-09-26T03:35:16.420Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "vendas": 649,
+    "publishedAt": "2026-09-26T13:05:16.077Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3405,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 1998,
     "publishedAt": "2026-10-03T03:05:13.932Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1114645438-42664270345",
@@ -3550,30 +3622,6 @@
     "vendas": 7416,
     "publishedAt": "2026-09-29T21:05:17.821Z",
     "checkedAt": "2026-10-09T03:05:18.134Z"
-  },
-  {
-    "id": "SP1359974122-58205769513",
-    "productId": "SP1359974122-58205769513",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Nórdica Com Cabo Em Madeira 1 Litro - Mantém Quente Café Chá Cozinha e Escritório",
-    "price": 51.99,
-    "originalPrice": 136.82,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpspivim33sxb6",
-    "url": "https://s.shopee.com.br/4B0YJR0G45",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 362,
-    "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -3912,30 +3960,6 @@
     "checkedAt": "2026-10-09T05:35:15.161Z"
   },
   {
-    "id": "SP397374716-23895517734",
-    "productId": "SP397374716-23895517734",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Portátil Iluminação RGB TWS Estéreo FM",
-    "price": 61.96,
-    "originalPrice": 158.87,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfv9x1djogovff",
-    "url": "https://s.shopee.com.br/4qGF6exii9",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 452,
-    "publishedAt": "2026-09-30T23:12:08.055Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
     "id": "SP1926504795-58267597637",
     "productId": "SP1926504795-58267597637",
     "marketplace": "shopee",
@@ -4128,30 +4152,6 @@
     "checkedAt": "2026-10-09T05:05:16.191Z"
   },
   {
-    "id": "SP1553736756-23298708556",
-    "productId": "SP1553736756-23298708556",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Carregador de bateria automotivo inteligente 12 V Display Digital Automático Energia Reparação Puls-envio imediato",
-    "price": 58.98,
-    "originalPrice": 151.23,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82592-mqg18txjv30r61",
-    "url": "https://s.shopee.com.br/3g4HiW21ZT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1349,
-    "publishedAt": "2026-09-28T15:05:16.350Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
     "id": "SP371439155-23392591433",
     "productId": "SP371439155-23392591433",
     "marketplace": "shopee",
@@ -4174,6 +4174,30 @@
     "vendas": 1245,
     "publishedAt": "2026-09-26T20:35:13.422Z",
     "checkedAt": "2026-10-09T03:35:17.442Z"
+  },
+  {
+    "id": "SP1543234103-42553389179",
+    "productId": "SP1543234103-42553389179",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:oculos de sol",
+    "categoria": "Moda e Calçados",
+    "title": "Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval TL",
+    "price": 41.89,
+    "originalPrice": 107.41,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp0j7v0bherw36",
+    "url": "https://s.shopee.com.br/3qNhup1OEU",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 117,
+    "publishedAt": "2026-09-26T03:35:16.420Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1465342892-58201517017",
@@ -4269,7 +4293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -4989,7 +5013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -5061,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 540,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB4232405681",
@@ -5085,7 +5109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5781,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 2584,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -6069,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 646,
     "publishedAt": "2026-10-07T13:35:16.557Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -6285,7 +6309,7 @@
     "lowest30d": true,
     "vendas": 738,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1665287075-58254858029",
@@ -6357,7 +6381,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6405,7 +6429,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6501,7 +6525,7 @@
     "lowest30d": false,
     "vendas": 1556,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6621,7 +6645,7 @@
     "lowest30d": false,
     "vendas": 1141,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -6694,30 +6718,6 @@
     "vendas": 581,
     "publishedAt": "2026-09-28T13:35:15.619Z",
     "checkedAt": "2026-10-09T05:05:16.191Z"
-  },
-  {
-    "id": "SP1590001727-23893695703",
-    "productId": "SP1590001727-23893695703",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "OPK Relógio Masculino de Quartzo Aço Inox Impermeável E Luminoso Estilo Casual Presente Ideal 6026",
-    "price": 99.9,
-    "originalPrice": 217.17,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgxt3n7n3khaa",
-    "url": "https://s.shopee.com.br/W7FqYIShV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 649,
-    "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -7005,7 +7005,7 @@
     "lowest30d": true,
     "vendas": 8590,
     "publishedAt": "2026-10-02T13:05:16.871Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB4411250505",
@@ -7125,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7536,30 +7536,6 @@
     "checkedAt": "2026-10-09T03:35:17.442Z"
   },
   {
-    "id": "SP296363855-42121901827",
-    "productId": "SP296363855-42121901827",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Lencol Queen/Casal/King/Solteiro Jogo De Cama Casal 400 Fios Micropercal com Ponto Palito",
-    "price": 34.9,
-    "originalPrice": 68.43,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lbzg077f7",
-    "url": "https://s.shopee.com.br/9fLUlOEps8",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5386,
-    "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
     "id": "SP1242044379-23293253949",
     "productId": "SP1242044379-23293253949",
     "marketplace": "shopee",
@@ -7581,7 +7557,7 @@
     "lowest30d": true,
     "vendas": 845,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7725,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7773,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7845,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T04:35:14.015Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB5187059120",
@@ -7989,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8061,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB3449639363",
@@ -8085,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8133,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB3830992651",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8205,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T21:35:15.303Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB5720722046",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8277,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB3725747499",
@@ -8301,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8373,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
+    "id": "MLB7694073954",
+    "productId": "MLB63047503",
+    "marketplace": "ml",
+    "fonte": "MLB430687",
+    "categoria": "Informática",
+    "title": "Mochila Viagem Feminina Masculina Para Notebook Executiva Cor Preto",
+    "price": 102,
+    "originalPrice": 119.98,
+    "discount": 15,
+    "base": "media",
+    "averagePrice": 119.98,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_974650-MLA114948542868_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7694073954?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-09T06:03:15.479Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
+    "id": "SP497711388-22793151170",
+    "productId": "SP497711388-22793151170",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "2 Unidades Umidificador De Ar E Aromatizador De Ambiente Com Led Usb Purificador Ultrassônico Difusor Eelétrico",
+    "price": 38.58,
+    "originalPrice": 128.6,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820lo-mso6r7dqe96u0f",
+    "url": "https://s.shopee.com.br/2gBkWg5tqK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 123,
+    "publishedAt": "2026-09-25T19:05:15.802Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -8688,6 +8712,30 @@
     "checkedAt": "2026-10-09T04:05:14.775Z"
   },
   {
+    "id": "SP1547936322-22394291048",
+    "productId": "SP1547936322-22394291048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2025 Novo Relógio Smartwatch Tela Amoled Serie X10 NFC,IP67à prova de água",
+    "price": 67,
+    "originalPrice": 216.13,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn28vhpzsftd6",
+    "url": "https://s.shopee.com.br/3LRRJu7ckS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 233,
+    "publishedAt": "2026-09-24T12:35:15.740Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
+  },
+  {
     "id": "SP1735575008-58255873721",
     "productId": "SP1735575008-58255873721",
     "marketplace": "shopee",
@@ -8949,31 +8997,7 @@
     "lowest30d": true,
     "vendas": 225,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
-    "id": "SP1547936322-22394291048",
-    "productId": "SP1547936322-22394291048",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2025 Novo Relógio Smartwatch Tela Amoled Serie X10 NFC,IP67à prova de água",
-    "price": 69,
-    "originalPrice": 215.63,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn28vhpzsftd6",
-    "url": "https://s.shopee.com.br/3LRRJu7ckS",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 233,
-    "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -11205,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 174,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -11301,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 643,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1220163366-58201517935",
@@ -11325,7 +11349,7 @@
     "lowest30d": true,
     "vendas": 2502,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1165606860-58262141857",
@@ -11349,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 1623,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP717396632-21599194714",
@@ -11373,7 +11397,7 @@
     "lowest30d": true,
     "vendas": 500,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11397,7 +11421,7 @@
     "lowest30d": true,
     "vendas": 5233,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1156409244-23299128342",
@@ -11493,7 +11517,7 @@
     "lowest30d": true,
     "vendas": 743,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11542,30 +11566,6 @@
     "vendas": 1399,
     "publishedAt": "2026-09-30T16:35:18.237Z",
     "checkedAt": "2026-10-09T06:03:15.479Z"
-  },
-  {
-    "id": "SP1638239765-58205100450",
-    "productId": "SP1638239765-58205100450",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-    "price": 37.96,
-    "originalPrice": 99.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-    "url": "https://s.shopee.com.br/3g4HiW6M4Y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1733,
-    "publishedAt": "2026-09-26T16:45:24.231Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP416390148-21428880481",
@@ -11622,8 +11622,8 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
-    "price": 38.99,
-    "originalPrice": 99.97,
+    "price": 38.98,
+    "originalPrice": 99.95,
     "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
@@ -11637,7 +11637,7 @@
     "lowest30d": false,
     "vendas": 1907,
     "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -11685,7 +11685,7 @@
     "lowest30d": true,
     "vendas": 1582,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -11709,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 1433,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -11733,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 5835,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -11781,7 +11781,7 @@
     "lowest30d": true,
     "vendas": 2263,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP447122151-22792005725",
@@ -11901,7 +11901,7 @@
     "lowest30d": false,
     "vendas": 450,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP1829268664-58262252375",
@@ -11926,6 +11926,30 @@
     "vendas": 1496,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-09T04:05:14.775Z"
+  },
+  {
+    "id": "SP1638239765-58205100450",
+    "productId": "SP1638239765-58205100450",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+    "price": 38.9,
+    "originalPrice": 99.74,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+    "url": "https://s.shopee.com.br/3g4HiW6M4Y",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1733,
+    "publishedAt": "2026-09-26T16:45:24.231Z",
+    "checkedAt": "2026-10-09T06:05:15.412Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -11974,29 +11998,5 @@
     "vendas": 561,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-09T03:05:18.134Z"
-  },
-  {
-    "id": "MLB7694073954",
-    "productId": "MLB63047503",
-    "marketplace": "ml",
-    "fonte": "MLB430687",
-    "categoria": "Informática",
-    "title": "Mochila Viagem Feminina Masculina Para Notebook Executiva Cor Preto",
-    "price": 102,
-    "originalPrice": 119.98,
-    "discount": 15,
-    "base": "media",
-    "averagePrice": 119.98,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_974650-MLA114948542868_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7694073954?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-09T06:03:15.479Z",
-    "checkedAt": "2026-10-09T06:03:15.479Z"
   }
 ]
