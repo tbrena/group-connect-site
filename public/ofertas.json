@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 193,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP347988064-9212570285",
@@ -166,6 +166,30 @@
     "vendas": 1016,
     "publishedAt": "2026-10-06T02:30:18.499Z",
     "checkedAt": "2026-10-09T01:35:12.951Z"
+  },
+  {
+    "id": "SP790605924-19499073421",
+    "productId": "SP790605924-19499073421",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
+    "price": 75.89,
+    "originalPrice": 252.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3sr42k07wke3",
+    "url": "https://s.shopee.com.br/9APEhPW1Dk",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2074,
+    "publishedAt": "2026-10-05T13:35:14.015Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1180920205-22093160276",
@@ -501,7 +525,7 @@
     "lowest30d": false,
     "vendas": 423,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -525,7 +549,7 @@
     "lowest30d": true,
     "vendas": 227,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -669,7 +693,7 @@
     "lowest30d": true,
     "vendas": 123,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -933,7 +957,7 @@
     "lowest30d": false,
     "vendas": 595,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -957,7 +981,7 @@
     "lowest30d": false,
     "vendas": 492,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1293,7 +1317,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1389,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 691,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -1485,7 +1509,7 @@
     "lowest30d": true,
     "vendas": 177,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1509,7 +1533,7 @@
     "lowest30d": true,
     "vendas": 3219,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -1518,13 +1542,13 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Parafusadeira Furadeira de Impacto 48V Sem Fio 2 Baterias 3 Funções com Maleta e Acessórios Kit Completo",
-    "price": 98.99,
-    "originalPrice": 299.97,
+    "price": 98.98,
+    "originalPrice": 299.94,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mthm392pasjnf1",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mu2uzugkkflu1a",
     "url": "https://s.shopee.com.br/9peuxkPz13",
     "freeShipping": false,
     "oficial": false,
@@ -1533,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 1257,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -1680,28 +1704,28 @@
     "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
-    "id": "SP407952755-58202184309",
-    "productId": "SP407952755-58202184309",
+    "id": "SP372103398-22593398069",
+    "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador Difusor Aromatizador 500ml  Ultrassônico Estilo Branco Com Led 7 Cores + Controle",
-    "price": 43.99,
-    "originalPrice": 133.3,
-    "discount": 67,
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Porta Joia Acrílico Luxo Com 3 Camadas Brinco Anel Compartimento caixa de armazenamento de jóias",
+    "price": 33.37,
+    "originalPrice": 98.15,
+    "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mlpfgx1xvoqu81",
-    "url": "https://s.shopee.com.br/905oAUpjJI",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy7-m0os7gkj6b1hc4",
+    "url": "https://s.shopee.com.br/1Vzn2NazNK",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 320,
-    "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "vendas": 5266,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1320813117-58204576204",
@@ -1749,7 +1773,7 @@
     "lowest30d": false,
     "vendas": 380,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1773,31 +1797,7 @@
     "lowest30d": false,
     "vendas": 436,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
-  },
-  {
-    "id": "SP790605924-19499073421",
-    "productId": "SP790605924-19499073421",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-    "price": 75.89,
-    "originalPrice": 223.21,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3sr42k07wke3",
-    "url": "https://s.shopee.com.br/9APEhPW1Dk",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2074,
-    "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -1869,7 +1869,7 @@
     "lowest30d": false,
     "vendas": 772,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -1893,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 2287,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1593984429-58206240257",
@@ -2013,7 +2013,7 @@
     "lowest30d": false,
     "vendas": 11762,
     "publishedAt": "2026-10-08T12:35:13.204Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -2037,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 984,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -2472,28 +2472,28 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
-    "id": "SP867115662-23793884265",
-    "productId": "SP867115662-23793884265",
+    "id": "SP1673514861-58252475087",
+    "productId": "SP1673514861-58252475087",
     "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Pantalona Feminina Premium Alfaiataria Novo Lançamento",
-    "price": 34.9,
-    "originalPrice": 99.71,
-    "discount": 65,
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
+    "price": 160.55,
+    "originalPrice": 445.97,
+    "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8fb5s62p6a9de",
-    "url": "https://s.shopee.com.br/113WTa7hta",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
+    "url": "https://s.shopee.com.br/AUubkvOraf",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 939,
-    "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-10-09T01:35:12.951Z"
+    "lowest30d": true,
+    "vendas": 1169,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB7531521420",
@@ -2517,7 +2517,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3189,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 726,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1543234103-42553389179",
@@ -3336,6 +3336,30 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
+    "id": "SP1661007426-22594666523",
+    "productId": "SP1661007426-22594666523",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Chaleira Jarra Elétrica Térmica Bule Com Tampa Inox Prateada 1,8 Litros 1000W",
+    "price": 37.96,
+    "originalPrice": 99.89,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mswxz4hit81yf5",
+    "url": "https://s.shopee.com.br/1VznfPaF3e",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 6195,
+    "publishedAt": "2026-10-06T12:35:13.324Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
     "id": "SP1724093444-58255929142",
     "productId": "SP1724093444-58255929142",
     "marketplace": "shopee",
@@ -3357,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 420,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP396114006-23998767632",
@@ -3477,7 +3501,55 @@
     "lowest30d": true,
     "vendas": 153,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "SP1640657682-57902938444",
+    "productId": "SP1640657682-57902938444",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+    "price": 37.8,
+    "originalPrice": 99.47,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+    "url": "https://s.shopee.com.br/8pmOXByHNt",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2907,
+    "publishedAt": "2026-10-01T01:05:12.599Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "SP426565286-22998062592",
+    "productId": "SP426565286-22998062592",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Z&D Lingerie Cinta Elastique Modeladora De Alta Compressão Redutor Afina Cintura 890",
+    "price": 33.99,
+    "originalPrice": 89.45,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrbzhwfeir5x4c",
+    "url": "https://s.shopee.com.br/6q1JWXEEA2",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 7416,
+    "publishedAt": "2026-09-29T21:05:17.821Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1359974122-58205769513",
@@ -3525,7 +3597,7 @@
     "lowest30d": true,
     "vendas": 126,
     "publishedAt": "2026-09-29T00:37:00.254Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1430771203-22094984499",
@@ -3549,7 +3621,7 @@
     "lowest30d": true,
     "vendas": 2651,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -3573,7 +3645,7 @@
     "lowest30d": true,
     "vendas": 1007,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP441503847-20899551729",
@@ -3597,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 1986,
     "publishedAt": "2026-09-27T07:05:15.783Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -3645,7 +3717,7 @@
     "lowest30d": true,
     "vendas": 628,
     "publishedAt": "2026-09-26T10:35:13.540Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -3669,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 114,
     "publishedAt": "2026-10-08T19:25:37.830Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1362613236-44328404708",
@@ -3741,31 +3813,7 @@
     "lowest30d": false,
     "vendas": 1794,
     "publishedAt": "2026-10-06T12:35:13.324Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
-    "id": "SP1661007426-22594666523",
-    "productId": "SP1661007426-22594666523",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Chaleira Jarra Elétrica Térmica Bule Com Tampa Inox Prateada 1,8 Litros 1000W",
-    "price": 38.96,
-    "originalPrice": 99.9,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mswxz4hit81yf5",
-    "url": "https://s.shopee.com.br/1VznfPaF3e",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 6195,
-    "publishedAt": "2026-10-06T12:35:13.324Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP340113364-23393879708",
@@ -3813,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 534,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP972053936-23998448883",
@@ -3888,38 +3936,14 @@
     "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
-    "id": "SP1640657682-57902938444",
-    "productId": "SP1640657682-57902938444",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
-    "price": 38.9,
-    "originalPrice": 99.74,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-    "url": "https://s.shopee.com.br/8pmOXByHNt",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2907,
-    "publishedAt": "2026-10-01T01:05:12.599Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
     "id": "SP1926504795-58267597637",
     "productId": "SP1926504795-58267597637",
     "marketplace": "shopee",
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "3M Bivolt 110V–220V Cortina de Luz LED Natal Estrela 5 Pontas Pisca-pisca Quintal Festa KL-511",
-    "price": 38.99,
-    "originalPrice": 99.97,
+    "price": 38.98,
+    "originalPrice": 99.95,
     "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
@@ -3933,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 1000,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1459307687-23698466561",
@@ -3957,31 +3981,7 @@
     "lowest30d": true,
     "vendas": 2383,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
-    "id": "SP426565286-22998062592",
-    "productId": "SP426565286-22998062592",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Z&D Lingerie Cinta Elastique Modeladora De Alta Compressão Redutor Afina Cintura 890",
-    "price": 34.99,
-    "originalPrice": 89.72,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrbzhwfeir5x4c",
-    "url": "https://s.shopee.com.br/6q1JWXEEA2",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 7416,
-    "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1549432275-22894650995",
@@ -3997,7 +3997,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgj6mx12onpcef",
-    "url": "https://s.shopee.com.br/5q8mKhI2Bw",
+    "url": "https://s.shopee.com.br/8pmPMtns7j",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4005,7 +4005,7 @@
     "lowest30d": true,
     "vendas": 233,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1297519240-24897571457",
@@ -4029,7 +4029,7 @@
     "lowest30d": true,
     "vendas": 297,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -4053,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 3035,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP777798362-23097144074",
@@ -4077,7 +4077,7 @@
     "lowest30d": true,
     "vendas": 353,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -4269,7 +4269,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4341,7 +4341,7 @@
     "lowest30d": false,
     "vendas": 1166,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP346235717-23292479898",
@@ -4749,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 2196,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP627750190-23394342239",
@@ -4992,6 +4992,30 @@
     "checkedAt": "2026-10-09T01:35:12.951Z"
   },
   {
+    "id": "MLB4863689399",
+    "productId": "MLB73050326",
+    "marketplace": "ml",
+    "fonte": "MLB1457",
+    "categoria": "Moda e Calçados",
+    "title": "Mochila Dos Homens Com Faixa Impermeável Para Expansão Preto Liso",
+    "price": 79.19,
+    "originalPrice": 193.55,
+    "discount": 59,
+    "base": "media",
+    "averagePrice": 193.55,
+    "sellers": 5,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_726180-MLA111879091980_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4863689399?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-01T03:05:17.024Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
     "id": "SP1567305535-48252076332",
     "productId": "SP1567305535-48252076332",
     "marketplace": "shopee",
@@ -5014,6 +5038,30 @@
     "vendas": 293,
     "publishedAt": "2026-09-30T22:35:14.028Z",
     "checkedAt": "2026-10-08T23:57:11.511Z"
+  },
+  {
+    "id": "SP316557325-22998326555",
+    "productId": "SP316557325-22998326555",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
+    "price": 32.9,
+    "originalPrice": 80.24,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
+    "url": "https://s.shopee.com.br/8V9XN8mMmp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2009,
+    "publishedAt": "2026-09-30T03:35:14.882Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -5085,7 +5133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T04:35:23.113Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5448,30 +5496,6 @@
     "checkedAt": "2026-10-09T01:35:12.951Z"
   },
   {
-    "id": "MLB4863689399",
-    "productId": "MLB73050326",
-    "marketplace": "ml",
-    "fonte": "MLB1457",
-    "categoria": "Moda e Calçados",
-    "title": "Mochila Dos Homens Com Faixa Impermeável Para Expansão Preto Liso",
-    "price": 83.16,
-    "originalPrice": 193.55,
-    "discount": 57,
-    "base": "media",
-    "averagePrice": 193.55,
-    "sellers": 5,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_726180-MLA111879091980_062026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4863689399?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
     "id": "SP392967703-3492847708",
     "productId": "SP392967703-3492847708",
     "marketplace": "shopee",
@@ -5494,30 +5518,6 @@
     "vendas": 641,
     "publishedAt": "2026-09-23T20:35:20.546Z",
     "checkedAt": "2026-10-09T02:05:14.714Z"
-  },
-  {
-    "id": "SP316557325-22998326555",
-    "productId": "SP316557325-22998326555",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
-    "price": 32.9,
-    "originalPrice": 76.51,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
-    "url": "https://s.shopee.com.br/8V9XN8mMmp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2009,
-    "publishedAt": "2026-09-30T03:35:14.882Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-06T03:35:13.970Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -6405,31 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
-    "id": "MLB3449639363",
-    "productId": "MLB27078952",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Refil Tripla Filtragem Girou Trocou C+3 Ibbl",
-    "price": 30,
-    "originalPrice": 64.59,
-    "discount": 54,
-    "base": "media",
-    "averagePrice": 64.59,
-    "sellers": 42,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_743282-MLA110432538745_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3449639363?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "GOTAGUA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6501,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 1603,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1362857362-58206175995",
@@ -6810,10 +6786,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 550,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -7005,7 +6981,7 @@
     "lowest30d": true,
     "vendas": 587,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1521699574-23898692172",
@@ -7054,30 +7030,6 @@
     "vendas": 3272,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-09T01:35:12.951Z"
-  },
-  {
-    "id": "MLB3802748755",
-    "productId": "MLB20611931",
-    "marketplace": "ml",
-    "fonte": "MLB264337",
-    "categoria": "Brinquedos",
-    "title": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
-    "price": 72.99,
-    "originalPrice": 149.95,
-    "discount": 51,
-    "base": "media",
-    "averagePrice": 149.95,
-    "sellers": 29,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3802748755?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-08T21:35:15.303Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7173,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB4411250505",
@@ -7197,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7341,7 +7293,7 @@
     "lowest30d": false,
     "vendas": 1171,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1075890129-46917445854",
@@ -7437,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 5022,
     "publishedAt": "2026-09-29T17:05:13.547Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP566429879-23793847911",
@@ -7656,6 +7608,30 @@
     "checkedAt": "2026-10-09T02:35:13.511Z"
   },
   {
+    "id": "SP1384111782-23593553623",
+    "productId": "SP1384111782-23593553623",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
+    "price": 474.9,
+    "originalPrice": 896.04,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
+    "url": "https://s.shopee.com.br/4qGF0VXEmv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 607,
+    "publishedAt": "2026-10-07T17:35:13.560Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
     "id": "SP786353833-22194344661",
     "productId": "SP786353833-22194344661",
     "marketplace": "shopee",
@@ -7749,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7797,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7821,7 +7797,31 @@
     "lowest30d": false,
     "vendas": 2671,
     "publishedAt": "2026-09-24T11:35:14.488Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "SP1482776546-22094520788",
+    "productId": "SP1482776546-22094520788",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "EZ Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
+    "price": 38.7,
+    "originalPrice": 69.11,
+    "discount": 44,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmk7arpex39df",
+    "url": "https://s.shopee.com.br/2LYu1o9qJK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1163,
+    "publishedAt": "2026-10-02T17:05:30.370Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB2974151655",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7896,30 +7896,6 @@
     "checkedAt": "2026-10-09T00:35:13.683Z"
   },
   {
-    "id": "SP1384111782-23593553623",
-    "productId": "SP1384111782-23593553623",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
-    "price": 514.9,
-    "originalPrice": 903.33,
-    "discount": 43,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
-    "url": "https://s.shopee.com.br/4qGF0VXEmv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 607,
-    "publishedAt": "2026-10-07T17:35:13.560Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
-  },
-  {
     "id": "SP325008325-21399263667",
     "productId": "SP325008325-21399263667",
     "marketplace": "shopee",
@@ -7942,6 +7918,30 @@
     "vendas": 3053,
     "publishedAt": "2026-09-26T03:05:17.043Z",
     "checkedAt": "2026-10-09T00:05:13.391Z"
+  },
+  {
+    "id": "MLB3802748755",
+    "productId": "MLB20611931",
+    "marketplace": "ml",
+    "fonte": "MLB264337",
+    "categoria": "Brinquedos",
+    "title": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
+    "price": 87.39,
+    "originalPrice": 149.95,
+    "discount": 42,
+    "base": "media",
+    "averagePrice": 149.95,
+    "sellers": 29,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3802748755?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T21:35:15.303Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -8040,30 +8040,6 @@
     "checkedAt": "2026-10-09T01:05:27.248Z"
   },
   {
-    "id": "SP1482776546-22094520788",
-    "productId": "SP1482776546-22094520788",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "EZ Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
-    "price": 41.9,
-    "originalPrice": 68.69,
-    "discount": 39,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmk7arpex39df",
-    "url": "https://s.shopee.com.br/2LYu1o9qJK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1163,
-    "publishedAt": "2026-10-02T17:05:30.370Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
     "id": "MLB5930202958",
     "productId": "MLB61700105",
     "marketplace": "ml",
@@ -8085,7 +8061,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "MLB3449639363",
+    "productId": "MLB27078952",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Refil Tripla Filtragem Girou Trocou C+3 Ibbl",
+    "price": 40.99,
+    "originalPrice": 64.59,
+    "discount": 37,
+    "base": "media",
+    "averagePrice": 64.59,
+    "sellers": 42,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_743282-MLA110432538745_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3449639363?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "GOTAGUA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T15:05:20.165Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": 498,
     "publishedAt": "2026-10-01T04:05:13.514Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB4039445285",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB3725747499",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB6889989542",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T00:05:14.036Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB6191376032",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB7707499492",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-09T02:35:13.511Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": 699,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP451371260-22397622407",
@@ -9285,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 357,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1314327488-58260755085",
@@ -9309,7 +9309,7 @@
     "lowest30d": false,
     "vendas": 1369,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1024791137-58260551291",
@@ -9336,6 +9336,30 @@
     "checkedAt": "2026-10-08T23:57:11.511Z"
   },
   {
+    "id": "SP407952755-58202184309",
+    "productId": "SP407952755-58202184309",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador Difusor Aromatizador 500ml  Ultrassônico Estilo Branco Com Led 7 Cores + Controle",
+    "price": 43.99,
+    "originalPrice": 133.3,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mlpfgx1xvoqu81",
+    "url": "https://s.shopee.com.br/905oAUpjJI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 320,
+    "publishedAt": "2026-09-25T19:05:15.802Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
     "id": "SP1607422451-58213469366",
     "productId": "SP1607422451-58213469366",
     "marketplace": "shopee",
@@ -9357,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 3223,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -9429,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 852,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -9462,8 +9486,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
-    "price": 54.99,
-    "originalPrice": 166.64,
+    "price": 59.99,
+    "originalPrice": 181.79,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9474,10 +9498,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 3728,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -10128,6 +10152,30 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
+    "id": "SP867115662-23793884265",
+    "productId": "SP867115662-23793884265",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Pantalona Feminina Premium Alfaiataria Novo Lançamento",
+    "price": 34.9,
+    "originalPrice": 99.71,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8fb5s62p6a9de",
+    "url": "https://s.shopee.com.br/113WTa7hta",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 939,
+    "publishedAt": "2026-09-25T15:05:17.364Z",
+    "checkedAt": "2026-10-09T01:35:12.951Z"
+  },
+  {
     "id": "SP1627872094-58200782275",
     "productId": "SP1627872094-58200782275",
     "marketplace": "shopee",
@@ -10488,30 +10536,6 @@
     "checkedAt": "2026-10-09T02:05:14.714Z"
   },
   {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 175,
-    "originalPrice": 486.11,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/AUubkvOraf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1169,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:57:11.511Z"
-  },
-  {
     "id": "SP404648195-23993570865",
     "productId": "SP404648195-23993570865",
     "marketplace": "shopee",
@@ -10821,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 526,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP883941882-58261389057",
@@ -10845,7 +10869,7 @@
     "lowest30d": true,
     "vendas": 250,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1325610951-23793196370",
@@ -10869,7 +10893,7 @@
     "lowest30d": true,
     "vendas": 257,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP280795353-23597640147",
@@ -11229,31 +11253,7 @@
     "lowest30d": true,
     "vendas": 1061,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
-    "id": "SP372103398-22593398069",
-    "productId": "SP372103398-22593398069",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Porta Joia Acrílico Luxo Com 3 Camadas Brinco Anel Compartimento caixa de armazenamento de jóias",
-    "price": 37.25,
-    "originalPrice": 98.03,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy7-m0os7gkj6b1hc4",
-    "url": "https://s.shopee.com.br/1Vzn2NazNK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5266,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-09T02:05:14.714Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -11781,31 +11781,7 @@
     "lowest30d": true,
     "vendas": 1446,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
-  },
-  {
-    "id": "SP1765235104-58214016955",
-    "productId": "SP1765235104-58214016955",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein Isolado Iso Blend Complex Zero Açucar Recuperação Muscular Isolate Protein 2Kg - Pretorian",
-    "price": 89.89,
-    "originalPrice": 230.49,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
-    "url": "https://s.shopee.com.br/1VznL3iO3L",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 561,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-08T23:35:13.181Z"
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -11974,5 +11950,53 @@
     "vendas": 1496,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-09T00:05:13.391Z"
+  },
+  {
+    "id": "SP333164875-19699297807",
+    "productId": "SP333164875-19699297807",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Café 1 Litro Click Abre e Fecha Premium",
+    "price": 73.62,
+    "originalPrice": 171.21,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfnu9kk505d33",
+    "url": "https://s.shopee.com.br/9fLVIVPfgT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 897,
+    "publishedAt": "2026-10-09T03:05:18.134Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
+  },
+  {
+    "id": "SP1765235104-58214016955",
+    "productId": "SP1765235104-58214016955",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein Isolado Iso Blend Complex Zero Açucar Recuperação Muscular Isolate Protein 2Kg - Pretorian",
+    "price": 109.9,
+    "originalPrice": 228.96,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
+    "url": "https://s.shopee.com.br/1VznL3iO3L",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 561,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-09T03:05:18.134Z"
   }
 ]
