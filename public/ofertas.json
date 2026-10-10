@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -120,30 +120,6 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
-    "id": "SP1209650911-22194732923",
-    "productId": "SP1209650911-22194732923",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
-    "price": 49.88,
-    "originalPrice": 166.27,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvbz0es6l1ec9",
-    "url": "https://s.shopee.com.br/7KxaiLyyFC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 223,
-    "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
-  },
-  {
     "id": "SP400434768-18298068505",
     "productId": "SP400434768-18298068505",
     "marketplace": "shopee",
@@ -168,6 +144,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP790605924-57707127537",
+    "productId": "SP790605924-57707127537",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode dar Banho",
+    "price": 59.9,
+    "originalPrice": 199.67,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyk3k7olon833",
+    "url": "https://s.shopee.com.br/6L559SV6wA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2144,
+    "publishedAt": "2026-10-07T14:05:14.553Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP728389176-58217601055",
     "productId": "SP728389176-58217601055",
     "marketplace": "shopee",
@@ -190,6 +190,30 @@
     "vendas": 1160,
     "publishedAt": "2026-10-06T02:30:18.499Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
+  },
+  {
+    "id": "SP790605924-19499073421",
+    "productId": "SP790605924-19499073421",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
+    "price": 75.89,
+    "originalPrice": 252.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3sr42k07wke3",
+    "url": "https://s.shopee.com.br/80DJ8WT1mQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2217,
+    "publishedAt": "2026-10-05T13:35:14.015Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -438,8 +462,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Smartwatch Microwear S11 Mini(40mm)2 Pulseiras capa Série 11 IP68 GPS Chat Gpt Original inteligente",
-    "price": 99.89,
-    "originalPrice": 332.97,
+    "price": 98.99,
+    "originalPrice": 329.97,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -450,10 +474,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 440,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -477,7 +501,7 @@
     "lowest30d": true,
     "vendas": 229,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -765,31 +789,7 @@
     "lowest30d": true,
     "vendas": 1322,
     "publishedAt": "2026-09-28T15:05:16.350Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
-  },
-  {
-    "id": "MLB4943866566",
-    "productId": "MLB38655102",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
-    "price": 33.85,
-    "originalPrice": 110.32,
-    "discount": 69,
-    "base": "media",
-    "averagePrice": 110.32,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "NVFULLCOMM",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -909,7 +909,7 @@
     "lowest30d": false,
     "vendas": 622,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 508,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -1221,7 +1221,7 @@
     "lowest30d": true,
     "vendas": 2847,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1294,6 +1294,30 @@
     "vendas": 529,
     "publishedAt": "2026-09-25T13:35:20.026Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
+  },
+  {
+    "id": "SP1209650911-22194732923",
+    "productId": "SP1209650911-22194732923",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
+    "price": 55.5,
+    "originalPrice": 168.18,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvbz0es6l1ec9",
+    "url": "https://s.shopee.com.br/7KxaiLyyFC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 223,
+    "publishedAt": "2026-10-08T14:05:17.537Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1677,7 +1701,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -1776,30 +1800,6 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
-    "id": "SP790605924-19499073421",
-    "productId": "SP790605924-19499073421",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-    "price": 75.89,
-    "originalPrice": 223.21,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3sr42k07wke3",
-    "url": "https://s.shopee.com.br/80DJ8WT1mQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2217,
-    "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
-  },
-  {
     "id": "SP1921399168-23999656092",
     "productId": "SP1921399168-23999656092",
     "marketplace": "shopee",
@@ -1821,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 986,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1845,7 +1845,7 @@
     "lowest30d": true,
     "vendas": 1873,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -1918,30 +1918,6 @@
     "vendas": 7927,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
-    "id": "SP1502681481-20898320113",
-    "productId": "SP1502681481-20898320113",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante",
-    "price": 23.99,
-    "originalPrice": 70.56,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
-    "url": "https://s.shopee.com.br/2gBlekfpya",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4274,
-    "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -2496,6 +2472,30 @@
     "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
+    "id": "SP1430771203-22094984499",
+    "productId": "SP1430771203-22094984499",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Livro Educativo Bilíngue Interativo Com Som e Lousa Mágica 2 em 1 Brinquedo Infantil",
+    "price": 35.05,
+    "originalPrice": 100.14,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mtq42r43vev75d",
+    "url": "https://s.shopee.com.br/6L52vcG8Az",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2746,
+    "publishedAt": "2026-09-28T02:05:14.986Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP1619145136-23694425028",
     "productId": "SP1619145136-23694425028",
     "marketplace": "shopee",
@@ -3048,6 +3048,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP426565286-22998062592",
+    "productId": "SP426565286-22998062592",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Z&D Lingerie Cinta Elastique Modeladora De Alta Compressão Redutor Afina Cintura 890",
+    "price": 32.99,
+    "originalPrice": 89.16,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrbzhwfeir5x4c",
+    "url": "https://s.shopee.com.br/6q1JWXEEA2",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 7328,
+    "publishedAt": "2026-09-29T21:05:17.821Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP791283306-17184102852",
     "productId": "SP791283306-17184102852",
     "marketplace": "shopee",
@@ -3192,6 +3216,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP1448484843-22294173900",
+    "productId": "SP1448484843-22294173900",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa Multifuncional em Nylon - Impermeável, Resistente e Estilosa para Viagens e Dia a Dia",
+    "price": 37.06,
+    "originalPrice": 100.16,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv8rcc6tkowb1",
+    "url": "https://s.shopee.com.br/50Zi3zuLWe",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1004,
+    "publishedAt": "2026-09-27T19:05:14.084Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP1339065761-19199870733",
     "productId": "SP1339065761-19199870733",
     "marketplace": "shopee",
@@ -3333,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 1468,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -3405,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 428,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -3549,31 +3597,31 @@
     "lowest30d": true,
     "vendas": 173,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
-    "id": "SP426565286-22998062592",
-    "productId": "SP426565286-22998062592",
+    "id": "SP1640657682-57902938444",
+    "productId": "SP1640657682-57902938444",
     "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Z&D Lingerie Cinta Elastique Modeladora De Alta Compressão Redutor Afina Cintura 890",
-    "price": 33.99,
-    "originalPrice": 89.45,
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+    "price": 37.8,
+    "originalPrice": 99.47,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrbzhwfeir5x4c",
-    "url": "https://s.shopee.com.br/6q1JWXEEA2",
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+    "url": "https://s.shopee.com.br/8pmOXByHNt",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 7328,
-    "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "vendas": 3168,
+    "publishedAt": "2026-10-01T01:05:12.599Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1650332851-23499438942",
@@ -3597,7 +3645,7 @@
     "lowest30d": true,
     "vendas": 126,
     "publishedAt": "2026-09-29T00:37:00.254Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -3622,78 +3670,6 @@
     "vendas": 5905,
     "publishedAt": "2026-09-28T03:05:15.246Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
-  },
-  {
-    "id": "SP1430771203-22094984499",
-    "productId": "SP1430771203-22094984499",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Livro Educativo Bilíngue Interativo Com Som e Lousa Mágica 2 em 1 Brinquedo Infantil",
-    "price": 37.61,
-    "originalPrice": 98.97,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mtq42r43vev75d",
-    "url": "https://s.shopee.com.br/6L52vcG8Az",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2746,
-    "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
-    "id": "SP1448484843-22294173900",
-    "productId": "SP1448484843-22294173900",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Multifuncional em Nylon - Impermeável, Resistente e Estilosa para Viagens e Dia a Dia",
-    "price": 37.56,
-    "originalPrice": 98.84,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv8rcc6tkowb1",
-    "url": "https://s.shopee.com.br/50Zi3zuLWe",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1004,
-    "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
-    "id": "SP441503847-20899551729",
-    "productId": "SP441503847-20899551729",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Camiseta 100% Canelada Masculina",
-    "price": 34.16,
-    "originalPrice": 89.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29y4rf86lhi89",
-    "url": "https://s.shopee.com.br/113WZoaMiF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2030,
-    "publishedAt": "2026-09-27T07:05:15.783Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -3765,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 161,
     "publishedAt": "2026-10-08T19:25:37.830Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1362613236-44328404708",
@@ -3813,7 +3789,7 @@
     "lowest30d": false,
     "vendas": 210,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1220163366-22198936338",
@@ -3837,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 2021,
     "publishedAt": "2026-10-06T12:35:13.324Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP340113364-23393879708",
@@ -3885,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 529,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -3984,30 +3960,6 @@
     "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
-    "id": "SP1640657682-57902938444",
-    "productId": "SP1640657682-57902938444",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
-    "price": 38.9,
-    "originalPrice": 99.74,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-    "url": "https://s.shopee.com.br/8pmOXByHNt",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3168,
-    "publishedAt": "2026-10-01T01:05:12.599Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP1926504795-58267597637",
     "productId": "SP1926504795-58267597637",
     "marketplace": "shopee",
@@ -4029,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 1141,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1459307687-23698466561",
@@ -4053,7 +4005,7 @@
     "lowest30d": true,
     "vendas": 2561,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1549432275-22894650995",
@@ -4077,7 +4029,7 @@
     "lowest30d": true,
     "vendas": 241,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1297519240-24897571457",
@@ -4101,7 +4053,7 @@
     "lowest30d": true,
     "vendas": 299,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -4125,7 +4077,7 @@
     "lowest30d": false,
     "vendas": 2948,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP777798362-23097144074",
@@ -4149,7 +4101,7 @@
     "lowest30d": true,
     "vendas": 361,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -4198,6 +4150,30 @@
     "vendas": 294,
     "publishedAt": "2026-09-28T17:05:16.720Z",
     "checkedAt": "2026-10-10T02:35:13.650Z"
+  },
+  {
+    "id": "SP392967703-16178844715",
+    "productId": "SP392967703-16178844715",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
+    "price": 86.99,
+    "originalPrice": 217.47,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
+    "url": "https://s.shopee.com.br/4qGF0W1xuZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 493,
+    "publishedAt": "2026-10-10T04:05:11.213Z",
+    "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
     "id": "SP1484279813-23199200478",
@@ -4344,30 +4320,6 @@
     "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
-    "id": "SP790605924-57707127537",
-    "productId": "SP790605924-57707127537",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode dar Banho",
-    "price": 79.9,
-    "originalPrice": 199.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyk3k7olon833",
-    "url": "https://s.shopee.com.br/6L559SV6wA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2144,
-    "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP466360966-56316175763",
     "productId": "SP466360966-56316175763",
     "marketplace": "shopee",
@@ -4413,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 6530,
     "publishedAt": "2026-10-06T12:35:13.324Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1023765996-23199129943",
@@ -4437,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 1181,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP346235717-23292479898",
@@ -4485,7 +4437,7 @@
     "lowest30d": false,
     "vendas": 5093,
     "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -4557,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 1011,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -4629,7 +4581,7 @@
     "lowest30d": false,
     "vendas": 172,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1053378287-22592667459",
@@ -4701,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 1046,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1362240140-58257349307",
@@ -4773,7 +4725,7 @@
     "lowest30d": true,
     "vendas": 408,
     "publishedAt": "2026-09-29T00:05:14.341Z",
-    "checkedAt": "2026-10-10T01:35:16.019Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1431327147-58264746491",
@@ -4845,7 +4797,55 @@
     "lowest30d": false,
     "vendas": 2101,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
+    "id": "SP1431327147-18299659089",
+    "productId": "SP1431327147-18299659089",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Novo X5 PRO MAX SmartWatch Redondo Relógio Inteligente Bluetooth Chamada Android IOS À Prova D 'Água",
+    "price": 121.6,
+    "originalPrice": 296.59,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7swjja1x5218",
+    "url": "https://s.shopee.com.br/8pmNlkghHA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 380,
+    "publishedAt": "2026-10-10T04:05:11.213Z",
+    "checkedAt": "2026-10-10T04:05:11.213Z"
+  },
+  {
+    "id": "SP717396632-58208662452",
+    "productId": "SP717396632-58208662452",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Potente 200W IPX6 Bluetooth 5.4 TWS Multimídia Completa com LED",
+    "price": 243.16,
+    "originalPrice": 593.07,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mmx89l7cg1ky7c",
+    "url": "https://s.shopee.com.br/8fSztpQER9",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 485,
+    "publishedAt": "2026-10-10T04:05:11.213Z",
+    "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
     "id": "SP1794268079-58258864542",
@@ -4869,7 +4869,7 @@
     "lowest30d": false,
     "vendas": 2466,
     "publishedAt": "2026-10-10T01:05:13.356Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP410705973-23694530547",
@@ -4941,7 +4941,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1060511679-21199846359",
@@ -5160,30 +5160,6 @@
     "checkedAt": "2026-10-10T01:35:16.019Z"
   },
   {
-    "id": "SP316557325-22998326555",
-    "productId": "SP316557325-22998326555",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
-    "price": 32.9,
-    "originalPrice": 80.24,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
-    "url": "https://s.shopee.com.br/8V9XN8mMmp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2019,
-    "publishedAt": "2026-09-30T03:35:14.882Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP444150322-23594223237",
     "productId": "SP444150322-23594223237",
     "marketplace": "shopee",
@@ -5254,6 +5230,30 @@
     "vendas": 201,
     "publishedAt": "2026-10-04T23:35:12.830Z",
     "checkedAt": "2026-10-10T01:35:16.019Z"
+  },
+  {
+    "id": "SP1658183207-58258793992",
+    "productId": "SP1658183207-58258793992",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "BASIKE Localizador Bluetooth Compatível com Android e iOS para Rastreador de Objetos Perdidos/Pet",
+    "price": 54.05,
+    "originalPrice": 128.69,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820mh-morqs1zak079e8",
+    "url": "https://s.shopee.com.br/8fSxhuBZvV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1614,
+    "publishedAt": "2026-10-04T19:05:13.218Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP356114339-22194903369",
@@ -5661,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6096,6 +6096,30 @@
     "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
+    "id": "SP387523771-43981426348",
+    "productId": "SP387523771-43981426348",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+    "price": 39.99,
+    "originalPrice": 90.89,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mp1812w1byf511",
+    "url": "https://s.shopee.com.br/7faQNbu0Ua",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5057,
+    "publishedAt": "2026-09-29T17:05:13.547Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP290073877-26590217787",
     "productId": "SP290073877-26590217787",
     "marketplace": "shopee",
@@ -6312,6 +6336,30 @@
     "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
+    "id": "SP1541348350-18399858350",
+    "productId": "SP1541348350-18399858350",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor aspirador de pó 2 em 1 sucção forte de 16000Pa dust off silent Fácil de armazenar GVCW-M15A -1",
+    "price": 160.55,
+    "originalPrice": 356.78,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-matl92a16h2xf1",
+    "url": "https://s.shopee.com.br/9fLWtTFQfb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 574,
+    "publishedAt": "2026-10-02T13:35:18.060Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP1197145594-22397665281",
     "productId": "SP1197145594-22397665281",
     "marketplace": "shopee",
@@ -6480,6 +6528,30 @@
     "checkedAt": "2026-10-10T01:35:16.019Z"
   },
   {
+    "id": "SP857619285-58267095847",
+    "productId": "SP857619285-58267095847",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 6 ou 4 Peças Verão Roupa Menina Infantil 3 ou 2 Camiseta e 3 ou 2 Shorts/Bermudas Conjuntos Sortidos 3 ou 2 Conjunto",
+    "price": 36.9,
+    "originalPrice": 80.22,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtqno0p9hc003f",
+    "url": "https://s.shopee.com.br/5VVy5pvU5H",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1640,
+    "publishedAt": "2026-10-03T13:05:14.688Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "MLB7627073664",
     "productId": "MLB74222754",
     "marketplace": "ml",
@@ -6501,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB3449639363",
@@ -6525,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6576,30 +6648,6 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
-    "id": "SP1658183207-58258793992",
-    "productId": "SP1658183207-58258793992",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "BASIKE Localizador Bluetooth Compatível com Android e iOS para Rastreador de Objetos Perdidos/Pet",
-    "price": 58.79,
-    "originalPrice": 127.8,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820mh-morqs1zak079e8",
-    "url": "https://s.shopee.com.br/8fSxhuBZvV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1614,
-    "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP1362857362-58206175995",
     "productId": "SP1362857362-58206175995",
     "marketplace": "shopee",
@@ -6645,30 +6693,6 @@
     "lowest30d": false,
     "vendas": 1629,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP857619285-58267095847",
-    "productId": "SP857619285-58267095847",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 6 ou 4 Peças Verão Roupa Menina Infantil 3 ou 2 Camiseta e 3 ou 2 Shorts/Bermudas Conjuntos Sortidos 3 ou 2 Conjunto",
-    "price": 36.9,
-    "originalPrice": 80.22,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtqno0p9hc003f",
-    "url": "https://s.shopee.com.br/5VVy5pvU5H",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1640,
-    "publishedAt": "2026-10-03T13:05:14.688Z",
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
@@ -6792,6 +6816,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP316557325-22998326555",
+    "productId": "SP316557325-22998326555",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
+    "price": 37.9,
+    "originalPrice": 82.39,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
+    "url": "https://s.shopee.com.br/8V9XN8mMmp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2019,
+    "publishedAt": "2026-09-30T03:35:14.882Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP468417400-47454565755",
     "productId": "SP468417400-47454565755",
     "marketplace": "shopee",
@@ -6888,30 +6936,6 @@
     "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
-    "id": "SP1541348350-18399858350",
-    "productId": "SP1541348350-18399858350",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor aspirador de pó 2 em 1 sucção forte de 16000Pa dust off silent Fácil de armazenar GVCW-M15A -1",
-    "price": 169,
-    "originalPrice": 359.57,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-matl92a16h2xf1",
-    "url": "https://s.shopee.com.br/9fLWtTFQfb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 574,
-    "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP1284769631-21099552315",
     "productId": "SP1284769631-21099552315",
     "marketplace": "shopee",
@@ -6957,7 +6981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -7134,9 +7158,9 @@
     "fonte": "shopee:q:protetor solar",
     "categoria": "Beleza",
     "title": "kit 3 Antissinais, Protetor solar 70FPS DANDAS, 150 ml -Toque Seco ROSTO E CORPO VEGANO UVA/UVB",
-    "price": 39.49,
-    "originalPrice": 80.59,
-    "discount": 51,
+    "price": 38.38,
+    "originalPrice": 79.96,
+    "discount": 52,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
@@ -7146,10 +7170,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 601,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -7197,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB4411250505",
@@ -7221,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP419739190-23694205612",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": 1163,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1075890129-46917445854",
@@ -7438,30 +7462,6 @@
     "vendas": 1070,
     "publishedAt": "2026-10-02T05:05:13.716Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
-  },
-  {
-    "id": "SP387523771-43981426348",
-    "productId": "SP387523771-43981426348",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
-    "price": 44.99,
-    "originalPrice": 89.98,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mp1812w1byf511",
-    "url": "https://s.shopee.com.br/7faQNbu0Ua",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5057,
-    "publishedAt": "2026-09-29T17:05:13.547Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -7560,6 +7560,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP1384111782-23593553623",
+    "productId": "SP1384111782-23593553623",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
+    "price": 474.9,
+    "originalPrice": 896.04,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
+    "url": "https://s.shopee.com.br/6AlevFM96K",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 658,
+    "publishedAt": "2026-10-07T17:35:13.560Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP786353833-22194344661",
     "productId": "SP786353833-22194344661",
     "marketplace": "shopee",
@@ -7605,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7630,6 +7654,30 @@
     "vendas": 7369,
     "publishedAt": "2026-09-29T08:35:37.351Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
+  },
+  {
+    "id": "SP333164875-19699297807",
+    "productId": "SP333164875-19699297807",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Café 1 Litro Click Abre e Fecha Premium",
+    "price": 91.99,
+    "originalPrice": 170.35,
+    "discount": 46,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfnu9kk505d33",
+    "url": "https://s.shopee.com.br/9fLVIVPfgT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 911,
+    "publishedAt": "2026-10-09T03:05:18.134Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1364269886-58200973653",
@@ -7701,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7806,8 +7854,8 @@
     "fonte": "shopee:q:lampada led",
     "categoria": "Eletrônicos",
     "title": "Patins roller 4 Rodas ARCO ÍRIS Com Luz De LED E Glitter Modelo Premium",
-    "price": 149.69,
-    "originalPrice": 267.3,
+    "price": 149.99,
+    "originalPrice": 267.84,
     "discount": 44,
     "base": "vendedor",
     "averagePrice": null,
@@ -7821,7 +7869,7 @@
     "lowest30d": false,
     "vendas": 2875,
     "publishedAt": "2026-09-24T11:35:14.488Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1547311235-23598845230",
@@ -7869,31 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP1384111782-23593553623",
-    "productId": "SP1384111782-23593553623",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
-    "price": 519.9,
-    "originalPrice": 896.38,
-    "discount": 42,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
-    "url": "https://s.shopee.com.br/6AlevFM96K",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 658,
-    "publishedAt": "2026-10-07T17:35:13.560Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7944,30 +7968,6 @@
     "checkedAt": "2026-10-10T02:35:13.650Z"
   },
   {
-    "id": "SP333164875-19699297807",
-    "productId": "SP333164875-19699297807",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Café 1 Litro Click Abre e Fecha Premium",
-    "price": 99.89,
-    "originalPrice": 169.31,
-    "discount": 41,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfnu9kk505d33",
-    "url": "https://s.shopee.com.br/9fLVIVPfgT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 911,
-    "publishedAt": "2026-10-09T03:05:18.134Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
-  },
-  {
     "id": "SP451291172-22195190910",
     "productId": "SP451291172-22195190910",
     "marketplace": "shopee",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB3830992651",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8181,7 +8181,7 @@
     "lowest30d": true,
     "vendas": 496,
     "publishedAt": "2026-10-01T04:05:13.514Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB4039445285",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB3725747499",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB7729259904",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB3513753783",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB6191376032",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB7760062906",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T21:35:17.845Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB7707499492",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB7694073954",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T06:03:15.479Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -8688,6 +8688,30 @@
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
+    "id": "MLB4943866566",
+    "productId": "MLB38655102",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
+    "price": 33.85,
+    "originalPrice": 110.32,
+    "discount": 69,
+    "base": "media",
+    "averagePrice": 110.32,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "NVFULLCOMM",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-09-27T05:05:14.581Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP1725971117-58207922771",
     "productId": "SP1725971117-58207922771",
     "marketplace": "shopee",
@@ -8733,7 +8757,7 @@
     "lowest30d": true,
     "vendas": 192,
     "publishedAt": "2026-09-26T12:35:50.774Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP497711388-22793151170",
@@ -9381,7 +9405,7 @@
     "lowest30d": false,
     "vendas": 356,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1024791137-58260551291",
@@ -9453,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 322,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -9477,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 3208,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -9573,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 840,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -9598,6 +9622,30 @@
     "vendas": 1633,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-10T01:35:16.019Z"
+  },
+  {
+    "id": "SP418336777-20199545071",
+    "productId": "SP418336777-20199545071",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
+    "price": 59.99,
+    "originalPrice": 181.79,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
+    "url": "https://s.shopee.com.br/W7FqXjGQr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3648,
+    "publishedAt": "2026-09-24T03:05:19.247Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -10032,6 +10080,30 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
+    "id": "SP1502681481-20898320113",
+    "productId": "SP1502681481-20898320113",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante",
+    "price": 23.99,
+    "originalPrice": 70.56,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
+    "url": "https://s.shopee.com.br/2gBlekfpya",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4274,
+    "publishedAt": "2026-09-27T03:35:12.515Z",
+    "checkedAt": "2026-10-10T02:19:45.697Z"
+  },
+  {
     "id": "SP1662989296-58200253216",
     "productId": "SP1662989296-58200253216",
     "marketplace": "shopee",
@@ -10294,30 +10366,6 @@
     "vendas": 1354,
     "publishedAt": "2026-09-24T22:35:36.805Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
-  },
-  {
-    "id": "SP418336777-20199545071",
-    "productId": "SP418336777-20199545071",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
-    "price": 69.99,
-    "originalPrice": 199.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
-    "url": "https://s.shopee.com.br/W7FqXjGQr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3648,
-    "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10917,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 241,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1325610951-23793196370",
@@ -10941,7 +10989,31 @@
     "lowest30d": true,
     "vendas": 250,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
+    "id": "SP1420392453-23198072057",
+    "productId": "SP1420392453-23198072057",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
+    "price": 37.08,
+    "originalPrice": 100.22,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
+    "url": "https://s.shopee.com.br/2gBkQX1LZI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1089,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP280795353-23597640147",
@@ -11184,6 +11256,30 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
+    "id": "SP441503847-20899551729",
+    "productId": "SP441503847-20899551729",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Camiseta 100% Canelada Masculina",
+    "price": 34.16,
+    "originalPrice": 89.89,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29y4rf86lhi89",
+    "url": "https://s.shopee.com.br/113WZoaMiF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2030,
+    "publishedAt": "2026-09-27T07:05:15.783Z",
+    "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
     "id": "SP359168917-42565175368",
     "productId": "SP359168917-42565175368",
     "marketplace": "shopee",
@@ -11205,7 +11301,7 @@
     "lowest30d": true,
     "vendas": 602,
     "publishedAt": "2026-09-26T10:35:13.540Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -11230,30 +11326,6 @@
     "vendas": 178,
     "publishedAt": "2026-09-24T15:35:16.598Z",
     "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP1420392453-23198072057",
-    "productId": "SP1420392453-23198072057",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "price": 37.58,
-    "originalPrice": 98.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
-    "url": "https://s.shopee.com.br/2gBkQX1LZI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1089,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11757,7 +11829,7 @@
     "lowest30d": true,
     "vendas": 1491,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T01:05:13.356Z"
+    "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -11926,77 +11998,5 @@
     "vendas": 1467,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
-    "id": "SP392967703-16178844715",
-    "productId": "SP392967703-16178844715",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
-    "price": 86.99,
-    "originalPrice": 217.47,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
-    "url": "https://s.shopee.com.br/4qGF0W1xuZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 493,
-    "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP1431327147-18299659089",
-    "productId": "SP1431327147-18299659089",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Novo X5 PRO MAX SmartWatch Redondo Relógio Inteligente Bluetooth Chamada Android IOS À Prova D 'Água",
-    "price": 121.6,
-    "originalPrice": 296.59,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7swjja1x5218",
-    "url": "https://s.shopee.com.br/8pmNlkghHA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 380,
-    "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP717396632-58208662452",
-    "productId": "SP717396632-58208662452",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Potente 200W IPX6 Bluetooth 5.4 TWS Multimídia Completa com LED",
-    "price": 243.16,
-    "originalPrice": 593.07,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mmx89l7cg1ky7c",
-    "url": "https://s.shopee.com.br/8fSztpQER9",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 485,
-    "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-10T04:05:11.213Z"
   }
 ]
