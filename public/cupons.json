@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "10D010TODOSITE"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 60",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16441",
+    "quando": "2026-10-10T03:34:07+00:00",
+    "id": "ml:10D010TODOSITE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "RESGATEDDLOJAS"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16438",
+    "quando": "2026-10-10T03:17:00+00:00",
+    "id": "ml:RESGATEDDLOJAS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODADATADUPLA"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 99",
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/16437",
+    "quando": "2026-10-10T03:12:48+00:00",
+    "id": "ml:MODADATADUPLA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "VALEMAIS"
     ],
     "desconto": "10% OFF",
