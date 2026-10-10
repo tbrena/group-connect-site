@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "CLIENTEVIP"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 199",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16461",
+    "quando": "2026-10-10T13:01:01+00:00",
+    "id": "ml:CLIENTEVIP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "ANACASTELA10"
     ],
     "desconto": "10% OFF",
@@ -323,19 +337,5 @@
     "quando": "2026-10-09T15:03:09+00:00",
     "id": "shopee:FESTIVAL50",
     "link": "https://s.shopee.com.br/7KxcNTYIa6"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SEMDEMORAML"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 79",
-    "escopo": "Bebês e Brinquedos",
-    "origem": "avidaefeitadedesconto/16402",
-    "quando": "2026-10-09T12:56:51+00:00",
-    "id": "ml:SEMDEMORAML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
