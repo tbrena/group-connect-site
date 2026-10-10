@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "JOGOS50"
+    ],
+    "desconto": "50% OFF",
+    "limite": "R$ 25",
+    "minimo": null,
+    "escopo": "Livros e Jogos e Brinquedos",
+    "origem": "avidaefeitadedesconto/16476",
+    "quando": "2026-10-10T15:13:50+00:00",
+    "id": "ml:JOGOS50",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TECH100"
+    ],
+    "desconto": "R$ 100 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16475",
+    "quando": "2026-10-10T15:12:45+00:00",
+    "id": "ml:TECH100",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "CORREPROMELI"
     ],
     "desconto": "20% OFF",
@@ -403,23 +431,6 @@
     "origem": "avidaefeitadedesconto/16411",
     "quando": "2026-10-09T16:39:33+00:00",
     "id": "ml:OFERTAJAML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELILOW",
-      "MELI2LOW",
-      "TODOSITE0910",
-      "SITETODOPREDD"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16407",
-    "quando": "2026-10-09T15:10:21+00:00",
-    "id": "ml:MELILOW+MELI2LOW+TODOSITE0910+SITETODOPREDD",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
