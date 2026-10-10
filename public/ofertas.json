@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -309,7 +309,7 @@
     "lowest30d": true,
     "vendas": 154,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP392239188-58205885907",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 1245,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP883941882-23598220274",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 146,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 852,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -861,7 +861,7 @@
     "lowest30d": true,
     "vendas": 388,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP974102638-58210258643",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 508,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -957,7 +957,7 @@
     "lowest30d": false,
     "vendas": 358,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T15:20:18.249Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -982,6 +982,30 @@
     "vendas": 394,
     "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-10T16:05:11.708Z"
+  },
+  {
+    "id": "SP325008325-41600786899",
+    "productId": "SP325008325-41600786899",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Pista Dinossauro 2 em 1 Caminhão Cegonha Carro Brinquedo com Rampa Corrida",
+    "price": 79.9,
+    "originalPrice": 249.69,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
+    "url": "https://s.shopee.com.br/4fwouLyDWS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 456,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -1725,7 +1749,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -1845,7 +1869,7 @@
     "lowest30d": false,
     "vendas": 472,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -2397,7 +2421,7 @@
     "lowest30d": false,
     "vendas": 1237,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -2494,30 +2518,6 @@
     "vendas": 2746,
     "publishedAt": "2026-09-28T02:05:14.986Z",
     "checkedAt": "2026-10-10T15:35:13.006Z"
-  },
-  {
-    "id": "SP1619145136-23694425028",
-    "productId": "SP1619145136-23694425028",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
-    "price": 36.07,
-    "originalPrice": 100.19,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-    "url": "https://s.shopee.com.br/6AlcaxJDte",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 6487,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -2661,7 +2661,7 @@
     "lowest30d": true,
     "vendas": 2105,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -2709,7 +2709,7 @@
     "lowest30d": true,
     "vendas": 1588,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -2829,7 +2829,7 @@
     "lowest30d": true,
     "vendas": 229,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -2925,7 +2925,7 @@
     "lowest30d": true,
     "vendas": 4655,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP790605924-45602042438",
@@ -3261,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 765,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -3336,6 +3336,30 @@
     "checkedAt": "2026-10-10T15:20:18.249Z"
   },
   {
+    "id": "SP1619145136-23694425028",
+    "productId": "SP1619145136-23694425028",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+    "price": 37.99,
+    "originalPrice": 99.97,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+    "url": "https://s.shopee.com.br/6AlcaxJDte",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 6487,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T18:35:13.997Z"
+  },
+  {
     "id": "SP997025684-22893941716",
     "productId": "SP997025684-22893941716",
     "marketplace": "shopee",
@@ -3357,7 +3381,7 @@
     "lowest30d": true,
     "vendas": 1282,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -3381,7 +3405,7 @@
     "lowest30d": true,
     "vendas": 2493,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3405,7 +3429,7 @@
     "lowest30d": true,
     "vendas": 593,
     "publishedAt": "2026-10-08T11:35:16.622Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP993911400-22599442803",
@@ -3528,30 +3552,6 @@
     "checkedAt": "2026-10-10T16:05:11.708Z"
   },
   {
-    "id": "SP325008325-41600786899",
-    "productId": "SP325008325-41600786899",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Pista Dinossauro 2 em 1 Caminhão Cegonha Carro Brinquedo com Rampa Corrida",
-    "price": 94.9,
-    "originalPrice": 249.74,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
-    "url": "https://s.shopee.com.br/4fwouLyDWS",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 456,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
-  },
-  {
     "id": "SP396114006-23998767632",
     "productId": "SP396114006-23998767632",
     "marketplace": "shopee",
@@ -3597,7 +3597,7 @@
     "lowest30d": true,
     "vendas": 207,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3621,7 +3621,7 @@
     "lowest30d": true,
     "vendas": 2175,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP543131983-22892811239",
@@ -3909,7 +3909,7 @@
     "lowest30d": false,
     "vendas": 362,
     "publishedAt": "2026-10-03T13:35:13.459Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP397374716-23895517734",
@@ -4269,7 +4269,7 @@
     "lowest30d": false,
     "vendas": 591,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -4293,7 +4293,7 @@
     "lowest30d": true,
     "vendas": 5933,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -4437,7 +4437,7 @@
     "lowest30d": false,
     "vendas": 531,
     "publishedAt": "2026-10-06T15:05:19.563Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1661007426-22594666523",
@@ -4509,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 4541,
     "publishedAt": "2026-10-03T17:35:13.618Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1630828144-58200483130",
@@ -4557,7 +4557,7 @@
     "lowest30d": true,
     "vendas": 1938,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1573953914-58255860212",
@@ -4581,7 +4581,7 @@
     "lowest30d": true,
     "vendas": 441,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4725,7 +4725,7 @@
     "lowest30d": true,
     "vendas": 235,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1127030290-22098329060",
@@ -4989,7 +4989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -5157,7 +5157,7 @@
     "lowest30d": true,
     "vendas": 1417,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -5205,7 +5205,7 @@
     "lowest30d": true,
     "vendas": 778,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1578690794-58251241094",
@@ -5253,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 921,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP410705973-23694530547",
@@ -5509,7 +5509,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdarxzl0301t04",
-    "url": "https://s.shopee.com.br/40hB0WiA2n",
+    "url": "https://s.shopee.com.br/1gJHSMBp55",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 518,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -5541,7 +5541,7 @@
     "lowest30d": true,
     "vendas": 1151,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP457864097-25338080323",
@@ -5733,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 5363,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB4863689399",
@@ -5757,7 +5757,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5781,7 +5781,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -5805,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 5905,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -6261,7 +6261,7 @@
     "lowest30d": true,
     "vendas": 985,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1777133462-58216130219",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6573,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 1333,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1510721628-23498870645",
@@ -6645,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": 1829,
     "publishedAt": "2026-10-05T16:05:19.680Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -7197,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 3794,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB7272451088",
@@ -7221,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB4411250505",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP419739190-23694205612",
@@ -7341,7 +7341,7 @@
     "lowest30d": false,
     "vendas": 337,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -7437,7 +7437,7 @@
     "lowest30d": false,
     "vendas": 1070,
     "publishedAt": "2026-10-02T05:05:13.716Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": 7369,
     "publishedAt": "2026-09-29T08:35:37.351Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": 328,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1551412164-58210681509",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB3830992651",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB4039445285",
@@ -8157,7 +8157,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB7729259904",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB3513753783",
@@ -8287,10 +8287,10 @@
     "categoria": "Brinquedos",
     "title": "Jogo De Mesa Cara A Cara Com Aplicativo Estrela",
     "price": 81.98,
-    "originalPrice": 113.02,
+    "originalPrice": 111.95,
     "discount": 27,
     "base": "media",
-    "averagePrice": 113.02,
+    "averagePrice": 111.95,
     "sellers": 45,
     "image": "https://http2.mlstatic.com/D_NQ_NP_673919-MLA118467812771_092026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3513753783?matt_word=promoninja&matt_tool=19839069",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB6191376032",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB7707499492",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB7694073954",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T06:03:15.479Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": 380,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "MLB4943866566",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-10T18:05:14.120Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -9117,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 279,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 1476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9981,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 3014,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10005,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 1415,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -10293,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 9259,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -10629,7 +10629,7 @@
     "lowest30d": true,
     "vendas": 433,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -10701,7 +10701,7 @@
     "lowest30d": true,
     "vendas": 687,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -10749,7 +10749,7 @@
     "lowest30d": true,
     "vendas": 207,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -10773,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 1273,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -10845,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 2859,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10917,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 1745,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP883941882-58261389057",
@@ -11085,7 +11085,7 @@
     "lowest30d": false,
     "vendas": 1549,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -11565,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 1361,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP416390148-21428880481",
@@ -11613,7 +11613,7 @@
     "lowest30d": true,
     "vendas": 1117,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-10T15:05:15.915Z"
+    "checkedAt": "2026-10-10T18:35:13.997Z"
   },
   {
     "id": "SP371439155-23392591433",

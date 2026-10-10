@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "DECOR1010"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 40",
+    "minimo": null,
+    "escopo": "Decoração e Eletros",
+    "origem": "avidaefeitadedesconto/16493",
+    "quando": "2026-10-10T18:26:38+00:00",
+    "id": "ml:DECOR1010",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTAMELI"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16492",
+    "quando": "2026-10-10T18:20:39+00:00",
+    "id": "ml:OFERTAMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "INSTRUMENTO15"
     ],
     "desconto": "15% OFF",
@@ -445,20 +473,6 @@
     "origem": "avidaefeitadedesconto/16421",
     "quando": "2026-10-09T19:30:37+00:00",
     "id": "ml:TECNOML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FULL0910"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": "R$ 89",
-    "escopo": "Entregas Full",
-    "origem": "avidaefeitadedesconto/16418",
-    "quando": "2026-10-09T18:11:04+00:00",
-    "id": "ml:FULL0910",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
