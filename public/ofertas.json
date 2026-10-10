@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -288,14 +288,38 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
+    "id": "SP1207367861-18699230754",
+    "productId": "SP1207367861-18699230754",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Kit Agua Perfumada + Home Spray + Essencia Patchouli Vanilla - Notável Aroma",
+    "price": 44.52,
+    "originalPrice": 148.4,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbf70rqks8kle2",
+    "url": "https://s.shopee.com.br/6L52xiGPjz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 154,
+    "publishedAt": "2026-10-03T12:35:13.942Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
     "id": "SP392239188-58205885907",
     "productId": "SP392239188-58205885907",
     "marketplace": "shopee",
     "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
     "title": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
-    "price": 38.99,
-    "originalPrice": 129.97,
+    "price": 38.5,
+    "originalPrice": 128.33,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -309,7 +333,7 @@
     "lowest30d": true,
     "vendas": 1245,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP883941882-23598220274",
@@ -597,7 +621,7 @@
     "lowest30d": true,
     "vendas": 654,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1398191070-26027645226",
@@ -672,30 +696,6 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
-    "id": "SP1207367861-18699230754",
-    "productId": "SP1207367861-18699230754",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Kit Agua Perfumada + Home Spray + Essencia Patchouli Vanilla - Notável Aroma",
-    "price": 45.9,
-    "originalPrice": 148.06,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbf70rqks8kle2",
-    "url": "https://s.shopee.com.br/6L52xiGPjz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 154,
-    "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
     "id": "SP1763539024-58257809093",
     "productId": "SP1763539024-58257809093",
     "marketplace": "shopee",
@@ -718,6 +718,30 @@
     "vendas": 599,
     "publishedAt": "2026-10-02T13:49:41.861Z",
     "checkedAt": "2026-10-10T04:05:11.213Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 39.99,
+    "originalPrice": 129,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/40hALGYnI5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 852,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -840,30 +864,6 @@
     "checkedAt": "2026-10-10T05:05:13.331Z"
   },
   {
-    "id": "SP1209650911-22394645339",
-    "productId": "SP1209650911-22394645339",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch Original S20 Ultra MAX Série 10 Bússola 49mm Esportivo Fitness Relógio Inteligente Para Android IOS NFC GPS",
-    "price": 49.88,
-    "originalPrice": 155.88,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggalh5yo1kw07",
-    "url": "https://s.shopee.com.br/AAHmM1KShN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 213,
-    "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
     "id": "SP974102638-58210258643",
     "productId": "SP974102638-58210258643",
     "marketplace": "shopee",
@@ -957,7 +957,7 @@
     "lowest30d": false,
     "vendas": 358,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -1030,30 +1030,6 @@
     "vendas": 599,
     "publishedAt": "2026-10-01T20:05:19.306Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
-  },
-  {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 40.99,
-    "originalPrice": 128.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/40hALGYnI5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 852,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
     "id": "SP1257628820-29200230546",
@@ -1365,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 3133,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -1413,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 698,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -1701,7 +1677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -2061,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 172,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -2085,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 2244,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1242822355-41775559243",
@@ -2094,8 +2070,8 @@
     "fonte": "shopee:q:ferramenta",
     "categoria": "Ferramentas",
     "title": "Tinta para Piso Fosca 900g e 4,2kg Econômica Rende Muito Lua Branco/Cinza/Concreto/Preto",
-    "price": 35.9,
-    "originalPrice": 102.57,
+    "price": 20.9,
+    "originalPrice": 59.71,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2106,10 +2082,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3284,
     "publishedAt": "2026-10-07T12:05:16.386Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -2566,6 +2542,30 @@
     "vendas": 1192,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-10T04:05:11.213Z"
+  },
+  {
+    "id": "SP1209650911-22394645339",
+    "productId": "SP1209650911-22394645339",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch Original S20 Ultra MAX Série 10 Bússola 49mm Esportivo Fitness Relógio Inteligente Para Android IOS NFC GPS",
+    "price": 55.5,
+    "originalPrice": 154.17,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggalh5yo1kw07",
+    "url": "https://s.shopee.com.br/AAHmM1KShN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 213,
+    "publishedAt": "2026-10-08T18:05:13.753Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -3381,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 3219,
     "publishedAt": "2026-10-08T10:05:15.636Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3430,30 +3430,6 @@
     "vendas": 237,
     "publishedAt": "2026-10-07T12:35:14.917Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
-  },
-  {
-    "id": "SP669642894-23797637786",
-    "productId": "SP669642894-23797637786",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador Grande 2000ML Saída Dupla Luzes LED's Coloridas Silencioso E Neblinas Controláveis",
-    "price": 31.79,
-    "originalPrice": 83.66,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mrflvx9rloueda",
-    "url": "https://s.shopee.com.br/8pmNyBqMeJ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 110,
-    "publishedAt": "2026-10-07T00:35:14.874Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
     "id": "SP1724093444-58255929142",
@@ -4413,7 +4389,31 @@
     "lowest30d": false,
     "vendas": 1007,
     "publishedAt": "2026-10-08T10:05:15.636Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
+    "id": "SP669642894-23797637786",
+    "productId": "SP669642894-23797637786",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador Grande 2000ML Saída Dupla Luzes LED's Coloridas Silencioso E Neblinas Controláveis",
+    "price": 32.79,
+    "originalPrice": 81.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mrflvx9rloueda",
+    "url": "https://s.shopee.com.br/8pmNyBqMeJ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 110,
+    "publishedAt": "2026-10-07T00:35:14.874Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -4989,7 +4989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5805,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 146,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP998773037-58260622031",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 868,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5862,8 +5862,8 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "Piano Infantil Musical Teclado Com Som De Animais Fazenda",
-    "price": 39.8,
-    "originalPrice": 90.45,
+    "price": 39.9,
+    "originalPrice": 90.68,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -5874,10 +5874,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 438,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1125543872-22194698355",
@@ -5904,6 +5904,30 @@
     "checkedAt": "2026-10-10T02:35:13.650Z"
   },
   {
+    "id": "SP543131983-21451892447",
+    "productId": "SP543131983-21451892447",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Bluetooth Grande Amplificada Torre Painel Led RGB Grasep Ultra Potente 2 Alto Falante",
+    "price": 130.99,
+    "originalPrice": 297.7,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-mrrr536lon427b",
+    "url": "https://s.shopee.com.br/3LRU8yEALw",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 359,
+    "publishedAt": "2026-10-02T18:35:15.170Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
     "id": "SP1699108974-58256078419",
     "productId": "SP1699108974-58256078419",
     "marketplace": "shopee",
@@ -5925,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 1353,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -6093,7 +6117,7 @@
     "lowest30d": true,
     "vendas": 626,
     "publishedAt": "2026-09-29T18:05:17.050Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -6261,7 +6285,31 @@
     "lowest30d": false,
     "vendas": 202,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
+    "id": "SP1542039589-20699836502",
+    "productId": "SP1542039589-20699836502",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador de Pó 2 em 1 Sucção Forte 16000Pa Dust Off Silent Fácil de Armazenar GVCW-M15A",
+    "price": 160.55,
+    "originalPrice": 356.78,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck305cvx1xd24",
+    "url": "https://s.shopee.com.br/5fpO87Uemh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 464,
+    "publishedAt": "2026-10-04T13:05:14.518Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -6309,7 +6357,7 @@
     "lowest30d": true,
     "vendas": 1338,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -6333,7 +6381,7 @@
     "lowest30d": true,
     "vendas": 1114,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -6405,7 +6453,7 @@
     "lowest30d": true,
     "vendas": 2189,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -6429,7 +6477,7 @@
     "lowest30d": true,
     "vendas": 2815,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -6477,7 +6525,7 @@
     "lowest30d": true,
     "vendas": 172,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1665287075-58254858029",
@@ -6573,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB3449639363",
@@ -6597,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6621,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 2135,
     "publishedAt": "2026-10-06T13:05:14.473Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6741,7 +6789,31 @@
     "lowest30d": true,
     "vendas": 1115,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
+    "id": "SP376576138-22293577075",
+    "productId": "SP376576138-22293577075",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
+    "price": 45.9,
+    "originalPrice": 99.78,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr0hvyoa6adg6e",
+    "url": "https://s.shopee.com.br/5VVvzYgRmB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1478,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -6912,30 +6984,6 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
-    "id": "SP1542039589-20699836502",
-    "productId": "SP1542039589-20699836502",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador de Pó 2 em 1 Sucção Forte 16000Pa Dust Off Silent Fácil de Armazenar GVCW-M15A",
-    "price": 169,
-    "originalPrice": 359.57,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck305cvx1xd24",
-    "url": "https://s.shopee.com.br/5fpO87Uemh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 464,
-    "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
     "id": "SP1284769631-21099552315",
     "productId": "SP1284769631-21099552315",
     "marketplace": "shopee",
@@ -6981,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -6990,8 +7038,8 @@
     "fonte": "shopee:q:suporte celular carro",
     "categoria": "Celulares",
     "title": "Suporte Celular Veicular Para Painel Carro Trava Ventosa Vidro 360º Graus Ajustavel Hmaston CJ-10",
-    "price": 18.87,
-    "originalPrice": 39.31,
+    "price": 19.49,
+    "originalPrice": 40.6,
     "discount": 52,
     "base": "vendedor",
     "averagePrice": null,
@@ -7002,10 +7050,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 461,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -7029,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 141,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -7053,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 161,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP359168917-44351550997",
@@ -7077,7 +7125,7 @@
     "lowest30d": false,
     "vendas": 113,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1765235104-58264020472",
@@ -7104,54 +7152,6 @@
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
-    "id": "SP543131983-21451892447",
-    "productId": "SP543131983-21451892447",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth Grande Amplificada Torre Painel Led RGB Grasep Ultra Potente 2 Alto Falante",
-    "price": 144.99,
-    "originalPrice": 302.06,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-mrrr536lon427b",
-    "url": "https://s.shopee.com.br/3LRU8yEALw",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 359,
-    "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
-    "id": "SP376576138-22293577075",
-    "productId": "SP376576138-22293577075",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
-    "price": 47.9,
-    "originalPrice": 99.79,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr0hvyoa6adg6e",
-    "url": "https://s.shopee.com.br/5VVvzYgRmB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1478,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
     "id": "SP646978651-23498090481",
     "productId": "SP646978651-23498090481",
     "marketplace": "shopee",
@@ -7174,6 +7174,30 @@
     "vendas": 601,
     "publishedAt": "2026-10-02T13:35:18.060Z",
     "checkedAt": "2026-10-10T04:35:12.604Z"
+  },
+  {
+    "id": "SP898761179-58257621281",
+    "productId": "SP898761179-58257621281",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
+    "price": 1639,
+    "originalPrice": 3344.9,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
+    "url": "https://s.shopee.com.br/1BMwdenxD3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 876,
+    "publishedAt": "2026-10-04T12:35:13.324Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -7221,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB4411250505",
@@ -7245,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP419739190-23694205612",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": 6378,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP753981666-58208125768",
@@ -7437,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 670,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1847534559-58214278611",
@@ -7512,30 +7536,6 @@
     "checkedAt": "2026-10-10T05:05:13.331Z"
   },
   {
-    "id": "SP898761179-58257621281",
-    "productId": "SP898761179-58257621281",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-    "price": 1759,
-    "originalPrice": 3382.69,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
-    "url": "https://s.shopee.com.br/1BMwdenxD3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 876,
-    "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
     "id": "SP1242044379-23293253949",
     "productId": "SP1242044379-23293253949",
     "marketplace": "shopee",
@@ -7605,7 +7605,7 @@
     "lowest30d": true,
     "vendas": 302,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB3587206809",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7821,7 +7821,7 @@
     "lowest30d": true,
     "vendas": 7615,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1010063584-22893349226",
@@ -7845,7 +7845,7 @@
     "lowest30d": true,
     "vendas": 933,
     "publishedAt": "2026-10-03T22:59:48.754Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB3830992651",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB3725747499",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB7729259904",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB3513753783",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB6191376032",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB7760062906",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T21:35:17.845Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB7707499492",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB7694073954",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T06:03:15.479Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -8520,30 +8520,6 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
-    "id": "SP1669666744-58206781154",
-    "productId": "SP1669666744-58206781154",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-    "price": 29.5,
-    "originalPrice": 98.33,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
-    "url": "https://s.shopee.com.br/2BFTpc3Jmf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2677,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
     "id": "SP1362857362-58251035399",
     "productId": "SP1362857362-58251035399",
     "marketplace": "shopee",
@@ -8637,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 7636,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -8661,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 725,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1351679961-21798030664",
@@ -8709,7 +8685,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-10T05:05:13.331Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -8853,7 +8829,7 @@
     "lowest30d": false,
     "vendas": 233,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -8877,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 442,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8886,8 +8862,8 @@
     "fonte": "shopee:q:camiseta",
     "categoria": "Moda e Calçados",
     "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "price": 74.9,
-    "originalPrice": 241.61,
+    "price": 74,
+    "originalPrice": 238.71,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -8898,10 +8874,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2051,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8925,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 454,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8949,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1959,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8973,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 2003,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8997,7 +8973,7 @@
     "lowest30d": false,
     "vendas": 609,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -9189,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 2519,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -9213,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 1673,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9237,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 1354,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9310,6 +9286,30 @@
     "vendas": 1476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
+  },
+  {
+    "id": "SP328666563-23794371672",
+    "productId": "SP328666563-23794371672",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador de carro retrátil, carregador rápido de para carro 4 em 1 para iPhone e Android",
+    "price": 40.95,
+    "originalPrice": 127.97,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-medq3132jp4y45",
+    "url": "https://s.shopee.com.br/80DGmJCeJL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2405,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9840,30 +9840,6 @@
     "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
-    "id": "SP328666563-23794371672",
-    "productId": "SP328666563-23794371672",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Carregador de carro retrátil, carregador rápido de para carro 4 em 1 para iPhone e Android",
-    "price": 42.99,
-    "originalPrice": 130.27,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-medq3132jp4y45",
-    "url": "https://s.shopee.com.br/80DGmJCeJL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2405,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
-  },
-  {
     "id": "SP1847771333-58214309634",
     "productId": "SP1847771333-58214309634",
     "marketplace": "shopee",
@@ -10005,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 504,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -10030,6 +10006,30 @@
     "vendas": 520,
     "publishedAt": "2026-10-06T18:05:15.574Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
+  },
+  {
+    "id": "SP1136572611-50362394762",
+    "productId": "SP1136572611-50362394762",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedos Escavadeira controle remoto  Brastoy Caçamba metálica 2.4g 11 funções Infantil",
+    "price": 165.99,
+    "originalPrice": 503,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
+    "url": "https://s.shopee.com.br/9V24kuVghz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 570,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -10485,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 3952,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10797,7 +10797,7 @@
     "lowest30d": false,
     "vendas": 2995,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10846,30 +10846,6 @@
     "vendas": 3652,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-10T03:05:12.633Z"
-  },
-  {
-    "id": "SP1136572611-50362394762",
-    "productId": "SP1136572611-50362394762",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brinquedos Escavadeira controle remoto  Brastoy Caçamba metálica 2.4g 11 funções Infantil",
-    "price": 177.99,
-    "originalPrice": 494.42,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
-    "url": "https://s.shopee.com.br/9V24kuVghz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 570,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -11061,7 +11037,7 @@
     "lowest30d": true,
     "vendas": 386,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -11997,6 +11973,30 @@
     "lowest30d": false,
     "vendas": 1467,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:05:15.793Z"
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
+    "id": "SP1339888238-21198268414",
+    "productId": "SP1339888238-21198268414",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+    "price": 132.05,
+    "originalPrice": 249.15,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
+    "url": "https://s.shopee.com.br/W7FqWfCX6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2133,
+    "publishedAt": "2026-10-10T05:35:12.821Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
   }
 ]
