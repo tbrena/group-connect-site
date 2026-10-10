@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -381,7 +381,7 @@
     "lowest30d": true,
     "vendas": 1720,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -429,7 +429,7 @@
     "lowest30d": false,
     "vendas": 2502,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -501,7 +501,7 @@
     "lowest30d": true,
     "vendas": 416,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -552,38 +552,14 @@
     "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
-    "id": "SP1443626941-22898696968",
-    "productId": "SP1443626941-22898696968",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Feminina Alfaiataria Premium",
-    "price": 74.9,
-    "originalPrice": 249.67,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpseb9uht7gi58",
-    "url": "https://s.shopee.com.br/6AlcmmZeAJ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 324,
-    "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
-  },
-  {
     "id": "SP1127030290-22399058176",
     "productId": "SP1127030290-22399058176",
     "marketplace": "shopee",
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Smartwatch S11 2.06 ECG Pressão NFC IP68 ChatGPT Preto",
-    "price": 90.99,
-    "originalPrice": 303.3,
+    "price": 90,
+    "originalPrice": 300,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -597,7 +573,7 @@
     "lowest30d": true,
     "vendas": 310,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -720,6 +696,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP543131983-14478149714",
+    "productId": "SP543131983-14478149714",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
+    "price": 99.99,
+    "originalPrice": 322.55,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
+    "url": "https://s.shopee.com.br/6VOVJqYTpw",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 567,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP935729147-22298450798",
     "productId": "SP935729147-22298450798",
     "marketplace": "shopee",
@@ -790,6 +790,30 @@
     "vendas": 651,
     "publishedAt": "2026-09-29T13:35:15.759Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
+  },
+  {
+    "id": "SP1443626941-22898696968",
+    "productId": "SP1443626941-22898696968",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Feminina Alfaiataria Premium",
+    "price": 76.9,
+    "originalPrice": 248.06,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpseb9uht7gi58",
+    "url": "https://s.shopee.com.br/6AlcmmZeAJ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 324,
+    "publishedAt": "2026-09-28T18:05:15.508Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1553736756-23298708556",
@@ -960,6 +984,30 @@
     "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
+    "id": "SP1634545368-23194887722",
+    "productId": "SP1634545368-23194887722",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Caminhão Dinossauro T-Rex Engole Carrinhos com 4 Carros de Metal Transformável com Pista Rampa e Alça",
+    "price": 64.99,
+    "originalPrice": 203.09,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mln83d4oytxieb",
+    "url": "https://s.shopee.com.br/2BFTtql8vV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 394,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP1598954691-22198852865",
     "productId": "SP1598954691-22198852865",
     "marketplace": "shopee",
@@ -1056,6 +1104,30 @@
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
+    "id": "SP1331633037-28958988085",
+    "productId": "SP1331633037-28958988085",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "mouse Para Jogos Leve Sem Fio Attack shark R1 X11 Três Modos De Conexão PAW3311 22000DPI 400IPS 50G Rato Ergonômico espo",
+    "price": 92.99,
+    "originalPrice": 290.59,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcby-m69gtf0e8hg807",
+    "url": "https://s.shopee.com.br/2qVAcsqhWQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 198,
+    "publishedAt": "2026-09-30T17:05:14.390Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP1757833285-58256652658",
     "productId": "SP1757833285-58256652658",
     "marketplace": "shopee",
@@ -1126,30 +1198,6 @@
     "vendas": 1163,
     "publishedAt": "2026-09-29T16:05:17.624Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
-  },
-  {
-    "id": "SP1700984919-58205247989",
-    "productId": "SP1700984919-58205247989",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova Alisadora de Cabelo Pente Quente Profissional Cerâmica Sem Fio Anti-Queimadura Recarregável USB",
-    "price": 59.9,
-    "originalPrice": 187.19,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-msgo896ik2kk6b",
-    "url": "https://s.shopee.com.br/3LRRPZkMfC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 771,
-    "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -1365,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 554,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1413,7 +1461,7 @@
     "lowest30d": false,
     "vendas": 1370,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP972053936-23998448883",
@@ -1437,7 +1485,7 @@
     "lowest30d": true,
     "vendas": 764,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -1656,6 +1704,30 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
+    "id": "SP1381352643-22598668596",
+    "productId": "SP1381352643-22598668596",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "GARRAFA Térmica 350ml com bota De Silicone Protetora Escola",
+    "price": 29.88,
+    "originalPrice": 87.88,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-mbb6zl2oq3ndc7",
+    "url": "https://s.shopee.com.br/5At7jPULvG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 897,
+    "publishedAt": "2026-10-10T02:19:45.697Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "MLB4690740873",
     "productId": "MLB56690567",
     "marketplace": "ml",
@@ -1677,7 +1749,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -2088,30 +2160,6 @@
     "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
-    "id": "SP1634545368-23194887722",
-    "productId": "SP1634545368-23194887722",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Caminhão Dinossauro T-Rex Engole Carrinhos com 4 Carros de Metal Transformável com Pista Rampa e Alça",
-    "price": 70.99,
-    "originalPrice": 202.83,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mln83d4oytxieb",
-    "url": "https://s.shopee.com.br/2BFTtql8vV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 394,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
-  },
-  {
     "id": "SP1855468372-58265041953",
     "productId": "SP1855468372-58265041953",
     "marketplace": "shopee",
@@ -2182,30 +2230,6 @@
     "vendas": 1702,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-10T04:05:11.213Z"
-  },
-  {
-    "id": "SP543131983-14478149714",
-    "productId": "SP543131983-14478149714",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth LED RGB PartyBox Wireless Subwoofer Karaokê Com Microfone",
-    "price": 110.99,
-    "originalPrice": 317.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mrrnwbfu6sjka6",
-    "url": "https://s.shopee.com.br/6VOVJqYTpw",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 567,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2280,30 +2304,6 @@
     "checkedAt": "2026-10-10T05:05:13.331Z"
   },
   {
-    "id": "SP1331633037-28958988085",
-    "productId": "SP1331633037-28958988085",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "mouse Para Jogos Leve Sem Fio Attack shark R1 X11 Três Modos De Conexão PAW3311 22000DPI 400IPS 50G Rato Ergonômico espo",
-    "price": 105,
-    "originalPrice": 300,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcby-m69gtf0e8hg807",
-    "url": "https://s.shopee.com.br/2qVAcsqhWQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 198,
-    "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
-  },
-  {
     "id": "SP1749726596-58268032880",
     "productId": "SP1749726596-58268032880",
     "marketplace": "shopee",
@@ -2349,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 262,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP526596865-18297624910",
@@ -2397,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 1063,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2589,7 +2589,7 @@
     "lowest30d": true,
     "vendas": 858,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -2686,6 +2686,30 @@
     "vendas": 1588,
     "publishedAt": "2026-09-29T14:35:21.998Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
+  },
+  {
+    "id": "SP1700984919-58205247989",
+    "productId": "SP1700984919-58205247989",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova Alisadora de Cabelo Pente Quente Profissional Cerâmica Sem Fio Anti-Queimadura Recarregável USB",
+    "price": 69,
+    "originalPrice": 191.67,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-msgo896ik2kk6b",
+    "url": "https://s.shopee.com.br/3LRRPZkMfC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 771,
+    "publishedAt": "2026-09-29T12:35:18.138Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -2901,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 895,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -3720,30 +3744,6 @@
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
-    "id": "SP1381352643-22598668596",
-    "productId": "SP1381352643-22598668596",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "GARRAFA Térmica 350ml com bota De Silicone Protetora Escola",
-    "price": 34.55,
-    "originalPrice": 88.59,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-mbb6zl2oq3ndc7",
-    "url": "https://s.shopee.com.br/5At7jPULvG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 897,
-    "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
-  },
-  {
     "id": "SP410705973-23694530547",
     "productId": "SP410705973-23694530547",
     "marketplace": "shopee",
@@ -3813,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 221,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1636494323-23799143609",
@@ -4197,7 +4197,7 @@
     "lowest30d": true,
     "vendas": 249,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP493201475-21799026815",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 294,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP392967703-16178844715",
@@ -4341,7 +4341,7 @@
     "lowest30d": false,
     "vendas": 1483,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1263228446-18399259395",
@@ -4638,8 +4638,8 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "Teclado Mini 61 Teclas com RGB, USB-C com Fio, Compacto para PC Gamer e Uso Office",
-    "price": 79.89,
-    "originalPrice": 199.73,
+    "price": 56.99,
+    "originalPrice": 142.48,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -4650,10 +4650,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-10T02:35:13.650Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP316479006-22331954820",
@@ -4989,7 +4989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -5709,30 +5709,6 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-10T03:35:19.372Z"
-  },
-  {
-    "id": "SP1120123880-20599095402",
-    "productId": "SP1120123880-20599095402",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit 5 Camiseta Feminina Manga Curta Dry Fit Proteção Solar UV Baby Look Academia Treino Camisetas",
-    "price": 76.78,
-    "originalPrice": 178.56,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbme-lp9i0lzpc0bp0e",
-    "url": "https://s.shopee.com.br/7faQRxUOii",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 337,
-    "publishedAt": "2026-09-27T13:05:16.528Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
@@ -6621,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB3449639363",
@@ -6645,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6984,6 +6960,30 @@
     "checkedAt": "2026-10-10T03:05:12.633Z"
   },
   {
+    "id": "SP1547311235-23598845230",
+    "productId": "SP1547311235-23598845230",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
+    "price": 95,
+    "originalPrice": 202.13,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
+    "url": "https://s.shopee.com.br/7faQqTSAJ2",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 958,
+    "publishedAt": "2026-10-03T12:35:13.942Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP1284769631-21099552315",
     "productId": "SP1284769631-21099552315",
     "marketplace": "shopee",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:35:14.599Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB4411250505",
@@ -7269,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:35:16.474Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP419739190-23694205612",
@@ -7488,6 +7488,30 @@
     "checkedAt": "2026-10-10T03:35:19.372Z"
   },
   {
+    "id": "SP1542924779-19099837636",
+    "productId": "SP1542924779-19099837636",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "Kit 4 Body Splash Árabe Importado Luxury Attaff Rose Royal Blanc Allibah Rouge Perfumes",
+    "price": 49.99,
+    "originalPrice": 98.02,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlnjovwekr2dd2",
+    "url": "https://s.shopee.com.br/1Vzn2HD105",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1044,
+    "publishedAt": "2026-10-07T15:35:16.180Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP325008325-23397125106",
     "productId": "SP325008325-23397125106",
     "marketplace": "shopee",
@@ -7560,6 +7584,30 @@
     "checkedAt": "2026-10-10T04:05:11.213Z"
   },
   {
+    "id": "SP1339888238-21198268414",
+    "productId": "SP1339888238-21198268414",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+    "price": 132.05,
+    "originalPrice": 249.15,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
+    "url": "https://s.shopee.com.br/W7FqWfCX6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2133,
+    "publishedAt": "2026-10-10T05:35:12.821Z",
+    "checkedAt": "2026-10-10T05:35:12.821Z"
+  },
+  {
     "id": "SP1384111782-23593553623",
     "productId": "SP1384111782-23593553623",
     "marketplace": "shopee",
@@ -7629,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7749,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7872,30 +7920,6 @@
     "checkedAt": "2026-10-10T04:35:12.604Z"
   },
   {
-    "id": "SP1547311235-23598845230",
-    "productId": "SP1547311235-23598845230",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
-    "price": 118.99,
-    "originalPrice": 208.75,
-    "discount": 43,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
-    "url": "https://s.shopee.com.br/7faQqTSAJ2",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 958,
-    "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
     "id": "MLB5187059120",
     "productId": "MLB42105593",
     "marketplace": "ml",
@@ -7917,31 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T23:05:15.073Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
-  },
-  {
-    "id": "SP1542924779-19099837636",
-    "productId": "SP1542924779-19099837636",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Kit 4 Body Splash Árabe Importado Luxury Attaff Rose Royal Blanc Allibah Rouge Perfumes",
-    "price": 56.55,
-    "originalPrice": 97.5,
-    "discount": 42,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlnjovwekr2dd2",
-    "url": "https://s.shopee.com.br/1Vzn2HD105",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1044,
-    "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB3830992651",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB3725747499",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T16:05:15.132Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB7729259904",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB3513753783",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB6191376032",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB7760062906",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T21:35:17.845Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB7707499492",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB7694073954",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T06:03:15.479Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 1083,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 1512,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 848,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 9613,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9118,30 +9118,6 @@
     "vendas": 389,
     "publishedAt": "2026-09-24T12:35:15.740Z",
     "checkedAt": "2026-10-10T02:35:13.650Z"
-  },
-  {
-    "id": "SP451371260-22397622407",
-    "productId": "SP451371260-22397622407",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador De Ar E Aromatizador Grande 24H Com 2 Saídas De Ar 3 Em 1 Multifuncional Com LED",
-    "price": 31.79,
-    "originalPrice": 99.34,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqcqmw35zqwx85",
-    "url": "https://s.shopee.com.br/5fpO87hr78",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3757,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9237,31 +9213,7 @@
     "lowest30d": true,
     "vendas": 2400,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
-    "id": "SP1126224431-22394542808",
-    "productId": "SP1126224431-22394542808",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador De Ar Grande 12 Horas Com 2 Saídas De Ar E Led 3 Em 1 Multifuncional 2000ml Para Quarto",
-    "price": 31.79,
-    "originalPrice": 99.34,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-81z1k-mfwb8r6xgh6ve1",
-    "url": "https://s.shopee.com.br/3LRUMUnhar",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 627,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9333,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 2553,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9357,7 +9309,31 @@
     "lowest30d": false,
     "vendas": 7425,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
+    "id": "SP717396632-20997608223",
+    "productId": "SP717396632-20997608223",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+    "price": 94.96,
+    "originalPrice": 296.75,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
+    "url": "https://s.shopee.com.br/4VdObsqRGf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3664,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -9486,8 +9462,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-    "price": 69.99,
-    "originalPrice": 212.09,
+    "price": 67.99,
+    "originalPrice": 206.03,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9498,10 +9474,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1224,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9624,6 +9600,54 @@
     "checkedAt": "2026-10-10T02:35:13.650Z"
   },
   {
+    "id": "SP1573953914-23998775294",
+    "productId": "SP1573953914-23998775294",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
+    "price": 66.41,
+    "originalPrice": 201.24,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjqdt1hw2dc3ba",
+    "url": "https://s.shopee.com.br/9fLUlNWqAh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 945,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
+    "id": "SP451371260-22397622407",
+    "productId": "SP451371260-22397622407",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador De Ar E Aromatizador Grande 24H Com 2 Saídas De Ar 3 Em 1 Multifuncional Com LED",
+    "price": 32.79,
+    "originalPrice": 99.36,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqcqmw35zqwx85",
+    "url": "https://s.shopee.com.br/5fpO87hr78",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3757,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
     "id": "SP1447668497-58207970262",
     "productId": "SP1447668497-58207970262",
     "marketplace": "shopee",
@@ -9645,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 423,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP669576809-20104263876",
@@ -9669,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 1330,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9693,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 852,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9717,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 726,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9741,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 1791,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9765,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 1569,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9789,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 264,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9813,7 +9837,7 @@
     "lowest30d": false,
     "vendas": 692,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9837,7 +9861,31 @@
     "lowest30d": true,
     "vendas": 385,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
+  },
+  {
+    "id": "SP1126224431-22394542808",
+    "productId": "SP1126224431-22394542808",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Umidificador De Ar Grande 12 Horas Com 2 Saídas De Ar E Led 3 Em 1 Multifuncional 2000ml Para Quarto",
+    "price": 32.79,
+    "originalPrice": 99.36,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-81z1k-mfwb8r6xgh6ve1",
+    "url": "https://s.shopee.com.br/3LRUMUnhar",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 627,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9861,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 1259,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -9885,31 +9933,7 @@
     "lowest30d": false,
     "vendas": 1735,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
-    "id": "SP717396632-20997608223",
-    "productId": "SP717396632-20997608223",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
-    "url": "https://s.shopee.com.br/4VdObsqRGf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3664,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -10032,30 +10056,6 @@
     "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
-    "id": "SP1502681481-20898320113",
-    "productId": "SP1502681481-20898320113",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante",
-    "price": 23.99,
-    "originalPrice": 70.56,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
-    "url": "https://s.shopee.com.br/2gBlekfpya",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4274,
-    "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
     "id": "SP1662989296-58200253216",
     "productId": "SP1662989296-58200253216",
     "marketplace": "shopee",
@@ -10173,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 170,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10197,7 +10197,7 @@
     "lowest30d": true,
     "vendas": 1428,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 4856,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -10246,6 +10246,30 @@
     "vendas": 9259,
     "publishedAt": "2026-09-25T10:35:15.579Z",
     "checkedAt": "2026-10-10T03:35:19.372Z"
+  },
+  {
+    "id": "SP1502681481-20898320113",
+    "productId": "SP1502681481-20898320113",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Prancheta De Desenho Colorida Led Para Presente Infantil Quadro De Mensagens Acrílico Regravável DIY Brilhante",
+    "price": 23.99,
+    "originalPrice": 68.54,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
+    "url": "https://s.shopee.com.br/2gBlekfpya",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4274,
+    "publishedAt": "2026-09-27T03:35:12.515Z",
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10341,7 +10365,7 @@
     "lowest30d": true,
     "vendas": 2927,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10365,31 +10389,7 @@
     "lowest30d": true,
     "vendas": 3079,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
-  },
-  {
-    "id": "SP1573953914-23998775294",
-    "productId": "SP1573953914-23998775294",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
-    "price": 69.9,
-    "originalPrice": 199.71,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjqdt1hw2dc3ba",
-    "url": "https://s.shopee.com.br/9fLUlNWqAh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 945,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10413,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 1001,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10437,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 3034,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -10509,7 +10509,7 @@
     "lowest30d": false,
     "vendas": 20096,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10581,7 +10581,7 @@
     "lowest30d": false,
     "vendas": 218,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -10773,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 566,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11166,8 +11166,8 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "Mouse Gamer TGT GM75, Rainbow, 3600DPI, 6 Botoes, Preto, TGT-GM75-BL01",
-    "price": 37.9,
-    "originalPrice": 102.43,
+    "price": 37.54,
+    "originalPrice": 101.46,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11181,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 191,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11493,7 +11493,7 @@
     "lowest30d": false,
     "vendas": 1929,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-10T02:19:45.697Z"
+    "checkedAt": "2026-10-10T06:05:12.801Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-10T05:35:12.821Z"
   },
   {
-    "id": "SP1339888238-21198268414",
-    "productId": "SP1339888238-21198268414",
+    "id": "SP1120123880-20599095402",
+    "productId": "SP1120123880-20599095402",
     "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
-    "price": 132.05,
-    "originalPrice": 249.15,
-    "discount": 47,
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit 5 Camiseta Feminina Manga Curta Dry Fit Proteção Solar UV Baby Look Academia Treino Camisetas",
+    "price": 76.78,
+    "originalPrice": 178.56,
+    "discount": 57,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
-    "url": "https://s.shopee.com.br/W7FqWfCX6",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbme-lp9i0lzpc0bp0e",
+    "url": "https://s.shopee.com.br/7faQRxUOii",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
-    "vendas": 2133,
-    "publishedAt": "2026-10-10T05:35:12.821Z",
-    "checkedAt": "2026-10-10T05:35:12.821Z"
+    "lowest30d": false,
+    "vendas": 337,
+    "publishedAt": "2026-09-27T13:05:16.528Z",
+    "checkedAt": "2026-10-10T03:35:19.372Z"
   }
 ]
