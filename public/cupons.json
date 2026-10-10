@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "SUPERDESCONTO"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 99",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16449",
+    "quando": "2026-10-10T11:34:00+00:00",
+    "id": "ml:SUPERDESCONTO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "DIADASCRIANCAS"
     ],
     "desconto": "15% OFF",
