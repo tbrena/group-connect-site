@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "SITE1110"
+    ],
+    "desconto": "R$ 50 OFF",
+    "limite": null,
+    "minimo": "R$ 499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16520",
+    "quando": "2026-10-11T12:12:25+00:00",
+    "id": "ml:SITE1110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTADEHOJE"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/16519",
+    "quando": "2026-10-11T12:11:55+00:00",
+    "id": "ml:OFERTADEHOJE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODA1110"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 40",
+    "minimo": null,
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/16518",
+    "quando": "2026-10-11T12:11:24+00:00",
+    "id": "ml:MODA1110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "RESGATEFULL1010"
     ],
     "desconto": "25% OFF",
