@@ -1,5 +1,19 @@
 [
   {
+    "loja": "ml",
+    "codigos": [
+      "RESGATEFULL1010"
+    ],
+    "desconto": "25% OFF",
+    "limite": null,
+    "minimo": "R$ 119",
+    "escopo": "Entregas Full",
+    "origem": "avidaefeitadedesconto/16516",
+    "quando": "2026-10-11T03:05:09+00:00",
+    "id": "ml:RESGATEFULL1010",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
     "loja": "shopee",
     "codigos": [
       "AGORATEM50"
@@ -473,62 +487,6 @@
     "origem": "avidaefeitadedesconto/16437",
     "quando": "2026-10-10T03:12:48+00:00",
     "id": "ml:MODADATADUPLA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VALEMAIS"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": null,
-    "escopo": "Tecnologia",
-    "origem": "avidaefeitadedesconto/16436",
-    "quando": "2026-10-10T03:09:30+00:00",
-    "id": "ml:VALEMAIS",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATEDECOR"
-    ],
-    "desconto": "30% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 119",
-    "escopo": "Decoração e Eletros",
-    "origem": "avidaefeitadedesconto/16435",
-    "quando": "2026-10-10T03:04:30+00:00",
-    "id": "ml:RESGATEDECOR",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATECASA"
-    ],
-    "desconto": "30% OFF",
-    "limite": "R$ 170",
-    "minimo": null,
-    "escopo": "Tudo para Casa",
-    "origem": "avidaefeitadedesconto/16434",
-    "quando": "2026-10-10T03:04:18+00:00",
-    "id": "ml:RESGATECASA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DDRESGATEFULL"
-    ],
-    "desconto": "30% OFF",
-    "limite": null,
-    "minimo": "R$ 89",
-    "escopo": "Entregas Full",
-    "origem": "avidaefeitadedesconto/16433",
-    "quando": "2026-10-10T03:02:51+00:00",
-    "id": "ml:DDRESGATEFULL",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
