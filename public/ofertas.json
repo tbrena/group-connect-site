@@ -198,8 +198,8 @@
     "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
     "title": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
-    "price": 38.99,
-    "originalPrice": 129.97,
+    "price": 38.5,
+    "originalPrice": 128.33,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -210,10 +210,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1218,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP883941882-23598220274",
@@ -309,7 +309,7 @@
     "lowest30d": true,
     "vendas": 2297,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 725,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1569804599-23598922504",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": 166,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP974102638-58210258643",
@@ -1029,7 +1029,7 @@
     "lowest30d": true,
     "vendas": 1086,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1053,7 +1053,7 @@
     "lowest30d": true,
     "vendas": 679,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -1125,7 +1125,31 @@
     "lowest30d": true,
     "vendas": 1125,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
+  },
+  {
+    "id": "SP1700984919-58205247989",
+    "productId": "SP1700984919-58205247989",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova Alisadora de Cabelo Pente Quente Profissional Cerâmica Sem Fio Anti-Queimadura Recarregável USB",
+    "price": 59.9,
+    "originalPrice": 187.19,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-msgo896ik2kk6b",
+    "url": "https://s.shopee.com.br/LntXJVNUb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 792,
+    "publishedAt": "2026-09-29T12:35:18.138Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -1149,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 193,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1173,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 2198,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1197,7 +1221,7 @@
     "lowest30d": false,
     "vendas": 2202,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-12T02:05:15.478Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -1293,7 +1317,7 @@
     "lowest30d": true,
     "vendas": 574,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1341,31 +1365,7 @@
     "lowest30d": true,
     "vendas": 1394,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
-    "id": "SP972053936-23998448883",
-    "productId": "SP972053936-23998448883",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
-    "price": 29.99,
-    "originalPrice": 90.88,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
-    "url": "https://s.shopee.com.br/2LYz76bIdf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 763,
-    "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -1533,7 +1533,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -2085,7 +2085,7 @@
     "lowest30d": true,
     "vendas": 271,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP526596865-18297624910",
@@ -2133,7 +2133,7 @@
     "lowest30d": true,
     "vendas": 1055,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2181,7 +2181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T17:05:14.560Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2373,7 +2373,7 @@
     "lowest30d": true,
     "vendas": 866,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -2685,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 1046,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -3360,30 +3360,6 @@
     "checkedAt": "2026-10-12T03:35:16.785Z"
   },
   {
-    "id": "SP1700984919-58205247989",
-    "productId": "SP1700984919-58205247989",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova Alisadora de Cabelo Pente Quente Profissional Cerâmica Sem Fio Anti-Queimadura Recarregável USB",
-    "price": 71.9,
-    "originalPrice": 189.21,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-msgo896ik2kk6b",
-    "url": "https://s.shopee.com.br/LntXJVNUb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 792,
-    "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
     "id": "SP1650332851-23499438942",
     "productId": "SP1650332851-23499438942",
     "marketplace": "shopee",
@@ -3453,7 +3429,7 @@
     "lowest30d": false,
     "vendas": 902,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -3501,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 237,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1636494323-23799143609",
@@ -3598,6 +3574,30 @@
     "vendas": 495,
     "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-12T03:35:16.785Z"
+  },
+  {
+    "id": "SP972053936-23998448883",
+    "productId": "SP972053936-23998448883",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
+    "price": 34.99,
+    "originalPrice": 89.72,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
+    "url": "https://s.shopee.com.br/2LYz76bIdf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 763,
+    "publishedAt": "2026-10-03T17:05:15.960Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -3837,7 +3837,7 @@
     "lowest30d": true,
     "vendas": 254,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP493201475-21799026815",
@@ -3861,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 355,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -3984,30 +3984,6 @@
     "checkedAt": "2026-10-12T02:21:00.355Z"
   },
   {
-    "id": "SP1661007426-58207680669",
-    "productId": "SP1661007426-58207680669",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Eps-2809 Limpador a Vapor Pressurizado 1,2L Alta Temperatura Profissional Multiuso",
-    "price": 135.12,
-    "originalPrice": 337.8,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mp411tqo1oubee",
-    "url": "https://s.shopee.com.br/4B0dczZntj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1675,
-    "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
     "id": "SP1263228446-18399259395",
     "productId": "SP1263228446-18399259395",
     "marketplace": "shopee",
@@ -4054,6 +4030,30 @@
     "vendas": 956,
     "publishedAt": "2026-10-08T10:05:15.636Z",
     "checkedAt": "2026-10-12T04:35:13.839Z"
+  },
+  {
+    "id": "MLB7597764124",
+    "productId": "MLB27864422",
+    "marketplace": "ml",
+    "fonte": "MLB1248",
+    "categoria": "Beleza",
+    "title": "Gloss Labial Kiko Milano 3D Hydra Cor 01 Transparente",
+    "price": 65.81,
+    "originalPrice": 164.22,
+    "discount": 60,
+    "base": "media",
+    "averagePrice": 164.22,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_702679-MLU75333762686_032024-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7597764124?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-07T21:35:27.564Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4318,30 +4318,6 @@
     "vendas": 1091,
     "publishedAt": "2026-10-01T23:35:12.903Z",
     "checkedAt": "2026-10-12T03:35:16.785Z"
-  },
-  {
-    "id": "SP379700545-58212743078",
-    "productId": "SP379700545-58212743078",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Teclado Mini 61 Teclas com RGB, USB-C com Fio, Compacto para PC Gamer e Uso Office",
-    "price": 56.99,
-    "originalPrice": 142.48,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpm0szsjb6dpce",
-    "url": "https://s.shopee.com.br/AUufNaL7MS",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 210,
-    "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
   },
   {
     "id": "SP316479006-22331954820",
@@ -4630,30 +4606,6 @@
     "vendas": 1587,
     "publishedAt": "2026-09-26T16:35:17.004Z",
     "checkedAt": "2026-10-12T03:05:13.166Z"
-  },
-  {
-    "id": "MLB7597764124",
-    "productId": "MLB27864422",
-    "marketplace": "ml",
-    "fonte": "MLB1248",
-    "categoria": "Beleza",
-    "title": "Gloss Labial Kiko Milano 3D Hydra Cor 01 Transparente",
-    "price": 65.81,
-    "originalPrice": 159.99,
-    "discount": 59,
-    "base": "media",
-    "averagePrice": 159.99,
-    "sellers": 8,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_702679-MLU75333762686_032024-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7597764124?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -5469,7 +5421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -5542,6 +5494,30 @@
     "vendas": 2050,
     "publishedAt": "2026-10-10T12:35:13.030Z",
     "checkedAt": "2026-10-12T04:05:18.200Z"
+  },
+  {
+    "id": "SP1661007426-58207680669",
+    "productId": "SP1661007426-58207680669",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Eps-2809 Limpador a Vapor Pressurizado 1,2L Alta Temperatura Profissional Multiuso",
+    "price": 149.9,
+    "originalPrice": 340.68,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mp411tqo1oubee",
+    "url": "https://s.shopee.com.br/4B0dczZntj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1675,
+    "publishedAt": "2026-10-09T12:35:13.789Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -6261,7 +6237,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6672,6 +6648,30 @@
     "checkedAt": "2026-10-12T04:35:13.839Z"
   },
   {
+    "id": "SP1547311235-23598845230",
+    "productId": "SP1547311235-23598845230",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
+    "price": 95,
+    "originalPrice": 202.13,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
+    "url": "https://s.shopee.com.br/6q1OiI2xmX",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1208,
+    "publishedAt": "2026-10-03T12:35:13.942Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
+  },
+  {
     "id": "SP1541348350-18399858350",
     "productId": "SP1541348350-18399858350",
     "marketplace": "shopee",
@@ -6864,30 +6864,6 @@
     "checkedAt": "2026-10-12T04:35:13.839Z"
   },
   {
-    "id": "SP1547311235-23598845230",
-    "productId": "SP1547311235-23598845230",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
-    "price": 95,
-    "originalPrice": 197.92,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
-    "url": "https://s.shopee.com.br/6q1OiI2xmX",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1208,
-    "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
     "id": "SP376576138-22293577075",
     "productId": "SP376576138-22293577075",
     "marketplace": "shopee",
@@ -7056,6 +7032,30 @@
     "checkedAt": "2026-10-12T02:35:12.424Z"
   },
   {
+    "id": "SP379700545-58212743078",
+    "productId": "SP379700545-58212743078",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Teclado Mini 61 Teclas com RGB, USB-C com Fio, Compacto para PC Gamer e Uso Office",
+    "price": 98.88,
+    "originalPrice": 201.8,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpm0szsjb6dpce",
+    "url": "https://s.shopee.com.br/AUufNaL7MS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 210,
+    "publishedAt": "2026-09-30T17:05:14.390Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
+  },
+  {
     "id": "SP1259153662-22293723811",
     "productId": "SP1259153662-22293723811",
     "marketplace": "shopee",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP769360044-21399092679",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7797,7 +7797,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 1063,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB5930202958",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB3830992651",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1339888238-21198268414",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB7541060806",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB4039445285",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB7729259904",
@@ -8325,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB7707499492",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB3556651987",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1141,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8949,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 1437,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8973,7 +8973,7 @@
     "lowest30d": false,
     "vendas": 866,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 9906,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-12T04:35:13.839Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9237,7 +9237,7 @@
     "lowest30d": true,
     "vendas": 2315,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9285,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 2423,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9309,7 +9309,7 @@
     "lowest30d": false,
     "vendas": 7162,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -9477,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 1270,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9576,30 +9576,6 @@
     "checkedAt": "2026-10-12T02:05:15.478Z"
   },
   {
-    "id": "SP451371260-22397622407",
-    "productId": "SP451371260-22397622407",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Umidificador De Ar E Aromatizador Grande 24H Com 2 Saídas De Ar 3 Em 1 Multifuncional Com LED",
-    "price": 32.79,
-    "originalPrice": 99.36,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqcqmw35zqwx85",
-    "url": "https://s.shopee.com.br/2LYyofxB4H",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3522,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
     "id": "SP1447668497-58207970262",
     "productId": "SP1447668497-58207970262",
     "marketplace": "shopee",
@@ -9621,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 368,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9645,7 +9621,7 @@
     "lowest30d": true,
     "vendas": 811,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9669,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 652,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9693,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 1675,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9717,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 1434,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9741,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 277,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9765,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 679,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9789,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 354,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9813,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 550,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9837,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 1361,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -9861,7 +9837,7 @@
     "lowest30d": false,
     "vendas": 1782,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9909,7 +9885,7 @@
     "lowest30d": false,
     "vendas": 3679,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -10149,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 168,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10173,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 1475,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10197,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 4600,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10293,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 4664,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10413,7 +10389,7 @@
     "lowest30d": true,
     "vendas": 2904,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10437,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 910,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10461,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 3176,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10485,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 975,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 3383,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10557,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 21153,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10797,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 616,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11229,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 202,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11592,30 +11568,6 @@
     "checkedAt": "2026-10-12T02:21:00.355Z"
   },
   {
-    "id": "SP1723473029-23094999147",
-    "productId": "SP1723473029-23094999147",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml Longa Duração Cheiroso",
-    "price": 37.89,
-    "originalPrice": 99.71,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mp6zuij832md2c",
-    "url": "https://s.shopee.com.br/2qVGuJIMeN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1904,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T01:35:15.678Z"
-  },
-  {
     "id": "SP1209650911-22693741525",
     "productId": "SP1209650911-22693741525",
     "marketplace": "shopee",
@@ -11974,5 +11926,29 @@
     "vendas": 704,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-12T04:05:18.200Z"
+  },
+  {
+    "id": "SP1723473029-23094999147",
+    "productId": "SP1723473029-23094999147",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml Longa Duração Cheiroso",
+    "price": 39.99,
+    "originalPrice": 99.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mp6zuij832md2c",
+    "url": "https://s.shopee.com.br/2qVGuJIMeN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1904,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-12T05:05:19.834Z"
   }
 ]
