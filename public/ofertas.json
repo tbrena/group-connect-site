@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 331,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -525,7 +525,7 @@
     "lowest30d": true,
     "vendas": 3489,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1654609614-23899120952",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 1279,
     "publishedAt": "2026-10-10T13:35:14.395Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -645,7 +645,31 @@
     "lowest30d": true,
     "vendas": 538,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 39.99,
+    "originalPrice": 129,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/20w8Q4KNMj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 855,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -693,7 +717,7 @@
     "lowest30d": true,
     "vendas": 714,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -1056,30 +1080,6 @@
     "checkedAt": "2026-10-12T02:05:15.478Z"
   },
   {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 40.99,
-    "originalPrice": 128.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/20w8Q4KNMj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 855,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
-  },
-  {
     "id": "SP1757833285-58256652658",
     "productId": "SP1757833285-58256652658",
     "marketplace": "shopee",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 206,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -1557,7 +1557,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -1582,30 +1582,6 @@
     "vendas": 4929,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-12T02:05:15.478Z"
-  },
-  {
-    "id": "SP1320813117-58204576204",
-    "productId": "SP1320813117-58204576204",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Casual Festa Confortável qualquer Ocasião Moderno - Envio Imediato",
-    "price": 47,
-    "originalPrice": 138.24,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8261u-mk9xhj6pl2bka1",
-    "url": "https://s.shopee.com.br/7VH5hXP41F",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1587,
-    "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-12T00:05:13.526Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1965,7 +1941,7 @@
     "lowest30d": true,
     "vendas": 1713,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2109,7 +2085,7 @@
     "lowest30d": false,
     "vendas": 2025,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1028459403-58258154242",
@@ -2208,6 +2184,30 @@
     "checkedAt": "2026-10-12T00:35:13.537Z"
   },
   {
+    "id": "SP1187975388-20899215101",
+    "productId": "SP1187975388-20899215101",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
+    "price": 31.9,
+    "originalPrice": 91.14,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
+    "url": "https://s.shopee.com.br/2qVFPbHCfQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1038,
+    "publishedAt": "2026-09-28T02:35:16.754Z",
+    "checkedAt": "2026-10-12T00:35:13.537Z"
+  },
+  {
     "id": "MLB5371669079",
     "productId": "MLB63334911",
     "marketplace": "ml",
@@ -2229,7 +2229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T17:05:14.560Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2301,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 1576,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2349,7 +2349,7 @@
     "lowest30d": false,
     "vendas": 159,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -2358,8 +2358,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 175,
-    "originalPrice": 486.11,
+    "price": 179,
+    "originalPrice": 497.22,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2373,7 +2373,7 @@
     "lowest30d": false,
     "vendas": 1225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -2454,8 +2454,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 46.9,
-    "originalPrice": 130.28,
+    "price": 46.58,
+    "originalPrice": 129.39,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2469,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 1365,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -2778,10 +2778,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 207,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -2805,7 +2805,7 @@
     "lowest30d": true,
     "vendas": 1106,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP397374716-23895517734",
@@ -2829,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 438,
     "publishedAt": "2026-09-30T23:12:08.055Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -2838,8 +2838,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
-    "price": 46.98,
-    "originalPrice": 126.97,
+    "price": 46.97,
+    "originalPrice": 126.95,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2850,10 +2850,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2410,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -2877,7 +2877,7 @@
     "lowest30d": false,
     "vendas": 183,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -2901,7 +2901,7 @@
     "lowest30d": true,
     "vendas": 281,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP791283306-17184102852",
@@ -2925,7 +2925,7 @@
     "lowest30d": true,
     "vendas": 216,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP859540579-23493848787",
@@ -2949,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 257,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1359974122-58205769513",
@@ -2973,7 +2973,7 @@
     "lowest30d": true,
     "vendas": 346,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1027415014-19598793518",
@@ -3069,7 +3069,7 @@
     "lowest30d": false,
     "vendas": 3067,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -3285,7 +3285,7 @@
     "lowest30d": false,
     "vendas": 2010,
     "publishedAt": "2026-10-03T03:05:13.932Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1114645438-42664270345",
@@ -4656,6 +4656,30 @@
     "checkedAt": "2026-10-12T00:35:13.537Z"
   },
   {
+    "id": "SP1320813117-58204576204",
+    "productId": "SP1320813117-58204576204",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Casual Festa Confortável qualquer Ocasião Moderno - Envio Imediato",
+    "price": 57,
+    "originalPrice": 139.02,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8261u-mk9xhj6pl2bka1",
+    "url": "https://s.shopee.com.br/7VH5hXP41F",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1587,
+    "publishedAt": "2026-09-26T16:35:17.004Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
     "id": "MLB7597764124",
     "productId": "MLB27864422",
     "marketplace": "ml",
@@ -4677,7 +4701,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1372008216-58263242452",
@@ -4917,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 504,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP279868721-41253171051",
@@ -5205,7 +5229,7 @@
     "lowest30d": false,
     "vendas": 1519,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP392967703-16178844715",
@@ -5229,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 471,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1431327147-18299659089",
@@ -5253,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 392,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP717396632-58208662452",
@@ -5277,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 506,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5517,7 +5541,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP444150322-23594223237",
@@ -5781,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 2662,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -5925,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 632,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -6021,7 +6045,7 @@
     "lowest30d": false,
     "vendas": 888,
     "publishedAt": "2026-10-09T13:35:12.573Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6069,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 759,
     "publishedAt": "2026-10-07T13:35:16.557Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -6285,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6405,7 +6429,7 @@
     "lowest30d": false,
     "vendas": 1719,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6501,7 +6525,7 @@
     "lowest30d": false,
     "vendas": 1114,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP728370135-58264934249",
@@ -6981,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 9752,
     "publishedAt": "2026-10-02T13:05:16.871Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -7101,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7413,7 +7437,7 @@
     "lowest30d": true,
     "vendas": 963,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB2974151655",
@@ -7437,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7509,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7557,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7872,30 +7896,6 @@
     "checkedAt": "2026-10-12T02:21:00.355Z"
   },
   {
-    "id": "MLB3830992651",
-    "productId": "MLB27819810",
-    "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Carregador De Pilhas Recarregáveis Duracell Aa/aaa Com 4 Aa",
-    "price": 145,
-    "originalPrice": 249,
-    "discount": 42,
-    "base": "media",
-    "averagePrice": 249,
-    "sellers": 28,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_912720-MLA99529602056_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3830992651?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ARCOZ DISTRIBUIDORA",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
-  },
-  {
     "id": "SP333164875-19699297807",
     "productId": "SP333164875-19699297807",
     "marketplace": "shopee",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB5930202958",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1553736756-22894286800",
@@ -8109,7 +8109,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
+    "id": "MLB3830992651",
+    "productId": "MLB27819810",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Carregador De Pilhas Recarregáveis Duracell Aa/aaa Com 4 Aa",
+    "price": 159.9,
+    "originalPrice": 249,
+    "discount": 36,
+    "base": "media",
+    "averagePrice": 249,
+    "sellers": 28,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_912720-MLA99529602056_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3830992651?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ARCOZ DISTRIBUIDORA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-29T15:05:16.849Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8160,30 +8184,6 @@
     "checkedAt": "2026-10-12T00:35:13.537Z"
   },
   {
-    "id": "MLB4039445285",
-    "productId": "MLB41517253",
-    "marketplace": "ml",
-    "fonte": "MLB439347",
-    "categoria": "Eletrodomésticos",
-    "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
-    "price": 130.84,
-    "originalPrice": 194.4,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 194.4,
-    "sellers": 25,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4039445285?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
-  },
-  {
     "id": "MLB7381172556",
     "productId": "MLB40981966",
     "marketplace": "ml",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB7541060806",
@@ -8229,7 +8229,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
+    "id": "MLB4039445285",
+    "productId": "MLB41517253",
+    "marketplace": "ml",
+    "fonte": "MLB439347",
+    "categoria": "Eletrodomésticos",
+    "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
+    "price": 135,
+    "originalPrice": 194.4,
+    "discount": 31,
+    "base": "media",
+    "averagePrice": 194.4,
+    "sellers": 25,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4039445285?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-28T20:32:28.290Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8277,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB7729259904",
@@ -8301,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB3513753783",
@@ -8325,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
-  },
-  {
-    "id": "MLB6191376032",
-    "productId": "MLB31037672",
-    "marketplace": "ml",
-    "fonte": "MLB1576",
-    "categoria": "Eletrodomésticos",
-    "title": "Compressor Embraco EMR80HLR 1/4+ R134A para Geladeira e Freezer",
-    "price": 335.9,
-    "originalPrice": 430.95,
-    "discount": 22,
-    "base": "media",
-    "averagePrice": 430.95,
-    "sellers": 43,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_844431-MLA99558018604_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6191376032?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-07T09:35:16.525Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB7707499492",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T15:37:50.106Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB3556651987",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1250,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8640,30 +8640,6 @@
     "checkedAt": "2026-10-12T02:35:12.424Z"
   },
   {
-    "id": "MLB4943866566",
-    "productId": "MLB38655102",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
-    "price": 33.89,
-    "originalPrice": 110.32,
-    "discount": 69,
-    "base": "media",
-    "averagePrice": 110.32,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "NVFULLCOMM",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-12T02:35:12.424Z"
-  },
-  {
     "id": "SP1725971117-58207922771",
     "productId": "SP1725971117-58207922771",
     "marketplace": "shopee",
@@ -8733,7 +8709,7 @@
     "lowest30d": false,
     "vendas": 104,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9054,8 +9030,8 @@
     "fonte": "shopee:q:ferramenta",
     "categoria": "Ferramentas",
     "title": "Furadeira/Parafusadeira de Sem fio, Bateria de 12V/48V, Com ou sem Mala, Bivolt",
-    "price": 74.99,
-    "originalPrice": 234.34,
+    "price": 73.99,
+    "originalPrice": 231.22,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -9066,10 +9042,34 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2860,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
+    "id": "MLB4943866566",
+    "productId": "MLB38655102",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Papel Higiênico Supra Folha Tripla 24 Rolos",
+    "price": 34.9,
+    "originalPrice": 110.32,
+    "discount": 68,
+    "base": "media",
+    "averagePrice": 110.32,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4943866566?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "NVFULLCOMM",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-27T05:05:14.581Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9117,7 +9117,7 @@
     "lowest30d": true,
     "vendas": 223,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 216,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9405,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 557,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -10224,30 +10224,6 @@
     "checkedAt": "2026-10-12T02:35:12.424Z"
   },
   {
-    "id": "SP1187975388-20899215101",
-    "productId": "SP1187975388-20899215101",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
-    "price": 31.9,
-    "originalPrice": 91.14,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
-    "url": "https://s.shopee.com.br/2qVFPbHCfQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1038,
-    "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-12T00:35:13.537Z"
-  },
-  {
     "id": "SP1502681481-20898320113",
     "productId": "SP1502681481-20898320113",
     "marketplace": "shopee",
@@ -10629,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 391,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -10917,7 +10893,7 @@
     "lowest30d": true,
     "vendas": 1579,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -10941,7 +10917,7 @@
     "lowest30d": false,
     "vendas": 899,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -11325,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 2847,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -11421,7 +11397,7 @@
     "lowest30d": false,
     "vendas": 179,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -11493,7 +11469,7 @@
     "lowest30d": true,
     "vendas": 674,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP717396632-21599194714",
@@ -11517,7 +11493,7 @@
     "lowest30d": false,
     "vendas": 471,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1165606860-58262141857",
@@ -11541,7 +11517,7 @@
     "lowest30d": true,
     "vendas": 1548,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11565,7 +11541,7 @@
     "lowest30d": true,
     "vendas": 4990,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1156409244-23299128342",
@@ -11637,7 +11613,7 @@
     "lowest30d": true,
     "vendas": 721,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -11733,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 112,
     "publishedAt": "2026-09-26T03:35:16.420Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1465342892-58201517017",
@@ -11805,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 2309,
     "publishedAt": "2026-09-24T20:05:14.446Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP1114645438-18297943370",
@@ -11845,7 +11821,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdniveqik91t2b",
-    "url": "https://s.shopee.com.br/7AeBLaoq29",
+    "url": "https://s.shopee.com.br/W7MEBvetX",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11853,7 +11829,7 @@
     "lowest30d": true,
     "vendas": 1564,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -11877,7 +11853,7 @@
     "lowest30d": true,
     "vendas": 1537,
     "publishedAt": "2026-09-24T00:05:14.482Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -11886,8 +11862,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "Numbuzin No.9 NAD Bio Lifting Eye Cream 10ml / 20ml",
-    "price": 108.98,
-    "originalPrice": 279.44,
+    "price": 108.97,
+    "originalPrice": 279.41,
     "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
@@ -11898,10 +11874,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 5585,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -11949,7 +11925,7 @@
     "lowest30d": true,
     "vendas": 2393,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-11T23:35:12.124Z"
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   },
   {
     "id": "SP447122151-22792005725",
@@ -11974,5 +11950,53 @@
     "vendas": 704,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-12T00:35:13.537Z"
+  },
+  {
+    "id": "SP769360044-21399092679",
+    "productId": "SP769360044-21399092679",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:protetor solar",
+    "categoria": "Beleza",
+    "title": "Protetor Solar Facial com Base em Bastão FPS 50 Efeito Matte Sunless Stick Envio Imediato",
+    "price": 52.98,
+    "originalPrice": 99.96,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meq1dyaduzgic1",
+    "url": "https://s.shopee.com.br/1LgSAB6Ila",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1076,
+    "publishedAt": "2026-10-12T03:05:13.166Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
+  },
+  {
+    "id": "MLB5400347762",
+    "productId": "MLB24651209",
+    "marketplace": "ml",
+    "fonte": "MLB10217",
+    "categoria": "Saúde",
+    "title": "Massageador Travesseiro Elétrico Corporal Pescoço Lombar",
+    "price": 56.91,
+    "originalPrice": 99.9,
+    "discount": 43,
+    "base": "media",
+    "averagePrice": 99.9,
+    "sellers": 12,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_658494-MLU74871575330_032024-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5400347762?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "KOIR BRASIL",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-12T03:05:13.166Z",
+    "checkedAt": "2026-10-12T03:05:13.166Z"
   }
 ]

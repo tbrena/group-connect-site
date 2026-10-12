@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "RESGATELOJAS11"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16527",
+    "quando": "2026-10-12T03:05:50+00:00",
+    "id": "ml:RESGATELOJAS11",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "LIVROSEJOGOS"
     ],
     "desconto": "15% OFF",
@@ -95,20 +109,6 @@
     "origem": "avidaefeitadedesconto/16518",
     "quando": "2026-10-11T12:11:24+00:00",
     "id": "ml:MODA1110",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATEFULL1010"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": "R$ 119",
-    "escopo": "Entregas Full",
-    "origem": "avidaefeitadedesconto/16516",
-    "quando": "2026-10-11T03:05:09+00:00",
-    "id": "ml:RESGATEFULL1010",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
