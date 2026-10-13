@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -165,7 +165,7 @@
     "lowest30d": true,
     "vendas": 406,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": 2496,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -429,7 +429,7 @@
     "lowest30d": false,
     "vendas": 275,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP987393610-23098440348",
@@ -525,7 +525,7 @@
     "lowest30d": false,
     "vendas": 168,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1207367861-18699230754",
@@ -861,7 +861,7 @@
     "lowest30d": false,
     "vendas": 665,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 185,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1149,7 +1149,7 @@
     "lowest30d": false,
     "vendas": 2129,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1173,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 2271,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 306,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1221,7 +1221,7 @@
     "lowest30d": false,
     "vendas": 1403,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -1486,6 +1486,30 @@
     "vendas": 160,
     "publishedAt": "2026-09-28T21:05:17.970Z",
     "checkedAt": "2026-10-13T02:35:16.477Z"
+  },
+  {
+    "id": "SP1459307687-40624794433",
+    "productId": "SP1459307687-40624794433",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
+    "price": 50.99,
+    "originalPrice": 149.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
+    "url": "https://s.shopee.com.br/60SKR9Ymwg",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3456,
+    "publishedAt": "2026-10-13T04:05:13.221Z",
+    "checkedAt": "2026-10-13T04:05:13.221Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -1917,7 +1941,7 @@
     "lowest30d": true,
     "vendas": 215,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-13T01:35:14.181Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1571156019-22399014792",
@@ -2565,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 1044,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -2709,7 +2733,7 @@
     "lowest30d": false,
     "vendas": 1365,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -2733,7 +2757,7 @@
     "lowest30d": false,
     "vendas": 635,
     "publishedAt": "2026-10-08T14:35:53.766Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -2973,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 1693,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -2998,30 +3022,6 @@
     "vendas": 2632,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-13T01:37:15.822Z"
-  },
-  {
-    "id": "SP1727133145-45813823049",
-    "productId": "SP1727133145-45813823049",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
-    "price": 38.99,
-    "originalPrice": 105.38,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
-    "url": "https://s.shopee.com.br/7ptwSf9qd5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 219,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
   },
   {
     "id": "SP414544347-19672086438",
@@ -3093,7 +3093,7 @@
     "lowest30d": false,
     "vendas": 7057,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB4690740873",
@@ -3117,7 +3117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3141,7 +3141,7 @@
     "lowest30d": true,
     "vendas": 524,
     "publishedAt": "2026-10-08T11:35:16.622Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP993911400-22599442803",
@@ -3213,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1724093444-58255929142",
@@ -3309,7 +3309,7 @@
     "lowest30d": true,
     "vendas": 201,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP543131983-22892811239",
@@ -3333,7 +3333,31 @@
     "lowest30d": true,
     "vendas": 312,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
+  },
+  {
+    "id": "SP293097193-23994398489",
+    "productId": "SP293097193-23994398489",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "kit 3 Blusas Feminina Baby Look Manga Curta Gola Quadrada Decote Quadrado Moda Casual Versátil Blogueira 2025",
+    "price": 45.9,
+    "originalPrice": 120.79,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824is-mep5m3d6v75scb",
+    "url": "https://s.shopee.com.br/5LCaOCcceP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2445,
+    "publishedAt": "2026-10-02T12:35:19.029Z",
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1398196452-26044322175",
@@ -3645,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 810,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1765235104-58264020472",
@@ -3997,7 +4021,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-    "url": "https://s.shopee.com.br/7ptxabrLhP",
+    "url": "https://s.shopee.com.br/5AtDLQYTrU",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4005,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 6033,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1263228446-18399259395",
@@ -4029,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 1902,
     "publishedAt": "2026-10-08T11:05:16.635Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7597764124",
@@ -4053,7 +4077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4197,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 540,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1630828144-58200483130",
@@ -4341,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 550,
     "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1142946053-50500111351",
@@ -4413,7 +4437,7 @@
     "lowest30d": true,
     "vendas": 10966,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1267085301-22699386857",
@@ -4573,7 +4597,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-824ht-mpxfzwdv0ljg16",
-    "url": "https://s.shopee.com.br/9V28z82MN9",
+    "url": "https://s.shopee.com.br/9fLcpyLRr9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4581,7 +4605,7 @@
     "lowest30d": true,
     "vendas": 941,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4605,7 +4629,7 @@
     "lowest30d": true,
     "vendas": 537,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1259086167-46111240879",
@@ -4680,30 +4704,6 @@
     "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
-    "id": "SP293097193-23994398489",
-    "productId": "SP293097193-23994398489",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "kit 3 Blusas Feminina Baby Look Manga Curta Gola Quadrada Decote Quadrado Moda Casual Versátil Blogueira 2025",
-    "price": 49,
-    "originalPrice": 119.51,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824is-mep5m3d6v75scb",
-    "url": "https://s.shopee.com.br/5LCaOCcceP",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2445,
-    "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
     "id": "SP1299327674-58262359246",
     "productId": "SP1299327674-58262359246",
     "marketplace": "shopee",
@@ -4717,7 +4717,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mpcn1ocaegatff",
-    "url": "https://s.shopee.com.br/30ofi4yBC5",
+    "url": "https://s.shopee.com.br/AUujpVIHAM",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 1343,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1567305535-48252076332",
@@ -4917,7 +4917,7 @@
     "lowest30d": true,
     "vendas": 480,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP410040838-22497996785",
@@ -5277,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 233,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1767575955-58265818230",
@@ -5301,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 143,
     "publishedAt": "2026-10-01T10:05:49.038Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -5373,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T15:35:16.355Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5733,7 +5733,7 @@
     "lowest30d": true,
     "vendas": 244,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1661676033-58258175621",
@@ -5901,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 630,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP470159845-41282373928",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 963,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6117,7 +6117,7 @@
     "lowest30d": true,
     "vendas": 991,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1658183207-58258793992",
@@ -6213,7 +6213,7 @@
     "lowest30d": true,
     "vendas": 1209,
     "publishedAt": "2026-10-02T22:58:15.377Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6765,7 +6765,7 @@
     "lowest30d": false,
     "vendas": 2997,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP857619285-58267095847",
@@ -6790,6 +6790,30 @@
     "vendas": 1866,
     "publishedAt": "2026-10-03T13:05:14.688Z",
     "checkedAt": "2026-10-13T02:05:13.585Z"
+  },
+  {
+    "id": "SP437927074-20099603380",
+    "productId": "SP437927074-20099603380",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM",
+    "price": 29.9,
+    "originalPrice": 61.02,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
+    "url": "https://s.shopee.com.br/9APIxFWpO1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3589,
+    "publishedAt": "2026-09-26T04:05:18.825Z",
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP898761179-58257621281",
@@ -6933,7 +6957,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -6957,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 237,
     "publishedAt": "2026-10-08T14:35:53.766Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1284769631-21099552315",
@@ -7245,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7293,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7691578692",
@@ -7317,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP769360044-21399092679",
@@ -7368,30 +7392,6 @@
     "checkedAt": "2026-10-13T01:35:14.181Z"
   },
   {
-    "id": "SP786353833-22194344661",
-    "productId": "SP786353833-22194344661",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Kit Mobilador Completo Hub Tipo C Mouse Gamer Teclado Uma Mão Mouse Pad Tripe",
-    "price": 62.99,
-    "originalPrice": 118.85,
-    "discount": 47,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mm2b41l06bk0fb",
-    "url": "https://s.shopee.com.br/2qVG6hK7MN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 305,
-    "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
     "id": "MLB3587206809",
     "productId": "MLB30455759",
     "marketplace": "ml",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": 319,
     "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7773,7 +7773,31 @@
     "lowest30d": false,
     "vendas": 1411,
     "publishedAt": "2026-10-06T03:05:12.318Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
+  },
+  {
+    "id": "SP786353833-22194344661",
+    "productId": "SP786353833-22194344661",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Kit Mobilador Completo Hub Tipo C Mouse Gamer Teclado Uma Mão Mouse Pad Tripe",
+    "price": 73.99,
+    "originalPrice": 125.41,
+    "discount": 41,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mm2b41l06bk0fb",
+    "url": "https://s.shopee.com.br/2qVG6hK7MN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 305,
+    "publishedAt": "2026-10-03T22:35:11.407Z",
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7869,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB3449639363",
@@ -7893,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7920,30 +7944,6 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
-    "id": "SP437927074-20099603380",
-    "productId": "SP437927074-20099603380",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM",
-    "price": 39.16,
-    "originalPrice": 61.19,
-    "discount": 36,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
-    "url": "https://s.shopee.com.br/9APIxFWpO1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3589,
-    "publishedAt": "2026-09-26T04:05:18.825Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
     "id": "MLB3830992651",
     "productId": "MLB27819810",
     "marketplace": "ml",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB5371669079",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T17:05:14.560Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7692795106",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7541060806",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB5720722046",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB3513753783",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB5930202958",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB4039445285",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7694090914",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7729259904",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": 887,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 764,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP627750190-58205888515",
@@ -8997,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 2007,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1449862876-58206112528",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 1320,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -9445,7 +9445,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-820le-mmdewfdqpudg69",
-    "url": "https://s.shopee.com.br/4LK1bcP5PM",
+    "url": "https://s.shopee.com.br/9pf32HKoYC",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9453,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 171,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9981,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 536,
     "publishedAt": "2026-10-06T18:05:15.574Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10038,22 +10038,22 @@
     "fonte": "shopee:q:jogo de cama",
     "categoria": "Casa e Decoração",
     "title": "Jogo C/ 4 ou 2 Travesseiro Pluma de Ganso Confortavel e Macio Antiacaro 50x70cm",
-    "price": 30.9,
-    "originalPrice": 90.88,
+    "price": 30.99,
+    "originalPrice": 91.15,
     "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjve1j1ueww5a",
-    "url": "https://s.shopee.com.br/AUuincPTcb",
+    "url": "https://s.shopee.com.br/2LZ24Pmg8G",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 11653,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -10077,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 460,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -10224,30 +10224,6 @@
     "checkedAt": "2026-10-13T01:35:14.181Z"
   },
   {
-    "id": "SP1459307687-40624794433",
-    "productId": "SP1459307687-40624794433",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
-    "price": 50.99,
-    "originalPrice": 149.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
-    "url": "https://s.shopee.com.br/60SKR9Ymwg",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3456,
-    "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-13T04:05:13.221Z"
-  },
-  {
     "id": "SP1187975388-20899215101",
     "productId": "SP1187975388-20899215101",
     "marketplace": "shopee",
@@ -10317,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 899,
     "publishedAt": "2026-09-25T15:05:17.364Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10365,7 +10341,31 @@
     "lowest30d": true,
     "vendas": 1423,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
+  },
+  {
+    "id": "SP320028154-13656043688",
+    "productId": "SP320028154-13656043688",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Creme Capa para Macbook Neo A3404 Air M5 M4 M3 A3240 A3113 Pro14 M5 proteção 2020 Air Pro M1 com cobertura de teclado",
+    "price": 69.5,
+    "originalPrice": 198.57,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mr2onc0dy6110e",
+    "url": "https://s.shopee.com.br/905sr6fo4j",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 163,
+    "publishedAt": "2026-09-24T13:05:17.787Z",
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -10389,7 +10389,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -10872,6 +10872,30 @@
     "checkedAt": "2026-10-13T01:35:14.181Z"
   },
   {
+    "id": "SP1727133145-45813823049",
+    "productId": "SP1727133145-45813823049",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
+    "price": 38.99,
+    "originalPrice": 105.38,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
+    "url": "https://s.shopee.com.br/7ptwSf9qd5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 219,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-13T04:05:13.221Z"
+  },
+  {
     "id": "SP1768799994-22099613752",
     "productId": "SP1768799994-22099613752",
     "marketplace": "shopee",
@@ -11301,31 +11325,7 @@
     "lowest30d": true,
     "vendas": 257,
     "publishedAt": "2026-09-28T13:47:18.833Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
-    "id": "SP457864097-25338080323",
-    "productId": "SP457864097-25338080323",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-    "price": 54.45,
-    "originalPrice": 143.29,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
-    "url": "https://s.shopee.com.br/80DLZ6oOro",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5212,
-    "publishedAt": "2026-09-23T17:05:17.797Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1384111782-23093553774",
@@ -11446,30 +11446,6 @@
     "vendas": 181,
     "publishedAt": "2026-09-24T15:35:16.598Z",
     "checkedAt": "2026-10-13T01:37:15.822Z"
-  },
-  {
-    "id": "SP320028154-13656043688",
-    "productId": "SP320028154-13656043688",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Creme Capa para Macbook Neo A3404 Air M5 M4 M3 A3240 A3113 Pro14 M5 proteção 2020 Air Pro M1 com cobertura de teclado",
-    "price": 75,
-    "originalPrice": 197.37,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mr2onc0dy6110e",
-    "url": "https://s.shopee.com.br/905sr6fo4j",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 163,
-    "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -11613,7 +11589,7 @@
     "lowest30d": false,
     "vendas": 3797,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -11685,7 +11661,7 @@
     "lowest30d": true,
     "vendas": 634,
     "publishedAt": "2026-10-03T13:20:48.286Z",
-    "checkedAt": "2026-10-13T01:05:15.982Z"
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   },
   {
     "id": "SP1443015555-24140416368",
@@ -11998,5 +11974,29 @@
     "vendas": 2417,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-13T01:37:15.822Z"
+  },
+  {
+    "id": "SP457864097-25338080323",
+    "productId": "SP457864097-25338080323",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
+    "price": 55,
+    "originalPrice": 130.95,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
+    "url": "https://s.shopee.com.br/80DLZ6oOro",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5212,
+    "publishedAt": "2026-09-23T17:05:17.797Z",
+    "checkedAt": "2026-10-13T04:35:12.320Z"
   }
 ]
