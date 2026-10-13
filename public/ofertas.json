@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -69,7 +69,7 @@
     "lowest30d": true,
     "vendas": 6873,
     "publishedAt": "2026-10-09T10:05:15.429Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -189,7 +189,7 @@
     "lowest30d": false,
     "vendas": 1788,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -277,7 +277,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfjark11y4kef",
-    "url": "https://s.shopee.com.br/4qGI8B4j15",
+    "url": "https://s.shopee.com.br/60SKP8wkM9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 1109,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -453,7 +453,7 @@
     "lowest30d": false,
     "vendas": 5105,
     "publishedAt": "2026-10-12T18:05:13.720Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1297519240-43765372374",
@@ -477,7 +477,7 @@
     "lowest30d": false,
     "vendas": 300,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -909,7 +909,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -933,7 +933,7 @@
     "lowest30d": true,
     "vendas": 497,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -957,7 +957,7 @@
     "lowest30d": true,
     "vendas": 2432,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1716664673-46455634006",
@@ -1320,6 +1320,30 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
+    "id": "SP972053936-23998448883",
+    "productId": "SP972053936-23998448883",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
+    "price": 29.99,
+    "originalPrice": 90.88,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
+    "url": "https://s.shopee.com.br/2LYz76bIdf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 756,
+    "publishedAt": "2026-10-03T17:05:15.960Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
     "id": "SP1727047778-53064833713",
     "productId": "SP1727047778-53064833713",
     "marketplace": "shopee",
@@ -1677,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 154,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -1686,8 +1710,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "INOVA Caixa De Som Bluetooth 8W TWS Caixinha Portátil IPX6 Som Estéreo Graves Intensos Sem Fio Wireless Cartão SD FM",
-    "price": 79.98,
-    "originalPrice": 228.51,
+    "price": 79.99,
+    "originalPrice": 228.54,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -1698,10 +1722,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 279,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1509457264-28786778744",
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 169,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T00:35:12.710Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -1776,30 +1800,6 @@
     "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
-    "id": "SP340113364-23393879708",
-    "productId": "SP340113364-23393879708",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Carrinho De Controle Remoto Drift Nissan GTR Ferrari Recarregável Tração 4x4 Brinquedo Presente",
-    "price": 66.99,
-    "originalPrice": 191.4,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8awwwnte49de5",
-    "url": "https://s.shopee.com.br/4LK1bcKY7b",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 458,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
     "id": "SP1855468372-58265041953",
     "productId": "SP1855468372-58265041953",
     "marketplace": "shopee",
@@ -1821,7 +1821,7 @@
     "lowest30d": true,
     "vendas": 1235,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1192668514-44902618171",
@@ -1830,8 +1830,8 @@
     "fonte": "shopee:q:protetor solar",
     "categoria": "Beleza",
     "title": "Stick Hidratante Multifuncional White FPS 50 ou 80 (12g) | Stick Base Color Adapt Multifuncional FPS 50 e 80 (12g) Chams",
-    "price": 34.3,
-    "originalPrice": 98,
+    "price": 34.29,
+    "originalPrice": 97.97,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -1845,7 +1845,7 @@
     "lowest30d": true,
     "vendas": 419,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -2022,8 +2022,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Luminária LED Sem Fio Touch Recarregável 3 Cores de Luz Moderna Minimalista Mesa",
-    "price": 41.98,
-    "originalPrice": 119.94,
+    "price": 42,
+    "originalPrice": 120,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2034,10 +2034,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 273,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP526596865-18297624910",
@@ -2070,8 +2070,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 35.89,
-    "originalPrice": 102.54,
+    "price": 35.88,
+    "originalPrice": 102.51,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2082,10 +2082,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1048,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2373,7 +2373,7 @@
     "lowest30d": true,
     "vendas": 840,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -2710,30 +2710,6 @@
     "vendas": 666,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-13T00:35:12.710Z"
-  },
-  {
-    "id": "SP790605924-45602042438",
-    "productId": "SP790605924-45602042438",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Bebê Boneca Reborn Realista Fofinha Corpinho Siliconado Pode Dar Banho",
-    "price": 81.9,
-    "originalPrice": 221.35,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg79hu8u4uea3",
-    "url": "https://s.shopee.com.br/1qciiSr2yB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1071,
-    "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -3141,7 +3117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3408,6 +3384,30 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
+    "id": "SP1841870093-55315796592",
+    "productId": "SP1841870093-55315796592",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
+    "price": 30,
+    "originalPrice": 76.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
+    "url": "https://s.shopee.com.br/20w9786dWu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1619,
+    "publishedAt": "2026-10-13T03:05:13.504Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "SP1813143307-58263625920",
     "productId": "SP1813143307-58263625920",
     "marketplace": "shopee",
@@ -3477,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 890,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -3525,7 +3525,7 @@
     "lowest30d": false,
     "vendas": 240,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1636494323-23799143609",
@@ -3576,6 +3576,30 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
+    "id": "SP340113364-23393879708",
+    "productId": "SP340113364-23393879708",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Carrinho De Controle Remoto Drift Nissan GTR Ferrari Recarregável Tração 4x4 Brinquedo Presente",
+    "price": 74.98,
+    "originalPrice": 192.26,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8awwwnte49de5",
+    "url": "https://s.shopee.com.br/9zyTAUlqia",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 458,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
     "id": "SP1544990534-22199186040",
     "productId": "SP1544990534-22199186040",
     "marketplace": "shopee",
@@ -3598,30 +3622,6 @@
     "vendas": 478,
     "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-13T02:05:13.585Z"
-  },
-  {
-    "id": "SP972053936-23998448883",
-    "productId": "SP972053936-23998448883",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Kit Camisetas Infantil Regatas Bebê Menino Menina Verão Básicas Algodão Variadas 3/5/7 peças",
-    "price": 34.99,
-    "originalPrice": 89.72,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k6xe7crwvt0b",
-    "url": "https://s.shopee.com.br/2LYz76bIdf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 756,
-    "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -3864,54 +3864,6 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
-    "id": "SP1443015555-24140416368",
-    "productId": "SP1443015555-24140416368",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
-    "price": 45.99,
-    "originalPrice": 117.92,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
-    "url": "https://s.shopee.com.br/80DMaw8wGO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 250,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
-    "id": "SP493201475-21799026815",
-    "productId": "SP493201475-21799026815",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "T900 Ultra Smartwatch S9 Ultra Relógio Inteligente 49mm Estoque em São Paulo disponível para pronta entrega",
-    "price": 59,
-    "originalPrice": 151.28,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmx6i14ebce4dc",
-    "url": "https://s.shopee.com.br/80DMG9NnTr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 368,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
     "id": "SP1573953914-58208026725",
     "productId": "SP1573953914-58208026725",
     "marketplace": "shopee",
@@ -4101,7 +4053,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4872,6 +4824,30 @@
     "checkedAt": "2026-10-13T01:35:14.181Z"
   },
   {
+    "id": "SP790605924-45602042438",
+    "productId": "SP790605924-45602042438",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Bebê Boneca Reborn Realista Fofinha Corpinho Siliconado Pode Dar Banho",
+    "price": 91.9,
+    "originalPrice": 218.81,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg79hu8u4uea3",
+    "url": "https://s.shopee.com.br/1qciiSr2yB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1071,
+    "publishedAt": "2026-10-09T12:35:13.789Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
     "id": "SP1581839156-50912826462",
     "productId": "SP1581839156-50912826462",
     "marketplace": "shopee",
@@ -5397,7 +5373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T15:35:16.355Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5469,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 1768,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -6333,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6502,6 +6478,30 @@
     "vendas": 1720,
     "publishedAt": "2026-10-03T13:05:14.688Z",
     "checkedAt": "2026-10-13T00:35:12.710Z"
+  },
+  {
+    "id": "SP1547311235-23598845230",
+    "productId": "SP1547311235-23598845230",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
+    "price": 95,
+    "originalPrice": 202.13,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
+    "url": "https://s.shopee.com.br/6q1OiI2xmX",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1307,
+    "publishedAt": "2026-10-03T12:35:13.942Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -6861,7 +6861,31 @@
     "lowest30d": false,
     "vendas": 210,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
+    "id": "SP1441157744-40815571485",
+    "productId": "SP1441157744-40815571485",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "CRONOGRAMA CAPILAR 5 EM 1 TEIA PASSO ÚNICO - H.N.R.R.P - FINA MARIA",
+    "price": 39.9,
+    "originalPrice": 79.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
+    "url": "https://s.shopee.com.br/AAHtIcJqVj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2402,
+    "publishedAt": "2026-10-13T03:05:13.504Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -6909,7 +6933,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7221,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7269,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7691578692",
@@ -7293,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP769360044-21399092679",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7437,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7653,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7701,7 +7725,7 @@
     "lowest30d": false,
     "vendas": 1058,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7750,30 +7774,6 @@
     "vendas": 1411,
     "publishedAt": "2026-10-06T03:05:12.318Z",
     "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
-    "id": "SP1547311235-23598845230",
-    "productId": "SP1547311235-23598845230",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Mini Máquina de Lavar Roupas 11 llitro 110V/220V Centrifuga Dobrável Portátil Moderna Para Roupas",
-    "price": 120.99,
-    "originalPrice": 208.6,
-    "discount": 42,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mm6mqosq2fba0e",
-    "url": "https://s.shopee.com.br/6q1OiI2xmX",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1307,
-    "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB3449639363",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T17:05:14.560Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7692795106",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7541060806",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": 1639,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8229,7 +8229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB5720722046",
@@ -8239,11 +8239,11 @@
     "categoria": "Mercado",
     "title": "Azeite de Oliva Extra Virgem Vidro Andorinha 500ml",
     "price": 33.9,
-    "originalPrice": 47.42,
-    "discount": 29,
+    "originalPrice": 47,
+    "discount": 28,
     "base": "media",
-    "averagePrice": 47.42,
-    "sellers": 47,
+    "averagePrice": 47,
+    "sellers": 46,
     "image": "https://http2.mlstatic.com/D_NQ_NP_764609-MLA111510472711_052026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5720722046?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -8253,31 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
-  },
-  {
-    "id": "MLB5930202958",
-    "productId": "MLB61700105",
-    "marketplace": "ml",
-    "fonte": "MLB432988",
-    "categoria": "Brinquedos",
-    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
-    "price": 94.21,
-    "originalPrice": 129.99,
-    "discount": 28,
-    "base": "media",
-    "averagePrice": 129.99,
-    "sellers": 50,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB3513753783",
@@ -8301,7 +8277,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
+    "id": "MLB5930202958",
+    "productId": "MLB61700105",
+    "marketplace": "ml",
+    "fonte": "MLB432988",
+    "categoria": "Brinquedos",
+    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
+    "price": 94.5,
+    "originalPrice": 129.99,
+    "discount": 27,
+    "base": "media",
+    "averagePrice": 129.99,
+    "sellers": 50,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T18:35:15.594Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB4039445285",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7694090914",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7729259904",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB7404895054",
@@ -8383,11 +8383,11 @@
     "categoria": "Eletrodomésticos",
     "title": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
     "price": 303.65,
-    "originalPrice": 338,
-    "discount": 10,
+    "originalPrice": 340,
+    "discount": 11,
     "base": "media",
-    "averagePrice": 338,
-    "sellers": 11,
+    "averagePrice": 340,
+    "sellers": 10,
     "image": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7404895054?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1131,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8925,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1395,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8949,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 860,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 9822,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9189,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 2251,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9237,7 +9237,7 @@
     "lowest30d": true,
     "vendas": 2292,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9261,7 +9261,7 @@
     "lowest30d": false,
     "vendas": 6990,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -9414,8 +9414,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-    "price": 69.99,
-    "originalPrice": 212.09,
+    "price": 67.99,
+    "originalPrice": 206.03,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9426,10 +9426,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1278,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9549,7 +9549,7 @@
     "lowest30d": true,
     "vendas": 333,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9573,7 +9573,7 @@
     "lowest30d": true,
     "vendas": 790,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9597,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 609,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9621,7 +9621,7 @@
     "lowest30d": true,
     "vendas": 1616,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 1305,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9669,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 277,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9693,7 +9693,7 @@
     "lowest30d": false,
     "vendas": 672,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9717,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 331,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9765,7 +9765,7 @@
     "lowest30d": false,
     "vendas": 501,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9789,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 1366,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -9813,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 1764,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9861,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 3646,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -10125,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 163,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10149,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 1475,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10173,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 4464,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 4748,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10413,7 +10413,7 @@
     "lowest30d": true,
     "vendas": 2849,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10437,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 876,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10461,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 3172,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10485,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 939,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10509,7 +10509,7 @@
     "lowest30d": false,
     "vendas": 3472,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10557,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 21113,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10797,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11205,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 204,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:35:12.196Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11664,6 +11664,54 @@
     "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
+    "id": "SP1443015555-24140416368",
+    "productId": "SP1443015555-24140416368",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
+    "price": 45.99,
+    "originalPrice": 117.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
+    "url": "https://s.shopee.com.br/80DMaw8wGO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 250,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
+    "id": "SP493201475-21799026815",
+    "productId": "SP493201475-21799026815",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "T900 Ultra Smartwatch S9 Ultra Relógio Inteligente 49mm Estoque em São Paulo disponível para pronta entrega",
+    "price": 59,
+    "originalPrice": 151.28,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmx6i14ebce4dc",
+    "url": "https://s.shopee.com.br/80DMG9NnTr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 368,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-13T03:35:12.196Z"
+  },
+  {
     "id": "SP371439155-23392591433",
     "productId": "SP371439155-23392591433",
     "marketplace": "shopee",
@@ -11928,30 +11976,6 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
-    "id": "SP1841870093-55315796592",
-    "productId": "SP1841870093-55315796592",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
-    "price": 30,
-    "originalPrice": 76.92,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
-    "url": "https://s.shopee.com.br/20w9786dWu",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1619,
-    "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
-  },
-  {
     "id": "SP1599568140-22099231871",
     "productId": "SP1599568140-22099231871",
     "marketplace": "shopee",
@@ -11974,29 +11998,5 @@
     "vendas": 1109,
     "publishedAt": "2026-09-24T01:05:16.139Z",
     "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
-    "id": "SP1441157744-40815571485",
-    "productId": "SP1441157744-40815571485",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "CRONOGRAMA CAPILAR 5 EM 1 TEIA PASSO ÚNICO - H.N.R.R.P - FINA MARIA",
-    "price": 39.9,
-    "originalPrice": 79.8,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
-    "url": "https://s.shopee.com.br/AAHtIcJqVj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2402,
-    "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-13T03:05:13.504Z"
   }
 ]
