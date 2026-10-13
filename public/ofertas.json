@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -381,7 +381,7 @@
     "lowest30d": false,
     "vendas": 491,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -405,7 +405,7 @@
     "lowest30d": true,
     "vendas": 216,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -573,7 +573,7 @@
     "lowest30d": true,
     "vendas": 635,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -741,7 +741,7 @@
     "lowest30d": false,
     "vendas": 363,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": 301,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1028459403-19099850967",
@@ -885,31 +885,7 @@
     "lowest30d": false,
     "vendas": 549,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
-    "id": "SP1118395504-47513118746",
-    "productId": "SP1118395504-47513118746",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
-    "price": 128.99,
-    "originalPrice": 403.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
-    "url": "https://s.shopee.com.br/60SGaMvo4j",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 403,
-    "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1488,30 +1464,6 @@
     "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
-    "id": "MLB4690740873",
-    "productId": "MLB56690567",
-    "marketplace": "ml",
-    "fonte": "MLB1292",
-    "categoria": "Esportes",
-    "title": "Bomba De Ar De Mão Pneu Car Air Pump Sem Fio 150 Psi Luz De Emergência Led Com Bateria Recarregável De 4000 Mah Verunto",
-    "price": 54.15,
-    "originalPrice": 157.98,
-    "discount": 66,
-    "base": "media",
-    "averagePrice": 157.98,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_695590-MLA110946316826_052026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4690740873?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "LRAAD",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-10T02:05:15.793Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -1534,6 +1486,30 @@
     "vendas": 4714,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-13T02:35:16.477Z"
+  },
+  {
+    "id": "SP1118395504-47513118746",
+    "productId": "SP1118395504-47513118746",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
+    "price": 135,
+    "originalPrice": 397.06,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
+    "url": "https://s.shopee.com.br/60SGaMvo4j",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 403,
+    "publishedAt": "2026-10-05T22:05:16.407Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1605,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 1888,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1629,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 1769,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -1653,7 +1629,7 @@
     "lowest30d": false,
     "vendas": 2551,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1593984429-58206240257",
@@ -1677,7 +1653,7 @@
     "lowest30d": true,
     "vendas": 116,
     "publishedAt": "2026-09-28T18:35:16.890Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -1728,30 +1704,6 @@
     "checkedAt": "2026-10-13T00:35:12.710Z"
   },
   {
-    "id": "SP1224363395-58251614514",
-    "productId": "SP1224363395-58251614514",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
-    "price": 32.68,
-    "originalPrice": 93.37,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
-    "url": "https://s.shopee.com.br/2VsP0zE4dK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1510,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
     "id": "SP1509457264-28786778744",
     "productId": "SP1509457264-28786778744",
     "marketplace": "shopee",
@@ -1789,7 +1741,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mu2179tvc4cib1",
-    "url": "https://s.shopee.com.br/8pmTBZI2Q3",
+    "url": "https://s.shopee.com.br/9APM6mNeXd",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1797,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 1436,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -2397,7 +2349,7 @@
     "lowest30d": false,
     "vendas": 215,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2638,6 +2590,30 @@
     "vendas": 1044,
     "publishedAt": "2026-09-27T19:05:14.084Z",
     "checkedAt": "2026-10-13T01:05:15.982Z"
+  },
+  {
+    "id": "SP1224363395-58251614514",
+    "productId": "SP1224363395-58251614514",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
+    "price": 34.5,
+    "originalPrice": 93.24,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
+    "url": "https://s.shopee.com.br/2VsP0zE4dK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1510,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -3144,6 +3120,30 @@
     "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
+    "id": "MLB4690740873",
+    "productId": "MLB56690567",
+    "marketplace": "ml",
+    "fonte": "MLB1292",
+    "categoria": "Esportes",
+    "title": "Bomba De Ar De Mão Pneu Car Air Pump Sem Fio 150 Psi Luz De Emergência Led Com Bateria Recarregável De 4000 Mah Verunto",
+    "price": 60.39,
+    "originalPrice": 157.98,
+    "discount": 62,
+    "base": "media",
+    "averagePrice": 157.98,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_695590-MLA110946316826_052026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4690740873?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "LRAAD",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-10T02:05:15.793Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "SP325090428-15388555390",
     "productId": "SP325090428-15388555390",
     "marketplace": "shopee",
@@ -3189,7 +3189,7 @@
     "lowest30d": false,
     "vendas": 3425,
     "publishedAt": "2026-10-08T10:05:15.636Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3864,14 +3864,62 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
+    "id": "SP1443015555-24140416368",
+    "productId": "SP1443015555-24140416368",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
+    "price": 45.99,
+    "originalPrice": 117.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
+    "url": "https://s.shopee.com.br/80DMaw8wGO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 250,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-13T00:05:12.967Z"
+  },
+  {
+    "id": "SP493201475-21799026815",
+    "productId": "SP493201475-21799026815",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "T900 Ultra Smartwatch S9 Ultra Relógio Inteligente 49mm Estoque em São Paulo disponível para pronta entrega",
+    "price": 59,
+    "originalPrice": 151.28,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmx6i14ebce4dc",
+    "url": "https://s.shopee.com.br/80DMG9NnTr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 368,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-13T00:05:12.967Z"
+  },
+  {
     "id": "SP1573953914-58208026725",
     "productId": "SP1573953914-58208026725",
     "marketplace": "shopee",
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "INOVA FreeClip Fone de Ouvido Bluetooth Sem Fio Design em C Digital de Bateria Chamadas Nítida",
-    "price": 79.99,
-    "originalPrice": 199.97,
+    "price": 79.98,
+    "originalPrice": 199.95,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -3885,7 +3933,31 @@
     "lowest30d": false,
     "vendas": 1426,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "SP279868721-41253171051",
+    "productId": "SP279868721-41253171051",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+    "price": 91.99,
+    "originalPrice": 229.97,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+    "url": "https://s.shopee.com.br/5VW07Wov8u",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 609,
+    "publishedAt": "2026-10-10T20:05:13.601Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1468415010-22694682919",
@@ -4029,7 +4101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4776,30 +4848,6 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
-    "id": "SP279868721-41253171051",
-    "productId": "SP279868721-41253171051",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
-    "price": 97.99,
-    "originalPrice": 233.31,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
-    "url": "https://s.shopee.com.br/5VW07Wov8u",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 609,
-    "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
-  },
-  {
     "id": "SP1484279813-23199200478",
     "productId": "SP1484279813-23199200478",
     "marketplace": "shopee",
@@ -5349,7 +5397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T15:35:16.355Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5469,7 +5517,7 @@
     "lowest30d": true,
     "vendas": 129,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP998773037-58260622031",
@@ -5517,7 +5565,7 @@
     "lowest30d": true,
     "vendas": 840,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5541,7 +5589,7 @@
     "lowest30d": false,
     "vendas": 503,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -5565,7 +5613,7 @@
     "lowest30d": true,
     "vendas": 1357,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -5757,7 +5805,7 @@
     "lowest30d": true,
     "vendas": 473,
     "publishedAt": "2026-09-29T18:05:17.050Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -5853,7 +5901,7 @@
     "lowest30d": true,
     "vendas": 237,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -5901,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 1354,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -5925,7 +5973,7 @@
     "lowest30d": true,
     "vendas": 1174,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -5973,7 +6021,7 @@
     "lowest30d": true,
     "vendas": 169,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1665287075-58254858029",
@@ -6048,30 +6096,6 @@
     "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
-    "id": "MLB7627073664",
-    "productId": "MLB74222754",
-    "marketplace": "ml",
-    "fonte": "MLB1831",
-    "categoria": "Brinquedos",
-    "title": "120 figurinhas Kit De Atualização Fifa World Cup 2026 Panini",
-    "price": 55.13,
-    "originalPrice": 120,
-    "discount": 54,
-    "base": "media",
-    "averagePrice": 120,
-    "sellers": 30,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_889203-MLA114244698799_072026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7627073664?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
     "id": "SP1083951020-22092880647",
     "productId": "SP1083951020-22092880647",
     "marketplace": "shopee",
@@ -6093,7 +6117,7 @@
     "lowest30d": false,
     "vendas": 2588,
     "publishedAt": "2026-10-06T13:05:14.473Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6295,10 +6319,10 @@
     "categoria": "Moda e Calçados",
     "title": "Mochila Dos Homens Com Faixa Impermeável Para Expansão Preto Liso",
     "price": 89.99,
-    "originalPrice": 193.55,
+    "originalPrice": 193.64,
     "discount": 54,
     "base": "media",
-    "averagePrice": 193.55,
+    "averagePrice": 193.64,
     "sellers": 5,
     "image": "https://http2.mlstatic.com/D_NQ_NP_726180-MLA111879091980_062026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4863689399?matt_word=promoninja&matt_tool=19839069",
@@ -6309,7 +6333,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6429,7 +6453,7 @@
     "lowest30d": false,
     "vendas": 3300,
     "publishedAt": "2026-10-07T12:05:16.386Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6453,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 513,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1125543872-22194698355",
@@ -6573,7 +6597,7 @@
     "lowest30d": true,
     "vendas": 475,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -6597,7 +6621,7 @@
     "lowest30d": false,
     "vendas": 133,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -6621,7 +6645,7 @@
     "lowest30d": false,
     "vendas": 176,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP359168917-44351550997",
@@ -6645,7 +6669,7 @@
     "lowest30d": true,
     "vendas": 111,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP376576138-22293577075",
@@ -6669,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 1302,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP646978651-23498090481",
@@ -6768,6 +6792,30 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
+    "id": "SP898761179-58257621281",
+    "productId": "SP898761179-58257621281",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
+    "price": 1639,
+    "originalPrice": 3344.9,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
+    "url": "https://s.shopee.com.br/2gBpDNxxCQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 997,
+    "publishedAt": "2026-10-04T12:35:13.324Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "SP1468415010-22094228144",
     "productId": "SP1468415010-22094228144",
     "marketplace": "shopee",
@@ -6861,7 +6909,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -6957,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 5967,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP753981666-58208125768",
@@ -7029,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 2330,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -7053,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 2762,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -7152,28 +7200,28 @@
     "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
-    "id": "SP898761179-58257621281",
-    "productId": "SP898761179-58257621281",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-    "price": 1759,
-    "originalPrice": 3382.69,
+    "id": "MLB6938947454",
+    "productId": "MLB24544782",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
+    "price": 54.9,
+    "originalPrice": 106.47,
     "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
-    "url": "https://s.shopee.com.br/2gBpDNxxCQ",
+    "base": "media",
+    "averagePrice": 106.47,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
+    "lojaOficial": true,
+    "loja": "ASSAI_OFICIAL",
     "lowest30d": false,
-    "vendas": 997,
-    "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "vendas": null,
+    "publishedAt": "2026-10-05T15:35:18.528Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7200,6 +7248,30 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
+    "id": "MLB2974151655",
+    "productId": "MLB19850243",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
+    "price": 33.1,
+    "originalPrice": 63.29,
+    "discount": 48,
+    "base": "media",
+    "averagePrice": 63.29,
+    "sellers": 31,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "VOBELLA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-30T18:35:12.749Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "MLB7691578692",
     "productId": "MLB22345002",
     "marketplace": "ml",
@@ -7221,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP769360044-21399092679",
@@ -7317,7 +7389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7365,7 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7440,30 +7512,6 @@
     "checkedAt": "2026-10-13T00:35:12.710Z"
   },
   {
-    "id": "MLB2974151655",
-    "productId": "MLB19850243",
-    "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
-    "price": 33.1,
-    "originalPrice": 61.3,
-    "discount": 46,
-    "base": "media",
-    "averagePrice": 61.3,
-    "sellers": 31,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "VOBELLA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
     "id": "SP411289902-41710503566",
     "productId": "SP411289902-41710503566",
     "marketplace": "shopee",
@@ -7486,30 +7534,6 @@
     "vendas": 319,
     "publishedAt": "2026-09-29T19:35:26.518Z",
     "checkedAt": "2026-10-13T01:05:15.982Z"
-  },
-  {
-    "id": "MLB6938947454",
-    "productId": "MLB24544782",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 54.9,
-    "originalPrice": 99.44,
-    "discount": 45,
-    "base": "media",
-    "averagePrice": 99.44,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ASSAI_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7581,7 +7605,7 @@
     "lowest30d": true,
     "vendas": 7689,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1010063584-22893349226",
@@ -7590,8 +7614,8 @@
     "fonte": "shopee:q:skincare",
     "categoria": "Beleza",
     "title": "Kit Skincare Vitamina C Clareador e Anti-idade - Dermachem",
-    "price": 48.3,
-    "originalPrice": 86.25,
+    "price": 54.9,
+    "originalPrice": 98.04,
     "discount": 44,
     "base": "vendedor",
     "averagePrice": null,
@@ -7602,10 +7626,34 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 873,
     "publishedAt": "2026-10-03T22:59:48.754Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "MLB7384626428",
+    "productId": "MLB69331466",
+    "marketplace": "ml",
+    "fonte": "MLB264337",
+    "categoria": "Brinquedos",
+    "title": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
+    "price": 749.99,
+    "originalPrice": 1290.45,
+    "discount": 42,
+    "base": "media",
+    "averagePrice": 1290.45,
+    "sellers": 37,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7384626428?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-10T20:35:19.063Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7752,30 +7800,6 @@
     "checkedAt": "2026-10-13T02:05:13.585Z"
   },
   {
-    "id": "SP1339888238-21198268414",
-    "productId": "SP1339888238-21198268414",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
-    "price": 149.99,
-    "originalPrice": 249.98,
-    "discount": 40,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
-    "url": "https://s.shopee.com.br/6L57a0rDmc",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2192,
-    "publishedAt": "2026-10-10T05:35:12.821Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
-  },
-  {
     "id": "SP451291172-22195190910",
     "productId": "SP451291172-22195190910",
     "marketplace": "shopee",
@@ -7821,55 +7845,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
-    "id": "MLB7384626428",
-    "productId": "MLB69331466",
+    "id": "MLB3449639363",
+    "productId": "MLB27078952",
     "marketplace": "ml",
-    "fonte": "MLB264337",
-    "categoria": "Brinquedos",
-    "title": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
-    "price": 749.99,
-    "originalPrice": 1204.8,
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Refil Tripla Filtragem Girou Trocou C+3 Ibbl",
+    "price": 40.99,
+    "originalPrice": 66.43,
     "discount": 38,
     "base": "media",
-    "averagePrice": 1204.8,
-    "sellers": 37,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7384626428?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
+    "averagePrice": 66.43,
+    "sellers": 42,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_743282-MLA110432538745_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3449639363?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
     "oficial": false,
     "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
+    "loja": "GOTAGUA",
     "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
-    "id": "MLB5930202958",
-    "productId": "MLB61700105",
-    "marketplace": "ml",
-    "fonte": "MLB432988",
-    "categoria": "Brinquedos",
-    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
-    "price": 79.9,
-    "originalPrice": 129.9,
-    "discount": 38,
-    "base": "media",
-    "averagePrice": 129.9,
-    "sellers": 50,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "publishedAt": "2026-10-08T15:05:20.165Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7894,30 +7894,6 @@
     "vendas": 4611,
     "publishedAt": "2026-10-10T12:05:14.809Z",
     "checkedAt": "2026-10-13T02:05:13.585Z"
-  },
-  {
-    "id": "MLB3449639363",
-    "productId": "MLB27078952",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Refil Tripla Filtragem Girou Trocou C+3 Ibbl",
-    "price": 40.99,
-    "originalPrice": 65,
-    "discount": 37,
-    "base": "media",
-    "averagePrice": 65,
-    "sellers": 42,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_743282-MLA110432538745_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3449639363?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "GOTAGUA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
     "id": "SP437927074-20099603380",
@@ -7951,10 +7927,10 @@
     "categoria": "Eletrônicos",
     "title": "Carregador De Pilhas Recarregáveis Duracell Aa/aaa Com 4 Aa",
     "price": 159.9,
-    "originalPrice": 249,
+    "originalPrice": 249.5,
     "discount": 36,
     "base": "media",
-    "averagePrice": 249,
+    "averagePrice": 249.5,
     "sellers": 29,
     "image": "https://http2.mlstatic.com/D_NQ_NP_912720-MLA99529602056_122025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3830992651?matt_word=promoninja&matt_tool=19839069",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7992,30 +7968,6 @@
     "checkedAt": "2026-10-13T00:35:12.710Z"
   },
   {
-    "id": "MLB5776728534",
-    "productId": "MLB59019868",
-    "marketplace": "ml",
-    "fonte": "MLB454379",
-    "categoria": "Informática",
-    "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível com Notebook, PC, Windows e Mac - Apfer",
-    "price": 45.9,
-    "originalPrice": 69.9,
-    "discount": 34,
-    "base": "media",
-    "averagePrice": 69.9,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5776728534?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "APFER_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-12T08:35:15.957Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
     "id": "MLB5371669079",
     "productId": "MLB63334911",
     "marketplace": "ml",
@@ -8037,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T17:05:14.560Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB7692795106",
@@ -8061,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8088,6 +8040,54 @@
     "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
+    "id": "SP1339888238-21198268414",
+    "productId": "SP1339888238-21198268414",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+    "price": 199.99,
+    "originalPrice": 298.49,
+    "discount": 33,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
+    "url": "https://s.shopee.com.br/6L57a0rDmc",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2192,
+    "publishedAt": "2026-10-10T05:35:12.821Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "MLB7627073664",
+    "productId": "MLB74222754",
+    "marketplace": "ml",
+    "fonte": "MLB1831",
+    "categoria": "Brinquedos",
+    "title": "120 figurinhas Kit De Atualização Fifa World Cup 2026 Panini",
+    "price": 79.9,
+    "originalPrice": 120,
+    "discount": 33,
+    "base": "media",
+    "averagePrice": 120,
+    "sellers": 30,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_889203-MLA114244698799_072026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7627073664?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T15:35:17.185Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "SP1388709282-22499214095",
     "productId": "SP1388709282-22499214095",
     "marketplace": "shopee",
@@ -8112,30 +8112,6 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
-    "id": "SP811879342-19899300761",
-    "productId": "SP811879342-19899300761",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Oven Britânia 12L Bella Cuccina 1500W BCFR05",
-    "price": 306.9,
-    "originalPrice": 451.32,
-    "discount": 32,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-mts8qqmnhatjbb",
-    "url": "https://s.shopee.com.br/9APLFCsaWl",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 119,
-    "publishedAt": "2026-10-12T19:35:12.996Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
-  },
-  {
     "id": "MLB7381172556",
     "productId": "MLB40981966",
     "marketplace": "ml",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB7541060806",
@@ -8181,31 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
-  },
-  {
-    "id": "MLB4039445285",
-    "productId": "MLB41517253",
-    "marketplace": "ml",
-    "fonte": "MLB439347",
-    "categoria": "Eletrodomésticos",
-    "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
-    "price": 135,
-    "originalPrice": 194.4,
-    "discount": 31,
-    "base": "media",
-    "averagePrice": 194.4,
-    "sellers": 25,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4039445285?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-09-28T20:32:28.290Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8230,30 +8182,6 @@
     "vendas": 1639,
     "publishedAt": "2026-10-12T20:05:15.606Z",
     "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
-    "id": "MLB5720722046",
-    "productId": "MLB18405804",
-    "marketplace": "ml",
-    "fonte": "MLB1423",
-    "categoria": "Mercado",
-    "title": "Azeite de Oliva Extra Virgem Vidro Andorinha 500ml",
-    "price": 33.9,
-    "originalPrice": 48.13,
-    "discount": 30,
-    "base": "media",
-    "averagePrice": 48.13,
-    "sellers": 47,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_764609-MLA111510472711_052026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5720722046?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "GPGP20240229090744",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8301,31 +8229,55 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
-    "id": "MLB7729259904",
-    "productId": "MLB67989415",
+    "id": "MLB5720722046",
+    "productId": "MLB18405804",
     "marketplace": "ml",
-    "fonte": "MLB1700",
-    "categoria": "Informática",
-    "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
-    "price": 203.06,
-    "originalPrice": 284.21,
+    "fonte": "MLB1423",
+    "categoria": "Mercado",
+    "title": "Azeite de Oliva Extra Virgem Vidro Andorinha 500ml",
+    "price": 33.9,
+    "originalPrice": 47.42,
     "discount": 29,
     "base": "media",
-    "averagePrice": 284.21,
-    "sellers": 7,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7729259904?matt_word=promoninja&matt_tool=19839069",
+    "averagePrice": 47.42,
+    "sellers": 47,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_764609-MLA111510472711_052026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5720722046?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "GPGP20240229090744",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-07T17:05:22.285Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "MLB5930202958",
+    "productId": "MLB61700105",
+    "marketplace": "ml",
+    "fonte": "MLB432988",
+    "categoria": "Brinquedos",
+    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
+    "price": 94.21,
+    "originalPrice": 129.99,
+    "discount": 28,
+    "base": "media",
+    "averagePrice": 129.99,
+    "sellers": 50,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "publishedAt": "2026-10-08T18:35:15.594Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8301,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "MLB4039445285",
+    "productId": "MLB41517253",
+    "marketplace": "ml",
+    "fonte": "MLB439347",
+    "categoria": "Eletrodomésticos",
+    "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
+    "price": 144.99,
+    "originalPrice": 194.4,
+    "discount": 25,
+    "base": "media",
+    "averagePrice": 194.4,
+    "sellers": 25,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4039445285?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-09-28T20:32:28.290Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB7694090914",
@@ -8373,7 +8349,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
+    "id": "MLB7729259904",
+    "productId": "MLB67989415",
+    "marketplace": "ml",
+    "fonte": "MLB1700",
+    "categoria": "Informática",
+    "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
+    "price": 225,
+    "originalPrice": 284.21,
+    "discount": 21,
+    "base": "media",
+    "averagePrice": 284.21,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7729259904?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-09T11:35:12.067Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB7404895054",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T18:35:13.903Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 7201,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1351679961-21798030664",
@@ -8757,7 +8757,7 @@
     "lowest30d": false,
     "vendas": 227,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -8781,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 425,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8805,7 +8805,7 @@
     "lowest30d": false,
     "vendas": 2070,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8829,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 463,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 1753,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 1884,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8885,14 +8885,14 @@
     "marketplace": "shopee",
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
-    "title": "2026 Novo Smartwatch S10 Pro Chamadas Bluetooth Calculadora Prova d'água Unissex Para Android e iOS",
+    "title": "2026 Novo Smartwatch S10 Pro Mini 38mm Chamadas Bluetooth Calculadora Prova d'água Unissex Para Android e iOS",
     "price": 43.98,
     "originalPrice": 141.87,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu4c43inw3cw61",
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu8nbdt8unt663",
     "url": "https://s.shopee.com.br/BUUvkrcNa",
     "freeShipping": false,
     "oficial": false,
@@ -8901,7 +8901,7 @@
     "lowest30d": false,
     "vendas": 601,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-13T02:35:16.477Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9141,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 2298,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -9165,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 1601,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9213,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 2476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 1202,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9894,8 +9894,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Smartwatch série original T800 Ultra 2.4 Hd 45mm grande tela Inteligente Digital Masculino Feminino",
-    "price": 49.9,
-    "originalPrice": 151.21,
+    "price": 49.8,
+    "originalPrice": 150.91,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 608,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -9957,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 498,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -9982,6 +9982,30 @@
     "vendas": 536,
     "publishedAt": "2026-10-06T18:05:15.574Z",
     "checkedAt": "2026-10-13T01:05:15.982Z"
+  },
+  {
+    "id": "SP1136572611-50362394762",
+    "productId": "SP1136572611-50362394762",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedos Escavadeira controle remoto  Brastoy Caçamba metálica 2.4g 11 funções Infantil",
+    "price": 165.99,
+    "originalPrice": 503,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
+    "url": "https://s.shopee.com.br/3LRWH21xlx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 589,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -10509,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 4135,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10797,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 3046,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10822,30 +10846,6 @@
     "vendas": 2672,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-13T01:35:14.181Z"
-  },
-  {
-    "id": "SP1136572611-50362394762",
-    "productId": "SP1136572611-50362394762",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brinquedos Escavadeira controle remoto  Brastoy Caçamba metálica 2.4g 11 funções Infantil",
-    "price": 177.99,
-    "originalPrice": 494.42,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
-    "url": "https://s.shopee.com.br/3LRWH21xlx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 589,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -11061,7 +11061,7 @@
     "lowest30d": true,
     "vendas": 362,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-12T23:35:16.723Z"
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -11664,54 +11664,6 @@
     "checkedAt": "2026-10-13T01:05:15.982Z"
   },
   {
-    "id": "SP1443015555-24140416368",
-    "productId": "SP1443015555-24140416368",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
-    "price": 45.99,
-    "originalPrice": 117.92,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
-    "url": "https://s.shopee.com.br/80DMaw8wGO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 250,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
-    "id": "SP493201475-21799026815",
-    "productId": "SP493201475-21799026815",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "T900 Ultra Smartwatch S9 Ultra Relógio Inteligente 49mm Estoque em São Paulo disponível para pronta entrega",
-    "price": 59,
-    "originalPrice": 151.28,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmx6i14ebce4dc",
-    "url": "https://s.shopee.com.br/80DMG9NnTr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 368,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T00:05:12.967Z"
-  },
-  {
     "id": "SP371439155-23392591433",
     "productId": "SP371439155-23392591433",
     "marketplace": "shopee",
@@ -11976,6 +11928,30 @@
     "checkedAt": "2026-10-13T01:37:15.822Z"
   },
   {
+    "id": "SP1841870093-55315796592",
+    "productId": "SP1841870093-55315796592",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
+    "price": 30,
+    "originalPrice": 76.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
+    "url": "https://s.shopee.com.br/20w9786dWu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1619,
+    "publishedAt": "2026-10-13T03:05:13.504Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
+  },
+  {
     "id": "SP1599568140-22099231871",
     "productId": "SP1599568140-22099231871",
     "marketplace": "shopee",
@@ -11998,5 +11974,29 @@
     "vendas": 1109,
     "publishedAt": "2026-09-24T01:05:16.139Z",
     "checkedAt": "2026-10-13T02:35:16.477Z"
+  },
+  {
+    "id": "SP1441157744-40815571485",
+    "productId": "SP1441157744-40815571485",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "CRONOGRAMA CAPILAR 5 EM 1 TEIA PASSO ÚNICO - H.N.R.R.P - FINA MARIA",
+    "price": 39.9,
+    "originalPrice": 79.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
+    "url": "https://s.shopee.com.br/AAHtIcJqVj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2402,
+    "publishedAt": "2026-10-13T03:05:13.504Z",
+    "checkedAt": "2026-10-13T03:05:13.504Z"
   }
 ]

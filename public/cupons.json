@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "ESTOQUEMELI13"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": "R$ 99",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16538",
+    "quando": "2026-10-13T03:06:56+00:00",
+    "id": "ml:ESTOQUEMELI13",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "PROMOMELI30"
     ],
     "desconto": "30% OFF",
@@ -81,34 +95,6 @@
     "origem": "avidaefeitadedesconto/16529",
     "quando": "2026-10-12T12:08:00+00:00",
     "id": "ml:PROMODEHOJE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESTOQUE1210"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 79",
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16528",
-    "quando": "2026-10-12T03:09:56+00:00",
-    "id": "ml:ESTOQUE1210",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATELOJAS11"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/16527",
-    "quando": "2026-10-12T03:05:50+00:00",
-    "id": "ml:RESGATELOJAS11",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
