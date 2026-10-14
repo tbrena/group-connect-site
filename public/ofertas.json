@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 415,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 2444,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -525,7 +525,7 @@
     "lowest30d": false,
     "vendas": 166,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1207367861-18699230754",
@@ -858,10 +858,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 675,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 176,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1149,7 +1149,7 @@
     "lowest30d": false,
     "vendas": 2117,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1173,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 2361,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 339,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1221,7 +1221,7 @@
     "lowest30d": false,
     "vendas": 1451,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -1632,30 +1632,6 @@
     "checkedAt": "2026-10-13T23:05:15.597Z"
   },
   {
-    "id": "SP1397809275-58252647017",
-    "productId": "SP1397809275-58252647017",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Câmera wifi ip sem fio giratória 360 com encaixe lampada bocal rosca ptz full HD visão noturna segurança+MICROSD 16GB",
-    "price": 67.99,
-    "originalPrice": 199.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mj1iwdvxrhtxf3",
-    "url": "https://s.shopee.com.br/1gJJmewscd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 150,
-    "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-13T23:05:15.597Z"
-  },
-  {
     "id": "SP1620616375-58252248202",
     "productId": "SP1620616375-58252248202",
     "marketplace": "shopee",
@@ -1845,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 1424,
     "publishedAt": "2026-10-10T13:35:14.395Z",
-    "checkedAt": "2026-10-13T21:05:18.619Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1509457264-28786778744",
@@ -1869,7 +1845,7 @@
     "lowest30d": false,
     "vendas": 167,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -2157,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 172,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -2256,30 +2232,6 @@
     "checkedAt": "2026-10-13T22:05:15.006Z"
   },
   {
-    "id": "SP1512108548-22898395702",
-    "productId": "SP1512108548-22898395702",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
-    "price": 229.98,
-    "originalPrice": 657.09,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f7ture5cdtfe",
-    "url": "https://s.shopee.com.br/9fLZY9vWJf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3878,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
-  },
-  {
     "id": "SP866679071-23199528877",
     "productId": "SP866679071-23199528877",
     "marketplace": "shopee",
@@ -2301,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 1068,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -2349,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 199,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2925,7 +2877,7 @@
     "lowest30d": true,
     "vendas": 2310,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -2949,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 172,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -2973,7 +2925,7 @@
     "lowest30d": true,
     "vendas": 258,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP791283306-17184102852",
@@ -2997,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 214,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP859540579-23493848787",
@@ -3021,7 +2973,7 @@
     "lowest30d": true,
     "vendas": 247,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1359974122-58205769513",
@@ -3045,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 324,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1027415014-19598793518",
@@ -3189,7 +3141,7 @@
     "lowest30d": false,
     "vendas": 278,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -3309,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 1957,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -3349,7 +3301,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mo521j71u5fl6d",
-    "url": "https://s.shopee.com.br/3qNmnotgRz",
+    "url": "https://s.shopee.com.br/1BN60nwJqu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3357,7 +3309,7 @@
     "lowest30d": true,
     "vendas": 421,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1060511679-21199846359",
@@ -3405,7 +3357,7 @@
     "lowest30d": false,
     "vendas": 1975,
     "publishedAt": "2026-10-03T03:05:13.932Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1114645438-42664270345",
@@ -3781,7 +3733,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfv9x1djogovff",
-    "url": "https://s.shopee.com.br/9Kiisx3LZ2",
+    "url": "https://s.shopee.com.br/60SLlgdqp7",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3789,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 426,
     "publishedAt": "2026-09-30T23:12:08.055Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -4093,7 +4045,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb2fclqknwj45",
-    "url": "https://s.shopee.com.br/2qVFPbLk1n",
+    "url": "https://s.shopee.com.br/3B8AMba2Hp",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4101,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 940,
     "publishedAt": "2026-10-09T13:35:12.573Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1263228446-18399259395",
@@ -4677,7 +4629,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4869,7 +4821,7 @@
     "lowest30d": false,
     "vendas": 473,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -5157,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 1497,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP392967703-16178844715",
@@ -5181,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 456,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1431327147-18299659089",
@@ -5205,7 +5157,7 @@
     "lowest30d": false,
     "vendas": 411,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP717396632-58208662452",
@@ -5229,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 516,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5469,7 +5421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T22:35:13.628Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5709,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 2650,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP720761573-58257615949",
@@ -5853,7 +5805,7 @@
     "lowest30d": true,
     "vendas": 555,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -5970,10 +5922,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 782,
     "publishedAt": "2026-10-07T13:35:16.557Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -6189,7 +6141,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -6333,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 1718,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6405,7 +6357,7 @@
     "lowest30d": false,
     "vendas": 1011,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP728370135-58264934249",
@@ -6453,7 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6526,6 +6478,30 @@
     "vendas": 596,
     "publishedAt": "2026-09-29T18:35:15.718Z",
     "checkedAt": "2026-10-13T22:35:13.628Z"
+  },
+  {
+    "id": "SP1815920431-58217669269",
+    "productId": "SP1815920431-58217669269",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Tablet Hancdon S12 Plus 12.8\" 2.5K Android 15 16GB+512GB 10000mAh 24+48MP Estoque Brasil Kit Teclado Mouse Caneta",
+    "price": 1009,
+    "originalPrice": 2146.81,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mu1rhq9p7xtte7",
+    "url": "https://s.shopee.com.br/3LRaYu4fjc",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 305,
+    "publishedAt": "2026-10-13T23:35:17.759Z",
+    "checkedAt": "2026-10-13T23:35:17.759Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6693,7 +6669,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -6885,7 +6861,7 @@
     "lowest30d": false,
     "vendas": 9910,
     "publishedAt": "2026-10-02T13:05:16.871Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -7077,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7317,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7365,31 +7341,7 @@
     "lowest30d": true,
     "vendas": 1007,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
-  },
-  {
-    "id": "MLB5581376006",
-    "productId": "MLB27373392",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Refil Para Purificador De Água CPB33AF Cinza Consul",
-    "price": 92.61,
-    "originalPrice": 175.77,
-    "discount": 47,
-    "base": "media",
-    "averagePrice": 175.77,
-    "sellers": 30,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_857501-MLA113772761103_062026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5581376006?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP230709939-45109165673",
@@ -7414,6 +7366,54 @@
     "vendas": 6662,
     "publishedAt": "2026-09-29T08:35:37.351Z",
     "checkedAt": "2026-10-13T23:35:17.759Z"
+  },
+  {
+    "id": "MLB7805823490",
+    "productId": "MLB35005734",
+    "marketplace": "ml",
+    "fonte": "MLB1072",
+    "categoria": "Pet",
+    "title": "Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos",
+    "price": 42.9,
+    "originalPrice": 78.91,
+    "discount": 46,
+    "base": "media",
+    "averagePrice": 78.91,
+    "sellers": 45,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_908706-MLA118066167113_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7805823490?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-13T23:35:17.759Z",
+    "checkedAt": "2026-10-14T00:05:15.160Z"
+  },
+  {
+    "id": "MLB5581376006",
+    "productId": "MLB27373392",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Refil Para Purificador De Água CPB33AF Cinza Consul",
+    "price": 94.77,
+    "originalPrice": 175.77,
+    "discount": 46,
+    "base": "media",
+    "averagePrice": 175.77,
+    "sellers": 30,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857501-MLA113772761103_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5581376006?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-11T04:05:14.088Z",
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1364269886-58200973653",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7773,7 +7773,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7772262436",
@@ -7917,7 +7917,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-13T21:32:32.983Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7989,31 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
-  },
-  {
-    "id": "MLB7669487968",
-    "productId": "MLB34380457",
-    "marketplace": "ml",
-    "fonte": "MLB11172",
-    "categoria": "Games",
-    "title": "Unidade De Disco Playstation 5 Slim Cor Branco",
-    "price": 549,
-    "originalPrice": 859.45,
-    "discount": 36,
-    "base": "media",
-    "averagePrice": 859.45,
-    "sellers": 37,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA100007892529_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7669487968?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7692795106",
@@ -8037,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8085,7 +8061,31 @@
     "lowest30d": false,
     "vendas": 1002,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
+  },
+  {
+    "id": "MLB6530232076",
+    "productId": "MLB67327479",
+    "marketplace": "ml",
+    "fonte": "MLB432871",
+    "categoria": "Brinquedos",
+    "title": "Kit 48 Mini Carrinhos De Fricção De Metal Com 2 Pistas Com Container Afortunado Imports",
+    "price": 73.99,
+    "originalPrice": 110,
+    "discount": 33,
+    "base": "media",
+    "averagePrice": 110,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_863475-MLA109649389153_032026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6530232076?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "DREAMLAND_",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-13T23:35:17.759Z",
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7381172556",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7627073664",
@@ -8133,6 +8133,30 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
+    "checkedAt": "2026-10-14T00:05:15.160Z"
+  },
+  {
+    "id": "SP1311097443-22698831564",
+    "productId": "SP1311097443-22698831564",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Patins Infantil 4 Rodas Com Luz De Led Com Kit Proteção ou Sem Proteção Envia Rapido",
+    "price": 161.71,
+    "originalPrice": 237.81,
+    "discount": 32,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdop3ce9kwy9d0",
+    "url": "https://s.shopee.com.br/60SLjoPFXD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1119,
+    "publishedAt": "2026-10-13T23:35:17.759Z",
     "checkedAt": "2026-10-13T23:35:17.759Z"
   },
   {
@@ -8157,7 +8181,7 @@
     "lowest30d": false,
     "vendas": 163,
     "publishedAt": "2026-10-12T22:05:13.429Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8205,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8277,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB5930202958",
@@ -8301,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB3513753783",
@@ -8311,10 +8335,10 @@
     "categoria": "Brinquedos",
     "title": "Jogo De Mesa Cara A Cara Com Aplicativo Estrela",
     "price": 81.98,
-    "originalPrice": 112.99,
+    "originalPrice": 113.05,
     "discount": 27,
     "base": "media",
-    "averagePrice": 112.99,
+    "averagePrice": 113.05,
     "sellers": 46,
     "image": "https://http2.mlstatic.com/D_NQ_NP_673919-MLA118467812771_092026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3513753783?matt_word=promoninja&matt_tool=19839069",
@@ -8325,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7694090914",
@@ -8349,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB7729259904",
@@ -8373,31 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
-  },
-  {
-    "id": "MLB7703233082",
-    "productId": "MLB78026014",
-    "marketplace": "ml",
-    "fonte": "MLB186456",
-    "categoria": "Games",
-    "title": "EA Sports FC 27 - PS4",
-    "price": 324,
-    "originalPrice": 378.95,
-    "discount": 15,
-    "base": "media",
-    "averagePrice": 378.95,
-    "sellers": 15,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_855638-MLA115157177774_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7703233082?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "PGECOMMERCE",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-13T19:05:14.606Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1231,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8677,7 +8677,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpseb9uht7gi58",
-    "url": "https://s.shopee.com.br/9pf0793Mps",
+    "url": "https://s.shopee.com.br/BUYoy4axM",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8685,7 +8685,7 @@
     "lowest30d": false,
     "vendas": 301,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -9069,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 2744,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "MLB4943866566",
@@ -9093,7 +9093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9141,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 220,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1547936322-22394291048",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 194,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9429,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 525,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -10056,6 +10056,30 @@
     "checkedAt": "2026-10-13T21:35:44.540Z"
   },
   {
+    "id": "SP1397809275-58252647017",
+    "productId": "SP1397809275-58252647017",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Câmera wifi ip sem fio giratória 360 com encaixe lampada bocal rosca ptz full HD visão noturna segurança+MICROSD 16GB",
+    "price": 67.99,
+    "originalPrice": 199.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mj1iwdvxrhtxf3",
+    "url": "https://s.shopee.com.br/1gJJmewscd",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 150,
+    "publishedAt": "2026-09-28T21:05:17.970Z",
+    "checkedAt": "2026-10-13T23:05:15.597Z"
+  },
+  {
     "id": "SP1593984429-58206240257",
     "productId": "SP1593984429-58206240257",
     "marketplace": "shopee",
@@ -10270,6 +10294,30 @@
     "vendas": 8307,
     "publishedAt": "2026-09-25T10:35:15.579Z",
     "checkedAt": "2026-10-13T23:35:17.759Z"
+  },
+  {
+    "id": "SP1512108548-22898395702",
+    "productId": "SP1512108548-22898395702",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
+    "price": 229.98,
+    "originalPrice": 657.09,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f7ture5cdtfe",
+    "url": "https://s.shopee.com.br/9fLZY9vWJf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3878,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -10797,7 +10845,7 @@
     "lowest30d": true,
     "vendas": 378,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -10989,7 +11037,7 @@
     "lowest30d": false,
     "vendas": 2567,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -11037,7 +11085,7 @@
     "lowest30d": false,
     "vendas": 3383,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -11077,7 +11125,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm6910425jicbc",
-    "url": "https://s.shopee.com.br/W7KKhhTEp",
+    "url": "https://s.shopee.com.br/5AtEm9pxXV",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11085,7 +11133,7 @@
     "lowest30d": true,
     "vendas": 1518,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -11109,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 984,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP883941882-58261389057",
@@ -11421,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 2879,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -11517,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 176,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -11565,7 +11613,7 @@
     "lowest30d": true,
     "vendas": 664,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP717396632-21599194714",
@@ -11581,7 +11629,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7ob4xz5fd95d",
-    "url": "https://s.shopee.com.br/3LRVjvQBkL",
+    "url": "https://s.shopee.com.br/5q8vZNnLw9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11589,7 +11637,7 @@
     "lowest30d": false,
     "vendas": 436,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1165606860-58262141857",
@@ -11613,7 +11661,7 @@
     "lowest30d": true,
     "vendas": 1474,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11637,7 +11685,7 @@
     "lowest30d": true,
     "vendas": 4728,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -11709,7 +11757,7 @@
     "lowest30d": true,
     "vendas": 706,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
     "id": "SP416390148-21428880481",
@@ -11893,7 +11941,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp0j7v0bherw36",
-    "url": "https://s.shopee.com.br/9zySZYVUGM",
+    "url": "https://s.shopee.com.br/6fi2Yuk6zG",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11901,102 +11949,6 @@
     "lowest30d": false,
     "vendas": 108,
     "publishedAt": "2026-09-26T03:35:16.420Z",
-    "checkedAt": "2026-10-13T20:35:12.617Z"
-  },
-  {
-    "id": "SP1815920431-58217669269",
-    "productId": "SP1815920431-58217669269",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Tablet Hancdon S12 Plus 12.8\" 2.5K Android 15 16GB+512GB 10000mAh 24+48MP Estoque Brasil Kit Teclado Mouse Caneta",
-    "price": 1009,
-    "originalPrice": 2146.81,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mu1rhq9p7xtte7",
-    "url": "https://s.shopee.com.br/3LRaYu4fjc",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 305,
-    "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
-  },
-  {
-    "id": "MLB7805823490",
-    "productId": "MLB35005734",
-    "marketplace": "ml",
-    "fonte": "MLB1072",
-    "categoria": "Pet",
-    "title": "Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos",
-    "price": 42.9,
-    "originalPrice": 78.91,
-    "discount": 46,
-    "base": "media",
-    "averagePrice": 78.91,
-    "sellers": 45,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_908706-MLA118066167113_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7805823490?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
-  },
-  {
-    "id": "MLB6530232076",
-    "productId": "MLB67327479",
-    "marketplace": "ml",
-    "fonte": "MLB432871",
-    "categoria": "Brinquedos",
-    "title": "Kit 48 Mini Carrinhos De Fricção De Metal Com 2 Pistas Com Container Afortunado Imports",
-    "price": 73.99,
-    "originalPrice": 110,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 110,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_863475-MLA109649389153_032026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6530232076?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "DREAMLAND_",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
-  },
-  {
-    "id": "SP1311097443-22698831564",
-    "productId": "SP1311097443-22698831564",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Patins Infantil 4 Rodas Com Luz De Led Com Kit Proteção ou Sem Proteção Envia Rapido",
-    "price": 161.71,
-    "originalPrice": 237.81,
-    "discount": 32,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdop3ce9kwy9d0",
-    "url": "https://s.shopee.com.br/60SLjoPFXD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1119,
-    "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-13T23:35:17.759Z"
+    "checkedAt": "2026-10-14T00:05:15.160Z"
   }
 ]
