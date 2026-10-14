@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -429,7 +429,7 @@
     "lowest30d": false,
     "vendas": 510,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -453,7 +453,7 @@
     "lowest30d": true,
     "vendas": 210,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP987393610-23098440348",
@@ -573,7 +573,7 @@
     "lowest30d": true,
     "vendas": 658,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 356,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -810,10 +810,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 354,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1028459403-19099850967",
@@ -858,10 +858,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 557,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1509,7 +1509,7 @@
     "lowest30d": true,
     "vendas": 1617,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1118395504-47513118746",
@@ -1533,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 403,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1557,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 610,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -1581,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 2248,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 1771,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-13T22:35:13.628Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -1629,6 +1629,30 @@
     "lowest30d": false,
     "vendas": 2651,
     "publishedAt": "2026-10-02T03:05:15.523Z",
+    "checkedAt": "2026-10-13T23:05:15.597Z"
+  },
+  {
+    "id": "SP1397809275-58252647017",
+    "productId": "SP1397809275-58252647017",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Câmera wifi ip sem fio giratória 360 com encaixe lampada bocal rosca ptz full HD visão noturna segurança+MICROSD 16GB",
+    "price": 67.99,
+    "originalPrice": 199.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mj1iwdvxrhtxf3",
+    "url": "https://s.shopee.com.br/1gJJmewscd",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 150,
+    "publishedAt": "2026-09-28T21:05:17.970Z",
     "checkedAt": "2026-10-13T23:05:15.597Z"
   },
   {
@@ -2136,30 +2160,6 @@
     "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
-    "id": "SP1749726596-58268032880",
-    "productId": "SP1749726596-58268032880",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Parafusadeira Furadeira de Impacto 48V Sem Fio  Baterias 3 Funções com Maleta e Acessórios Kit Completo",
-    "price": 105,
-    "originalPrice": 300,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mu2uzugkkflu1a",
-    "url": "https://s.shopee.com.br/9APJ7WmIQo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2374,
-    "publishedAt": "2026-09-29T19:35:26.518Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
-  },
-  {
     "id": "SP1028459403-58258154242",
     "productId": "SP1028459403-58258154242",
     "marketplace": "shopee",
@@ -2181,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 284,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP526596865-18297624910",
@@ -2205,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 1044,
     "publishedAt": "2026-09-29T14:35:21.998Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -2214,8 +2214,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 35.88,
-    "originalPrice": 102.51,
+    "price": 35.89,
+    "originalPrice": 102.54,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2226,10 +2226,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1040,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2301,7 +2301,7 @@
     "lowest30d": true,
     "vendas": 1756,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2493,7 +2493,7 @@
     "lowest30d": true,
     "vendas": 825,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -3573,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 881,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -3621,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 249,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1220163366-22198936338",
@@ -3669,7 +3669,7 @@
     "lowest30d": false,
     "vendas": 463,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1544990534-22199186040",
@@ -4653,7 +4653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T22:35:13.628Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 1898,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5901,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 1094,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -6429,7 +6429,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -7005,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 212,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7317,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7368,6 +7368,30 @@
     "checkedAt": "2026-10-14T00:05:15.160Z"
   },
   {
+    "id": "MLB5581376006",
+    "productId": "MLB27373392",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Refil Para Purificador De Água CPB33AF Cinza Consul",
+    "price": 92.54,
+    "originalPrice": 175.77,
+    "discount": 47,
+    "base": "media",
+    "averagePrice": 175.77,
+    "sellers": 30,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857501-MLA113772761103_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5581376006?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-11T04:05:14.088Z",
+    "checkedAt": "2026-10-14T01:35:13.678Z"
+  },
+  {
     "id": "SP230709939-45109165673",
     "productId": "SP230709939-45109165673",
     "marketplace": "shopee",
@@ -7413,31 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
-  },
-  {
-    "id": "MLB5581376006",
-    "productId": "MLB27373392",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Refil Para Purificador De Água CPB33AF Cinza Consul",
-    "price": 94.77,
-    "originalPrice": 175.77,
-    "discount": 46,
-    "base": "media",
-    "averagePrice": 175.77,
-    "sellers": 30,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_857501-MLA113772761103_062026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5581376006?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1364269886-58200973653",
@@ -7567,11 +7567,11 @@
     "categoria": "Eletrônicos",
     "title": "Kit 24 Pilhas Baterias AAA Elgin Palito Alcalina",
     "price": 33.1,
-    "originalPrice": 59.26,
+    "originalPrice": 59.47,
     "discount": 44,
     "base": "media",
-    "averagePrice": 59.26,
-    "sellers": 30,
+    "averagePrice": 59.47,
+    "sellers": 29,
     "image": "https://http2.mlstatic.com/D_NQ_NP_686038-MLA99932308667_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-2974151655?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1090,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 1424,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB3830992651",
@@ -7797,7 +7797,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB7692795106",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB7381172556",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB7627073664",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1311097443-22698831564",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": 1659,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB5930202958",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB7694090914",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB7729259904",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 1146,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8949,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 1360,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8973,7 +8973,7 @@
     "lowest30d": false,
     "vendas": 863,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 9954,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-14T01:05:12.562Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9213,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 2306,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 2176,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9285,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 6973,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9462,8 +9462,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-    "price": 67.99,
-    "originalPrice": 206.03,
+    "price": 69.99,
+    "originalPrice": 212.09,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9474,10 +9474,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1294,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1473145921-20799602480",
@@ -9597,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 305,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9621,7 +9621,7 @@
     "lowest30d": true,
     "vendas": 768,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 590,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9669,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 1548,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9693,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 1184,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9717,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 267,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9741,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 658,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 310,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9813,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 470,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9837,7 +9837,7 @@
     "lowest30d": false,
     "vendas": 1399,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -9861,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 1784,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 3661,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10032,30 +10032,6 @@
     "checkedAt": "2026-10-14T01:05:12.562Z"
   },
   {
-    "id": "SP1397809275-58252647017",
-    "productId": "SP1397809275-58252647017",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Câmera wifi ip sem fio giratória 360 com encaixe lampada bocal rosca ptz full HD visão noturna segurança+MICROSD 16GB",
-    "price": 67.99,
-    "originalPrice": 199.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mj1iwdvxrhtxf3",
-    "url": "https://s.shopee.com.br/1gJJmewscd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 150,
-    "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-13T23:05:15.597Z"
-  },
-  {
     "id": "SP1593984429-58206240257",
     "productId": "SP1593984429-58206240257",
     "marketplace": "shopee",
@@ -10173,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 158,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10197,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 1498,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10221,7 +10197,7 @@
     "lowest30d": false,
     "vendas": 4405,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10317,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 4864,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10485,7 +10461,7 @@
     "lowest30d": true,
     "vendas": 2794,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 878,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10533,7 +10509,7 @@
     "lowest30d": false,
     "vendas": 3214,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10557,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 912,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10581,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 3570,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10629,7 +10605,7 @@
     "lowest30d": false,
     "vendas": 21204,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -10941,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 622,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11325,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 203,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11805,7 +11781,7 @@
     "lowest30d": true,
     "vendas": 248,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP493201475-21799026815",
@@ -11829,7 +11805,7 @@
     "lowest30d": false,
     "vendas": 381,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-13T22:05:15.006Z"
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   },
   {
     "id": "SP1553736756-23298708556",
@@ -11926,5 +11902,77 @@
     "vendas": 968,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-14T00:39:46.879Z"
+  },
+  {
+    "id": "MLB4748589927",
+    "productId": "MLB70449712",
+    "marketplace": "ml",
+    "fonte": "MLB6284",
+    "categoria": "Beleza",
+    "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+    "price": 42.9,
+    "originalPrice": 69.9,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 69.9,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_797591-MLA117057927952_102026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4748589927?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "PRIMACIALOFICIAL",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-14T01:35:13.678Z",
+    "checkedAt": "2026-10-14T01:35:13.678Z"
+  },
+  {
+    "id": "MLB7806219864",
+    "productId": "MLB56330062",
+    "marketplace": "ml",
+    "fonte": "MLB1747",
+    "categoria": "Automotivo",
+    "title": "3 Câmera Wifi Automotiva Veicular Carro Com Hd Noturna 1080p Icarbonx",
+    "price": 66.84,
+    "originalPrice": 99.59,
+    "discount": 33,
+    "base": "media",
+    "averagePrice": 99.59,
+    "sellers": 8,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928984-MLA99926475771_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7806219864?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-14T01:35:13.678Z",
+    "checkedAt": "2026-10-14T01:35:13.678Z"
+  },
+  {
+    "id": "MLB5322514707",
+    "productId": "MLB62408733",
+    "marketplace": "ml",
+    "fonte": "q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone Bluetooth Lenovo Xt53 Preto",
+    "price": 61.09,
+    "originalPrice": 89.94,
+    "discount": 32,
+    "base": "media",
+    "averagePrice": 89.94,
+    "sellers": 27,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_642847-MLA118478420793_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5322514707?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-14T01:35:13.678Z",
+    "checkedAt": "2026-10-14T01:35:13.678Z"
   }
 ]
