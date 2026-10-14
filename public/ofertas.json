@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -246,8 +246,8 @@
     "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
     "title": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
-    "price": 38.99,
-    "originalPrice": 129.97,
+    "price": 38.5,
+    "originalPrice": 128.33,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -258,10 +258,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1138,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP883941882-23598220274",
@@ -349,7 +349,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-moh6bx9amnt5aa",
-    "url": "https://s.shopee.com.br/9APIxEJpLN",
+    "url": "https://s.shopee.com.br/8AWqa9u6Kr",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 2093,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -381,7 +381,7 @@
     "lowest30d": true,
     "vendas": 667,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -502,6 +502,30 @@
     "vendas": 166,
     "publishedAt": "2026-10-08T18:05:13.753Z",
     "checkedAt": "2026-10-14T03:05:11.425Z"
+  },
+  {
+    "id": "SP1547936322-21398271961",
+    "productId": "SP1547936322-21398271961",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch Original Tela Amoled NFC IP67 à prova d'água Esportivo Fitness Relógio Inteligente Para Android IOS",
+    "price": 67,
+    "originalPrice": 216.13,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn2us002i0pcc",
+    "url": "https://s.shopee.com.br/7KxjKK5Qbn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 160,
+    "publishedAt": "2026-10-08T18:05:13.753Z",
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1207367861-18699230754",
@@ -744,30 +768,6 @@
     "checkedAt": "2026-10-14T04:35:13.426Z"
   },
   {
-    "id": "SP1547936322-21398271961",
-    "productId": "SP1547936322-21398271961",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Smartwatch Original Tela Amoled NFC IP67 à prova d'água Esportivo Fitness Relógio Inteligente Para Android IOS",
-    "price": 69,
-    "originalPrice": 215.63,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdn2us002i0pcc",
-    "url": "https://s.shopee.com.br/7KxjKK5Qbn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 160,
-    "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
-  },
-  {
     "id": "SP974102638-58210258643",
     "productId": "SP974102638-58210258643",
     "marketplace": "shopee",
@@ -909,7 +909,7 @@
     "lowest30d": true,
     "vendas": 1032,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -925,7 +925,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mri8vcm5o9on91",
-    "url": "https://s.shopee.com.br/9pf18wG7Z3",
+    "url": "https://s.shopee.com.br/LnzFm1emG",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -933,7 +933,7 @@
     "lowest30d": true,
     "vendas": 738,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -997,7 +997,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-824gm-mptq0ky3e5u4e0",
-    "url": "https://s.shopee.com.br/6VOXoI7AEi",
+    "url": "https://s.shopee.com.br/2gBuAB9Mrq",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1005,7 +1005,7 @@
     "lowest30d": true,
     "vendas": 1057,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -1021,7 +1021,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ls-msgo896ik2kk6b",
-    "url": "https://s.shopee.com.br/3B88rn2AZt",
+    "url": "https://s.shopee.com.br/2qVKMU8jWt",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1029,7 +1029,7 @@
     "lowest30d": true,
     "vendas": 799,
     "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 3410,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -1653,7 +1653,7 @@
     "lowest30d": false,
     "vendas": 1921,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1841870093-55315796592",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 152,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -1710,8 +1710,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "INOVA Caixa De Som Bluetooth 8W TWS Caixinha Portátil IPX6 Som Estéreo Graves Intensos Sem Fio Wireless Cartão SD FM",
-    "price": 79.99,
-    "originalPrice": 228.54,
+    "price": 79.98,
+    "originalPrice": 228.51,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -1722,10 +1722,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 287,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1654609614-23899120952",
@@ -2317,7 +2317,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/Lnv87c6E4",
+    "url": "https://s.shopee.com.br/20wDEpvJOY",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2325,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 1225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -2406,8 +2406,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Kit 2 Luminária Solar Com Sensor Refletor Solar Com Placa Solar 2200/2000/1600W",
-    "price": 163.4,
-    "originalPrice": 453.89,
+    "price": 155,
+    "originalPrice": 430.56,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2418,10 +2418,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 199,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -2430,14 +2430,14 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 46.9,
-    "originalPrice": 130.28,
+    "price": 46.58,
+    "originalPrice": 129.39,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
-    "url": "https://s.shopee.com.br/8AWpU2FQC6",
+    "url": "https://s.shopee.com.br/7KxjaRkBe6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2445,7 +2445,31 @@
     "lowest30d": false,
     "vendas": 1353,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
+  },
+  {
+    "id": "SP409939729-23694671466",
+    "productId": "SP409939729-23694671466",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
+    "price": 36.8,
+    "originalPrice": 99.46,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
+    "url": "https://s.shopee.com.br/gQoaFtLG1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1749,
+    "publishedAt": "2026-10-13T11:35:14.167Z",
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -2493,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -2517,7 +2541,7 @@
     "lowest30d": false,
     "vendas": 498,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -2533,7 +2557,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mrh0ckba7mkm75",
-    "url": "https://s.shopee.com.br/6fhyTQ1xzd",
+    "url": "https://s.shopee.com.br/8V9gymf9zw",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2541,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 1072,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -2589,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 525,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -2605,7 +2629,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgxt3n7n3khaa",
-    "url": "https://s.shopee.com.br/8AWllPJ2Hz",
+    "url": "https://s.shopee.com.br/1qcn2X8wI5",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2613,7 +2637,7 @@
     "lowest30d": false,
     "vendas": 737,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1311097443-19199559900",
@@ -2629,7 +2653,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2rdo19ct0cl7a",
-    "url": "https://s.shopee.com.br/8AWllOJIo0",
+    "url": "https://s.shopee.com.br/AUulMRgooZ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2637,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 1960,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -2653,7 +2677,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejq3arh54ow9f",
-    "url": "https://s.shopee.com.br/9fLbuOpIgF",
+    "url": "https://s.shopee.com.br/LnzFl6SdR",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2661,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 658,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -2677,7 +2701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mt9vvgf7sg755d",
-    "url": "https://s.shopee.com.br/2gBpTn0iAu",
+    "url": "https://s.shopee.com.br/4LK817mDsa",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2685,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 1524,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-14T02:35:13.548Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -2976,30 +3000,6 @@
     "checkedAt": "2026-10-14T03:05:11.425Z"
   },
   {
-    "id": "SP409939729-23694671466",
-    "productId": "SP409939729-23694671466",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
-    "price": 37.9,
-    "originalPrice": 99.74,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
-    "url": "https://s.shopee.com.br/gQoaFtLG1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1749,
-    "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
-  },
-  {
     "id": "SP1905647169-58265421821",
     "productId": "SP1905647169-58265421821",
     "marketplace": "shopee",
@@ -3021,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 1216,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1193388723-57914922040",
@@ -3045,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 881,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1925695008-58267992875",
@@ -3949,7 +3949,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-82583-msqtyxxynrb6f4",
-    "url": "https://s.shopee.com.br/7KxfGdzQdp",
+    "url": "https://s.shopee.com.br/8AWqaAgQfu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3957,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 748,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -4461,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 2789,
     "publishedAt": "2026-09-29T12:05:18.010Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP328666563-23998713893",
@@ -4581,7 +4581,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4645,7 +4645,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-821db-mgsfhnb28he524",
-    "url": "https://s.shopee.com.br/3B85sJAGPa",
+    "url": "https://s.shopee.com.br/4VdYLY2OA4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4653,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 513,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1500399435-23699354590",
@@ -4845,7 +4845,7 @@
     "lowest30d": true,
     "vendas": 1121,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP356114339-22194903369",
@@ -5125,7 +5125,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mra6ucrvp8uf6d",
-    "url": "https://s.shopee.com.br/8KqBxjDOLw",
+    "url": "https://s.shopee.com.br/50ZouNzrmh",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5133,7 +5133,7 @@
     "lowest30d": true,
     "vendas": 4528,
     "publishedAt": "2026-10-08T03:05:13.237Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5301,7 +5301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T22:35:13.628Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 1130,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1254389570-58257300092",
@@ -5773,7 +5773,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mesio5ejrshvb6",
-    "url": "https://s.shopee.com.br/9fLaFDHS6H",
+    "url": "https://s.shopee.com.br/4qGObqpNCF",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5781,7 +5781,7 @@
     "lowest30d": false,
     "vendas": 319,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1777133462-58216130219",
@@ -5925,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 753,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP280443173-56602981661",
@@ -6021,7 +6021,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -6133,7 +6133,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8261g-mldwcyuzkkjp9f",
-    "url": "https://s.shopee.com.br/1LgSJw8IYL",
+    "url": "https://s.shopee.com.br/1B8r8ljO4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6141,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 1480,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP897524712-23191656820",
@@ -6213,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 719,
     "publishedAt": "2026-10-02T15:05:14.598Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP418872496-23793614115",
@@ -6253,7 +6253,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mr1sv5ngfo5hfc",
-    "url": "https://s.shopee.com.br/2VsP0zITLq",
+    "url": "https://s.shopee.com.br/50ZowT0U9F",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6261,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 850,
     "publishedAt": "2026-10-01T13:35:15.737Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB4863689399",
@@ -6285,7 +6285,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP392967703-3492847708",
@@ -6357,7 +6357,7 @@
     "lowest30d": true,
     "vendas": 596,
     "publishedAt": "2026-09-29T18:35:15.718Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1815920431-58217669269",
@@ -6493,7 +6493,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mt98kmgxdjb4fe",
-    "url": "https://s.shopee.com.br/70Kp4Jenqj",
+    "url": "https://s.shopee.com.br/20wDEeD9Uq",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6501,7 +6501,7 @@
     "lowest30d": false,
     "vendas": 1739,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -6573,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1043771437-21799844772",
@@ -6957,7 +6957,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T15:09:59.219Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB5581376006",
@@ -6981,7 +6981,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-11T04:05:14.088Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-02T21:35:13.666Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7381,7 +7381,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lx-moa2ac2pjbwmad",
-    "url": "https://s.shopee.com.br/1BN1QMwrIH",
+    "url": "https://s.shopee.com.br/2qVKEB9ynp",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 1920,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP411289902-41710503566",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": 4103,
     "publishedAt": "2026-10-06T10:05:14.943Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -7776,6 +7776,30 @@
     "checkedAt": "2026-10-14T05:05:17.628Z"
   },
   {
+    "id": "SP898761179-20198314386",
+    "productId": "SP898761179-20198314386",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Jbl Boombox 4 Bluetooth 34h Ip68 210rms Preta",
+    "price": 2479,
+    "originalPrice": 4131.67,
+    "discount": 40,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824g9-mernkc7rt8naf6",
+    "url": "https://s.shopee.com.br/40hHWLaogY",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 253,
+    "publishedAt": "2026-10-06T10:05:14.943Z",
+    "checkedAt": "2026-10-14T05:35:18.575Z"
+  },
+  {
     "id": "SP451291172-22195190910",
     "productId": "SP451291172-22195190910",
     "marketplace": "shopee",
@@ -7789,7 +7813,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ln-ms2xp2r80ft305",
-    "url": "https://s.shopee.com.br/AUuipkGI4F",
+    "url": "https://s.shopee.com.br/8V9gynRlR2",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7797,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 490,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1520921103-58217676479",
@@ -7845,7 +7869,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-14T01:35:13.678Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB5400347762",
@@ -7869,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -7917,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:05:20.165Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB3830992651",
@@ -7941,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-29T15:05:16.849Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7692795106",
@@ -7965,31 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T09:35:13.607Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
-  },
-  {
-    "id": "SP898761179-20198314386",
-    "productId": "SP898761179-20198314386",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Jbl Boombox 4 Bluetooth 34h Ip68 210rms Preta",
-    "price": 2669,
-    "originalPrice": 4106.15,
-    "discount": 35,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824g9-mernkc7rt8naf6",
-    "url": "https://s.shopee.com.br/40hHWLaogY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 253,
-    "publishedAt": "2026-10-06T10:05:14.943Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB6530232076",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7381172556",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T21:35:12.196Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7627073664",
@@ -8054,14 +8054,14 @@
     "sellers": 30,
     "image": "https://http2.mlstatic.com/D_NQ_NP_889203-MLA114244698799_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7627073664?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
+    "freeShipping": true,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP776052375-23692803078",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T01:35:13.678Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1311097443-22698831564",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB5812393646",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8256,30 +8256,6 @@
     "checkedAt": "2026-10-14T04:05:14.334Z"
   },
   {
-    "id": "MLB5930202958",
-    "productId": "MLB61700105",
-    "marketplace": "ml",
-    "fonte": "MLB432988",
-    "categoria": "Brinquedos",
-    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
-    "price": 92.5,
-    "originalPrice": 129.9,
-    "discount": 29,
-    "base": "media",
-    "averagePrice": 129.9,
-    "sellers": 50,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T18:35:15.594Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
-  },
-  {
     "id": "MLB5720722046",
     "productId": "MLB18405804",
     "marketplace": "ml",
@@ -8301,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7384626428",
@@ -8325,7 +8301,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
+  },
+  {
+    "id": "MLB5930202958",
+    "productId": "MLB61700105",
+    "marketplace": "ml",
+    "fonte": "MLB432988",
+    "categoria": "Brinquedos",
+    "title": "Copag Baralho De Batalha Mewtwo Ex Equipe Rocket Pokemon",
+    "price": 94,
+    "originalPrice": 129.9,
+    "discount": 28,
+    "base": "media",
+    "averagePrice": 129.9,
+    "sellers": 50,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5930202958?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T18:35:15.594Z",
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB3513753783",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-04T15:35:15.532Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7694090914",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-12T09:35:17.486Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB7729259904",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-09T11:35:12.067Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": 269,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 1286,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9093,7 +9093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-14T05:22:58.361Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP415175805-58215587587",
@@ -9549,7 +9549,7 @@
     "lowest30d": true,
     "vendas": 591,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -10005,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 150,
     "publishedAt": "2026-09-28T21:05:17.970Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1593984429-58206240257",
@@ -10333,7 +10333,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhlv7330e9kze4",
-    "url": "https://s.shopee.com.br/9V2DEjdgMj",
+    "url": "https://s.shopee.com.br/9V2EAQkbHU",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10341,7 +10341,7 @@
     "lowest30d": true,
     "vendas": 2082,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -10437,7 +10437,7 @@
     "lowest30d": true,
     "vendas": 1358,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10645,7 +10645,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8259c-mqovrhw9l5hca4",
-    "url": "https://s.shopee.com.br/8AWqHV8EDa",
+    "url": "https://s.shopee.com.br/7pu0BYQJ0W",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10653,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 883,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1569804599-22094455907",
@@ -10725,7 +10725,7 @@
     "lowest30d": true,
     "vendas": 223,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1656146284-23299367733",
@@ -10752,6 +10752,30 @@
     "checkedAt": "2026-10-14T04:35:13.426Z"
   },
   {
+    "id": "SP1727133145-45813823049",
+    "productId": "SP1727133145-45813823049",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
+    "price": 38.99,
+    "originalPrice": 108.31,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
+    "url": "https://s.shopee.com.br/9fLe2Qqy55",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 211,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-14T05:35:18.575Z"
+  },
+  {
     "id": "SP1557539807-58254602098",
     "productId": "SP1557539807-58254602098",
     "marketplace": "shopee",
@@ -10773,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 774,
     "publishedAt": "2026-09-27T21:05:15.305Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -10837,7 +10861,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
-    "url": "https://s.shopee.com.br/6L57a14DOq",
+    "url": "https://s.shopee.com.br/1B8r937iH",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10845,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 540,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -10861,7 +10885,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mrfqrbaqnmkl53",
-    "url": "https://s.shopee.com.br/W7Kd8dT7U",
+    "url": "https://s.shopee.com.br/1LgWRPy5hv",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10869,7 +10893,7 @@
     "lowest30d": false,
     "vendas": 2289,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -11038,30 +11062,6 @@
     "vendas": 2567,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-14T03:35:14.537Z"
-  },
-  {
-    "id": "SP1727133145-45813823049",
-    "productId": "SP1727133145-45813823049",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
-    "price": 38.99,
-    "originalPrice": 105.38,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
-    "url": "https://s.shopee.com.br/9fLe2Qqy55",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 211,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -11293,7 +11293,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mf6j39swdiq533",
-    "url": "https://s.shopee.com.br/1BN27d8vtG",
+    "url": "https://s.shopee.com.br/5AtF0dS3u3",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11301,7 +11301,7 @@
     "lowest30d": true,
     "vendas": 1495,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -11317,7 +11317,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4kg0bicwo5141",
-    "url": "https://s.shopee.com.br/AAHsH1BBMD",
+    "url": "https://s.shopee.com.br/4fwyPigxSn",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11325,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 1665,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -11341,7 +11341,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f",
-    "url": "https://s.shopee.com.br/3qNmbGV6mI",
+    "url": "https://s.shopee.com.br/5fpVbNhnm9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11349,7 +11349,7 @@
     "lowest30d": true,
     "vendas": 1688,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -11365,7 +11365,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxr-mcq1zoeuxmz7be",
-    "url": "https://s.shopee.com.br/7faVAJGW0Q",
+    "url": "https://s.shopee.com.br/9Kiny7TqLH",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11373,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 837,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP627750190-22798914047",
@@ -11701,7 +11701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820li-mmp9aj5bsdtze3",
-    "url": "https://s.shopee.com.br/3B85oDp41y",
+    "url": "https://s.shopee.com.br/5fpVba7c88",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11709,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 3911,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-14T02:05:16.822Z"
+    "checkedAt": "2026-10-14T05:35:18.575Z"
   },
   {
     "id": "SP1156409244-23299128342",
