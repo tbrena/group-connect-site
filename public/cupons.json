@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "MODA1510"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Moda e Acessórios",
+    "origem": "avidaefeitadedesconto/16595",
+    "quando": "2026-10-15T18:14:00+00:00",
+    "id": "ml:MODA1510",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "FULL1510"
     ],
     "desconto": "10% OFF",
@@ -95,48 +109,6 @@
     "origem": "avidaefeitadedesconto/16584",
     "quando": "2026-10-15T03:35:17+00:00",
     "id": "ml:RESGATEALLSITE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJAS1410"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 79",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/16579",
-    "quando": "2026-10-14T18:24:42+00:00",
-    "id": "ml:LOJAS1410",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FERRAMENTAS1410"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 249",
-    "escopo": "Auto e Ferramentas",
-    "origem": "avidaefeitadedesconto/16578",
-    "quando": "2026-10-14T18:19:00+00:00",
-    "id": "ml:FERRAMENTAS1410",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TELEVISAO1410"
-    ],
-    "desconto": "R$ 100 OFF",
-    "limite": null,
-    "minimo": "R$ 1.299",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16577",
-    "quando": "2026-10-14T18:15:03+00:00",
-    "id": "ml:TELEVISAO1410",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
