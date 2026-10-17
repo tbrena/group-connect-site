@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "SITE50"
+    ],
+    "desconto": "R$ 50 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16629",
+    "quando": "2026-10-17T12:04:41+00:00",
+    "id": "ml:SITE50",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "RESGATEFULL1710"
     ],
     "desconto": "20% OFF",
@@ -81,78 +95,6 @@
     "origem": "avidaefeitadedesconto/16614",
     "quando": "2026-10-16T15:44:07+00:00",
     "id": "ml:BEMESTAR1610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SITE1610",
-      "161040TODOSITE",
-      "100TODOSITE1610"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16610",
-    "quando": "2026-10-16T12:05:06+00:00",
-    "id": "ml:SITE1610+161040TODOSITE+100TODOSITE1610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFHOJE"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": "R$ 149",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/16609",
-    "quando": "2026-10-16T12:02:04+00:00",
-    "id": "ml:OFFHOJE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BATEUDESCONTO"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Produtos Selecionados",
-    "origem": "avidaefeitadedesconto/16608",
-    "quando": "2026-10-16T12:01:44+00:00",
-    "id": "ml:BATEUDESCONTO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VEMDECUPOM"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16607",
-    "quando": "2026-10-16T12:01:21+00:00",
-    "id": "ml:VEMDECUPOM",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESPECIALDESCONTOS"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Super Promos",
-    "origem": "avidaefeitadedesconto/16606",
-    "quando": "2026-10-16T12:00:57+00:00",
-    "id": "ml:ESPECIALDESCONTOS",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
