@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": 1968,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-17T02:05:11.594Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 1232,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-17T02:05:11.594Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -645,7 +645,7 @@
     "lowest30d": false,
     "vendas": 138,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -741,7 +741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1482870808-22594152377",
@@ -765,7 +765,7 @@
     "lowest30d": false,
     "vendas": 1475,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -789,7 +789,7 @@
     "lowest30d": false,
     "vendas": 1186,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": 3820,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-17T02:05:11.594Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -933,7 +933,7 @@
     "lowest30d": true,
     "vendas": 700,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-17T02:05:11.594Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -957,7 +957,7 @@
     "lowest30d": true,
     "vendas": 574,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP325008325-41600786899",
@@ -1101,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 1504,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 671,
     "publishedAt": "2026-10-16T12:35:17.271Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP323760756-41721001761",
@@ -1413,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 1970,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -2565,7 +2565,7 @@
     "lowest30d": true,
     "vendas": 2906,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -2638,6 +2638,30 @@
     "vendas": 466,
     "publishedAt": "2026-10-16T11:35:14.250Z",
     "checkedAt": "2026-10-17T05:05:16.734Z"
+  },
+  {
+    "id": "SP1509845472-43029805037",
+    "productId": "SP1509845472-43029805037",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de Som Philco Extreme 2400W 2x Woofer PCX22000 - Bivolt",
+    "price": 949,
+    "originalPrice": 2564.86,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mti56lhxswecc2",
+    "url": "https://s.shopee.com.br/1BN7nwg8j9",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 314,
+    "publishedAt": "2026-10-14T14:05:21.785Z",
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP409939729-23694671466",
@@ -3000,6 +3024,30 @@
     "checkedAt": "2026-10-17T02:05:11.594Z"
   },
   {
+    "id": "SP791283306-17184102852",
+    "productId": "SP791283306-17184102852",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 10 Luminária Espeto Jardim Cob Led 5w Prova D'água Luz Verde",
+    "price": 59.88,
+    "originalPrice": 161.84,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-22120-5g7waxupmplv20",
+    "url": "https://s.shopee.com.br/6fi4SNYRZG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 198,
+    "publishedAt": "2026-09-29T16:35:51.008Z",
+    "checkedAt": "2026-10-17T02:05:11.594Z"
+  },
+  {
     "id": "SP1034396314-23897904339",
     "productId": "SP1034396314-23897904339",
     "marketplace": "shopee",
@@ -3072,30 +3120,6 @@
     "checkedAt": "2026-10-17T04:05:14.474Z"
   },
   {
-    "id": "SP1509845472-43029805037",
-    "productId": "SP1509845472-43029805037",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Philco Extreme 2400W 2x Woofer PCX22000 - Bivolt",
-    "price": 999,
-    "originalPrice": 2628.95,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mti56lhxswecc2",
-    "url": "https://s.shopee.com.br/1BN7nwg8j9",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 314,
-    "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
-  },
-  {
     "id": "SP1193388723-57914922040",
     "productId": "SP1193388723-57914922040",
     "marketplace": "shopee",
@@ -3141,7 +3165,7 @@
     "lowest30d": false,
     "vendas": 115,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP414544347-19672086438",
@@ -3549,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 5214,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1362613236-44328404708",
@@ -3717,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 477,
     "publishedAt": "2026-10-03T13:35:13.459Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -3981,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 1236,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -4005,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 2522,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -4101,7 +4125,7 @@
     "lowest30d": true,
     "vendas": 508,
     "publishedAt": "2026-10-06T15:05:19.563Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1661007426-22594666523",
@@ -4173,7 +4197,7 @@
     "lowest30d": true,
     "vendas": 4271,
     "publishedAt": "2026-10-03T17:35:13.618Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP400401910-22493275140",
@@ -4245,7 +4269,7 @@
     "lowest30d": true,
     "vendas": 1950,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1573953914-58255860212",
@@ -4269,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 528,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4392,6 +4416,30 @@
     "checkedAt": "2026-10-17T04:35:14.021Z"
   },
   {
+    "id": "SP526625785-23694530523",
+    "productId": "SP526625785-23694530523",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP ming",
+    "price": 620.99,
+    "originalPrice": 1514.61,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mfy8drkp0s971e",
+    "url": "https://s.shopee.com.br/7Kxl9H5X8R",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1025,
+    "publishedAt": "2026-10-10T03:35:19.372Z",
+    "checkedAt": "2026-10-17T05:35:13.176Z"
+  },
+  {
     "id": "SP1794268079-58258864542",
     "productId": "SP1794268079-58258864542",
     "marketplace": "shopee",
@@ -4461,7 +4509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4653,7 +4701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T21:35:14.386Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP279868721-41253171051",
@@ -4701,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 1989,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -4845,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 438,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP492985258-19897924366",
@@ -4869,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 957,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5016,30 +5064,6 @@
     "checkedAt": "2026-10-17T02:05:11.594Z"
   },
   {
-    "id": "SP526625785-23694530523",
-    "productId": "SP526625785-23694530523",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP ming",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mfy8drkp0s971e",
-    "url": "https://s.shopee.com.br/7Kxl9H5X8R",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1025,
-    "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
-  },
-  {
     "id": "SP408653169-46360468172",
     "productId": "SP408653169-46360468172",
     "marketplace": "shopee",
@@ -5085,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 6218,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1661007426-58207680669",
@@ -5157,7 +5181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5277,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 755,
     "publishedAt": "2026-09-29T20:05:18.762Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1404215442-40573257922",
@@ -5853,7 +5877,31 @@
     "lowest30d": true,
     "vendas": 2000,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
+  },
+  {
+    "id": "SP983645094-57113764077",
+    "productId": "SP983645094-57113764077",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis de corrida, sola de borracha, parte superior em tecido de malha, unissex, tamanho 34-45, 1 par",
+    "price": 62.99,
+    "originalPrice": 139.98,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msqvigqau9ze31",
+    "url": "https://s.shopee.com.br/8fTArbAhX6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2043,
+    "publishedAt": "2026-10-01T03:05:17.024Z",
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1510721628-23498870645",
@@ -6117,7 +6165,7 @@
     "lowest30d": false,
     "vendas": 564,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1468415010-22094228144",
@@ -6141,7 +6189,7 @@
     "lowest30d": false,
     "vendas": 5425,
     "publishedAt": "2026-09-23T23:05:20.581Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP468417400-47454565755",
@@ -6333,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 326,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1284769631-21099552315",
@@ -6342,8 +6390,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Fone de Ouvido Bluetooth Sem Fio Digital Alta Qualidade Intra Auricular-B4",
-    "price": 49.99,
-    "originalPrice": 106.36,
+    "price": 47.98,
+    "originalPrice": 102.09,
     "discount": 53,
     "base": "vendedor",
     "averagePrice": null,
@@ -6357,7 +6405,7 @@
     "lowest30d": false,
     "vendas": 1525,
     "publishedAt": "2026-10-05T16:05:19.680Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1125543872-22194698355",
@@ -6430,30 +6478,6 @@
     "vendas": 1953,
     "publishedAt": "2026-10-03T12:35:13.942Z",
     "checkedAt": "2026-10-17T04:05:14.474Z"
-  },
-  {
-    "id": "SP983645094-57113764077",
-    "productId": "SP983645094-57113764077",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis de corrida, sola de borracha, parte superior em tecido de malha, unissex, tamanho 34-45, 1 par",
-    "price": 65.99,
-    "originalPrice": 140.4,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msqvigqau9ze31",
-    "url": "https://s.shopee.com.br/8fTArbAhX6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2043,
-    "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
   },
   {
     "id": "SP543131983-21451892447",
@@ -6837,7 +6861,7 @@
     "lowest30d": false,
     "vendas": 492,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -6870,8 +6894,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Power Bank Carregador Portátil 20.000mAh Digital compatível com iPhone e Samsung",
-    "price": 35.98,
-    "originalPrice": 71.96,
+    "price": 35.99,
+    "originalPrice": 71.98,
     "discount": 50,
     "base": "vendedor",
     "averagePrice": null,
@@ -6882,10 +6906,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1189,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -6957,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 445,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7053,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 1095,
     "publishedAt": "2026-10-02T05:05:13.716Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1367167422-48701416960",
@@ -7077,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 1115,
     "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -7197,7 +7221,7 @@
     "lowest30d": false,
     "vendas": 1344,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1472462269-18999685903",
@@ -7269,7 +7293,7 @@
     "lowest30d": false,
     "vendas": 1268,
     "publishedAt": "2026-10-11T16:05:11.929Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7317,7 +7341,7 @@
     "lowest30d": false,
     "vendas": 319,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1551412164-58210681509",
@@ -7392,6 +7416,30 @@
     "checkedAt": "2026-10-17T03:35:12.312Z"
   },
   {
+    "id": "SP885771154-23693478424",
+    "productId": "SP885771154-23693478424",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:capinha celular",
+    "categoria": "Celulares",
+    "title": "Tablet Vision TAB 7 Stitch + Capa e Bolsa - Octa-Core 3GB RAM 64GB Android 14 Go Wi-Fi IPS Positivo",
+    "price": 494.4,
+    "originalPrice": 898.91,
+    "discount": 45,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84xjaeqeia9c4",
+    "url": "https://s.shopee.com.br/8fT8jieWpd",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 650,
+    "publishedAt": "2026-10-14T14:05:21.785Z",
+    "checkedAt": "2026-10-17T05:35:13.176Z"
+  },
+  {
     "id": "SP646978651-23498090481",
     "productId": "SP646978651-23498090481",
     "marketplace": "shopee",
@@ -7437,31 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
-  },
-  {
-    "id": "SP885771154-23693478424",
-    "productId": "SP885771154-23693478424",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:capinha celular",
-    "categoria": "Celulares",
-    "title": "Tablet Vision TAB 7 Stitch + Capa e Bolsa - Octa-Core 3GB RAM 64GB Android 14 Go Wi-Fi IPS Positivo",
-    "price": 506.54,
-    "originalPrice": 904.54,
-    "discount": 44,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84xjaeqeia9c4",
-    "url": "https://s.shopee.com.br/8fT8jieWpd",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 650,
-    "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1506519047-44265373159",
@@ -7629,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB6465314542",
@@ -7653,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:28:32.597Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB7541060806",
@@ -7677,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP601021305-22694199912",
@@ -7725,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7773,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T18:35:19.364Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7821,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -8013,31 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
-  },
-  {
-    "id": "SP910436749-18499319254",
-    "productId": "SP910436749-18499319254",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Social Alfaiataria premium Confortável Feminina Cintura Alta ziper lateral e bolso Com cinto",
-    "price": 39.43,
-    "originalPrice": 57.99,
-    "discount": 32,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mtgzh1je81kwd2",
-    "url": "https://s.shopee.com.br/30olzL3YRO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1374,
-    "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": 262,
     "publishedAt": "2026-10-12T22:05:13.429Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1311097443-22698831564",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": 1257,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB5054858159",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T15:05:16.509Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB7384626428",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB7828244128",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T20:35:13.266Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB5187059120",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB4153226076",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB6842911180",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-16T13:35:17.375Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-17T05:05:16.734Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8470,30 +8470,6 @@
     "vendas": 199,
     "publishedAt": "2026-09-28T23:35:18.557Z",
     "checkedAt": "2026-10-17T03:05:16.179Z"
-  },
-  {
-    "id": "SP1443626941-22898696968",
-    "productId": "SP1443626941-22898696968",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Feminina Alfaiataria Premium",
-    "price": 74.9,
-    "originalPrice": 249.67,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpseb9uht7gi58",
-    "url": "https://s.shopee.com.br/2qVLrCNA7n",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 310,
-    "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -8686,6 +8662,30 @@
     "vendas": 839,
     "publishedAt": "2026-09-29T13:35:15.759Z",
     "checkedAt": "2026-10-17T04:35:14.021Z"
+  },
+  {
+    "id": "SP1443626941-22898696968",
+    "productId": "SP1443626941-22898696968",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Feminina Alfaiataria Premium",
+    "price": 76.9,
+    "originalPrice": 248.06,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpseb9uht7gi58",
+    "url": "https://s.shopee.com.br/2qVLrCNA7n",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 310,
+    "publishedAt": "2026-09-28T18:05:15.508Z",
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 215,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -9933,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 1470,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -10005,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 1890,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -10293,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 1470,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -10317,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 7833,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -10797,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 375,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -10821,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 1092,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1224363395-23999243395",
@@ -10965,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 758,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -11037,7 +11037,7 @@
     "lowest30d": true,
     "vendas": 227,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -11061,7 +11061,7 @@
     "lowest30d": true,
     "vendas": 1254,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -11133,31 +11133,7 @@
     "lowest30d": false,
     "vendas": 2571,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
-  },
-  {
-    "id": "SP791283306-17184102852",
-    "productId": "SP791283306-17184102852",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 10 Luminária Espeto Jardim Cob Led 5w Prova D'água Luz Verde",
-    "price": 59.88,
-    "originalPrice": 161.84,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-22120-5g7waxupmplv20",
-    "url": "https://s.shopee.com.br/6fi4SNYRZG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 198,
-    "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-17T02:05:11.594Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP859540579-23493848787",
@@ -11262,8 +11238,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.5,
-    "originalPrice": 90.54,
+    "price": 33.45,
+    "originalPrice": 90.41,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11274,10 +11250,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 673,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11757,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 787,
     "publishedAt": "2026-09-27T21:05:15.305Z",
-    "checkedAt": "2026-10-17T01:35:14.031Z"
+    "checkedAt": "2026-10-17T05:35:13.176Z"
   },
   {
     "id": "SP717396632-23094269331",
