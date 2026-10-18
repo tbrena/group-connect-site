@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-18T00:35:11.372Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -405,7 +405,7 @@
     "lowest30d": true,
     "vendas": 1008,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-18T00:35:11.372Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -421,7 +421,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzjnsk0uhhf61",
-    "url": "https://s.shopee.com.br/BUeV726e6",
+    "url": "https://s.shopee.com.br/4qGUxK3VI1",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -429,7 +429,7 @@
     "lowest30d": true,
     "vendas": 2579,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-18T00:35:11.372Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP418872496-23793614115",
@@ -709,7 +709,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/1BN7nxSfuy",
+    "url": "https://s.shopee.com.br/6fi98qwsuJ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 910,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1309459053-23898624738",
@@ -813,7 +813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1482870808-22594152377",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 338,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -1512,30 +1512,6 @@
     "checkedAt": "2026-10-18T01:35:13.253Z"
   },
   {
-    "id": "SP1118395504-47513118746",
-    "productId": "SP1118395504-47513118746",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
-    "price": 136.9,
-    "originalPrice": 402.65,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
-    "url": "https://s.shopee.com.br/5VW79QA0TB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 424,
-    "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
-  },
-  {
     "id": "SP376022922-22491394362",
     "productId": "SP376022922-22491394362",
     "marketplace": "shopee",
@@ -1920,6 +1896,30 @@
     "checkedAt": "2026-10-18T03:05:12.707Z"
   },
   {
+    "id": "SP1118395504-47513118746",
+    "productId": "SP1118395504-47513118746",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
+    "price": 140.99,
+    "originalPrice": 402.83,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
+    "url": "https://s.shopee.com.br/5VW79QA0TB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 424,
+    "publishedAt": "2026-10-05T22:05:16.407Z",
+    "checkedAt": "2026-10-18T03:35:12.054Z"
+  },
+  {
     "id": "SP790605924-19499073421",
     "productId": "SP790605924-19499073421",
     "marketplace": "shopee",
@@ -2013,7 +2013,7 @@
     "lowest30d": true,
     "vendas": 1655,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -2037,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 1150,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -2061,7 +2061,7 @@
     "lowest30d": true,
     "vendas": 294,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1571156019-22399014792",
@@ -2149,7 +2149,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mt4m2bpslcskae",
-    "url": "https://s.shopee.com.br/5q8zgslgBl",
+    "url": "https://s.shopee.com.br/6VOiwYfRoP",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2157,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 1252,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -2197,7 +2197,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7repd-m2wtdz8cp6we61",
-    "url": "https://s.shopee.com.br/5fpXhTwsja",
+    "url": "https://s.shopee.com.br/113mOR0n0T",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2205,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 240,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -3037,7 +3037,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mor4u235k4cmac",
-    "url": "https://s.shopee.com.br/60SPtBl2qs",
+    "url": "https://s.shopee.com.br/5q929KhzAL",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3045,7 +3045,7 @@
     "lowest30d": true,
     "vendas": 2139,
     "publishedAt": "2026-10-16T03:05:12.555Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -3957,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 550,
     "publishedAt": "2026-10-17T17:35:12.944Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -3973,7 +3973,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-81zvf-mmnn6odp2qkm03",
-    "url": "https://s.shopee.com.br/5AtGZFb3s1",
+    "url": "https://s.shopee.com.br/2qVQZeBBh6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3981,7 +3981,7 @@
     "lowest30d": true,
     "vendas": 2629,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP973933899-23436007558",
@@ -4053,7 +4053,31 @@
     "lowest30d": false,
     "vendas": 1175,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
+  },
+  {
+    "id": "SP279868721-41253171051",
+    "productId": "SP279868721-41253171051",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+    "price": 91.99,
+    "originalPrice": 229.97,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+    "url": "https://s.shopee.com.br/8AWsKJzvKP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 637,
+    "publishedAt": "2026-10-10T20:05:13.601Z",
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1468415010-22694682919",
@@ -4509,7 +4533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -4582,30 +4606,6 @@
     "vendas": 1117,
     "publishedAt": "2026-10-02T18:05:15.490Z",
     "checkedAt": "2026-10-18T03:05:12.707Z"
-  },
-  {
-    "id": "SP470159845-41282373928",
-    "productId": "SP470159845-41282373928",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Chunky Feminino Branco Off White Plataforma Casual Confortável",
-    "price": 44.9,
-    "originalPrice": 109.51,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdu4kwuae4j17",
-    "url": "https://s.shopee.com.br/2LZ5NbM8AM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1346,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
   },
   {
     "id": "SP1299327674-58262359246",
@@ -4701,31 +4701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T21:35:14.386Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
-  },
-  {
-    "id": "SP279868721-41253171051",
-    "productId": "SP279868721-41253171051",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
-    "price": 97.99,
-    "originalPrice": 233.31,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
-    "url": "https://s.shopee.com.br/8AWsKJzvKP",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 637,
-    "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1484279813-23199200478",
@@ -4893,7 +4869,7 @@
     "lowest30d": true,
     "vendas": 6328,
     "publishedAt": "2026-09-29T21:05:17.821Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP847608673-21698268068",
@@ -4957,7 +4933,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ra16-mbgfazp8ios555",
-    "url": "https://s.shopee.com.br/5VW6xvY2Ul",
+    "url": "https://s.shopee.com.br/5VWBkiNSmh",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4965,7 +4941,7 @@
     "lowest30d": true,
     "vendas": 514,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -5253,7 +5229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5301,7 +5277,7 @@
     "lowest30d": true,
     "vendas": 1029,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP832040275-22391737343",
@@ -5389,7 +5365,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-81zub-mmt7jdgek8w21f",
-    "url": "https://s.shopee.com.br/qkHPLTwaw",
+    "url": "https://s.shopee.com.br/4LKEMZ5ldZ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5397,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 705,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP790605924-57906653359",
@@ -5421,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 2682,
     "publishedAt": "2026-10-10T12:35:13.030Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5469,7 +5445,7 @@
     "lowest30d": true,
     "vendas": 111,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1485077747-58252422740",
@@ -5541,7 +5517,7 @@
     "lowest30d": true,
     "vendas": 727,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5557,7 +5533,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxd-md3zvp9dt5j4b0",
-    "url": "https://s.shopee.com.br/4B0jNSM3aj",
+    "url": "https://s.shopee.com.br/6VOiwX2K4B",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5565,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 678,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -5589,7 +5565,7 @@
     "lowest30d": true,
     "vendas": 1425,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -5880,6 +5856,30 @@
     "checkedAt": "2026-10-18T02:05:13.703Z"
   },
   {
+    "id": "SP470159845-41282373928",
+    "productId": "SP470159845-41282373928",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Chunky Feminino Branco Off White Plataforma Casual Confortável",
+    "price": 49.9,
+    "originalPrice": 110.89,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdu4kwuae4j17",
+    "url": "https://s.shopee.com.br/2LZ5NbM8AM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1346,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-18T03:35:12.054Z"
+  },
+  {
     "id": "SP1788702793-58210080994",
     "productId": "SP1788702793-58210080994",
     "marketplace": "shopee",
@@ -5901,7 +5901,7 @@
     "lowest30d": true,
     "vendas": 1340,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -5949,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 158,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1665287075-58254858029",
@@ -6085,7 +6085,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxerkni4ltxb84",
-    "url": "https://s.shopee.com.br/5fpXAExwMx",
+    "url": "https://s.shopee.com.br/6L5IkFg5AP",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 3484,
     "publishedAt": "2026-10-06T13:05:14.473Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6445,7 +6445,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc1qxfiwwjvrbd",
-    "url": "https://s.shopee.com.br/2VsVOOoOuf",
+    "url": "https://s.shopee.com.br/80DWjIIkWq",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6453,7 +6453,7 @@
     "lowest30d": false,
     "vendas": 2857,
     "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1815920431-58217669269",
@@ -6613,7 +6613,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctbey5x91xd9d",
-    "url": "https://s.shopee.com.br/5q8xtm0z1k",
+    "url": "https://s.shopee.com.br/3Vl7N10c7W",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6621,7 +6621,7 @@
     "lowest30d": true,
     "vendas": 566,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -6645,7 +6645,7 @@
     "lowest30d": false,
     "vendas": 136,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP753981666-58208125768",
@@ -6757,7 +6757,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-    "url": "https://s.shopee.com.br/W7Utj0py8",
+    "url": "https://s.shopee.com.br/5q9299zhGB",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6765,31 +6765,7 @@
     "lowest30d": false,
     "vendas": 2657,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
-  },
-  {
-    "id": "SP1010063584-22893349226",
-    "productId": "SP1010063584-22893349226",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Kit Skincare Vitamina C Clareador e Anti-idade - Dermachem",
-    "price": 47.14,
-    "originalPrice": 98.21,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcb75movn84gc5",
-    "url": "https://s.shopee.com.br/6q1Ujs9GHh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 892,
-    "publishedAt": "2026-10-03T22:59:48.754Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -6981,7 +6957,7 @@
     "lowest30d": false,
     "vendas": 2773,
     "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -7093,7 +7069,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq4jhpqk46xbda",
-    "url": "https://s.shopee.com.br/4B0jukfeNR",
+    "url": "https://s.shopee.com.br/1BNCalUkue",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7101,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 5301,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -7221,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 1333,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -7245,7 +7221,7 @@
     "lowest30d": false,
     "vendas": 260,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7485,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 2959,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB4190456415",
@@ -7509,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7549,7 +7525,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxnurrbkiypff",
-    "url": "https://s.shopee.com.br/2BFezo2KQu",
+    "url": "https://s.shopee.com.br/2gC0NVpdnO",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7557,7 +7533,31 @@
     "lowest30d": true,
     "vendas": 8167,
     "publishedAt": "2026-09-30T18:35:12.749Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
+  },
+  {
+    "id": "SP1010063584-22893349226",
+    "productId": "SP1010063584-22893349226",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Kit Skincare Vitamina C Clareador e Anti-idade - Dermachem",
+    "price": 54.9,
+    "originalPrice": 98.04,
+    "discount": 44,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcb75movn84gc5",
+    "url": "https://s.shopee.com.br/6q1Ujs9GHh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 892,
+    "publishedAt": "2026-10-03T22:59:48.754Z",
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB7541060806",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-11T09:35:12.484Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB6465314542",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:28:32.597Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP601021305-22694199912",
@@ -7813,7 +7813,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpl90i3r6hz27",
-    "url": "https://s.shopee.com.br/2qVLn1MKWd",
+    "url": "https://s.shopee.com.br/20wJaHEeMx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 1424,
     "publishedAt": "2026-10-15T20:05:16.034Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP918553075-20099887042",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -8029,7 +8029,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
-    "url": "https://s.shopee.com.br/Lo42K5fEi",
+    "url": "https://s.shopee.com.br/3B8GyOxYGD",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": 2478,
     "publishedAt": "2026-10-10T05:35:12.821Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB5054858159",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T15:05:16.509Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB7384626428",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-10T20:35:19.063Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB5187059120",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB3854139077",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-17T09:35:13.634Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB4153226076",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB6842911180",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T13:35:17.375Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-18T03:05:12.707Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8797,7 +8797,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
-    "url": "https://s.shopee.com.br/W7UjpFfxE",
+    "url": "https://s.shopee.com.br/4VdeYt984V",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8805,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 417,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8829,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 2064,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8845,7 +8845,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
-    "url": "https://s.shopee.com.br/4VdZoKGtUr",
+    "url": "https://s.shopee.com.br/2VsaBDGk7n",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 457,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 1571,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 1771,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -8941,7 +8941,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu8nbdt8unt663",
-    "url": "https://s.shopee.com.br/1BN7ntcsr3",
+    "url": "https://s.shopee.com.br/7fagKWfWHD",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8949,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 560,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -9013,7 +9013,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-    "url": "https://s.shopee.com.br/5AtGZJmZlS",
+    "url": "https://s.shopee.com.br/6fi98rRozx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 6356,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -9237,7 +9237,7 @@
     "lowest30d": true,
     "vendas": 2080,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9301,7 +9301,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-medq3132jp4y45",
-    "url": "https://s.shopee.com.br/5fpXACuLhC",
+    "url": "https://s.shopee.com.br/4B0oAEpHEe",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9309,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 2857,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9885,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 1234,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -9981,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 463,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -10029,7 +10029,7 @@
     "lowest30d": true,
     "vendas": 491,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10053,7 +10053,7 @@
     "lowest30d": true,
     "vendas": 699,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1397809275-58252647017",
@@ -10341,7 +10341,7 @@
     "lowest30d": true,
     "vendas": 340,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -10693,7 +10693,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mts4xd1a5moa33",
-    "url": "https://s.shopee.com.br/30olzJi69e",
+    "url": "https://s.shopee.com.br/2gC0NUYW2B",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10701,7 +10701,7 @@
     "lowest30d": false,
     "vendas": 4351,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -11101,7 +11101,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
-    "url": "https://s.shopee.com.br/9V2FjHA9Mf",
+    "url": "https://s.shopee.com.br/4fx4lBHlag",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11109,7 +11109,7 @@
     "lowest30d": false,
     "vendas": 3379,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -11869,7 +11869,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mp8hcrfrghkx45",
-    "url": "https://s.shopee.com.br/2LZ7WHPRj7",
+    "url": "https://s.shopee.com.br/5VWBkXwUvH",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11877,7 +11877,7 @@
     "lowest30d": true,
     "vendas": 1428,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-18T00:05:14.050Z"
+    "checkedAt": "2026-10-18T03:35:12.054Z"
   },
   {
     "id": "SP1337284628-23295027006",
