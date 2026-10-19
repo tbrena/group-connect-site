@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "SITE150TODO"
+    ],
+    "desconto": "R$ 150 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16650",
+    "quando": "2026-10-19T12:08:53+00:00",
+    "id": "ml:SITE150TODO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "CPAMD19"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 15",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16649",
+    "quando": "2026-10-19T12:08:47+00:00",
+    "id": "ml:CPAMD19",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "JOGOS1910"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Livros e Jogos",
+    "origem": "avidaefeitadedesconto/16648",
+    "quando": "2026-10-19T12:08:33+00:00",
+    "id": "ml:JOGOS1910",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "RESGATEFULL1910"
     ],
     "desconto": "20% OFF",
@@ -39,48 +81,6 @@
     "origem": "avidaefeitadedesconto/16645",
     "quando": "2026-10-18T15:09:05+00:00",
     "id": "ml:OBRAS1810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FULLRESGATE1810"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 40",
-    "minimo": null,
-    "escopo": "Entregas Full",
-    "origem": "avidaefeitadedesconto/16644",
-    "quando": "2026-10-18T12:09:14+00:00",
-    "id": "ml:FULLRESGATE1810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE501810"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16643",
-    "quando": "2026-10-18T12:07:11+00:00",
-    "id": "ml:TODOSITE501810",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIHOJE"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": "R$ 149",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/16642",
-    "quando": "2026-10-18T12:07:04+00:00",
-    "id": "ml:MELIHOJE",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
