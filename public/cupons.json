@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "ELETROS1910"
+    ],
+    "desconto": "R$ 50 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16663",
+    "quando": "2026-10-19T18:22:52+00:00",
+    "id": "ml:ELETROS1910",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SUPERMERCADO"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 30",
+    "minimo": "R$ 99",
+    "escopo": "Supermercado",
+    "origem": "avidaefeitadedesconto/16662",
+    "quando": "2026-10-19T18:22:41+00:00",
+    "id": "ml:SUPERMERCADO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "FULL1910"
     ],
     "desconto": "10% OFF",
