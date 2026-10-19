@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP627750190-22594284546",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 253,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-19T19:35:16.046Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 1474,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-19T19:35:16.046Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP974102638-58210258643",
@@ -1027,9 +1027,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 999,
+    "vendas": 1043,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1099,9 +1099,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1467,
+    "vendas": 1446,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1123,9 +1123,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2120,
+    "vendas": 2074,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -1344,30 +1344,6 @@
     "checkedAt": "2026-10-19T21:35:13.769Z"
   },
   {
-    "id": "SP1598184222-58263369269",
-    "productId": "SP1598184222-58263369269",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
-    "price": 39.9,
-    "originalPrice": 120.91,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mq21xqfy1mvg15",
-    "url": "https://s.shopee.com.br/7fagKWsiXK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3580,
-    "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-19T20:05:17.626Z"
-  },
-  {
     "id": "SP441005685-54401956392",
     "productId": "SP441005685-54401956392",
     "marketplace": "shopee",
@@ -1411,9 +1387,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1442,
+    "vendas": 1475,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP323760756-41721001761",
@@ -1483,9 +1459,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 897,
+    "vendas": 884,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -1603,9 +1579,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 224,
+    "vendas": 214,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1566421672-22394353094",
@@ -1627,9 +1603,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1302,
+    "vendas": 1324,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1157995564-23398026212",
@@ -2275,9 +2251,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2050,
+    "vendas": 2076,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2347,9 +2323,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1596,
+    "vendas": 1553,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2419,9 +2395,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 315,
+    "vendas": 335,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -2515,9 +2491,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 804,
+    "vendas": 831,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2539,9 +2515,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 825,
+    "vendas": 814,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -2589,7 +2565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3069,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 191,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -3691,9 +3667,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 168,
+    "vendas": 174,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -3789,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 283,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -3883,9 +3859,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 827,
+    "vendas": 821,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -4749,7 +4725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -4821,7 +4797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB6938947454",
@@ -4845,7 +4821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP340113364-23393879708",
@@ -4867,9 +4843,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 503,
+    "vendas": 496,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5013,7 +4989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T05:05:14.581Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5083,9 +5059,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 943,
+    "vendas": 920,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -5443,9 +5419,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2722,
+    "vendas": 2836,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5851,9 +5827,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1517,
+    "vendas": 1549,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6259,9 +6235,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1316,
+    "vendas": 1385,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6331,9 +6307,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 684,
+    "vendas": 705,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -6907,9 +6883,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 252,
+    "vendas": 246,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1468001620-45868320453",
@@ -7509,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7555,9 +7531,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1364,
+    "vendas": 1392,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7629,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7701,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:28:32.597Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP601021305-22694199912",
@@ -7725,30 +7701,6 @@
     "lowest30d": false,
     "vendas": 1346,
     "publishedAt": "2026-10-15T20:05:16.034Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
-  },
-  {
-    "id": "MLB5574851656",
-    "productId": "MLB53222689",
-    "marketplace": "ml",
-    "fonte": "MLB1574",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
-    "price": 92.08,
-    "originalPrice": 149.9,
-    "discount": 39,
-    "base": "media",
-    "averagePrice": 149.9,
-    "sellers": 6,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_942823-MLA113526261849_062026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5574851656?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "MANUBELITA",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-15T17:05:19.185Z",
     "checkedAt": "2026-10-19T22:05:13.982Z"
   },
   {
@@ -7821,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7893,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1339888238-21198268414",
@@ -8037,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB3682277189",
@@ -8061,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB4568569781",
@@ -8085,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8229,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8251,9 +8203,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1808,
+    "vendas": 1812,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8301,7 +8253,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
+  },
+  {
+    "id": "MLB5574851656",
+    "productId": "MLB53222689",
+    "marketplace": "ml",
+    "fonte": "MLB1574",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
+    "price": 92.08,
+    "originalPrice": 124.9,
+    "discount": 26,
+    "base": "media",
+    "averagePrice": 124.9,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_942823-MLA113526261849_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5574851656?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "MANUBELITA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-15T17:05:19.185Z",
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB5187059120",
@@ -8311,11 +8287,11 @@
     "categoria": "Bebês",
     "title": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
     "price": 58.8,
-    "originalPrice": 76.08,
+    "originalPrice": 76.02,
     "discount": 23,
     "base": "media",
-    "averagePrice": 76.08,
-    "sellers": 17,
+    "averagePrice": 76.02,
+    "sellers": 18,
     "image": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5187059120?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -8325,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB4153226076",
@@ -8349,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB5830663578",
@@ -8373,7 +8349,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
+  },
+  {
+    "id": "MLB7664815908",
+    "productId": "MLB72984180",
+    "marketplace": "ml",
+    "fonte": "MLB10217",
+    "categoria": "Saúde",
+    "title": "Cinta Massageadora Elétrica Para Cólica Menstrual com Aquecimento e Vibração USB",
+    "price": 36.1,
+    "originalPrice": 40,
+    "discount": 10,
+    "base": "media",
+    "averagePrice": 40,
+    "sellers": 4,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_828009-MLA116366701848_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7664815908?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-19T22:05:13.982Z",
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8659,9 +8659,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1361,
+    "vendas": 1362,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8851,9 +8851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 6473,
+    "vendas": 6191,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8899,9 +8899,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1482,
+    "vendas": 1464,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8917,15 +8917,15 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgq7tfv53zm2d5",
-    "url": "https://s.shopee.com.br/9APS7zv7Kr",
+    "url": "https://s.shopee.com.br/5VWEdxzUuZ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 821,
+    "vendas": 780,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -8971,9 +8971,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 11386,
+    "vendas": 11418,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -9259,9 +9259,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1540,
+    "vendas": 1531,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9283,9 +9283,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2710,
+    "vendas": 2771,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9331,9 +9331,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1676,
+    "vendas": 1495,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9406,6 +9406,30 @@
     "vendas": 310,
     "publishedAt": "2026-10-08T23:57:11.511Z",
     "checkedAt": "2026-10-19T21:44:29.252Z"
+  },
+  {
+    "id": "SP1598184222-58263369269",
+    "productId": "SP1598184222-58263369269",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
+    "price": 39.9,
+    "originalPrice": 120.91,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mq21xqfy1mvg15",
+    "url": "https://s.shopee.com.br/7fagKWsiXK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3580,
+    "publishedAt": "2026-09-30T15:32:03.838Z",
+    "checkedAt": "2026-10-19T20:05:17.626Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -9643,9 +9667,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1435,
+    "vendas": 1431,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9715,9 +9739,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 209,
+    "vendas": 202,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9741,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 632,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9763,9 +9787,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 506,
+    "vendas": 476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9787,9 +9811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1328,
+    "vendas": 1260,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9811,9 +9835,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 799,
+    "vendas": 692,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9835,9 +9859,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 285,
+    "vendas": 289,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9859,9 +9883,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 647,
+    "vendas": 641,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9883,9 +9907,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 289,
+    "vendas": 284,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9931,9 +9955,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 357,
+    "vendas": 335,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -9979,9 +10003,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3840,
+    "vendas": 3801,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10195,9 +10219,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 128,
+    "vendas": 119,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10219,9 +10243,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1517,
+    "vendas": 1497,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10243,9 +10267,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4108,
+    "vendas": 3991,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10341,7 +10365,7 @@
     "lowest30d": true,
     "vendas": 1027,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -10411,9 +10435,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 5375,
+    "vendas": 5288,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10579,9 +10603,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2783,
+    "vendas": 2747,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10603,9 +10627,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 875,
+    "vendas": 858,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10627,9 +10651,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3397,
+    "vendas": 3381,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10651,9 +10675,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 856,
+    "vendas": 840,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10675,9 +10699,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4037,
+    "vendas": 4071,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10723,9 +10747,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 22639,
+    "vendas": 22600,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -11107,9 +11131,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 693,
+    "vendas": 699,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11454,8 +11478,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Relógio inteligente  Smartwatch Redondo GT pro tela Amoled notificações modo esportes Monitor cardíaco ligações",
-    "price": 79.99,
-    "originalPrice": 216.19,
+    "price": 69.99,
+    "originalPrice": 189.16,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11466,10 +11490,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 370,
+    "lowest30d": true,
+    "vendas": 365,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -11827,9 +11851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4283,
+    "vendas": 4157,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-19T19:05:13.688Z"
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   },
   {
     "id": "SP1156409244-23299128342",
@@ -11952,51 +11976,27 @@
     "checkedAt": "2026-10-19T20:35:14.200Z"
   },
   {
-    "id": "SP316479006-22331954820",
-    "productId": "SP316479006-22331954820",
+    "id": "SP944725778-22694061313",
+    "productId": "SP944725778-22694061313",
     "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Pulverizador Nano K5 Portátil Recarregável Esterilizador Umidificador Hidratação De Cabelo Jardim Casa Profissional",
-    "price": 55.9,
-    "originalPrice": 139.75,
-    "discount": 60,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Máquina De Cabelo e Barba Homens Profissional Máquina De Elétrico",
+    "price": 95.65,
+    "originalPrice": 245.26,
+    "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7reo4-m8owwqoi7zdz95",
-    "url": "https://s.shopee.com.br/6VOjAvTJXJ",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maebv3wrc39r88",
+    "url": "https://s.shopee.com.br/80DZcMqZ9O",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 105,
-    "publishedAt": "2026-09-29T23:35:17.201Z",
-    "checkedAt": "2026-10-19T21:35:13.769Z"
-  },
-  {
-    "id": "MLB7664815908",
-    "productId": "MLB72984180",
-    "marketplace": "ml",
-    "fonte": "MLB10217",
-    "categoria": "Saúde",
-    "title": "Cinta Massageadora Elétrica Para Cólica Menstrual com Aquecimento e Vibração USB",
-    "price": 36.1,
-    "originalPrice": 40,
-    "discount": 10,
-    "base": "media",
-    "averagePrice": 40,
-    "sellers": 4,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_828009-MLA116366701848_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7664815908?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-19T22:05:13.982Z",
-    "checkedAt": "2026-10-19T22:05:13.982Z"
+    "vendas": 129,
+    "publishedAt": "2026-10-19T22:35:13.573Z",
+    "checkedAt": "2026-10-19T22:35:13.573Z"
   }
 ]
