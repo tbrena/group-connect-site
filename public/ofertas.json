@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -93,7 +93,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 869,
     "publishedAt": "2026-10-08T23:35:13.181Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP400434768-18298068505",
@@ -357,7 +357,7 @@
     "lowest30d": false,
     "vendas": 2357,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -526,6 +526,30 @@
     "vendas": 559,
     "publishedAt": "2026-10-16T11:35:14.250Z",
     "checkedAt": "2026-10-20T03:05:13.240Z"
+  },
+  {
+    "id": "SP1566421672-22394353094",
+    "productId": "SP1566421672-22394353094",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Silicone 48cm Bettie Menina Ohlo Azul",
+    "price": 218.8,
+    "originalPrice": 705.81,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdtxrbuelvax14",
+    "url": "https://s.shopee.com.br/3LRiP1LVkE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1324,
+    "publishedAt": "2026-10-14T11:35:11.953Z",
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1297519240-43765372374",
@@ -960,6 +984,30 @@
     "checkedAt": "2026-10-20T04:35:12.580Z"
   },
   {
+    "id": "SP1136572611-53716575946",
+    "productId": "SP1136572611-53716575946",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "BRASOY Conjunto Brinquedos Máquinas Construção Escavadeira Carregadeira Trator Caminhão Basculante",
+    "price": 136.21,
+    "originalPrice": 425.66,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms9h4rvxau4n6b",
+    "url": "https://s.shopee.com.br/70Kyq73dKV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 506,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-20T05:35:13.905Z"
+  },
+  {
     "id": "SP1598954691-22198852865",
     "productId": "SP1598954691-22198852865",
     "marketplace": "shopee",
@@ -1029,7 +1077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5279469915",
@@ -1053,7 +1101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB7847665416",
@@ -1077,7 +1125,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1245,7 +1293,7 @@
     "lowest30d": true,
     "vendas": 660,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1270,30 +1318,6 @@
     "vendas": 617,
     "publishedAt": "2026-10-05T22:05:16.407Z",
     "checkedAt": "2026-10-20T04:35:12.580Z"
-  },
-  {
-    "id": "SP1136572611-53716575946",
-    "productId": "SP1136572611-53716575946",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "BRASOY Conjunto Brinquedos Máquinas Construção Escavadeira Carregadeira Trator Caminhão Basculante",
-    "price": 150.99,
-    "originalPrice": 457.55,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms9h4rvxau4n6b",
-    "url": "https://s.shopee.com.br/70Kyq73dKV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 506,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -1341,7 +1365,7 @@
     "lowest30d": true,
     "vendas": 193,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP441005685-54401956392",
@@ -1365,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 935,
     "publishedAt": "2026-10-16T12:35:17.271Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1541348350-58264273644",
@@ -1413,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 2381,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -1560,30 +1584,6 @@
     "checkedAt": "2026-10-20T05:16:30.547Z"
   },
   {
-    "id": "SP1566421672-22394353094",
-    "productId": "SP1566421672-22394353094",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Silicone 48cm Bettie Menina Ohlo Azul",
-    "price": 245.6,
-    "originalPrice": 701.71,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdtxrbuelvax14",
-    "url": "https://s.shopee.com.br/3LRiP1LVkE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1324,
-    "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
-  },
-  {
     "id": "SP1157995564-23398026212",
     "productId": "SP1157995564-23398026212",
     "marketplace": "shopee",
@@ -1629,7 +1629,7 @@
     "lowest30d": false,
     "vendas": 982,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1620609719-58202247794",
@@ -1701,7 +1701,7 @@
     "lowest30d": true,
     "vendas": 2320,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-20T02:35:13.957Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -2229,7 +2229,7 @@
     "lowest30d": true,
     "vendas": 2076,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2301,7 +2301,7 @@
     "lowest30d": true,
     "vendas": 1553,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2397,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -2493,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 831,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2517,7 +2517,7 @@
     "lowest30d": true,
     "vendas": 814,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -2589,7 +2589,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3069,7 +3069,7 @@
     "lowest30d": false,
     "vendas": 191,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -3645,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 129,
     "publishedAt": "2026-10-19T22:35:13.573Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -3693,7 +3693,7 @@
     "lowest30d": false,
     "vendas": 174,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -3789,7 +3789,7 @@
     "lowest30d": true,
     "vendas": 283,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 821,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -4749,7 +4749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -4845,7 +4845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB6938947454",
@@ -4869,7 +4869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5038,6 +5038,30 @@
     "vendas": 1435,
     "publishedAt": "2026-10-15T03:05:15.135Z",
     "checkedAt": "2026-10-20T02:35:13.957Z"
+  },
+  {
+    "id": "SP1782022476-23694928041",
+    "productId": "SP1782022476-23694928041",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador Portatil 2 em 1 16000Pa Sucao Forte Com Fio Haste de Pressao Dust Off GVCW-M15A",
+    "price": 155.48,
+    "originalPrice": 361.58,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmty18z3s16o8d",
+    "url": "https://s.shopee.com.br/8AWz3cKBZE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 920,
+    "publishedAt": "2026-10-07T17:05:22.285Z",
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -5373,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 2836,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5829,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 1549,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6285,7 +6309,7 @@
     "lowest30d": false,
     "vendas": 1385,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6336,30 +6360,6 @@
     "checkedAt": "2026-10-20T02:35:13.957Z"
   },
   {
-    "id": "SP1782022476-23694928041",
-    "productId": "SP1782022476-23694928041",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador Portatil 2 em 1 16000Pa Sucao Forte Com Fio Haste de Pressao Dust Off GVCW-M15A",
-    "price": 169,
-    "originalPrice": 359.57,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmty18z3s16o8d",
-    "url": "https://s.shopee.com.br/8AWz3cKBZE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 920,
-    "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
-  },
-  {
     "id": "SP1542039589-20699836502",
     "productId": "SP1542039589-20699836502",
     "marketplace": "shopee",
@@ -6381,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 705,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": 1392,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:28:32.597Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5109948772",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB3682277189",
@@ -8037,7 +8037,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB4568569781",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 1812,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5574851656",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5187059120",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:35:12.223Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB4153226076",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5830663578",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB7664815908",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T22:05:13.982Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-20T05:16:30.547Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1362,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 6191,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8925,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1464,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8949,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 780,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 11418,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -9237,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 1531,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 2771,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9285,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 1495,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 1431,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9717,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 202,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 632,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 1260,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9813,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 692,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9837,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 289,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9861,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 641,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9885,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 284,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9949,7 +9949,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-81z1k-mfwb8r6xgh6ve1",
-    "url": "https://s.shopee.com.br/3Vl7fSRL2e",
+    "url": "https://s.shopee.com.br/60SVhbr3TR",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9957,7 +9957,7 @@
     "lowest30d": false,
     "vendas": 335,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -10005,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 3801,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10245,7 +10245,7 @@
     "lowest30d": true,
     "vendas": 119,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 1497,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10293,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 3991,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -10413,7 +10413,7 @@
     "lowest30d": true,
     "vendas": 1027,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -10485,7 +10485,7 @@
     "lowest30d": true,
     "vendas": 5288,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10653,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 2747,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10662,8 +10662,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
-    "price": 69.9,
-    "originalPrice": 199.71,
+    "price": 69.99,
+    "originalPrice": 199.97,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10677,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 858,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10701,7 +10701,7 @@
     "lowest30d": false,
     "vendas": 3381,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10725,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 840,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10741,7 +10741,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
-    "url": "https://s.shopee.com.br/9fLmyHwaxO",
+    "url": "https://s.shopee.com.br/AUuv3nkfw2",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 4071,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10797,7 +10797,7 @@
     "lowest30d": false,
     "vendas": 22600,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -11181,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 699,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11445,7 +11445,7 @@
     "lowest30d": true,
     "vendas": 365,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -11886,8 +11886,8 @@
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "Fone De Ouvido sem fio Bluetooh 5.2  Compativel  IOS e  Android Sem borracha",
-    "price": 49.99,
-    "originalPrice": 131.55,
+    "price": 49.98,
+    "originalPrice": 131.53,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -11898,10 +11898,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 4157,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T02:05:14.362Z"
+    "checkedAt": "2026-10-20T05:35:13.905Z"
   },
   {
     "id": "SP1156409244-23299128342",
