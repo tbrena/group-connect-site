@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1367408218-58209240255",
@@ -93,7 +93,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -189,7 +189,7 @@
     "lowest30d": true,
     "vendas": 183,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -309,7 +309,7 @@
     "lowest30d": true,
     "vendas": 742,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -355,9 +355,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1974,
+    "vendas": 1956,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -405,7 +405,7 @@
     "lowest30d": true,
     "vendas": 856,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -720,30 +720,6 @@
     "checkedAt": "2026-10-21T17:05:12.379Z"
   },
   {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 39.99,
-    "originalPrice": 129,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/6AlxMhDenK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 886,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
-  },
-  {
     "id": "SP1314327488-58260755085",
     "productId": "SP1314327488-58260755085",
     "marketplace": "shopee",
@@ -1005,7 +981,7 @@
     "lowest30d": true,
     "vendas": 3051,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1029,7 +1005,31 @@
     "lowest30d": true,
     "vendas": 1073,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 40.99,
+    "originalPrice": 128.09,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/6AlxMhDenK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 891,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB7690418174",
@@ -1053,7 +1053,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5279469915",
@@ -1077,7 +1077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB7847665416",
@@ -1101,7 +1101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1341,7 +1341,7 @@
     "lowest30d": true,
     "vendas": 659,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-21T15:37:52.243Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1549,7 +1549,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mpnszoiek9og7e",
-    "url": "https://s.shopee.com.br/8KqSfo1UXc",
+    "url": "https://s.shopee.com.br/7KxveGgDwS",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1557,7 +1557,7 @@
     "lowest30d": false,
     "vendas": 4545,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -1917,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 2911,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -2133,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 267,
     "publishedAt": "2026-10-17T19:35:11.457Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -2277,7 +2277,7 @@
     "lowest30d": true,
     "vendas": 1306,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -2323,9 +2323,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 266,
+    "vendas": 276,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2424,30 +2424,6 @@
     "checkedAt": "2026-10-21T17:35:14.936Z"
   },
   {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 168,
-    "originalPrice": 466.67,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/5LCqNALEIb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1186,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
-  },
-  {
     "id": "SP1209650911-22394645339",
     "productId": "SP1209650911-22394645339",
     "marketplace": "shopee",
@@ -2517,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 7019,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -2683,9 +2659,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 383,
+    "vendas": 404,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1841870093-55315796592",
@@ -3189,7 +3165,7 @@
     "lowest30d": true,
     "vendas": 131,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP414544347-19672086438",
@@ -3693,7 +3669,31 @@
     "lowest30d": false,
     "vendas": 5065,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
+  },
+  {
+    "id": "SP1673514861-58252475087",
+    "productId": "SP1673514861-58252475087",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
+    "price": 168,
+    "originalPrice": 430.77,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
+    "url": "https://s.shopee.com.br/5LCqNALEIb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1186,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1362613236-44328404708",
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 540,
     "publishedAt": "2026-10-03T13:35:13.459Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -3957,7 +3957,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP499950777-47767182971",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": 1223,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -4245,7 +4245,7 @@
     "lowest30d": false,
     "vendas": 2312,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -4317,7 +4317,7 @@
     "lowest30d": true,
     "vendas": 503,
     "publishedAt": "2026-10-06T15:05:19.563Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1661007426-22594666523",
@@ -4437,7 +4437,7 @@
     "lowest30d": true,
     "vendas": 1867,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1573953914-58255860212",
@@ -4461,7 +4461,7 @@
     "lowest30d": true,
     "vendas": 581,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4533,7 +4533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -4629,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 1081,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1794268079-58258864542",
@@ -4680,6 +4680,30 @@
     "checkedAt": "2026-10-21T16:35:13.635Z"
   },
   {
+    "id": "MLB7627073664",
+    "productId": "MLB74222754",
+    "marketplace": "ml",
+    "fonte": "MLB1831",
+    "categoria": "Brinquedos",
+    "title": "120 figurinhas Kit De Atualização Fifa World Cup 2026 Panini",
+    "price": 49.53,
+    "originalPrice": 120,
+    "discount": 59,
+    "base": "media",
+    "averagePrice": 120,
+    "sellers": 32,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_889203-MLA114244698799_072026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7627073664?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-08T15:35:17.185Z",
+    "checkedAt": "2026-10-21T19:05:15.011Z"
+  },
+  {
     "id": "MLB6938947454",
     "productId": "MLB24544782",
     "marketplace": "ml",
@@ -4701,7 +4725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1588692817-23893972335",
@@ -4989,7 +5013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T02:35:14.829Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5133,7 +5157,7 @@
     "lowest30d": false,
     "vendas": 6297,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1661007426-58207680669",
@@ -5349,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 1328,
     "publishedAt": "2026-10-19T13:05:15.349Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP790605924-57906653359",
@@ -5709,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 289,
     "publishedAt": "2026-10-17T22:35:14.039Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -5949,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 2694,
     "publishedAt": "2026-10-10T03:35:19.372Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -5974,30 +5998,6 @@
     "vendas": 1300,
     "publishedAt": "2026-10-03T13:05:14.688Z",
     "checkedAt": "2026-10-21T16:05:16.311Z"
-  },
-  {
-    "id": "MLB7627073664",
-    "productId": "MLB74222754",
-    "marketplace": "ml",
-    "fonte": "MLB1831",
-    "categoria": "Brinquedos",
-    "title": "120 figurinhas Kit De Atualização Fifa World Cup 2026 Panini",
-    "price": 55.13,
-    "originalPrice": 120,
-    "discount": 54,
-    "base": "media",
-    "averagePrice": 120,
-    "sellers": 32,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_889203-MLA114244698799_072026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7627073664?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6333,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1242822355-41775559243",
@@ -6381,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 1319,
     "publishedAt": "2026-10-05T16:05:19.680Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1262623509-44471095165",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 3950,
     "publishedAt": "2026-10-03T17:35:13.618Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1716664673-46455634006",
@@ -6957,7 +6957,7 @@
     "lowest30d": false,
     "vendas": 833,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -7005,7 +7005,7 @@
     "lowest30d": true,
     "vendas": 1404,
     "publishedAt": "2026-10-05T12:05:13.833Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1825887656-58266650025",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": 482,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": 1050,
     "publishedAt": "2026-10-02T05:05:13.716Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP898761179-58257621281",
@@ -7221,7 +7221,7 @@
     "lowest30d": true,
     "vendas": 1575,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 306,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1551412164-58210681509",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 763,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1197145594-22397665281",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:37:52.243Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:35:12.602Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB2777493229",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5109948772",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": 1486,
     "publishedAt": "2026-10-11T16:05:11.929Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -8013,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T15:05:14.204Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB3767156322",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": 7240,
     "publishedAt": "2026-10-18T12:35:13.508Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1388709282-22499214095",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": 378,
     "publishedAt": "2026-10-12T22:05:13.429Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1311097443-22698831564",
@@ -8157,7 +8157,7 @@
     "lowest30d": true,
     "vendas": 1361,
     "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1503636956-23698554392",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5574851656",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5812393646",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB7854548124",
@@ -8349,7 +8349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5830663578",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-21T18:35:16.484Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -9093,7 +9093,7 @@
     "lowest30d": false,
     "vendas": 536,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -9211,9 +9211,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 172,
+    "vendas": 164,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -9981,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 1442,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -10125,7 +10125,7 @@
     "lowest30d": false,
     "vendas": 1377,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10149,7 +10149,7 @@
     "lowest30d": false,
     "vendas": 1400,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -10365,7 +10365,7 @@
     "lowest30d": true,
     "vendas": 7168,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10398,14 +10398,14 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "mouse Para Jogos Leve Sem Fio Attack shark R1 X11 Três Modos De Conexão PAW3311 22000DPI 400IPS 50G Rato Ergonômico espo",
-    "price": 105,
-    "originalPrice": 300,
+    "price": 106,
+    "originalPrice": 302.86,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rcby-m69gtf0e8hg807",
-    "url": "https://s.shopee.com.br/W7YYbL0zf",
+    "url": "https://s.shopee.com.br/9KizxtqPEj",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10413,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 151,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1028459403-58258154242",
@@ -10845,7 +10845,7 @@
     "lowest30d": true,
     "vendas": 323,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -10869,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 950,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1224363395-23999243395",
@@ -10917,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 1809,
     "publishedAt": "2026-10-01T03:35:13.959Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -11061,7 +11061,7 @@
     "lowest30d": true,
     "vendas": 740,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -11133,7 +11133,7 @@
     "lowest30d": true,
     "vendas": 206,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -11157,7 +11157,7 @@
     "lowest30d": true,
     "vendas": 1254,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -11229,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 2459,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -11358,22 +11358,22 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.45,
-    "originalPrice": 90.41,
+    "price": 33.5,
+    "originalPrice": 90.54,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz2mfohovzjr50",
-    "url": "https://s.shopee.com.br/60SWyDFlAB",
+    "url": "https://s.shopee.com.br/40hToXTNmB",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 599,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11757,7 +11757,7 @@
     "lowest30d": false,
     "vendas": 301,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   },
   {
     "id": "SP1430771203-22094984499",
@@ -11973,6 +11973,30 @@
     "lowest30d": false,
     "vendas": 2057,
     "publishedAt": "2026-10-01T03:05:17.024Z",
-    "checkedAt": "2026-10-21T15:35:13.618Z"
+    "checkedAt": "2026-10-21T19:05:15.011Z"
+  },
+  {
+    "id": "SP1738153850-22594867370",
+    "productId": "SP1738153850-22594867370",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mini processador",
+    "categoria": "Eletrodomésticos",
+    "title": "Mini Liquidificador Portátil 600ml USB Potente 22000RPM Para Vitaminas Shakes Suco",
+    "price": 79.99,
+    "originalPrice": 190.45,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8261x-ml25sczgt62p01",
+    "url": "https://s.shopee.com.br/2Vsezx5cIf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 118,
+    "publishedAt": "2026-10-21T19:05:15.011Z",
+    "checkedAt": "2026-10-21T19:05:15.011Z"
   }
 ]
