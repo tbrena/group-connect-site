@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "RESGATETO2110"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16698",
+    "quando": "2026-10-21T03:09:16+00:00",
+    "id": "ml:RESGATETO2110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MODAEBELEZA"
     ],
     "desconto": "20% OFF",
@@ -25,6 +39,34 @@
     "origem": "avidaefeitadedesconto/16687",
     "quando": "2026-10-20T15:12:14+00:00",
     "id": "ml:FULL2110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "RESGATEALLSITE2010"
+    ],
+    "desconto": "R$ 60 OFF",
+    "limite": null,
+    "minimo": "R$ 499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16681",
+    "quando": "2026-10-20T12:11:54+00:00",
+    "id": "ml:RESGATEALLSITE2010",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ESTOQUEMELI2110"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 99",
+    "escopo": "Queima de Estoque",
+    "origem": "avidaefeitadedesconto/16680",
+    "quando": "2026-10-20T12:11:41+00:00",
+    "id": "ml:ESTOQUEMELI2110",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   },
   {
@@ -123,34 +165,6 @@
     "origem": "avidaefeitadedesconto/16673",
     "quando": "2026-10-20T12:09:57+00:00",
     "id": "ml:BOAESCOLHAMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESTOQUEMELI2110"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 99",
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16672",
-    "quando": "2026-10-20T03:21:45+00:00",
-    "id": "ml:ESTOQUEMELI2110",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATEALLSITE2010"
-    ],
-    "desconto": "R$ 60 OFF",
-    "limite": null,
-    "minimo": "R$ 499",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16671",
-    "quando": "2026-10-20T03:16:08+00:00",
-    "id": "ml:RESGATEALLSITE2010",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
