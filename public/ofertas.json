@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP347988064-9212570285",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 183,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 742,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 1974,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -453,7 +453,7 @@
     "lowest30d": true,
     "vendas": 856,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -768,6 +768,30 @@
     "checkedAt": "2026-10-21T01:05:13.886Z"
   },
   {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 39.99,
+    "originalPrice": 129,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/6fi98qwsuJ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 886,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
+  },
+  {
     "id": "SP1314327488-58260755085",
     "productId": "SP1314327488-58260755085",
     "marketplace": "shopee",
@@ -1077,31 +1101,7 @@
     "lowest30d": true,
     "vendas": 1073,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
-  },
-  {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 40.99,
-    "originalPrice": 128.09,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/6fi98qwsuJ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 886,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-21T00:05:14.382Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB7690418174",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB5279469915",
@@ -1149,7 +1149,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB7847665416",
@@ -1173,7 +1173,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1482,10 +1482,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2461,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -1557,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 829,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 992,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1620609719-58202247794",
@@ -1773,7 +1773,7 @@
     "lowest30d": true,
     "vendas": 2327,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -2277,7 +2277,7 @@
     "lowest30d": true,
     "vendas": 2102,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2341,7 +2341,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
-    "url": "https://s.shopee.com.br/6q1alhnJ3d",
+    "url": "https://s.shopee.com.br/113rB5BNYI",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2349,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 1503,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2421,7 +2421,7 @@
     "lowest30d": true,
     "vendas": 361,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -2517,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 874,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -2541,7 +2541,7 @@
     "lowest30d": true,
     "vendas": 810,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -3069,7 +3069,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -3597,7 +3597,7 @@
     "lowest30d": false,
     "vendas": 176,
     "publishedAt": "2026-10-19T22:35:13.573Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -3645,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 181,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -3765,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 283,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -3861,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 832,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP499950777-47767182971",
@@ -4704,6 +4704,30 @@
     "checkedAt": "2026-10-21T02:05:16.749Z"
   },
   {
+    "id": "MLB6938947454",
+    "productId": "MLB24544782",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
+    "price": 47.9,
+    "originalPrice": 116.96,
+    "discount": 59,
+    "base": "media",
+    "averagePrice": 116.96,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ASSAI_OFICIAL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-05T15:35:18.528Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
+  },
+  {
     "id": "SP1262623509-44471095165",
     "productId": "SP1262623509-44471095165",
     "marketplace": "shopee",
@@ -4821,7 +4845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -4894,30 +4918,6 @@
     "vendas": 5065,
     "publishedAt": "2026-10-10T03:05:12.633Z",
     "checkedAt": "2026-10-21T00:38:58.640Z"
-  },
-  {
-    "id": "MLB6938947454",
-    "productId": "MLB24544782",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 47.9,
-    "originalPrice": 114.5,
-    "discount": 58,
-    "base": "media",
-    "averagePrice": 114.5,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ASSAI_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5016,6 +5016,30 @@
     "checkedAt": "2026-10-21T02:05:16.749Z"
   },
   {
+    "id": "MLB7076442330",
+    "productId": "MLB20562024",
+    "marketplace": "ml",
+    "fonte": "MLB2526",
+    "categoria": "Ferramentas",
+    "title": "Portátil B&G Mini Compressor",
+    "price": 56.5,
+    "originalPrice": 132,
+    "discount": 57,
+    "base": "media",
+    "averagePrice": 132,
+    "sellers": 12,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_884639-MLA112856291753_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7076442330?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "VVSS",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-21T02:35:14.829Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
+  },
+  {
     "id": "SP1108960039-23098673975",
     "productId": "SP1108960039-23098673975",
     "marketplace": "shopee",
@@ -5085,7 +5109,31 @@
     "lowest30d": true,
     "vendas": 917,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
+  },
+  {
+    "id": "SP1542039589-20699836502",
+    "productId": "SP1542039589-20699836502",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador de Pó 2 em 1 Sucção Forte 16000Pa Dust Off Silent Fácil de Armazenar GVCW-M15A",
+    "price": 155.48,
+    "originalPrice": 361.58,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck305cvx1xd24",
+    "url": "https://s.shopee.com.br/3LRhAiehxN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 741,
+    "publishedAt": "2026-10-04T13:05:14.518Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -5229,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 3006,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1009442766-58265284158",
@@ -5736,30 +5784,6 @@
     "checkedAt": "2026-10-21T01:05:13.886Z"
   },
   {
-    "id": "SP1367167422-48701416960",
-    "productId": "SP1367167422-48701416960",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Feminina De Grande Capacidade De Nylon Leve De Ombro De Nicho De Viagem Macia Portátil",
-    "price": 70.99,
-    "originalPrice": 161.34,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821d9-mh1bho2it05kdf",
-    "url": "https://s.shopee.com.br/4B0oKef6qR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 919,
-    "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-21T00:38:58.640Z"
-  },
-  {
     "id": "SP1827560134-22695038756",
     "productId": "SP1827560134-22695038756",
     "marketplace": "shopee",
@@ -5901,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 1579,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6141,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6333,7 +6357,7 @@
     "lowest30d": false,
     "vendas": 1453,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6382,30 +6406,6 @@
     "vendas": 596,
     "publishedAt": "2026-10-02T13:35:18.060Z",
     "checkedAt": "2026-10-21T00:05:14.382Z"
-  },
-  {
-    "id": "SP1542039589-20699836502",
-    "productId": "SP1542039589-20699836502",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador de Pó 2 em 1 Sucção Forte 16000Pa Dust Off Silent Fácil de Armazenar GVCW-M15A",
-    "price": 169,
-    "originalPrice": 359.57,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck305cvx1xd24",
-    "url": "https://s.shopee.com.br/3LRhAiehxN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 741,
-    "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7512,30 +7512,6 @@
     "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
-    "id": "MLB4190456415",
-    "productId": "MLB50661985",
-    "marketplace": "ml",
-    "fonte": "MLB1580",
-    "categoria": "Eletrodomésticos",
-    "title": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
-    "price": 499,
-    "originalPrice": 899,
-    "discount": 44,
-    "base": "media",
-    "averagePrice": 899,
-    "sellers": 12,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_958953-MLA99468178484_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4190456415?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
-  },
-  {
     "id": "SP885771154-23693478424",
     "productId": "SP885771154-23693478424",
     "marketplace": "shopee",
@@ -7558,6 +7534,30 @@
     "vendas": 763,
     "publishedAt": "2026-10-14T14:05:21.785Z",
     "checkedAt": "2026-10-21T00:38:58.640Z"
+  },
+  {
+    "id": "MLB4190456415",
+    "productId": "MLB50661985",
+    "marketplace": "ml",
+    "fonte": "MLB1580",
+    "categoria": "Eletrodomésticos",
+    "title": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
+    "price": 499,
+    "originalPrice": 879,
+    "discount": 43,
+    "base": "media",
+    "averagePrice": 879,
+    "sellers": 13,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958953-MLA99468178484_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4190456415?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-15T21:35:19.314Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7597,7 +7597,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlnjovwekr2dd2",
-    "url": "https://s.shopee.com.br/5fpcqTsxW5",
+    "url": "https://s.shopee.com.br/AKbWI7NDKi",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": 1419,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB7192750156",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:35:12.602Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB5109948772",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -8013,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB3767156322",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB4568569781",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": true,
     "vendas": 1887,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1242044379-22692993343",
@@ -8256,6 +8256,30 @@
     "checkedAt": "2026-10-21T01:35:20.133Z"
   },
   {
+    "id": "MLB4153226076",
+    "productId": "MLB12706806",
+    "marketplace": "ml",
+    "fonte": "MLB420409",
+    "categoria": "Bebês",
+    "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
+    "price": 361.91,
+    "originalPrice": 495,
+    "discount": 27,
+    "base": "media",
+    "averagePrice": 495,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_873321-MLA99481911382_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4153226076?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-14T13:35:13.532Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
+  },
+  {
     "id": "MLB5574851656",
     "productId": "MLB53222689",
     "marketplace": "ml",
@@ -8277,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,31 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
-  },
-  {
-    "id": "MLB4153226076",
-    "productId": "MLB12706806",
-    "marketplace": "ml",
-    "fonte": "MLB420409",
-    "categoria": "Bebês",
-    "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
-    "price": 413.65,
-    "originalPrice": 495,
-    "discount": 16,
-    "base": "media",
-    "averagePrice": 495,
-    "sellers": 7,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_873321-MLA99481911382_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4153226076?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB5830663578",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 1360,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8925,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 6070,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 1488,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -8997,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 757,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -9037,7 +9037,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ms04vb3imy2vc7",
-    "url": "https://s.shopee.com.br/6VOiwNfYmR",
+    "url": "https://s.shopee.com.br/6fiDvNNldO",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 11576,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -9285,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 1527,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9309,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 2864,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 1401,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9654,8 +9654,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-    "price": 69.99,
-    "originalPrice": 212.09,
+    "price": 67.99,
+    "originalPrice": 206.03,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -9666,10 +9666,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1452,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 199,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 457,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9813,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 1206,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9837,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 586,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9861,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 287,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -9877,7 +9877,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbyp1psmlu64f",
-    "url": "https://s.shopee.com.br/2BFjmQ0SQa",
+    "url": "https://s.shopee.com.br/qkQyesm5o",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9885,7 +9885,7 @@
     "lowest30d": false,
     "vendas": 649,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9909,7 +9909,7 @@
     "lowest30d": true,
     "vendas": 281,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9981,7 +9981,7 @@
     "lowest30d": false,
     "vendas": 319,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -10029,7 +10029,7 @@
     "lowest30d": false,
     "vendas": 3786,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -10077,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 22577,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10317,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 116,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10341,7 +10341,7 @@
     "lowest30d": true,
     "vendas": 1475,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10365,7 +10365,7 @@
     "lowest30d": false,
     "vendas": 3923,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -10485,7 +10485,7 @@
     "lowest30d": true,
     "vendas": 1036,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -10557,7 +10557,7 @@
     "lowest30d": true,
     "vendas": 5234,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10701,7 +10701,7 @@
     "lowest30d": true,
     "vendas": 2670,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10710,8 +10710,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
-    "price": 69.99,
-    "originalPrice": 199.97,
+    "price": 69.9,
+    "originalPrice": 199.71,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10725,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 871,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 3393,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -10773,7 +10773,7 @@
     "lowest30d": false,
     "vendas": 808,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10797,7 +10797,7 @@
     "lowest30d": false,
     "vendas": 4079,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -11173,7 +11173,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqg1enae9mgx68",
-    "url": "https://s.shopee.com.br/gQvzf6AQQ",
+    "url": "https://s.shopee.com.br/8pmiVMJzKK",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11181,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 708,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11469,7 +11469,7 @@
     "lowest30d": true,
     "vendas": 351,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -11910,8 +11910,8 @@
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "Fone De Ouvido sem fio Bluetooh 5.2  Compativel  IOS e  Android Sem borracha",
-    "price": 49.98,
-    "originalPrice": 131.53,
+    "price": 49.99,
+    "originalPrice": 131.55,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -11922,10 +11922,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 4037,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   },
   {
     "id": "SP1156409244-23299128342",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-21T01:05:13.886Z"
   },
   {
-    "id": "MLB7076442330",
-    "productId": "MLB20562024",
-    "marketplace": "ml",
-    "fonte": "MLB2526",
-    "categoria": "Ferramentas",
-    "title": "Portátil B&G Mini Compressor",
-    "price": 56.5,
-    "originalPrice": 132,
-    "discount": 57,
-    "base": "media",
-    "averagePrice": 132,
-    "sellers": 12,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_884639-MLA112856291753_062026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7076442330?matt_word=promoninja&matt_tool=19839069",
+    "id": "SP1024791137-58217572948",
+    "productId": "SP1024791137-58217572948",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo Antiestresse Sensorial Kawaii Presente Criativo Fidget",
+    "price": 32.95,
+    "originalPrice": 78.45,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mspwkgl4qrya99",
+    "url": "https://s.shopee.com.br/60SX89qqH8",
     "freeShipping": false,
     "oficial": false,
-    "lojaOficial": true,
-    "loja": "VVSS",
+    "lojaOficial": false,
+    "loja": null,
     "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-21T02:35:14.829Z",
-    "checkedAt": "2026-10-21T02:35:14.829Z"
+    "vendas": 5202,
+    "publishedAt": "2026-10-21T03:05:13.956Z",
+    "checkedAt": "2026-10-21T03:05:13.956Z"
   }
 ]
