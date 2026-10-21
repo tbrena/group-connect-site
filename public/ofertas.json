@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP347988064-9212570285",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -186,10 +186,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 270,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 1493,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP974102638-58210258643",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 1940,
     "publishedAt": "2026-10-20T23:35:25.133Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1032290308-58219263055",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 336,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -957,7 +957,7 @@
     "lowest30d": false,
     "vendas": 4580,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -981,7 +981,7 @@
     "lowest30d": true,
     "vendas": 380,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1028459403-19099850967",
@@ -1005,7 +1005,7 @@
     "lowest30d": true,
     "vendas": 655,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -1053,7 +1053,7 @@
     "lowest30d": true,
     "vendas": 3051,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-20T23:35:25.133Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1125,7 +1125,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB5279469915",
@@ -1149,7 +1149,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB7847665416",
@@ -1173,7 +1173,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1437,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 1060,
     "publishedAt": "2026-10-16T12:35:17.271Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1541348350-58264273644",
@@ -1533,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 882,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1629,7 +1629,7 @@
     "lowest30d": false,
     "vendas": 219,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1566421672-22394353094",
@@ -2061,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 1174,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -2085,7 +2085,7 @@
     "lowest30d": true,
     "vendas": 310,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -2157,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 1461,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -2202,10 +2202,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 327,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -2613,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 660,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -3117,7 +3117,7 @@
     "lowest30d": true,
     "vendas": 1962,
     "publishedAt": "2026-10-16T03:05:12.555Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP409939729-23694671466",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP499950777-47767182971",
@@ -4053,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 523,
     "publishedAt": "2026-10-17T17:35:12.944Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -4077,7 +4077,7 @@
     "lowest30d": true,
     "vendas": 2508,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1905647169-58265421821",
@@ -4125,7 +4125,7 @@
     "lowest30d": false,
     "vendas": 1017,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP279868721-41253171051",
@@ -4149,7 +4149,7 @@
     "lowest30d": false,
     "vendas": 618,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1468415010-22694682919",
@@ -4357,7 +4357,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
-    "url": "https://s.shopee.com.br/6fi90fzIbD",
+    "url": "https://s.shopee.com.br/5AtQ6mrjfJ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4365,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 845,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1023765996-23199129943",
@@ -4704,30 +4704,6 @@
     "checkedAt": "2026-10-21T02:05:16.749Z"
   },
   {
-    "id": "MLB6938947454",
-    "productId": "MLB24544782",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 47.9,
-    "originalPrice": 115.96,
-    "discount": 59,
-    "base": "media",
-    "averagePrice": 115.96,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ASSAI_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
-  },
-  {
     "id": "SP1262623509-44471095165",
     "productId": "SP1262623509-44471095165",
     "marketplace": "shopee",
@@ -4845,7 +4821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -4918,6 +4894,30 @@
     "vendas": 5065,
     "publishedAt": "2026-10-10T03:05:12.633Z",
     "checkedAt": "2026-10-21T00:38:58.640Z"
+  },
+  {
+    "id": "MLB6938947454",
+    "productId": "MLB24544782",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
+    "price": 47.9,
+    "originalPrice": 114.5,
+    "discount": 58,
+    "base": "media",
+    "averagePrice": 114.5,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ASSAI_OFICIAL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-05T15:35:18.528Z",
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5037,7 +5037,7 @@
     "lowest30d": true,
     "vendas": 573,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -5301,7 +5301,7 @@
     "lowest30d": true,
     "vendas": 657,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP376576138-22293577075",
@@ -5325,7 +5325,7 @@
     "lowest30d": true,
     "vendas": 914,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP832040275-22391737343",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 2778,
     "publishedAt": "2026-10-10T12:35:13.030Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5541,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 685,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -5565,7 +5565,7 @@
     "lowest30d": true,
     "vendas": 1408,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 782,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -5973,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 1248,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -5997,7 +5997,7 @@
     "lowest30d": true,
     "vendas": 1364,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1377920727-58200518722",
@@ -6045,7 +6045,7 @@
     "lowest30d": true,
     "vendas": 147,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6141,7 +6141,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": 3861,
     "publishedAt": "2026-10-06T13:05:14.473Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6429,7 +6429,7 @@
     "lowest30d": false,
     "vendas": 2883,
     "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1815920431-58217669269",
@@ -6645,7 +6645,7 @@
     "lowest30d": true,
     "vendas": 595,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 127,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -6685,7 +6685,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-820l6-mnd18l35or297d",
-    "url": "https://s.shopee.com.br/80DZ3OzRRl",
+    "url": "https://s.shopee.com.br/4LKJ7FuuN9",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 183,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP753981666-58208125768",
@@ -6789,7 +6789,7 @@
     "lowest30d": false,
     "vendas": 2815,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6981,7 +6981,7 @@
     "lowest30d": true,
     "vendas": 3735,
     "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -7053,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-07T21:35:27.564Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1783116945-58211448303",
@@ -7102,30 +7102,6 @@
     "vendas": 482,
     "publishedAt": "2026-10-05T12:35:15.197Z",
     "checkedAt": "2026-10-21T00:38:58.640Z"
-  },
-  {
-    "id": "SP1803894758-46013185900",
-    "productId": "SP1803894758-46013185900",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Parafusadeira Furadeira Com 48V Bateria 2 Velocidades Uso Doméstico Com Baterias Duplas E Caixa De Ferramentas",
-    "price": 99.98,
-    "originalPrice": 199.96,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq4jhpqk46xbda",
-    "url": "https://s.shopee.com.br/7VHIUfm4g7",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4885,
-    "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -7221,7 +7197,31 @@
     "lowest30d": false,
     "vendas": 1343,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
+  },
+  {
+    "id": "SP1803894758-46013185900",
+    "productId": "SP1803894758-46013185900",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Parafusadeira Furadeira Com 48V Bateria 2 Velocidades Uso Doméstico Com Baterias Duplas E Caixa De Ferramentas",
+    "price": 99.99,
+    "originalPrice": 196.06,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq4jhpqk46xbda",
+    "url": "https://s.shopee.com.br/7VHIUfm4g7",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4885,
+    "publishedAt": "2026-10-05T03:05:13.235Z",
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 264,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": 2893,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB4190456415",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB7192750156",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:35:12.602Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB5109948772",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -8013,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB3767156322",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB4568569781",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T17:05:19.185Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB4153226076",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB5830663578",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-21T02:05:16.749Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -8805,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 383,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8829,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 2129,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -8853,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 442,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 1411,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 1570,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -8949,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 514,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 5743,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 1815,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -9933,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 2826,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9957,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 1115,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -10053,7 +10053,7 @@
     "lowest30d": false,
     "vendas": 4264,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10125,7 +10125,7 @@
     "lowest30d": false,
     "vendas": 371,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -10197,7 +10197,7 @@
     "lowest30d": true,
     "vendas": 501,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -10413,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 688,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -10461,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 367,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -11205,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 3009,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -11901,7 +11901,7 @@
     "lowest30d": true,
     "vendas": 1326,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-20T23:05:13.818Z"
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-21T01:05:13.886Z"
   },
   {
-    "id": "SP392967703-3492847708",
-    "productId": "SP392967703-3492847708",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "Relógio Analógico Esportivo Masculino Curren Com Pulseira De Couro À Prova D'água 8291 xc",
-    "price": 71.99,
-    "originalPrice": 156.5,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/31fe372a32d8773c57e9920b27aa418e",
-    "url": "https://s.shopee.com.br/7pu6X0Ea3J",
+    "id": "MLB7076442330",
+    "productId": "MLB20562024",
+    "marketplace": "ml",
+    "fonte": "MLB2526",
+    "categoria": "Ferramentas",
+    "title": "Portátil B&G Mini Compressor",
+    "price": 56.5,
+    "originalPrice": 132,
+    "discount": 57,
+    "base": "media",
+    "averagePrice": 132,
+    "sellers": 12,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_884639-MLA112856291753_062026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7076442330?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
+    "lojaOficial": true,
+    "loja": "VVSS",
     "lowest30d": false,
-    "vendas": 542,
-    "publishedAt": "2026-09-23T20:35:20.546Z",
-    "checkedAt": "2026-10-21T00:38:58.640Z"
+    "vendas": null,
+    "publishedAt": "2026-10-21T02:35:14.829Z",
+    "checkedAt": "2026-10-21T02:35:14.829Z"
   }
 ]
