@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP526625785-21099557497",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 1234,
     "publishedAt": "2026-10-22T15:35:14.863Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1367408218-58209240255",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T03:35:12.461Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 1664,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -429,7 +429,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -550,30 +550,6 @@
     "vendas": 181,
     "publishedAt": "2026-10-21T00:38:58.640Z",
     "checkedAt": "2026-10-22T17:35:13.791Z"
-  },
-  {
-    "id": "SP1032290308-58219263055",
-    "productId": "SP1032290308-58219263055",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein Gourmet 900g Refil Concentrado Isolado Suplemento Alimentar",
-    "price": 39.9,
-    "originalPrice": 128.71,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-mtpk4w3ltbeo06",
-    "url": "https://s.shopee.com.br/6fiFWdoJwk",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 150,
-    "publishedAt": "2026-10-20T13:35:16.919Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
   },
   {
     "id": "SP627750190-22594284546",
@@ -744,30 +720,6 @@
     "checkedAt": "2026-10-22T18:05:16.516Z"
   },
   {
-    "id": "SP1314327488-58260755085",
-    "productId": "SP1314327488-58260755085",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Geladeira Mini Minis + 2 Cápsulas Brinquedo Infantil",
-    "price": 113.5,
-    "originalPrice": 354.69,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-moe3iilfssub7f",
-    "url": "https://s.shopee.com.br/20wQA73JLi",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2959,
-    "publishedAt": "2026-10-15T00:51:32.001Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
-  },
-  {
     "id": "SP1543737245-22794158252",
     "productId": "SP1543737245-22794158252",
     "marketplace": "shopee",
@@ -789,7 +741,7 @@
     "lowest30d": false,
     "vendas": 909,
     "publishedAt": "2026-10-16T23:33:11.259Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1482870808-22594152377",
@@ -813,7 +765,7 @@
     "lowest30d": true,
     "vendas": 1482,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -1125,7 +1077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB7690418174",
@@ -1149,7 +1101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB5279469915",
@@ -1173,7 +1125,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB7847665416",
@@ -1197,7 +1149,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1317,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 680,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1581,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 880,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1605,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 881,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1629,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 1759,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -1725,7 +1677,7 @@
     "lowest30d": false,
     "vendas": 214,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-22T15:35:14.863Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1397772996-58211339678",
@@ -2110,6 +2062,30 @@
     "vendas": 1172,
     "publishedAt": "2026-10-01T20:05:19.306Z",
     "checkedAt": "2026-10-22T16:35:14.112Z"
+  },
+  {
+    "id": "SP696313634-20699832545",
+    "productId": "SP696313634-20699832545",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Escaleta Melódica 32 Teclas com Mangueira Instrumento Musical Portátil Escolar Profissional para Estudos e Aprese",
+    "price": 70.99,
+    "originalPrice": 202.83,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8260y-mldw3khebnya75",
+    "url": "https://s.shopee.com.br/113smGvLUW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 317,
+    "publishedAt": "2026-10-01T16:35:14.298Z",
+    "checkedAt": "2026-10-22T17:35:13.791Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -2868,8 +2844,8 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mt9vvgf7sg755d",
-    "url": "https://s.shopee.com.br/4LKKkKxXRc",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mum5zkvhg3r4c8",
+    "url": "https://s.shopee.com.br/1Lgk6AFxq0",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2877,7 +2853,7 @@
     "lowest30d": false,
     "vendas": 2750,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -3141,7 +3117,7 @@
     "lowest30d": false,
     "vendas": 2673,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1193388723-57914922040",
@@ -3541,7 +3517,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maebv3wrc39r88",
-    "url": "https://s.shopee.com.br/8AX3JKB1sO",
+    "url": "https://s.shopee.com.br/1W0AGNNz1T",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3549,7 +3525,7 @@
     "lowest30d": false,
     "vendas": 233,
     "publishedAt": "2026-10-19T22:35:13.573Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -3597,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 187,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -3693,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 287,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP325090428-15388555390",
@@ -3837,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 833,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1424438285-58215805759",
@@ -4317,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 593,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1263228446-18399259395",
@@ -4581,7 +4557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -4725,7 +4701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1588692817-23893972335",
@@ -4821,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 5142,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -4989,7 +4965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T02:35:14.829Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5181,7 +5157,7 @@
     "lowest30d": false,
     "vendas": 3173,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1009442766-58265284158",
@@ -5229,7 +5205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5326,6 +5302,30 @@
     "vendas": 111,
     "publishedAt": "2026-10-02T14:05:14.128Z",
     "checkedAt": "2026-10-22T17:35:13.791Z"
+  },
+  {
+    "id": "SP1386778754-22698715022",
+    "productId": "SP1386778754-22698715022",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Conjunto Lustres Teto Luminária Pendente Bambu Rattan Rústico Trançado Artesanal Fibra Natural",
+    "price": 119,
+    "originalPrice": 276.74,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825as-ms67rbk1ifi881",
+    "url": "https://s.shopee.com.br/5AtRrvumKU",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 227,
+    "publishedAt": "2026-10-01T17:35:14.068Z",
+    "checkedAt": "2026-10-22T16:02:18.727Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -5661,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -5805,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 1620,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6189,7 +6189,7 @@
     "lowest30d": true,
     "vendas": 1553,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6261,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 929,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6285,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 763,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7437,7 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T20:05:13.902Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": 1483,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:37:52.243Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:35:12.602Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB5109948772",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB3767156322",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB3682277189",
@@ -8061,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8253,7 +8253,7 @@
     "lowest30d": true,
     "vendas": 1938,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB4153226076",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB4521286991",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB7854548124",
@@ -8349,7 +8349,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB5830663578",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB6496056012",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T09:35:13.739Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-22T18:05:16.516Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP418872496-23793614115",
@@ -8773,7 +8773,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdp9xzjgpsc937",
-    "url": "https://s.shopee.com.br/5q98awnXcl",
+    "url": "https://s.shopee.com.br/906BKdpfv8",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8781,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 1392,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8949,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 5984,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 1535,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 741,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -9069,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 11879,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -9285,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 1537,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -9309,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 2963,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9325,7 +9325,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-820ls-mo4f628zftvqc5",
-    "url": "https://s.shopee.com.br/3qO4DGv9ga",
+    "url": "https://s.shopee.com.br/70L6wy1Y48",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 1310,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9621,7 +9621,7 @@
     "lowest30d": true,
     "vendas": 1464,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9693,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9717,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 597,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 445,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 1156,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -9813,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 295,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9837,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 292,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -10029,7 +10029,7 @@
     "lowest30d": false,
     "vendas": 3814,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -10053,7 +10053,7 @@
     "lowest30d": false,
     "vendas": 22604,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 108,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10293,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 1462,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -10317,7 +10317,7 @@
     "lowest30d": false,
     "vendas": 3918,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -10392,30 +10392,6 @@
     "checkedAt": "2026-10-22T18:05:16.516Z"
   },
   {
-    "id": "SP696313634-20699832545",
-    "productId": "SP696313634-20699832545",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Escaleta Melódica 32 Teclas com Mangueira Instrumento Musical Portátil Escolar Profissional para Estudos e Aprese",
-    "price": 70.99,
-    "originalPrice": 202.83,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8260y-mldw3khebnya75",
-    "url": "https://s.shopee.com.br/113smGvLUW",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 317,
-    "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-22T17:35:13.791Z"
-  },
-  {
     "id": "SP1331633037-28958988085",
     "productId": "SP1331633037-28958988085",
     "marketplace": "shopee",
@@ -10485,7 +10461,7 @@
     "lowest30d": true,
     "vendas": 1026,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10557,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 5164,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10749,7 +10725,7 @@
     "lowest30d": true,
     "vendas": 2641,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10773,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 903,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10797,7 +10773,7 @@
     "lowest30d": false,
     "vendas": 3383,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -10845,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 784,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10869,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 4191,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -11277,7 +11253,7 @@
     "lowest30d": true,
     "vendas": 736,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -11565,7 +11541,7 @@
     "lowest30d": true,
     "vendas": 342,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -11637,7 +11613,7 @@
     "lowest30d": false,
     "vendas": 652,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -11949,7 +11925,7 @@
     "lowest30d": true,
     "vendas": 3979,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-22T15:05:13.553Z"
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   },
   {
     "id": "SP1224363395-23999243395",
@@ -11976,27 +11952,27 @@
     "checkedAt": "2026-10-22T17:05:15.621Z"
   },
   {
-    "id": "SP1386778754-22698715022",
-    "productId": "SP1386778754-22698715022",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Conjunto Lustres Teto Luminária Pendente Bambu Rattan Rústico Trançado Artesanal Fibra Natural",
-    "price": 119,
-    "originalPrice": 276.74,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825as-ms67rbk1ifi881",
-    "url": "https://s.shopee.com.br/5AtRrvumKU",
+    "id": "MLB5150248413",
+    "productId": "MLB64176719",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g",
+    "price": 36.9,
+    "originalPrice": 45.87,
+    "discount": 20,
+    "base": "media",
+    "averagePrice": 45.87,
+    "sellers": 46,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_707622-MLA111154260840_052026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5150248413?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 227,
-    "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-22T16:02:18.727Z"
+    "vendas": null,
+    "publishedAt": "2026-10-22T18:35:15.306Z",
+    "checkedAt": "2026-10-22T18:35:15.306Z"
   }
 ]
