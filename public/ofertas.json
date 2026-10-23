@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 6492,
     "publishedAt": "2026-10-08T12:35:13.204Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1366045948-22993693932",
@@ -285,7 +285,7 @@
     "lowest30d": false,
     "vendas": 5975,
     "publishedAt": "2026-10-09T10:05:15.429Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 2472,
     "publishedAt": "2026-10-21T18:05:16.726Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1275005853-58262654503",
@@ -669,7 +669,7 @@
     "lowest30d": true,
     "vendas": 1423,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1297519240-43765372374",
@@ -717,7 +717,7 @@
     "lowest30d": true,
     "vendas": 640,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -984,30 +984,6 @@
     "checkedAt": "2026-10-23T22:05:13.738Z"
   },
   {
-    "id": "SP1136572611-53716575946",
-    "productId": "SP1136572611-53716575946",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "BRASOY Conjunto Brinquedos Máquinas Construção Escavadeira Carregadeira Trator Caminhão Basculante",
-    "price": 136.21,
-    "originalPrice": 425.66,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms9h4rvxau4n6b",
-    "url": "https://s.shopee.com.br/4qGbRJBLKS",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 567,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T21:21:23.972Z"
-  },
-  {
     "id": "SP1232299933-57358236213",
     "productId": "SP1232299933-57358236213",
     "marketplace": "shopee",
@@ -1182,8 +1158,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
-    "price": 49.9,
-    "originalPrice": 151.21,
+    "price": 48.8,
+    "originalPrice": 147.88,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -1194,10 +1170,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1187,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -1221,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 741,
     "publishedAt": "2026-10-23T04:05:19.715Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1345043704-23694913872",
@@ -1293,7 +1269,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB7690418174",
@@ -1317,7 +1293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB5279469915",
@@ -1341,7 +1317,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB7847665416",
@@ -1365,7 +1341,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1509,7 +1485,7 @@
     "lowest30d": false,
     "vendas": 1835,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -1653,7 +1629,7 @@
     "lowest30d": true,
     "vendas": 7070,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -1677,7 +1653,7 @@
     "lowest30d": false,
     "vendas": 12275,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1869,7 +1845,7 @@
     "lowest30d": false,
     "vendas": 1183,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -2637,7 +2613,7 @@
     "lowest30d": true,
     "vendas": 524,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1157995564-23398026212",
@@ -2685,7 +2661,7 @@
     "lowest30d": true,
     "vendas": 4904,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP866679071-23199528877",
@@ -2709,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 1424,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -2733,7 +2709,7 @@
     "lowest30d": true,
     "vendas": 2188,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -2757,7 +2733,7 @@
     "lowest30d": true,
     "vendas": 288,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -2928,30 +2904,6 @@
     "checkedAt": "2026-10-23T21:21:23.972Z"
   },
   {
-    "id": "SP1634545368-23194887722",
-    "productId": "SP1634545368-23194887722",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Caminhão Dinossauro T-Rex Engole Carrinhos com 4 Carros de Metal Transformável com Pista Rampa e Alça",
-    "price": 72.99,
-    "originalPrice": 202.75,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mln83d4oytxieb",
-    "url": "https://s.shopee.com.br/5AtUWf9Oid",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 981,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T21:05:13.188Z"
-  },
-  {
     "id": "SP1132754268-23195153059",
     "productId": "SP1132754268-23195153059",
     "marketplace": "shopee",
@@ -2973,7 +2925,7 @@
     "lowest30d": true,
     "vendas": 4060,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -3117,7 +3069,7 @@
     "lowest30d": false,
     "vendas": 637,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -3573,7 +3525,7 @@
     "lowest30d": true,
     "vendas": 586,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -4080,6 +4032,30 @@
     "checkedAt": "2026-10-23T22:05:13.738Z"
   },
   {
+    "id": "SP1397772996-29842873054",
+    "productId": "SP1397772996-29842873054",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein Concentrado 1kg Refil - FTW",
+    "price": 75.49,
+    "originalPrice": 193.56,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
+    "url": "https://s.shopee.com.br/9Kj2pD2X3p",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1443,
+    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "checkedAt": "2026-10-23T22:35:13.761Z"
+  },
+  {
     "id": "SP720952207-22797771827",
     "productId": "SP720952207-22797771827",
     "marketplace": "shopee",
@@ -4365,7 +4341,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-10-19T16:35:15.107Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1520921103-58217676479",
@@ -4413,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 9215,
     "publishedAt": "2026-10-10T03:05:12.633Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP979724994-23993275214",
@@ -4536,28 +4512,76 @@
     "checkedAt": "2026-10-23T21:35:12.996Z"
   },
   {
-    "id": "SP1544990534-22199186040",
-    "productId": "SP1544990534-22199186040",
+    "id": "SP341167297-20350419516",
+    "productId": "SP341167297-20350419516",
     "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brinquedo de Estacionamento para Crianças – Cidade, Pista e Estacionamento",
-    "price": 38.9,
-    "originalPrice": 99.74,
-    "discount": 61,
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
+    "price": 39.89,
+    "originalPrice": 99.73,
+    "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq7mo5o2ex012",
-    "url": "https://s.shopee.com.br/8KqUREoOXq",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mq50pcqzlk3k45",
+    "url": "https://s.shopee.com.br/4VdkweNIl3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3108,
+    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "checkedAt": "2026-10-23T22:35:13.761Z"
+  },
+  {
+    "id": "SP1483626750-23293978804",
+    "productId": "SP1483626750-23293978804",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
+    "price": 39.99,
+    "originalPrice": 99.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
+    "url": "https://s.shopee.com.br/W7eOwRHgD",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 271,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T21:35:12.996Z"
+    "vendas": 6164,
+    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "checkedAt": "2026-10-23T22:35:13.761Z"
+  },
+  {
+    "id": "SP337714883-23899122798",
+    "productId": "SP337714883-23899122798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Pantalona Feminina Alfaiataria Wide Leg Tendência Promoção",
+    "price": 39.88,
+    "originalPrice": 99.7,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgu4emddx79hf5",
+    "url": "https://s.shopee.com.br/2VsgYydiSi",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2005,
+    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "checkedAt": "2026-10-23T22:35:13.761Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -4773,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 2292,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -4917,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 978,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -4965,7 +4989,7 @@
     "lowest30d": false,
     "vendas": 570,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -5013,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 2629,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -5085,7 +5109,7 @@
     "lowest30d": false,
     "vendas": 1591,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -5107,9 +5131,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1297,
+    "vendas": 1321,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -5205,7 +5229,7 @@
     "lowest30d": false,
     "vendas": 1322,
     "publishedAt": "2026-10-08T11:05:16.635Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -5253,31 +5277,7 @@
     "lowest30d": false,
     "vendas": 974,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
-  },
-  {
-    "id": "SP325008325-41600786899",
-    "productId": "SP325008325-41600786899",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Pista Dinossauro 2 em 1 Caminhão Cegonha Carro Brinquedo com Rampa Corrida",
-    "price": 99.9,
-    "originalPrice": 249.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
-    "url": "https://s.shopee.com.br/6q1iNUXTsn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 938,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5421,7 +5421,7 @@
     "lowest30d": false,
     "vendas": 437,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-23T20:05:26.284Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5613,7 +5613,7 @@
     "lowest30d": false,
     "vendas": 4906,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB3927361477",
@@ -5637,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -5734,6 +5734,30 @@
     "vendas": 458,
     "publishedAt": "2026-10-10T04:05:11.213Z",
     "checkedAt": "2026-10-23T21:21:23.972Z"
+  },
+  {
+    "id": "SP904620355-41083528216",
+    "productId": "SP904620355-41083528216",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Legging Yoga Flare Wide Leg de treino básica empina bumbum modeladora gringa tecido suplex premium moda feminina",
+    "price": 51.6,
+    "originalPrice": 120,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mrugc84p8q9yd3",
+    "url": "https://s.shopee.com.br/30ox9tXLWS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2915,
+    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "checkedAt": "2026-10-23T22:35:13.761Z"
   },
   {
     "id": "SP874603044-21199848485",
@@ -5973,31 +5997,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
-  },
-  {
-    "id": "SP1507074638-22794668024",
-    "productId": "SP1507074638-22794668024",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Carrinho de Controle Remoto Fórmula 1 Recarregável com Drift, Fumaça e Luzes | brinquedos infantis",
-    "price": 129.8,
-    "originalPrice": 301.86,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mmk0qttzs93430",
-    "url": "https://s.shopee.com.br/AKbakMgxGB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1287,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T22:05:13.738Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": 1710,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6405,7 +6405,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6501,7 +6501,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6573,7 +6573,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6621,7 +6621,7 @@
     "lowest30d": true,
     "vendas": 1781,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 957,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6715,9 +6715,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 796,
+    "vendas": 818,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7413,7 +7413,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T20:05:13.902Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7534,6 +7534,30 @@
     "vendas": 820,
     "publishedAt": "2026-10-14T14:05:21.785Z",
     "checkedAt": "2026-10-23T21:05:13.188Z"
+  },
+  {
+    "id": "MLB7804689946",
+    "productId": "MLB23191928",
+    "marketplace": "ml",
+    "fonte": "MLB1618",
+    "categoria": "Casa e Decoração",
+    "title": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
+    "price": 79.8,
+    "originalPrice": 142.25,
+    "discount": 44,
+    "base": "media",
+    "averagePrice": 142.25,
+    "sellers": 34,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_842482-MLA97781301544_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7804689946?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "LOJA__MAGALU",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-21T22:35:13.285Z",
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7629,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1384111782-23593553623",
@@ -7677,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1574,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7749,31 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
-  },
-  {
-    "id": "MLB7804689946",
-    "productId": "MLB23191928",
-    "marketplace": "ml",
-    "fonte": "MLB1618",
-    "categoria": "Casa e Decoração",
-    "title": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
-    "price": 84,
-    "originalPrice": 142.25,
-    "discount": 41,
-    "base": "media",
-    "averagePrice": 142.25,
-    "sellers": 34,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_842482-MLA97781301544_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7804689946?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "LOJA__MAGALU",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": 3328,
     "publishedAt": "2026-10-23T08:35:13.432Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 2049,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB4153226076",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -8467,9 +8467,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 615,
+    "vendas": 617,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8757,7 +8757,7 @@
     "lowest30d": false,
     "vendas": 115,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8781,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 872,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 1496,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 1620,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9067,9 +9067,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 708,
+    "vendas": 685,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -9118,6 +9118,30 @@
     "vendas": 196,
     "publishedAt": "2026-10-22T23:20:28.981Z",
     "checkedAt": "2026-10-23T21:05:13.188Z"
+  },
+  {
+    "id": "SP1136572611-53716575946",
+    "productId": "SP1136572611-53716575946",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "BRASOY Conjunto Brinquedos Máquinas Construção Escavadeira Carregadeira Trator Caminhão Basculante",
+    "price": 136.21,
+    "originalPrice": 425.66,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms9h4rvxau4n6b",
+    "url": "https://s.shopee.com.br/4qGbRJBLKS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 567,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-23T21:21:23.972Z"
   },
   {
     "id": "SP392239188-58205885907",
@@ -9405,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 1151,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9741,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 1463,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9813,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9837,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 548,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9861,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 423,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9885,7 +9909,7 @@
     "lowest30d": true,
     "vendas": 1073,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9907,9 +9931,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 444,
+    "vendas": 390,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9933,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 307,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -9981,7 +10005,7 @@
     "lowest30d": false,
     "vendas": 258,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10077,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 1797,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10195,9 +10219,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 333,
+    "vendas": 318,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10365,7 +10389,7 @@
     "lowest30d": true,
     "vendas": 1025,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10461,7 +10485,7 @@
     "lowest30d": true,
     "vendas": 4920,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10581,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 2542,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10605,7 +10629,7 @@
     "lowest30d": false,
     "vendas": 3364,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -10725,6 +10749,30 @@
     "lowest30d": false,
     "vendas": 970,
     "publishedAt": "2026-10-23T17:35:13.764Z",
+    "checkedAt": "2026-10-23T21:05:13.188Z"
+  },
+  {
+    "id": "SP1634545368-23194887722",
+    "productId": "SP1634545368-23194887722",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Caminhão Dinossauro T-Rex Engole Carrinhos com 4 Carros de Metal Transformável com Pista Rampa e Alça",
+    "price": 72.99,
+    "originalPrice": 202.75,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mln83d4oytxieb",
+    "url": "https://s.shopee.com.br/5AtUWf9Oid",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 981,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-23T21:05:13.188Z"
   },
   {
@@ -11347,9 +11395,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 331,
+    "vendas": 323,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-23T19:35:14.191Z"
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11616,6 +11664,30 @@
     "checkedAt": "2026-10-23T20:05:26.284Z"
   },
   {
+    "id": "SP1544990534-22199186040",
+    "productId": "SP1544990534-22199186040",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedo de Estacionamento para Crianças – Cidade, Pista e Estacionamento",
+    "price": 38.9,
+    "originalPrice": 99.74,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq7mo5o2ex012",
+    "url": "https://s.shopee.com.br/8KqUREoOXq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 271,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-23T21:35:12.996Z"
+  },
+  {
     "id": "SP972053936-23998448883",
     "productId": "SP972053936-23998448883",
     "marketplace": "shopee",
@@ -11712,27 +11784,27 @@
     "checkedAt": "2026-10-23T20:35:13.151Z"
   },
   {
-    "id": "SP1397772996-29842873054",
-    "productId": "SP1397772996-29842873054",
+    "id": "SP325008325-41600786899",
+    "productId": "SP325008325-41600786899",
     "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein Concentrado 1kg Refil - FTW",
-    "price": 75.49,
-    "originalPrice": 193.56,
-    "discount": 61,
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Pista Dinossauro 2 em 1 Caminhão Cegonha Carro Brinquedo com Rampa Corrida",
+    "price": 99.9,
+    "originalPrice": 249.75,
+    "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
-    "url": "https://s.shopee.com.br/9Kj2pD2X3p",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
+    "url": "https://s.shopee.com.br/6q1iNUXTsn",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
-    "vendas": 1443,
-    "publishedAt": "2026-10-23T22:35:13.761Z",
+    "lowest30d": false,
+    "vendas": 938,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-10-23T22:35:13.761Z"
   },
   {
@@ -11856,147 +11928,75 @@
     "checkedAt": "2026-10-23T21:35:12.996Z"
   },
   {
-    "id": "SP341167297-20350419516",
-    "productId": "SP341167297-20350419516",
+    "id": "SP1459882590-58208571406",
+    "productId": "SP1459882590-58208571406",
     "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
+    "fonte": "shopee:q:tenis",
     "categoria": "Moda e Calçados",
-    "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
-    "price": 39.89,
-    "originalPrice": 99.73,
-    "discount": 60,
+    "title": "TENIS MASCULINO IMPACT O2X CAMINHADA CONFORTAVEL",
+    "price": 36.99,
+    "originalPrice": 90.22,
+    "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mq50pcqzlk3k45",
-    "url": "https://s.shopee.com.br/4VdkweNIl3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3108,
-    "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
-  },
-  {
-    "id": "SP1483626750-23293978804",
-    "productId": "SP1483626750-23293978804",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
-    "price": 39.99,
-    "originalPrice": 99.98,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
-    "url": "https://s.shopee.com.br/W7eOwRHgD",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv9boub8xtana8",
+    "url": "https://s.shopee.com.br/6fiFWZu89B",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 6164,
-    "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "vendas": 1883,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
-    "id": "SP337714883-23899122798",
-    "productId": "SP337714883-23899122798",
+    "id": "SP1495837089-23794414130",
+    "productId": "SP1495837089-23794414130",
     "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Pantalona Feminina Alfaiataria Wide Leg Tendência Promoção",
-    "price": 39.88,
-    "originalPrice": 99.7,
-    "discount": 60,
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgu4emddx79hf5",
-    "url": "https://s.shopee.com.br/2VsgYydiSi",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2005,
-    "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
-  },
-  {
-    "id": "SP1581839156-50912826462",
-    "productId": "SP1581839156-50912826462",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "KIT Aspirador Nasal com Estojo + 2 Seringas com Ponta em Silicone BUBA",
-    "price": 41.9,
-    "originalPrice": 99.76,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mradq3hy73lxb6",
-    "url": "https://s.shopee.com.br/4qGbLJlHuC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 211,
-    "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-23T22:05:13.738Z"
-  },
-  {
-    "id": "SP904620355-41083528216",
-    "productId": "SP904620355-41083528216",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Legging Yoga Flare Wide Leg de treino básica empina bumbum modeladora gringa tecido suplex premium moda feminina",
-    "price": 51.6,
-    "originalPrice": 120,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mrugc84p8q9yd3",
-    "url": "https://s.shopee.com.br/30ox9tXLWS",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
+    "url": "https://s.shopee.com.br/3LRnYTt1CI",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2915,
-    "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-23T22:35:13.761Z"
+    "vendas": 765,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   },
   {
-    "id": "SP952984700-19699847442",
-    "productId": "SP952984700-19699847442",
+    "id": "SP1337284628-22398929943",
+    "productId": "SP1337284628-22398929943",
     "marketplace": "shopee",
-    "fonte": "shopee:q:oculos de sol",
-    "categoria": "Moda e Calçados",
-    "title": "Óculos de Sol masculino e feminina3",
-    "price": 34.99,
-    "originalPrice": 79.52,
-    "discount": 56,
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvy-mcm1xh32lsqfab",
-    "url": "https://s.shopee.com.br/4fxB8xIKwj",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
+    "url": "https://s.shopee.com.br/5VWI8Sklnv",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 866,
-    "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-23T22:05:13.738Z"
+    "vendas": 294,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-23T23:05:14.500Z"
   }
 ]
