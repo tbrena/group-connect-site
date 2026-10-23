@@ -156,6 +156,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MOVEIS100"
+    ],
+    "desconto": "R$ 100 OFF",
+    "limite": null,
+    "minimo": "R$ 399",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16743",
+    "quando": "2026-10-23T13:38:41+00:00",
+    "id": "ml:MOVEIS100",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MOVEIS200"
+    ],
+    "desconto": "R$ 200 OFF",
+    "limite": null,
+    "minimo": "R$ 1599",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16742",
+    "quando": "2026-10-23T13:38:33+00:00",
+    "id": "ml:MOVEIS200",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SITE2310",
       "40SITE2310",
       "150TODOSITE2310"
@@ -293,34 +321,6 @@
     "origem": "avidaefeitadedesconto/16729",
     "quando": "2026-10-23T01:34:22+00:00",
     "id": "ml:CAMISAMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MOVEIS100"
-    ],
-    "desconto": "R$ 100 OFF",
-    "limite": null,
-    "minimo": "R$ 399",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16728",
-    "quando": "2026-10-22T21:09:03+00:00",
-    "id": "ml:MOVEIS100",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MOVEIS200"
-    ],
-    "desconto": "R$ 200 OFF",
-    "limite": null,
-    "minimo": "R$ 1.599",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16727",
-    "quando": "2026-10-22T21:08:51+00:00",
-    "id": "ml:MOVEIS200",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
