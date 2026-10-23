@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 170,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 850,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 1932,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 727,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 539,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -1341,7 +1341,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB7690418174",
@@ -1365,7 +1365,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB5279469915",
@@ -1389,7 +1389,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB7847665416",
@@ -1413,7 +1413,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1581,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 674,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -1677,6 +1677,30 @@
     "lowest30d": false,
     "vendas": 3844,
     "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T17:35:13.764Z"
+  },
+  {
+    "id": "SP1392120718-23794055036",
+    "productId": "SP1392120718-23794055036",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
+    "price": 33.99,
+    "originalPrice": 99.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ravh-mah6auxtim0jf0",
+    "url": "https://s.shopee.com.br/4qGbLFiMsh",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1428,
+    "publishedAt": "2026-10-23T17:35:13.764Z",
     "checkedAt": "2026-10-23T17:35:13.764Z"
   },
   {
@@ -1869,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 4890,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -2109,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 1153,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1615578976-22794424936",
@@ -2157,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 243,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1620481153-58252252799",
@@ -2181,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 996,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1620609719-58202247794",
@@ -2205,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 793,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1569321608-58252253531",
@@ -2229,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 644,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -2253,7 +2277,7 @@
     "lowest30d": true,
     "vendas": 2423,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -2973,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 417,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -3021,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 952,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -3117,7 +3141,7 @@
     "lowest30d": false,
     "vendas": 142,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -3165,7 +3189,7 @@
     "lowest30d": false,
     "vendas": 679,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -3597,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 258,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -3645,7 +3669,7 @@
     "lowest30d": false,
     "vendas": 1563,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1193388723-57914922040",
@@ -3885,7 +3909,7 @@
     "lowest30d": true,
     "vendas": 8270,
     "publishedAt": "2026-10-06T12:35:13.324Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1724093444-58255929142",
@@ -3909,7 +3933,7 @@
     "lowest30d": true,
     "vendas": 438,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1060511679-21199846359",
@@ -3934,6 +3958,30 @@
     "vendas": 400,
     "publishedAt": "2026-10-05T21:35:38.087Z",
     "checkedAt": "2026-10-23T15:05:15.554Z"
+  },
+  {
+    "id": "SP1104525762-23998143402",
+    "productId": "SP1104525762-23998143402",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Ventilador Portátil de Mesa com Nebulização Umidificador USB Recarregável, Silencioso Casa e Escritório",
+    "price": 37.99,
+    "originalPrice": 97.41,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5i-m7t9v8w4ukrr0b",
+    "url": "https://s.shopee.com.br/3VlDknVyvT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 974,
+    "publishedAt": "2026-10-23T17:35:13.764Z",
+    "checkedAt": "2026-10-23T17:35:13.764Z"
   },
   {
     "id": "SP447122151-22196501710",
@@ -3981,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 4244,
     "publishedAt": "2026-10-23T03:05:13.101Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -4320,30 +4368,6 @@
     "checkedAt": "2026-10-23T17:05:51.989Z"
   },
   {
-    "id": "SP1765235104-58264020472",
-    "productId": "SP1765235104-58264020472",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein Isolado Iso Blend Complex Zero Açucar Recuperação Muscular Isolate Protein 2Kg - Pretorian",
-    "price": 89.9,
-    "originalPrice": 230.51,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mqdlpnb6u7lt7c",
-    "url": "https://s.shopee.com.br/60SYta4gW8",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 555,
-    "publishedAt": "2026-10-03T13:35:13.459Z",
-    "checkedAt": "2026-10-23T17:05:51.989Z"
-  },
-  {
     "id": "SP1467811745-58208944738",
     "productId": "SP1467811745-58208944738",
     "marketplace": "shopee",
@@ -4437,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 1667,
     "publishedAt": "2026-10-21T12:05:13.064Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP499950777-47767182971",
@@ -4872,6 +4896,30 @@
     "checkedAt": "2026-10-23T17:35:13.764Z"
   },
   {
+    "id": "SP519073932-18297614947",
+    "productId": "SP519073932-18297614947",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Jogo de Lençol de Malha 100% Algodão com Elástico e Fronha com Zíper Estampada",
+    "price": 60.9,
+    "originalPrice": 148.54,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqet5qzthjj3e9",
+    "url": "https://s.shopee.com.br/gR2Naty43",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1357,
+    "publishedAt": "2026-10-23T17:35:13.764Z",
+    "checkedAt": "2026-10-23T17:35:13.764Z"
+  },
+  {
     "id": "SP540093765-22697559457",
     "productId": "SP540093765-22697559457",
     "marketplace": "shopee",
@@ -4917,7 +4965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5253,7 +5301,7 @@
     "lowest30d": true,
     "vendas": 1556,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP392967703-16178844715",
@@ -5277,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 455,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1581839156-50912826462",
@@ -5397,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 533,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP717396632-58208662452",
@@ -5421,7 +5469,7 @@
     "lowest30d": false,
     "vendas": 572,
     "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -5494,30 +5542,6 @@
     "vendas": 5618,
     "publishedAt": "2026-10-08T03:05:13.237Z",
     "checkedAt": "2026-10-23T16:35:13.975Z"
-  },
-  {
-    "id": "MLB6938947454",
-    "productId": "MLB24544782",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 46.4,
-    "originalPrice": 109,
-    "discount": 57,
-    "base": "media",
-    "averagePrice": 109,
-    "sellers": 22,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ASSAI_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5613,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -5637,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 436,
     "publishedAt": "2026-10-20T15:01:29.025Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1005356303-58256596821",
@@ -5686,6 +5710,30 @@
     "vendas": 2766,
     "publishedAt": "2026-10-10T12:35:13.030Z",
     "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "MLB6938947454",
+    "productId": "MLB24544782",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
+    "price": 46.4,
+    "originalPrice": 104.45,
+    "discount": 56,
+    "base": "media",
+    "averagePrice": 104.45,
+    "sellers": 23,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ASSAI_OFICIAL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-05T15:35:18.528Z",
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5829,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 157,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1719146158-22094949932",
@@ -5853,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 876,
     "publishedAt": "2026-10-18T13:05:14.119Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP409535179-8540648652",
@@ -5925,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 1771,
     "publishedAt": "2026-10-09T13:35:12.573Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP790605924-45602042438",
@@ -5997,7 +6045,7 @@
     "lowest30d": true,
     "vendas": 888,
     "publishedAt": "2026-10-07T13:35:16.557Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1414801857-51155037778",
@@ -6045,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6141,7 +6189,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6285,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 1757,
     "publishedAt": "2026-10-03T14:05:13.062Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB7863332624",
@@ -6309,7 +6357,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6381,7 +6429,7 @@
     "lowest30d": true,
     "vendas": 2453,
     "publishedAt": "2026-10-15T08:05:14.092Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -6574,30 +6622,6 @@
     "vendas": 547,
     "publishedAt": "2026-10-03T17:05:15.960Z",
     "checkedAt": "2026-10-23T17:05:51.989Z"
-  },
-  {
-    "id": "SP1125543872-22194698355",
-    "productId": "SP1125543872-22194698355",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis infantil casual moderno e confortável modinha",
-    "price": 49.9,
-    "originalPrice": 106.17,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mt98kmgxdjb4fe",
-    "url": "https://s.shopee.com.br/3g4dx45YEG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2031,
-    "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP654329517-23298924695",
@@ -6837,7 +6861,7 @@
     "lowest30d": true,
     "vendas": 132,
     "publishedAt": "2026-10-16T16:05:14.050Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1739085880-23994832430",
@@ -7141,7 +7165,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mt4yjn4uisqtb4",
-    "url": "https://s.shopee.com.br/7faow70067",
+    "url": "https://s.shopee.com.br/2qVZPe9SJW",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7149,7 +7173,7 @@
     "lowest30d": false,
     "vendas": 190,
     "publishedAt": "2026-10-21T19:35:15.142Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP898761179-58257621281",
@@ -7245,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7293,7 +7317,7 @@
     "lowest30d": true,
     "vendas": 1169,
     "publishedAt": "2026-10-02T17:05:30.370Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP769360044-21399092679",
@@ -7317,7 +7341,7 @@
     "lowest30d": true,
     "vendas": 1021,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7365,7 +7389,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7416,30 +7440,6 @@
     "checkedAt": "2026-10-23T17:35:13.764Z"
   },
   {
-    "id": "SP1551412164-58210681509",
-    "productId": "SP1551412164-58210681509",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Infantil Casual Masculino Menino Confortável Solado Macio 26 ao 33 Envio Rápido",
-    "price": 48.99,
-    "originalPrice": 90.72,
-    "discount": 46,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-moa2ac2pjbwmad",
-    "url": "https://s.shopee.com.br/20wPy0Btbq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2094,
-    "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-23T16:35:13.975Z"
-  },
-  {
     "id": "MLB4196892855",
     "productId": "MLB28263665",
     "marketplace": "ml",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T20:05:13.902Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7846,30 +7846,6 @@
     "vendas": 957,
     "publishedAt": "2026-10-20T03:05:13.240Z",
     "checkedAt": "2026-10-23T17:05:51.989Z"
-  },
-  {
-    "id": "SP1045085918-23799188673",
-    "productId": "SP1045085918-23799188673",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
-    "price": 71.99,
-    "originalPrice": 118.02,
-    "discount": 39,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mspv9fbn4npg06",
-    "url": "https://s.shopee.com.br/70L67IokFt",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4881,
-    "publishedAt": "2026-10-15T08:05:14.092Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7917,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB3767156322",
@@ -7989,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1601586606-22998865188",
@@ -8014,6 +7990,30 @@
     "vendas": 3295,
     "publishedAt": "2026-10-23T08:35:13.432Z",
     "checkedAt": "2026-10-23T16:05:20.158Z"
+  },
+  {
+    "id": "SP1045085918-23799188673",
+    "productId": "SP1045085918-23799188673",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
+    "price": 80,
+    "originalPrice": 119.4,
+    "discount": 33,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mspv9fbn4npg06",
+    "url": "https://s.shopee.com.br/70L67IokFt",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4881,
+    "publishedAt": "2026-10-15T08:05:14.092Z",
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB5830663578",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB7071544106",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB3682277189",
@@ -8335,11 +8335,11 @@
     "categoria": "Eletrodomésticos",
     "title": "Prancha Philco PPR10 Titanium Digital Bivolt 230°C",
     "price": 128.57,
-    "originalPrice": 163.29,
-    "discount": 21,
+    "originalPrice": 159.99,
+    "discount": 20,
     "base": "media",
-    "averagePrice": 163.29,
-    "sellers": 29,
+    "averagePrice": 159.99,
+    "sellers": 30,
     "image": "https://http2.mlstatic.com/D_NQ_NP_991248-MLA119460988971_102026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3682277189?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB4521286991",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB7854548124",
@@ -8397,7 +8397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": 2706,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP418872496-23793614115",
@@ -8565,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 631,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1243,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -9216,30 +9216,6 @@
     "checkedAt": "2026-10-23T17:05:51.989Z"
   },
   {
-    "id": "SP1512108548-22898395702",
-    "productId": "SP1512108548-22898395702",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
-    "price": 213.89,
-    "originalPrice": 668.41,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f7ture5cdtfe",
-    "url": "https://s.shopee.com.br/2BFqAM1FTo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3833,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
-  },
-  {
     "id": "SP1443626941-22898696968",
     "productId": "SP1443626941-22898696968",
     "marketplace": "shopee",
@@ -9333,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 226,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9549,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 369,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -9621,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 545,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -10104,30 +10080,6 @@
     "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
-    "id": "SP1392120718-23794055036",
-    "productId": "SP1392120718-23794055036",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
-    "price": 33.99,
-    "originalPrice": 99.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ravh-mah6auxtim0jf0",
-    "url": "https://s.shopee.com.br/4qGbLFiMsh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1428,
-    "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
-  },
-  {
     "id": "SP1192668514-44902618171",
     "productId": "SP1192668514-44902618171",
     "marketplace": "shopee",
@@ -10318,6 +10270,30 @@
     "vendas": 1025,
     "publishedAt": "2026-09-29T01:35:16.139Z",
     "checkedAt": "2026-10-23T16:05:20.158Z"
+  },
+  {
+    "id": "SP1512108548-22898395702",
+    "productId": "SP1512108548-22898395702",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
+    "price": 229.99,
+    "originalPrice": 657.11,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f7ture5cdtfe",
+    "url": "https://s.shopee.com.br/2BFqAM1FTo",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3833,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -10773,7 +10749,7 @@
     "lowest30d": true,
     "vendas": 296,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -10869,7 +10845,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -10893,7 +10869,7 @@
     "lowest30d": true,
     "vendas": 1225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP397374716-23895517734",
@@ -10941,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 2007,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -10965,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 159,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -10989,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 320,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP791283306-17184102852",
@@ -11005,7 +10981,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-22120-5g7waxupmplv20",
-    "url": "https://s.shopee.com.br/4fxCV8ZCOk",
+    "url": "https://s.shopee.com.br/9V2TTPBcW0",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11013,7 +10989,7 @@
     "lowest30d": true,
     "vendas": 153,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1359974122-58205769513",
@@ -11037,7 +11013,7 @@
     "lowest30d": true,
     "vendas": 225,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1863279175-58217517406",
@@ -11061,7 +11037,7 @@
     "lowest30d": false,
     "vendas": 714,
     "publishedAt": "2026-09-29T01:05:14.799Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -11085,7 +11061,7 @@
     "lowest30d": false,
     "vendas": 5633,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1263962250-20897785759",
@@ -11133,7 +11109,7 @@
     "lowest30d": true,
     "vendas": 1458,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -11181,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 1458,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -11205,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 1986,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP883941882-58261389057",
@@ -11541,7 +11517,7 @@
     "lowest30d": false,
     "vendas": 3116,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP717396632-23094269331",
@@ -11589,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 158,
     "publishedAt": "2026-09-24T13:05:17.787Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11664,28 +11640,28 @@
     "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
-    "id": "SP1104525762-23998143402",
-    "productId": "SP1104525762-23998143402",
+    "id": "SP1765235104-58264020472",
+    "productId": "SP1765235104-58264020472",
     "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Ventilador Portátil de Mesa com Nebulização Umidificador USB Recarregável, Silencioso Casa e Escritório",
-    "price": 37.99,
-    "originalPrice": 97.41,
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein Isolado Iso Blend Complex Zero Açucar Recuperação Muscular Isolate Protein 2Kg - Pretorian",
+    "price": 89.9,
+    "originalPrice": 230.51,
     "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5i-m7t9v8w4ukrr0b",
-    "url": "https://s.shopee.com.br/3VlDknVyvT",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mqdlpnb6u7lt7c",
+    "url": "https://s.shopee.com.br/60SYta4gW8",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 974,
-    "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "vendas": 555,
+    "publishedAt": "2026-10-03T13:35:13.459Z",
+    "checkedAt": "2026-10-23T17:05:51.989Z"
   },
   {
     "id": "SP1630828144-58200483130",
@@ -11832,28 +11808,28 @@
     "checkedAt": "2026-10-23T15:05:15.554Z"
   },
   {
-    "id": "SP519073932-18297614947",
-    "productId": "SP519073932-18297614947",
+    "id": "SP1613759296-43667445132",
+    "productId": "SP1613759296-43667445132",
     "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
+    "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
-    "title": "Jogo de Lençol de Malha 100% Algodão com Elástico e Fronha com Zíper Estampada",
-    "price": 60.9,
-    "originalPrice": 148.54,
+    "title": "Garrafa 800ml/1000ml Inox Térmica Com Infusor Prata Dourada De Água Café Parede Dupla Com Alça-Para envio imediato",
+    "price": 32.69,
+    "originalPrice": 79.73,
     "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqet5qzthjj3e9",
-    "url": "https://s.shopee.com.br/gR2Naty43",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824hi-meiay4l437d37e",
+    "url": "https://s.shopee.com.br/5VWI8TfpWc",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1357,
-    "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-23T17:35:13.764Z"
+    "vendas": 2054,
+    "publishedAt": "2026-10-23T17:51:43.252Z",
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP1224304136-23992959022",
@@ -11973,7 +11949,7 @@
     "lowest30d": false,
     "vendas": 2864,
     "publishedAt": "2026-10-01T00:35:14.270Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T17:51:43.252Z"
   },
   {
     "id": "SP470159845-41282373928",
@@ -11998,5 +11974,29 @@
     "vendas": 1215,
     "publishedAt": "2026-10-02T18:05:15.490Z",
     "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1125543872-22194698355",
+    "productId": "SP1125543872-22194698355",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis infantil casual moderno e confortável modinha",
+    "price": 49.9,
+    "originalPrice": 106.17,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mt98kmgxdjb4fe",
+    "url": "https://s.shopee.com.br/3g4dx45YEG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2031,
+    "publishedAt": "2026-10-03T13:05:14.688Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   }
 ]
