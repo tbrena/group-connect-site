@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP902298974-19597455368",
+    "productId": "SP902298974-19597455368",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 3 Luminaria de emergencia 30 leds 2W Branco Frio",
+    "price": 39.9,
+    "originalPrice": 133,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu3sumfeuio007",
+    "url": "https://s.shopee.com.br/80Dd74f711",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1573,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP717333338-22698518082",
@@ -54,14 +78,14 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Esfregão Elétrico 9 in 1 Sem fio Escova De Limpeza Pesada Multiuso 360 Recarregável Envio Imediato",
-    "price": 59.99,
-    "originalPrice": 199.97,
+    "price": 24.99,
+    "originalPrice": 83.3,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgz-m9vww697kd6188",
-    "url": "https://s.shopee.com.br/8pmmKFvYlW",
+    "url": "https://s.shopee.com.br/7VHOq042yo",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -69,7 +93,7 @@
     "lowest30d": false,
     "vendas": 110,
     "publishedAt": "2026-10-22T20:35:14.423Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1367408218-58209240255",
@@ -93,7 +117,7 @@
     "lowest30d": false,
     "vendas": 1401,
     "publishedAt": "2026-10-21T16:35:13.635Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -213,7 +237,7 @@
     "lowest30d": true,
     "vendas": 130,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -408,6 +432,78 @@
     "checkedAt": "2026-10-23T13:05:15.300Z"
   },
   {
+    "id": "SP1735575008-58205886633",
+    "productId": "SP1735575008-58205886633",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
+    "price": 43.09,
+    "originalPrice": 139,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
+    "url": "https://s.shopee.com.br/50a1XZufK4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 434,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP869193731-22797545994",
+    "productId": "SP869193731-22797545994",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
+    "price": 33.75,
+    "originalPrice": 108.87,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkg3crkndkfcc",
+    "url": "https://s.shopee.com.br/1gJZZRcQDo",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5811,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP451945494-23898670446",
+    "productId": "SP451945494-23898670446",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
+    "price": 46.9,
+    "originalPrice": 151.29,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
+    "url": "https://s.shopee.com.br/8pmk6c6nxT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5314,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
     "id": "SP1518769899-58202303858",
     "productId": "SP1518769899-58202303858",
     "marketplace": "shopee",
@@ -525,7 +621,7 @@
     "lowest30d": false,
     "vendas": 187,
     "publishedAt": "2026-10-21T00:38:58.640Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP627750190-22594284546",
@@ -549,7 +645,7 @@
     "lowest30d": false,
     "vendas": 623,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1043771437-23893706063",
@@ -573,7 +669,7 @@
     "lowest30d": true,
     "vendas": 564,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1566421672-22394353094",
@@ -621,7 +717,7 @@
     "lowest30d": false,
     "vendas": 300,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -984,28 +1080,52 @@
     "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
-    "id": "SP1598954691-22198852865",
-    "productId": "SP1598954691-22198852865",
+    "id": "SP717396632-20997608223",
+    "productId": "SP717396632-20997608223",
     "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Parafusadeira Elétrica Sem Fio USB Recarregável com Maleta Kit Ferramentas Uso Doméstico",
-    "price": 37.98,
-    "originalPrice": 118.69,
-    "discount": 68,
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+    "price": 99.99,
+    "originalPrice": 303,
+    "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-mdmxnzloetx812",
-    "url": "https://s.shopee.com.br/5q9AemXSGG",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
+    "url": "https://s.shopee.com.br/4fxB8vsCog",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
-    "vendas": 3196,
-    "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "lowest30d": false,
+    "vendas": 3826,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1408367819-23498780349",
+    "productId": "SP1408367819-23498780349",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Ventilador 80w de Teto Silencioso LED 3 Cores Bulbo 12w com Controle Bivolt 5 Pás Branco Potente",
+    "price": 41.65,
+    "originalPrice": 126.21,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820lc-mqxwzkyykv0nc7",
+    "url": "https://s.shopee.com.br/40hULi7sH4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 22771,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -1125,7 +1245,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB7690418174",
@@ -1149,7 +1269,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB5279469915",
@@ -1173,7 +1293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB7847665416",
@@ -1197,7 +1317,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1245,7 +1365,7 @@
     "lowest30d": true,
     "vendas": 627,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -1413,7 +1533,7 @@
     "lowest30d": true,
     "vendas": 1262,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -2037,7 +2157,7 @@
     "lowest30d": true,
     "vendas": 3052,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -2061,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 3289,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -2085,7 +2205,7 @@
     "lowest30d": true,
     "vendas": 4925,
     "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1855468372-58265041953",
@@ -2109,7 +2229,7 @@
     "lowest30d": true,
     "vendas": 878,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1192668514-44902618171",
@@ -2133,30 +2253,6 @@
     "lowest30d": false,
     "vendas": 333,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
-  },
-  {
-    "id": "SP1404748748-22298939116",
-    "productId": "SP1404748748-22298939116",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Caixa de Ferramentas Profissional 14/16/18/20/23 Polegadas - Bolsa de Armazenamento Multiuso para Ferramentas",
-    "price": 34.99,
-    "originalPrice": 99.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258b-metxplkloidgcf",
-    "url": "https://s.shopee.com.br/4B0uY5jI47",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1508,
-    "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-23T12:51:45.233Z"
   },
   {
@@ -2205,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 1003,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -2976,6 +3072,30 @@
     "checkedAt": "2026-10-23T15:05:15.554Z"
   },
   {
+    "id": "SP458929927-23198020257",
+    "productId": "SP458929927-23198020257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer fritadeira elétrica Sem Óleo que vira fogão 5L Amvox ARF 1150 1500W 2 em 1",
+    "price": 329.9,
+    "originalPrice": 891.62,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
+    "url": "https://s.shopee.com.br/BUo4Re0W5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 604,
+    "publishedAt": "2026-09-25T13:35:20.026Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
     "id": "SP1661007426-23299713686",
     "productId": "SP1661007426-23299713686",
     "marketplace": "shopee",
@@ -2997,7 +3117,7 @@
     "lowest30d": false,
     "vendas": 2822,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -3093,7 +3213,7 @@
     "lowest30d": true,
     "vendas": 947,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP816024645-40014204621",
@@ -3576,30 +3696,6 @@
     "checkedAt": "2026-10-23T13:05:15.300Z"
   },
   {
-    "id": "SP543131983-22892811239",
-    "productId": "SP543131983-22892811239",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa De Som Bluetooth Hi-Fi USB Radio Fm Alto Falante Speaker Painel LED RGB 50W",
-    "price": 114.99,
-    "originalPrice": 302.61,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-ms32xdh3083s56",
-    "url": "https://s.shopee.com.br/6q1hFY7RUA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 324,
-    "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
-  },
-  {
     "id": "SP447122151-22196501710",
     "productId": "SP447122151-22196501710",
     "marketplace": "shopee",
@@ -3621,7 +3717,7 @@
     "lowest30d": false,
     "vendas": 1121,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP378597608-22916640404",
@@ -3646,30 +3742,6 @@
     "vendas": 4244,
     "publishedAt": "2026-10-23T03:05:13.101Z",
     "checkedAt": "2026-10-23T14:05:16.186Z"
-  },
-  {
-    "id": "SP944725778-22694061313",
-    "productId": "SP944725778-22694061313",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Máquina De Cabelo e Barba Homens Profissional Máquina De Elétrico",
-    "price": 95.88,
-    "originalPrice": 245.85,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maebv3wrc39r88",
-    "url": "https://s.shopee.com.br/1W0AGNNz1T",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 306,
-    "publishedAt": "2026-10-19T22:35:13.573Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -3717,7 +3789,7 @@
     "lowest30d": false,
     "vendas": 189,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -4077,7 +4149,7 @@
     "lowest30d": false,
     "vendas": 613,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1412882242-23799040346",
@@ -4245,7 +4317,7 @@
     "lowest30d": true,
     "vendas": 2430,
     "publishedAt": "2026-10-02T03:05:15.523Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1905647169-58265421821",
@@ -4293,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 972,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP279868721-41253171051",
@@ -4317,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 644,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1468415010-22694682919",
@@ -4416,30 +4488,6 @@
     "checkedAt": "2026-10-23T13:35:18.224Z"
   },
   {
-    "id": "SP458929927-23198020257",
-    "productId": "SP458929927-23198020257",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer fritadeira elétrica Sem Óleo que vira fogão 5L Amvox ARF 1150 1500W 2 em 1",
-    "price": 359.9,
-    "originalPrice": 899.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
-    "url": "https://s.shopee.com.br/8pmkCewBVF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 604,
-    "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
     "id": "SP1661007426-58207680669",
     "productId": "SP1661007426-58207680669",
     "marketplace": "shopee",
@@ -4533,7 +4581,7 @@
     "lowest30d": false,
     "vendas": 917,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1023765996-23199129943",
@@ -4608,54 +4656,6 @@
     "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
-    "id": "SP499950777-23292945743",
-    "productId": "SP499950777-23292945743",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino",
-    "price": 79.96,
-    "originalPrice": 199.9,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mrinmyko7pc401",
-    "url": "https://s.shopee.com.br/8AX4bMPyVC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1831,
-    "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-23T13:35:18.224Z"
-  },
-  {
-    "id": "SP1573953914-58255860212",
-    "productId": "SP1573953914-58255860212",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Inova Teclado e Mouse Sem Fio ABNT2",
-    "price": 79.98,
-    "originalPrice": 199.95,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ml657lh1buh160",
-    "url": "https://s.shopee.com.br/5fpj1osal3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 607,
-    "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-23T13:35:18.224Z"
-  },
-  {
     "id": "SP540093765-22697559457",
     "productId": "SP540093765-22697559457",
     "marketplace": "shopee",
@@ -4701,7 +4701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5181,7 +5181,7 @@
     "lowest30d": true,
     "vendas": 605,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -5373,7 +5373,7 @@
     "lowest30d": true,
     "vendas": 622,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP376576138-22293577075",
@@ -5397,7 +5397,7 @@
     "lowest30d": true,
     "vendas": 880,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1162454632-23698857639",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -5517,7 +5517,31 @@
     "lowest30d": false,
     "vendas": 2766,
     "publishedAt": "2026-10-10T12:35:13.030Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "MLB6938947454",
+    "productId": "MLB24544782",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
+    "price": 46.4,
+    "originalPrice": 104.45,
+    "discount": 56,
+    "base": "media",
+    "averagePrice": 104.45,
+    "sellers": 23,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ASSAI_OFICIAL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-05T15:35:18.528Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5613,7 +5637,7 @@
     "lowest30d": false,
     "vendas": 715,
     "publishedAt": "2026-10-03T22:35:11.407Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1699108974-58256078419",
@@ -5637,7 +5661,7 @@
     "lowest30d": true,
     "vendas": 1419,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1468415010-58266111748",
@@ -5685,7 +5709,7 @@
     "lowest30d": false,
     "vendas": 151,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -5781,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 887,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -5925,7 +5949,7 @@
     "lowest30d": false,
     "vendas": 1215,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -5949,7 +5973,7 @@
     "lowest30d": true,
     "vendas": 1418,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB3332109715",
@@ -5959,11 +5983,11 @@
     "categoria": "Mercado",
     "title": "Vodka Smirnoff 1,75L",
     "price": 50.36,
-    "originalPrice": 109.85,
+    "originalPrice": 108.93,
     "discount": 54,
     "base": "media",
-    "averagePrice": 109.85,
-    "sellers": 10,
+    "averagePrice": 108.93,
+    "sellers": 11,
     "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -5973,7 +5997,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6069,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6085,7 +6109,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxerkni4ltxb84",
-    "url": "https://s.shopee.com.br/4qGbubq7sE",
+    "url": "https://s.shopee.com.br/5VWKQIVpQd",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6093,31 +6117,7 @@
     "lowest30d": false,
     "vendas": 4075,
     "publishedAt": "2026-10-06T13:05:14.473Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
-    "id": "MLB6938947454",
-    "productId": "MLB24544782",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 47.9,
-    "originalPrice": 104.45,
-    "discount": 54,
-    "base": "media",
-    "averagePrice": 104.45,
-    "sellers": 23,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ASSAI_OFICIAL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1371998281-23294401445",
@@ -6453,7 +6453,7 @@
     "lowest30d": false,
     "vendas": 2862,
     "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1815920431-58217669269",
@@ -6669,7 +6669,7 @@
     "lowest30d": true,
     "vendas": 649,
     "publishedAt": "2026-10-05T10:35:13.710Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP423833774-40304992640",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 123,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP939446263-49809333926",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": 175,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP753981666-58208125768",
@@ -6933,7 +6933,7 @@
     "lowest30d": true,
     "vendas": 2296,
     "publishedAt": "2026-10-21T17:05:12.379Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1034396314-23897904339",
@@ -7005,7 +7005,7 @@
     "lowest30d": true,
     "vendas": 4695,
     "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -7197,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 1366,
     "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1803894758-46013185900",
@@ -7221,7 +7221,7 @@
     "lowest30d": false,
     "vendas": 4638,
     "publishedAt": "2026-10-05T03:05:13.235Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1738211204-58205403979",
@@ -7237,7 +7237,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8258t-ms51v5mh5vk13e",
-    "url": "https://s.shopee.com.br/5q98Z2DgIf",
+    "url": "https://s.shopee.com.br/1BO0kwG0W",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 269,
     "publishedAt": "2026-10-04T23:35:12.830Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB1942049788",
@@ -7269,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T20:05:13.902Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7557,7 +7557,7 @@
     "lowest30d": true,
     "vendas": 2862,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB3767156322",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1601586606-22998865188",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB5812393646",
@@ -8263,11 +8263,11 @@
     "categoria": "Informática",
     "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
     "price": 172,
-    "originalPrice": 232.94,
-    "discount": 26,
+    "originalPrice": 235.87,
+    "discount": 27,
     "base": "media",
-    "averagePrice": 232.94,
-    "sellers": 39,
+    "averagePrice": 235.87,
+    "sellers": 38,
     "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8493,7 +8493,7 @@
     "lowest30d": false,
     "vendas": 579,
     "publishedAt": "2026-10-01T15:05:15.177Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -8688,30 +8688,6 @@
     "checkedAt": "2026-10-23T15:05:15.554Z"
   },
   {
-    "id": "SP902298974-19597455368",
-    "productId": "SP902298974-19597455368",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 3 Luminaria de emergencia 30 leds 2W Branco Frio",
-    "price": 39.9,
-    "originalPrice": 133,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu3sumfeuio007",
-    "url": "https://s.shopee.com.br/80Dd74f711",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1573,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
-  },
-  {
     "id": "SP935729147-22298450798",
     "productId": "SP935729147-22298450798",
     "marketplace": "shopee",
@@ -8877,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 371,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8901,55 +8877,7 @@
     "lowest30d": true,
     "vendas": 2083,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
-    "id": "SP1735575008-58205886633",
-    "productId": "SP1735575008-58205886633",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
-    "price": 43.09,
-    "originalPrice": 139,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
-    "url": "https://s.shopee.com.br/50a1XZufK4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 434,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
-    "id": "SP869193731-22797545994",
-    "productId": "SP869193731-22797545994",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
-    "price": 33.75,
-    "originalPrice": 108.87,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkg3crkndkfcc",
-    "url": "https://s.shopee.com.br/1gJZZRcQDo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5811,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8973,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 1505,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8997,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1328,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1311372885-27470665108",
@@ -9021,7 +8949,7 @@
     "lowest30d": false,
     "vendas": 504,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1692696819-58202717993",
@@ -9072,30 +9000,6 @@
     "checkedAt": "2026-10-23T12:35:13.180Z"
   },
   {
-    "id": "SP451945494-23898670446",
-    "productId": "SP451945494-23898670446",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
-    "price": 46.9,
-    "originalPrice": 151.29,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-    "url": "https://s.shopee.com.br/8pmk6c6nxT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5314,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
     "id": "SP1284769631-23097971890",
     "productId": "SP1284769631-23097971890",
     "marketplace": "shopee",
@@ -9142,6 +9046,30 @@
     "vendas": 196,
     "publishedAt": "2026-10-22T23:20:28.981Z",
     "checkedAt": "2026-10-23T13:35:18.224Z"
+  },
+  {
+    "id": "SP1598954691-22198852865",
+    "productId": "SP1598954691-22198852865",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Parafusadeira Elétrica Sem Fio USB Recarregável com Maleta Kit Ferramentas Uso Doméstico",
+    "price": 37.98,
+    "originalPrice": 118.69,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-mdmxnzloetx812",
+    "url": "https://s.shopee.com.br/5q9AemXSGG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3196,
+    "publishedAt": "2026-10-02T12:05:14.623Z",
+    "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -9381,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 1729,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -10029,7 +9957,7 @@
     "lowest30d": false,
     "vendas": 2917,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -10053,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 1048,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -10125,55 +10053,7 @@
     "lowest30d": false,
     "vendas": 4233,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
-  },
-  {
-    "id": "SP717396632-20997608223",
-    "productId": "SP717396632-20997608223",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
-    "url": "https://s.shopee.com.br/4fxB8vsCog",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3826,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
-  },
-  {
-    "id": "SP1408367819-23498780349",
-    "productId": "SP1408367819-23498780349",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Ventilador 80w de Teto Silencioso LED 3 Cores Bulbo 12w com Controle Bivolt 5 Pás Branco Potente",
-    "price": 41.65,
-    "originalPrice": 126.21,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lc-mqxwzkyykv0nc7",
-    "url": "https://s.shopee.com.br/40hULi7sH4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 22771,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:35:13.180Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10197,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 341,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -10221,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 495,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -10413,7 +10293,31 @@
     "lowest30d": false,
     "vendas": 722,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1404748748-22298939116",
+    "productId": "SP1404748748-22298939116",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Caixa de Ferramentas Profissional 14/16/18/20/23 Polegadas - Bolsa de Armazenamento Multiuso para Ferramentas",
+    "price": 34.99,
+    "originalPrice": 99.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258b-metxplkloidgcf",
+    "url": "https://s.shopee.com.br/4B0uY5jI47",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1508,
+    "publishedAt": "2026-10-02T12:05:14.623Z",
+    "checkedAt": "2026-10-23T12:51:45.233Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -10533,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 404,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -11253,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 2815,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:05:13.113Z"
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -11736,6 +11640,30 @@
     "checkedAt": "2026-10-23T13:05:15.300Z"
   },
   {
+    "id": "SP543131983-22892811239",
+    "productId": "SP543131983-22892811239",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa De Som Bluetooth Hi-Fi USB Radio Fm Alto Falante Speaker Painel LED RGB 50W",
+    "price": 114.99,
+    "originalPrice": 302.61,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-ms32xdh3083s56",
+    "url": "https://s.shopee.com.br/6q1hFY7RUA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 324,
+    "publishedAt": "2026-10-02T12:35:19.029Z",
+    "checkedAt": "2026-10-23T13:05:15.300Z"
+  },
+  {
     "id": "SP1677892241-58202842410",
     "productId": "SP1677892241-58202842410",
     "marketplace": "shopee",
@@ -11928,6 +11856,54 @@
     "checkedAt": "2026-10-23T12:51:45.233Z"
   },
   {
+    "id": "SP499950777-23292945743",
+    "productId": "SP499950777-23292945743",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino",
+    "price": 79.96,
+    "originalPrice": 199.9,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mrinmyko7pc401",
+    "url": "https://s.shopee.com.br/8AX4bMPyVC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1831,
+    "publishedAt": "2026-10-02T12:35:19.029Z",
+    "checkedAt": "2026-10-23T13:35:18.224Z"
+  },
+  {
+    "id": "SP1573953914-58255860212",
+    "productId": "SP1573953914-58255860212",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Inova Teclado e Mouse Sem Fio ABNT2",
+    "price": 79.98,
+    "originalPrice": 199.95,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ml657lh1buh160",
+    "url": "https://s.shopee.com.br/5fpj1osal3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 607,
+    "publishedAt": "2026-10-02T12:35:19.029Z",
+    "checkedAt": "2026-10-23T13:35:18.224Z"
+  },
+  {
     "id": "SP1737398657-23899314269",
     "productId": "SP1737398657-23899314269",
     "marketplace": "shopee",
@@ -11998,5 +11974,29 @@
     "vendas": 2362,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-10-23T13:05:15.300Z"
+  },
+  {
+    "id": "MLB7868262590",
+    "productId": "MLB56408764",
+    "marketplace": "ml",
+    "fonte": "MLB199407",
+    "categoria": "Beleza",
+    "title": "Creme Clareador para Axilas Virilha 60g",
+    "price": 99,
+    "originalPrice": 187,
+    "discount": 47,
+    "base": "media",
+    "averagePrice": 187,
+    "sellers": 16,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_946781-MLA116325720710_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7868262590?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-23T15:35:14.318Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
   }
 ]
