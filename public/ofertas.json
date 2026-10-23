@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 1650,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -429,7 +429,31 @@
     "lowest30d": true,
     "vendas": 615,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1735575008-58255873721",
+    "productId": "SP1735575008-58255873721",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein 900g Muito Barato Bom e Saboroso - Massa Muscular Academia Fitness Treino Tênis Camiseta ENVIO RAPIDO",
+    "price": 43.09,
+    "originalPrice": 139,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
+    "url": "https://s.shopee.com.br/2gC6lI3Y3q",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 371,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -840,28 +864,52 @@
     "checkedAt": "2026-10-23T16:05:20.158Z"
   },
   {
-    "id": "SP1763539024-58257809093",
-    "productId": "SP1763539024-58257809093",
+    "id": "SP1847771333-58214309634",
+    "productId": "SP1847771333-58214309634",
     "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
-    "price": 38.8,
-    "originalPrice": 125.16,
-    "discount": 69,
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica 900ML Com Alça Aço Inoxidável Isolamento Térmico Com Canudo Para Academia Trabalho Caminhada",
+    "price": 31.99,
+    "originalPrice": 99.97,
+    "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msf1h2hp9vd2ff",
-    "url": "https://s.shopee.com.br/5AtRjrCRHa",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mqp5spdtxj4177",
+    "url": "https://s.shopee.com.br/4fxB8wj0De",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1532,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1103946075-58202615709",
+    "productId": "SP1103946075-58202615709",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
+    "price": 59.88,
+    "originalPrice": 187.13,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
+    "url": "https://s.shopee.com.br/80Dd74Eqms",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 836,
-    "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "vendas": 3097,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1543737245-22794158252",
@@ -885,7 +933,7 @@
     "lowest30d": true,
     "vendas": 928,
     "publishedAt": "2026-10-16T23:33:11.259Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1482870808-22594152377",
@@ -909,7 +957,7 @@
     "lowest30d": true,
     "vendas": 1467,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -1056,28 +1104,76 @@
     "checkedAt": "2026-10-23T15:05:15.554Z"
   },
   {
-    "id": "SP392239188-58205885907",
-    "productId": "SP392239188-58205885907",
+    "id": "SP1114645438-19997803637",
+    "productId": "SP1114645438-19997803637",
     "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
-    "price": 42,
-    "originalPrice": 131.25,
-    "discount": 68,
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso)",
+    "price": 99,
+    "originalPrice": 300,
+    "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mrpdqaab6ex033",
-    "url": "https://s.shopee.com.br/8V9tlqYzPO",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrs4kxqeojra8c",
+    "url": "https://s.shopee.com.br/50a26NXxIi",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 290,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP328666563-23794371672",
+    "productId": "SP328666563-23794371672",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador de carro retrátil, carregador rápido de para carro 4 em 1 para iPhone e Android",
+    "price": 42.95,
+    "originalPrice": 130.15,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-medq3132jp4y45",
+    "url": "https://s.shopee.com.br/1W0B3sG3FP",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 799,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
+    "vendas": 2917,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP397374716-22697307193",
+    "productId": "SP397374716-22697307193",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Com Led RGB Portátil USB FM TWS",
+    "price": 99.99,
+    "originalPrice": 303,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquly5gqlxdn10",
+    "url": "https://s.shopee.com.br/5fpiKloOnA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1440,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -1269,7 +1365,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB7690418174",
@@ -1293,7 +1389,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB5279469915",
@@ -1317,7 +1413,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB7847665416",
@@ -1341,7 +1437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1461,7 +1557,7 @@
     "lowest30d": false,
     "vendas": 709,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -1749,7 +1845,7 @@
     "lowest30d": false,
     "vendas": 861,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -1773,7 +1869,7 @@
     "lowest30d": true,
     "vendas": 910,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -1797,7 +1893,55 @@
     "lowest30d": true,
     "vendas": 1781,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1056621160-58256763000",
+    "productId": "SP1056621160-58256763000",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Kit Suporte de Notebook+Mouse Sem Fio+Mouse Pad",
+    "price": 34.99,
+    "originalPrice": 99.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mq95l752ups2cf",
+    "url": "https://s.shopee.com.br/5AtU1fXIQj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 772,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1585429562-58201056244",
+    "productId": "SP1585429562-58201056244",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
+    "price": 51.99,
+    "originalPrice": 148.54,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
+    "url": "https://s.shopee.com.br/3qO49P8VcD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4307,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -1893,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 215,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1397772996-58211339678",
@@ -2256,6 +2400,54 @@
     "checkedAt": "2026-10-23T16:05:20.158Z"
   },
   {
+    "id": "SP1791620681-58261016170",
+    "productId": "SP1791620681-58261016170",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2026 Chamada De Frequência Cardíaca Bluetooth À Prova D'água Iwo s10 Sport Smart Watch",
+    "price": 40.99,
+    "originalPrice": 113.86,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqg1enae9mgx68",
+    "url": "https://s.shopee.com.br/gR2NXzViI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 751,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1468415010-23194993945",
+    "productId": "SP1468415010-23194993945",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
+    "price": 49.99,
+    "originalPrice": 138.86,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+    "url": "https://s.shopee.com.br/3LRnYV5bnW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2815,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
     "id": "SP433494801-40378530289",
     "productId": "SP433494801-40378530289",
     "marketplace": "shopee",
@@ -2325,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 1348,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -2349,7 +2541,7 @@
     "lowest30d": false,
     "vendas": 975,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP328666563-58255491703",
@@ -2373,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 403,
     "publishedAt": "2026-10-17T19:35:11.457Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -2397,7 +2589,7 @@
     "lowest30d": true,
     "vendas": 1627,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -2421,7 +2613,7 @@
     "lowest30d": true,
     "vendas": 827,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -3429,7 +3621,7 @@
     "lowest30d": true,
     "vendas": 141,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP414544347-19672086438",
@@ -3741,7 +3933,7 @@
     "lowest30d": false,
     "vendas": 507,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-10-23T13:05:15.300Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP684149869-20299774133",
@@ -3813,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 4242,
     "publishedAt": "2026-10-14T04:05:14.334Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -3909,7 +4101,7 @@
     "lowest30d": false,
     "vendas": 243,
     "publishedAt": "2026-10-08T11:35:16.622Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -4101,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 4850,
     "publishedAt": "2026-10-23T05:35:17.393Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -4317,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 2546,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -4389,7 +4581,7 @@
     "lowest30d": false,
     "vendas": 1496,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -4413,7 +4605,7 @@
     "lowest30d": false,
     "vendas": 1297,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -4608,30 +4800,6 @@
     "checkedAt": "2026-10-23T13:35:18.224Z"
   },
   {
-    "id": "SP1630828144-58200483130",
-    "productId": "SP1630828144-58200483130",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa de Lavar Tênis Sapatos Malha Lavanderia Anti Deformação",
-    "price": 17.8,
-    "originalPrice": 44.5,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgvu9h7zec5cab",
-    "url": "https://s.shopee.com.br/4B0uXz3eDT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3255,
-    "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
-  },
-  {
     "id": "SP540093765-22697559457",
     "productId": "SP540093765-22697559457",
     "marketplace": "shopee",
@@ -4677,7 +4845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -4725,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 1476,
     "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP706485941-24714753678",
@@ -4749,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 435,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -4869,31 +5037,7 @@
     "lowest30d": true,
     "vendas": 547,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
-  },
-  {
-    "id": "SP1500399435-23699354590",
-    "productId": "SP1500399435-23699354590",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Casual Branco Dia a Dia Confortável Premium - 34 ao 43 | Promoção",
-    "price": 36.8,
-    "originalPrice": 89.76,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml3h6soz65fke2",
-    "url": "https://s.shopee.com.br/7famiWaIMB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1057,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T15:05:15.554Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1493485510-19498092485",
@@ -5253,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 10511,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -5301,7 +5445,7 @@
     "lowest30d": true,
     "vendas": 5618,
     "publishedAt": "2026-10-08T03:05:13.237Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1507074638-22794668024",
@@ -5352,30 +5496,6 @@
     "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
-    "id": "SP376576138-22293577075",
-    "productId": "SP376576138-22293577075",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
-    "price": 42.9,
-    "originalPrice": 99.77,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr0hvyoa6adg6e",
-    "url": "https://s.shopee.com.br/20wRC9nfge",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 880,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
     "id": "SP1162454632-23698857639",
     "productId": "SP1162454632-23698857639",
     "marketplace": "shopee",
@@ -5421,7 +5541,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -5502,12 +5622,12 @@
     "fonte": "MLB264051",
     "categoria": "Casa e Decoração",
     "title": "Amaciante Downy Concentrado Brisa Intenso 3L Rende 12L",
-    "price": 46.4,
-    "originalPrice": 104.45,
+    "price": 47.9,
+    "originalPrice": 109,
     "discount": 56,
     "base": "media",
-    "averagePrice": 104.45,
-    "sellers": 23,
+    "averagePrice": 109,
+    "sellers": 22,
     "image": "https://http2.mlstatic.com/D_NQ_NP_622255-MLA99452527752_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-6938947454?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -5517,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-05T15:35:18.528Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP952984700-19699847442",
@@ -5565,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 1032,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP998773037-58260622031",
@@ -5574,8 +5694,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Carregador Portátil Power Bank Turbo 20000mAh 22.5W Premium iPhone Samsung Xiaomi",
-    "price": 79.98,
-    "originalPrice": 181.77,
+    "price": 79.99,
+    "originalPrice": 181.8,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -5586,10 +5706,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 813,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5614,54 +5734,6 @@
     "vendas": 715,
     "publishedAt": "2026-10-03T22:35:11.407Z",
     "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
-    "id": "SP1699108974-58256078419",
-    "productId": "SP1699108974-58256078419",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Esportivo Leve Macio Confortável Tênis Branco Esportivo Caminhada Corrida Academia Fitness",
-    "price": 57,
-    "originalPrice": 129.55,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-moax1g0ei7er45",
-    "url": "https://s.shopee.com.br/9pfHKNyWQw",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1419,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
-    "id": "SP1468415010-58266111748",
-    "productId": "SP1468415010-58266111748",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "TOMI MITO Bolsa Transversal Feminina Pequena Formato Curvo com Pingente e Alça Regulável Casual TM9508",
-    "price": 43.99,
-    "originalPrice": 99.98,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-msj9bri2xeyvb6",
-    "url": "https://s.shopee.com.br/3qO4FTF5BD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 194,
-    "publishedAt": "2026-10-02T15:05:14.598Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
   },
   {
     "id": "SP1746399846-23599652703",
@@ -5853,7 +5925,7 @@
     "lowest30d": true,
     "vendas": 652,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1777133462-58216130219",
@@ -5904,54 +5976,6 @@
     "checkedAt": "2026-10-23T13:35:18.224Z"
   },
   {
-    "id": "SP470159845-41282373928",
-    "productId": "SP470159845-41282373928",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Chunky Feminino Branco Off White Plataforma Casual Confortável",
-    "price": 49.9,
-    "originalPrice": 110.89,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdu4kwuae4j17",
-    "url": "https://s.shopee.com.br/60SYlLD2xe",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1215,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
-    "id": "SP1788702793-58210080994",
-    "productId": "SP1788702793-58210080994",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
-    "price": 89.99,
-    "originalPrice": 199.98,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnowkr27c54w02",
-    "url": "https://s.shopee.com.br/1qczngSqBE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1418,
-    "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
     "id": "MLB3332109715",
     "productId": "MLB18308305",
     "marketplace": "ml",
@@ -5973,7 +5997,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6069,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6165,7 +6189,7 @@
     "lowest30d": true,
     "vendas": 1733,
     "publishedAt": "2026-10-04T17:35:17.145Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP341167297-41073432899",
@@ -6264,6 +6288,30 @@
     "checkedAt": "2026-10-23T13:05:15.300Z"
   },
   {
+    "id": "MLB7863332624",
+    "productId": "MLB18596028",
+    "marketplace": "ml",
+    "fonte": "MLB7069",
+    "categoria": "Casa e Decoração",
+    "title": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
+    "price": 136,
+    "originalPrice": 288.6,
+    "discount": 53,
+    "base": "media",
+    "averagePrice": 288.6,
+    "sellers": 27,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_798191-MLA99474077760_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7863332624?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-23T16:05:20.158Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
     "id": "SP1805200864-58267718302",
     "productId": "SP1805200864-58267718302",
     "marketplace": "shopee",
@@ -6357,7 +6405,7 @@
     "lowest30d": false,
     "vendas": 599,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6549,7 +6597,7 @@
     "lowest30d": false,
     "vendas": 2031,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1259086167-46111240879",
@@ -6717,30 +6765,6 @@
     "lowest30d": true,
     "vendas": 1273,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-23T14:35:12.695Z"
-  },
-  {
-    "id": "SP646978651-23498090481",
-    "productId": "SP646978651-23498090481",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:protetor solar",
-    "categoria": "Beleza",
-    "title": "kit 3 Antissinais, Protetor solar 70FPS DANDAS, 150 ml -Toque Seco ROSTO E CORPO VEGANO UVA/UVB",
-    "price": 38.38,
-    "originalPrice": 79.96,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-msfu5yd7tddz69",
-    "url": "https://s.shopee.com.br/8fTKbN6tpn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 763,
-    "publishedAt": "2026-10-02T13:35:18.060Z",
     "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
@@ -7077,31 +7101,7 @@
     "lowest30d": false,
     "vendas": 491,
     "publishedAt": "2026-09-24T02:05:15.166Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
-  },
-  {
-    "id": "SP1521699574-23898692172",
-    "productId": "SP1521699574-23898692172",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
-    "price": 57.77,
-    "originalPrice": 115.54,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwy-mbw84yf3pvcl00",
-    "url": "https://s.shopee.com.br/7famuWm8dl",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 12558,
-    "publishedAt": "2026-10-02T13:05:16.871Z",
-    "checkedAt": "2026-10-23T14:05:16.186Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7293,7 +7293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7437,7 +7437,7 @@
     "lowest30d": false,
     "vendas": 2094,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB4196892855",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T20:05:13.902Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7686,8 +7686,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Carregador Turbo 120w Fonte Usb Carregador + cabo Ultra Rápido 120w Usb C Turbo",
-    "price": 25.88,
-    "originalPrice": 44.62,
+    "price": 25.99,
+    "originalPrice": 44.81,
     "discount": 42,
     "base": "vendedor",
     "averagePrice": null,
@@ -7698,10 +7698,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 3528,
     "publishedAt": "2026-10-06T10:05:14.943Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": 230,
     "publishedAt": "2026-10-06T10:05:14.943Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB5578077858",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T15:35:13.618Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB3767156322",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1601586606-22998865188",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": 224,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB5812393646",
@@ -8263,11 +8263,11 @@
     "categoria": "Informática",
     "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
     "price": 172,
-    "originalPrice": 235.87,
-    "discount": 27,
+    "originalPrice": 232.94,
+    "discount": 26,
     "base": "media",
-    "averagePrice": 235.87,
-    "sellers": 38,
+    "averagePrice": 232.94,
+    "sellers": 39,
     "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": 798,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8688,6 +8688,30 @@
     "checkedAt": "2026-10-23T15:05:15.554Z"
   },
   {
+    "id": "SP1763539024-58257809093",
+    "productId": "SP1763539024-58257809093",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
+    "price": 38.8,
+    "originalPrice": 125.16,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msf1h2hp9vd2ff",
+    "url": "https://s.shopee.com.br/5AtRjrCRHa",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 836,
+    "publishedAt": "2026-10-02T13:49:41.861Z",
+    "checkedAt": "2026-10-23T16:05:20.158Z"
+  },
+  {
     "id": "SP935729147-22298450798",
     "productId": "SP935729147-22298450798",
     "marketplace": "shopee",
@@ -8757,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 935,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -8805,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 871,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -8830,30 +8854,6 @@
     "vendas": 483,
     "publishedAt": "2026-09-24T18:35:18.047Z",
     "checkedAt": "2026-10-23T13:05:15.300Z"
-  },
-  {
-    "id": "SP1735575008-58255873721",
-    "productId": "SP1735575008-58255873721",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein 900g Muito Barato Bom e Saboroso - Massa Muscular Academia Fitness Treino Tênis Camiseta ENVIO RAPIDO",
-    "price": 43.09,
-    "originalPrice": 139,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
-    "url": "https://s.shopee.com.br/2gC6lI3Y3q",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 371,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 375,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1489642206-24194076610",
@@ -9046,6 +9046,30 @@
     "vendas": 196,
     "publishedAt": "2026-10-22T23:20:28.981Z",
     "checkedAt": "2026-10-23T13:35:18.224Z"
+  },
+  {
+    "id": "SP392239188-58205885907",
+    "productId": "SP392239188-58205885907",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
+    "price": 42,
+    "originalPrice": 131.25,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mrpdqaab6ex033",
+    "url": "https://s.shopee.com.br/8V9tlqYzPO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 799,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -9093,7 +9117,7 @@
     "lowest30d": true,
     "vendas": 1183,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9141,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 204,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9310,54 +9334,6 @@
     "vendas": 1729,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-23T15:35:14.318Z"
-  },
-  {
-    "id": "SP1847771333-58214309634",
-    "productId": "SP1847771333-58214309634",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica 900ML Com Alça Aço Inoxidável Isolamento Térmico Com Canudo Para Academia Trabalho Caminhada",
-    "price": 31.99,
-    "originalPrice": 99.97,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mqp5spdtxj4177",
-    "url": "https://s.shopee.com.br/4fxB8wj0De",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1532,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
-    "id": "SP1103946075-58202615709",
-    "productId": "SP1103946075-58202615709",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-    "price": 59.88,
-    "originalPrice": 187.13,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
-    "url": "https://s.shopee.com.br/80Dd74Eqms",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3097,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9573,7 +9549,7 @@
     "lowest30d": false,
     "vendas": 238,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -9765,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 572,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -9888,30 +9864,6 @@
     "checkedAt": "2026-10-23T16:05:20.158Z"
   },
   {
-    "id": "SP1114645438-19997803637",
-    "productId": "SP1114645438-19997803637",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso)",
-    "price": 99,
-    "originalPrice": 300,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrs4kxqeojra8c",
-    "url": "https://s.shopee.com.br/50a26NXxIi",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 290,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
     "id": "SP1658165638-58261940206",
     "productId": "SP1658165638-58261940206",
     "marketplace": "shopee",
@@ -9934,30 +9886,6 @@
     "vendas": 298,
     "publishedAt": "2026-09-23T16:05:18.085Z",
     "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
-    "id": "SP328666563-23794371672",
-    "productId": "SP328666563-23794371672",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Carregador de carro retrátil, carregador rápido de para carro 4 em 1 para iPhone e Android",
-    "price": 42.95,
-    "originalPrice": 130.15,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-medq3132jp4y45",
-    "url": "https://s.shopee.com.br/1W0B3sG3FP",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2917,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -10006,30 +9934,6 @@
     "vendas": 274,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
-    "id": "SP397374716-22697307193",
-    "productId": "SP397374716-22697307193",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Com Led RGB Portátil USB FM TWS",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquly5gqlxdn10",
-    "url": "https://s.shopee.com.br/5fpiKloOnA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1440,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T13:35:18.224Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10149,7 +10053,7 @@
     "lowest30d": true,
     "vendas": 1906,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1043389652-23998793385",
@@ -10293,7 +10197,7 @@
     "lowest30d": true,
     "vendas": 1508,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -10680,54 +10584,6 @@
     "checkedAt": "2026-10-23T16:05:20.158Z"
   },
   {
-    "id": "SP1056621160-58256763000",
-    "productId": "SP1056621160-58256763000",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Kit Suporte de Notebook+Mouse Sem Fio+Mouse Pad",
-    "price": 34.99,
-    "originalPrice": 99.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mq95l752ups2cf",
-    "url": "https://s.shopee.com.br/5AtU1fXIQj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 772,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
-    "id": "SP1585429562-58201056244",
-    "productId": "SP1585429562-58201056244",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
-    "price": 51.99,
-    "originalPrice": 148.54,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
-    "url": "https://s.shopee.com.br/3qO49P8VcD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4307,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
     "id": "SP526625785-58202148501",
     "productId": "SP526625785-58202148501",
     "marketplace": "shopee",
@@ -10773,7 +10629,7 @@
     "lowest30d": true,
     "vendas": 1013,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1569804599-22094455907",
@@ -10893,31 +10749,7 @@
     "lowest30d": false,
     "vendas": 1241,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
-  },
-  {
-    "id": "SP1127030290-50914065614",
-    "productId": "SP1127030290-50914065614",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Relógio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc ",
-    "price": 108.99,
-    "originalPrice": 302.75,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259p-mqp7i7vu7jf344",
-    "url": "https://s.shopee.com.br/3B8OeSxfNy",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 199,
-    "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -10941,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 144,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11013,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 457,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11037,7 +10869,7 @@
     "lowest30d": true,
     "vendas": 2124,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -11086,54 +10918,6 @@
     "vendas": 1225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-23T13:35:18.224Z"
-  },
-  {
-    "id": "SP1791620681-58261016170",
-    "productId": "SP1791620681-58261016170",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2026 Chamada De Frequência Cardíaca Bluetooth À Prova D'água Iwo s10 Sport Smart Watch",
-    "price": 40.99,
-    "originalPrice": 113.86,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqg1enae9mgx68",
-    "url": "https://s.shopee.com.br/gR2NXzViI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 751,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
-  },
-  {
-    "id": "SP1468415010-23194993945",
-    "productId": "SP1468415010-23194993945",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
-    "price": 49.99,
-    "originalPrice": 138.86,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
-    "url": "https://s.shopee.com.br/3LRnYV5bnW",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2815,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T15:35:14.318Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -11533,7 +11317,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mf6j39swdiq533",
-    "url": "https://s.shopee.com.br/5VWInR5o8B",
+    "url": "https://s.shopee.com.br/5LCuDyJbEj",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11541,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 1738,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -11565,7 +11349,7 @@
     "lowest30d": true,
     "vendas": 1927,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -11589,7 +11373,7 @@
     "lowest30d": false,
     "vendas": 628,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11637,7 +11421,7 @@
     "lowest30d": true,
     "vendas": 242,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -11709,7 +11493,7 @@
     "lowest30d": true,
     "vendas": 246,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1700984919-58205247989",
@@ -11734,6 +11518,30 @@
     "vendas": 801,
     "publishedAt": "2026-09-29T12:35:18.138Z",
     "checkedAt": "2026-10-23T15:05:15.554Z"
+  },
+  {
+    "id": "SP1127030290-50914065614",
+    "productId": "SP1127030290-50914065614",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Relógio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc ",
+    "price": 112.99,
+    "originalPrice": 297.34,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259p-mqp7i7vu7jf344",
+    "url": "https://s.shopee.com.br/3B8OeSxfNy",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 199,
+    "publishedAt": "2026-09-28T23:35:18.557Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   },
   {
     "id": "SP1430771203-22094984499",
@@ -11877,7 +11685,31 @@
     "lowest30d": false,
     "vendas": 928,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-23T12:51:45.233Z"
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
+    "id": "SP1630828144-58200483130",
+    "productId": "SP1630828144-58200483130",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa de Lavar Tênis Sapatos Malha Lavanderia Anti Deformação",
+    "price": 17.8,
+    "originalPrice": 44.5,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgvu9h7zec5cab",
+    "url": "https://s.shopee.com.br/4B0uXz3eDT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3255,
+    "publishedAt": "2026-10-02T18:35:15.170Z",
+    "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -11952,6 +11784,102 @@
     "checkedAt": "2026-10-23T14:35:12.695Z"
   },
   {
+    "id": "SP1500399435-23699354590",
+    "productId": "SP1500399435-23699354590",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Casual Branco Dia a Dia Confortável Premium - 34 ao 43 | Promoção",
+    "price": 36.8,
+    "originalPrice": 89.76,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml3h6soz65fke2",
+    "url": "https://s.shopee.com.br/7famiWaIMB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1057,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T15:05:15.554Z"
+  },
+  {
+    "id": "SP376576138-22293577075",
+    "productId": "SP376576138-22293577075",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
+    "price": 42.9,
+    "originalPrice": 99.77,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr0hvyoa6adg6e",
+    "url": "https://s.shopee.com.br/20wRC9nfge",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 880,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1699108974-58256078419",
+    "productId": "SP1699108974-58256078419",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Esportivo Leve Macio Confortável Tênis Branco Esportivo Caminhada Corrida Academia Fitness",
+    "price": 57,
+    "originalPrice": 129.55,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-moax1g0ei7er45",
+    "url": "https://s.shopee.com.br/9pfHKNyWQw",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1419,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1468415010-58266111748",
+    "productId": "SP1468415010-58266111748",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "TOMI MITO Bolsa Transversal Feminina Pequena Formato Curvo com Pingente e Alça Regulável Casual TM9508",
+    "price": 43.99,
+    "originalPrice": 99.98,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-msj9bri2xeyvb6",
+    "url": "https://s.shopee.com.br/3qO4FTF5BD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 194,
+    "publishedAt": "2026-10-02T15:05:14.598Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
+  },
+  {
     "id": "SP450664666-20497747354",
     "productId": "SP450664666-20497747354",
     "marketplace": "shopee",
@@ -11976,27 +11904,99 @@
     "checkedAt": "2026-10-23T14:05:16.186Z"
   },
   {
-    "id": "MLB7863332624",
-    "productId": "MLB18596028",
-    "marketplace": "ml",
-    "fonte": "MLB7069",
-    "categoria": "Casa e Decoração",
-    "title": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
-    "price": 136,
-    "originalPrice": 288.6,
-    "discount": 53,
-    "base": "media",
-    "averagePrice": 288.6,
-    "sellers": 27,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_798191-MLA99474077760_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7863332624?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
+    "id": "SP470159845-41282373928",
+    "productId": "SP470159845-41282373928",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Chunky Feminino Branco Off White Plataforma Casual Confortável",
+    "price": 49.9,
+    "originalPrice": 110.89,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdu4kwuae4j17",
+    "url": "https://s.shopee.com.br/60SYlLD2xe",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1215,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP1788702793-58210080994",
+    "productId": "SP1788702793-58210080994",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+    "price": 89.99,
+    "originalPrice": 199.98,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnowkr27c54w02",
+    "url": "https://s.shopee.com.br/1qczngSqBE",
+    "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-23T16:05:20.158Z"
+    "vendas": 1418,
+    "publishedAt": "2026-10-02T18:05:15.490Z",
+    "checkedAt": "2026-10-23T15:35:14.318Z"
+  },
+  {
+    "id": "SP646978651-23498090481",
+    "productId": "SP646978651-23498090481",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:protetor solar",
+    "categoria": "Beleza",
+    "title": "kit 3 Antissinais, Protetor solar 70FPS DANDAS, 150 ml -Toque Seco ROSTO E CORPO VEGANO UVA/UVB",
+    "price": 38.38,
+    "originalPrice": 79.96,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-msfu5yd7tddz69",
+    "url": "https://s.shopee.com.br/8fTKbN6tpn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 763,
+    "publishedAt": "2026-10-02T13:35:18.060Z",
+    "checkedAt": "2026-10-23T14:35:12.695Z"
+  },
+  {
+    "id": "SP1716664673-48257296392",
+    "productId": "SP1716664673-48257296392",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis De Corrida Maratona , Explosão De Placa De Carbono , Calçados Esportivos Com Sola Macia 46",
+    "price": 112.21,
+    "originalPrice": 229,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8262c-mlvtxvp11n2c17",
+    "url": "https://s.shopee.com.br/1gJZZODAHg",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1457,
+    "publishedAt": "2026-10-23T16:35:13.975Z",
+    "checkedAt": "2026-10-23T16:35:13.975Z"
   }
 ]
