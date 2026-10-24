@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MELIDEZ"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16771",
+    "quando": "2026-10-24T15:04:04+00:00",
+    "id": "ml:MELIDEZ",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELI18INTERNACIONAL"
+    ],
+    "desconto": "18% OFF",
+    "limite": "R$ 30",
+    "minimo": "R$ 49",
+    "escopo": "Diversos Internacionais",
+    "origem": "avidaefeitadedesconto/16770",
+    "quando": "2026-10-24T14:55:19+00:00",
+    "id": "ml:MELI18INTERNACIONAL",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "DF1PDESCONTO"
     ],
     "desconto": "5% OFF",
@@ -207,20 +235,6 @@
     "origem": "avidaefeitadedesconto/16750",
     "quando": "2026-10-23T15:10:41+00:00",
     "id": "ml:LIVROS2310",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CASA2310"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 249",
-    "escopo": "Casa e Construção",
-    "origem": "avidaefeitadedesconto/16749",
-    "quando": "2026-10-23T15:05:48+00:00",
-    "id": "ml:CASA2310",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
