@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -229,7 +229,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mlbhvraklwjra1",
-    "url": "https://s.shopee.com.br/6Am2WAoogh",
+    "url": "https://s.shopee.com.br/30p18koCMa",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 165,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -381,7 +381,7 @@
     "lowest30d": true,
     "vendas": 888,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 744,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 614,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -1086,8 +1086,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
-    "price": 29.99,
-    "originalPrice": 90.88,
+    "price": 33.33,
+    "originalPrice": 101,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -1098,10 +1098,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1571,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 524,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -1437,7 +1437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7690418174",
@@ -1461,7 +1461,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB5279469915",
@@ -1485,7 +1485,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7847665416",
@@ -1509,7 +1509,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1632,6 +1632,30 @@
     "checkedAt": "2026-10-24T14:35:14.198Z"
   },
   {
+    "id": "SP806378220-19097985961",
+    "productId": "SP806378220-19097985961",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer e Fogão Elétrico 2 em 1 Amvox ARF 1150 1500W 5L Preto/Prata",
+    "price": 339.9,
+    "originalPrice": 999.71,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7renq-m2h1ctds4kiye1",
+    "url": "https://s.shopee.com.br/2gCAk8pT2Y",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 119,
+    "publishedAt": "2026-10-24T15:05:16.746Z",
+    "checkedAt": "2026-10-24T15:05:16.746Z"
+  },
+  {
     "id": "SP1043389652-23998793385",
     "productId": "SP1043389652-23998793385",
     "marketplace": "shopee",
@@ -1653,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 106,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -1677,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 3765,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1392120718-23794055036",
@@ -1701,7 +1725,7 @@
     "lowest30d": true,
     "vendas": 1420,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -2085,7 +2109,7 @@
     "lowest30d": false,
     "vendas": 757,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -2109,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 4349,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2205,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 219,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1397772996-58211339678",
@@ -2541,7 +2565,7 @@
     "lowest30d": true,
     "vendas": 770,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:35:18.751Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -3189,7 +3213,7 @@
     "lowest30d": true,
     "vendas": 1159,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -3333,7 +3357,7 @@
     "lowest30d": true,
     "vendas": 526,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP627750190-22798914047",
@@ -3597,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 2900,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP378093609-26586640764",
@@ -3717,7 +3741,7 @@
     "lowest30d": true,
     "vendas": 987,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP816024645-40014204621",
@@ -3741,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 717,
     "publishedAt": "2026-10-22T00:05:14.739Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP316522636-58207521877",
@@ -4509,7 +4533,7 @@
     "lowest30d": true,
     "vendas": 404,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1032290308-58269276013",
@@ -4677,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 1053,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP832040275-22612399859",
@@ -4701,7 +4725,7 @@
     "lowest30d": true,
     "vendas": 356,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP753139334-58210495292",
@@ -4725,7 +4749,7 @@
     "lowest30d": true,
     "vendas": 606,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP368328709-40727316477",
@@ -4749,7 +4773,7 @@
     "lowest30d": true,
     "vendas": 2678,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP332016197-58208127828",
@@ -4989,7 +5013,7 @@
     "lowest30d": false,
     "vendas": 1651,
     "publishedAt": "2026-10-20T11:35:15.041Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -5328,30 +5352,6 @@
     "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
-    "id": "SP466360966-56316175763",
-    "productId": "SP466360966-56316175763",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador Nasal Elétrico Premium 6 Níveis Sucção Silicone Macio Livre De BPA",
-    "price": 39.99,
-    "originalPrice": 99.98,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-ms09vtpofxms9b",
-    "url": "https://s.shopee.com.br/LoFEbEEHz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 533,
-    "publishedAt": "2026-10-06T15:05:19.563Z",
-    "checkedAt": "2026-10-24T14:35:14.198Z"
-  },
-  {
     "id": "SP1724399264-58211321615",
     "productId": "SP1724399264-58211321615",
     "marketplace": "shopee",
@@ -5421,7 +5421,7 @@
     "lowest30d": false,
     "vendas": 395,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 2016,
     "publishedAt": "2026-10-23T17:51:43.252Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 1105,
     "publishedAt": "2026-10-18T13:35:14.642Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": 2617,
     "publishedAt": "2026-10-10T01:05:13.356Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP410705973-23694530547",
@@ -5733,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 6352,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1493485510-19498092485",
@@ -5782,6 +5782,30 @@
     "vendas": 754,
     "publishedAt": "2026-10-22T23:05:20.987Z",
     "checkedAt": "2026-10-24T13:35:14.429Z"
+  },
+  {
+    "id": "MLB5447342251",
+    "productId": "MLB65312129",
+    "marketplace": "ml",
+    "fonte": "MLB1576",
+    "categoria": "Eletrodomésticos",
+    "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
+    "price": 2089.05,
+    "originalPrice": 4946.32,
+    "discount": 58,
+    "base": "media",
+    "averagePrice": 4946.32,
+    "sellers": 16,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5447342251?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-22T19:05:57.093Z",
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5853,7 +5877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -6213,7 +6237,7 @@
     "lowest30d": false,
     "vendas": 1291,
     "publishedAt": "2026-10-24T04:30:29.125Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -6237,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 3937,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1162454632-23698857639",
@@ -6262,30 +6286,6 @@
     "vendas": 787,
     "publishedAt": "2026-10-23T13:05:15.300Z",
     "checkedAt": "2026-10-24T13:35:14.429Z"
-  },
-  {
-    "id": "MLB5447342251",
-    "productId": "MLB65312129",
-    "marketplace": "ml",
-    "fonte": "MLB1576",
-    "categoria": "Eletrodomésticos",
-    "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
-    "price": 2199,
-    "originalPrice": 4946.32,
-    "discount": 56,
-    "base": "media",
-    "averagePrice": 4946.32,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5447342251?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6597,7 +6597,7 @@
     "lowest30d": true,
     "vendas": 2622,
     "publishedAt": "2026-10-24T04:30:29.125Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB3332109715",
@@ -6621,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 1493,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7627073664",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7863332624",
@@ -6741,7 +6741,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": 2194,
     "publishedAt": "2026-10-03T13:05:14.688Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP528261467-49108107903",
@@ -7269,7 +7269,7 @@
     "lowest30d": true,
     "vendas": 458,
     "publishedAt": "2026-10-14T15:05:15.844Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -7437,7 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7533,7 +7533,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": 471,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1107,
     "publishedAt": "2026-10-07T17:35:13.560Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB4190456415",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7773,7 +7773,7 @@
     "lowest30d": true,
     "vendas": 5809,
     "publishedAt": "2026-10-10T12:05:14.809Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": 872,
     "publishedAt": "2026-10-09T03:05:18.134Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7822,6 +7822,30 @@
     "vendas": 166,
     "publishedAt": "2026-10-18T16:35:13.655Z",
     "checkedAt": "2026-10-24T14:05:14.068Z"
+  },
+  {
+    "id": "MLB2777493229",
+    "productId": "MLB16195364",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
+    "price": 44.62,
+    "originalPrice": 73.68,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 73.68,
+    "sellers": 47,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_902576-MLA99924632301_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-2777493229?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7869,7 +7893,7 @@
     "lowest30d": false,
     "vendas": 1961,
     "publishedAt": "2026-10-14T15:05:15.844Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7917,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7992,30 +8016,6 @@
     "checkedAt": "2026-10-24T15:05:16.746Z"
   },
   {
-    "id": "MLB2777493229",
-    "productId": "MLB16195364",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
-    "price": 49.9,
-    "originalPrice": 73.68,
-    "discount": 32,
-    "base": "media",
-    "averagePrice": 73.68,
-    "sellers": 47,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_902576-MLA99924632301_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-2777493229?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
-  },
-  {
     "id": "MLB3767156322",
     "productId": "MLB17384401",
     "marketplace": "ml",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7071544106",
@@ -8287,11 +8287,11 @@
     "categoria": "Eletrônicos",
     "title": "Radio Controle Dji Rc-n3 Neo 1 e 2, Mini 4 ou superior",
     "price": 899,
-    "originalPrice": 1138,
+    "originalPrice": 1137,
     "discount": 21,
     "base": "media",
-    "averagePrice": 1138,
-    "sellers": 37,
+    "averagePrice": 1137,
+    "sellers": 38,
     "image": "https://http2.mlstatic.com/D_NQ_NP_944602-MLA99531144470_122025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7071544106?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
+  },
+  {
+    "id": "MLB3297532241",
+    "productId": "MLB22359613",
+    "marketplace": "ml",
+    "fonte": "MLB5360",
+    "categoria": "Bebês",
+    "title": "Mamadeira MAM Easy Start 130ml Anticólica e Antivazamento",
+    "price": 62.9,
+    "originalPrice": 69.9,
+    "discount": 10,
+    "base": "media",
+    "averagePrice": 69.9,
+    "sellers": 6,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_662884-MLA95955513248_102025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3297532241?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": true,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-24T15:35:13.249Z",
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8613,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 786,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8685,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 543,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8709,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 177,
     "publishedAt": "2026-09-26T12:35:50.774Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -9165,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 751,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -9189,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 3300,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -9477,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 358,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1024791137-58260551291",
@@ -9621,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 327,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -9789,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 204,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -9813,7 +9837,7 @@
     "lowest30d": false,
     "vendas": 2625,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -9861,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 467,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -10224,30 +10248,6 @@
     "checkedAt": "2026-10-24T13:05:16.509Z"
   },
   {
-    "id": "SP806378220-19097985961",
-    "productId": "SP806378220-19097985961",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer e Fogão Elétrico 2 em 1 Amvox ARF 1150 1500W 5L Preto/Prata",
-    "price": 339.9,
-    "originalPrice": 999.71,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7renq-m2h1ctds4kiye1",
-    "url": "https://s.shopee.com.br/2gCAk8pT2Y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 119,
-    "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-10-24T15:05:16.746Z"
-  },
-  {
     "id": "SP790605924-19499073421",
     "productId": "SP790605924-19499073421",
     "marketplace": "shopee",
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 5071,
     "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1855468372-58265041953",
@@ -10389,7 +10389,7 @@
     "lowest30d": false,
     "vendas": 194,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -10533,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 6936,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -10965,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 864,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP296363855-42121901827",
@@ -11133,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 221,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -11421,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 1030,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -11469,7 +11469,7 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP280795353-23597640147",
@@ -11781,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 235,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP320028154-13656043688",
@@ -11829,7 +11829,7 @@
     "lowest30d": false,
     "vendas": 217,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -11877,7 +11877,7 @@
     "lowest30d": true,
     "vendas": 271,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-24T12:05:12.547Z"
+    "checkedAt": "2026-10-24T15:35:13.249Z"
   },
   {
     "id": "SP972053936-23998448883",
