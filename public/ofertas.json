@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 799,
     "publishedAt": "2026-10-24T04:05:19.497Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -93,7 +93,7 @@
     "lowest30d": true,
     "vendas": 1583,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP717333338-22698518082",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 170,
     "publishedAt": "2026-10-22T20:35:14.423Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1367408218-58209240255",
@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 1418,
     "publishedAt": "2026-10-21T16:35:13.635Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1180920205-22093265312",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 125,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -384,30 +384,6 @@
     "checkedAt": "2026-10-24T12:35:18.751Z"
   },
   {
-    "id": "SP728389176-58217601055",
-    "productId": "SP728389176-58217601055",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
-    "price": 89.99,
-    "originalPrice": 299.97,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
-    "url": "https://s.shopee.com.br/6VOpz8epjD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2907,
-    "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
-  },
-  {
     "id": "SP777798362-43461643565",
     "productId": "SP777798362-43461643565",
     "marketplace": "shopee",
@@ -477,7 +453,7 @@
     "lowest30d": true,
     "vendas": 434,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -501,7 +477,7 @@
     "lowest30d": true,
     "vendas": 5647,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -525,7 +501,7 @@
     "lowest30d": false,
     "vendas": 5015,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -645,7 +621,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-10-21T00:38:58.640Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP627750190-22594284546",
@@ -1032,6 +1008,30 @@
     "checkedAt": "2026-10-24T10:35:12.863Z"
   },
   {
+    "id": "SP1545195730-58253714822",
+    "productId": "SP1545195730-58253714822",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Kit 3 Lâmpadas De Vela Led Eletrônica Cilíndrica Chama Realista Decoração Festa",
+    "price": 48.99,
+    "originalPrice": 148.45,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrtw5cr01s21f",
+    "url": "https://s.shopee.com.br/1BNMp9q0LV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 670,
+    "publishedAt": "2026-10-24T13:05:16.509Z",
+    "checkedAt": "2026-10-24T13:05:16.509Z"
+  },
+  {
     "id": "SP1543643896-23594449816",
     "productId": "SP1543643896-23594449816",
     "marketplace": "shopee",
@@ -1389,7 +1389,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB7690418174",
@@ -1413,7 +1413,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB5279469915",
@@ -1437,7 +1437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB7847665416",
@@ -1461,7 +1461,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1992,6 +1992,30 @@
     "checkedAt": "2026-10-24T13:05:16.509Z"
   },
   {
+    "id": "SP427678694-13622648490",
+    "productId": "SP427678694-13622648490",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "[Entrega 24 horas]led lâmpada de chuva de meteoro, Pisca pisca,decoração de festa,ac110v-220v,  jardim, Natal",
+    "price": 69.99,
+    "originalPrice": 199.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lvnydw93s8r296",
+    "url": "https://s.shopee.com.br/20wTogmpeo",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 140,
+    "publishedAt": "2026-10-24T13:05:16.509Z",
+    "checkedAt": "2026-10-24T13:05:16.509Z"
+  },
+  {
     "id": "SP1573953914-23998775294",
     "productId": "SP1573953914-23998775294",
     "marketplace": "shopee",
@@ -2229,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 799,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1569321608-58252253531",
@@ -2245,7 +2269,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-81zvy-migbjdoomfifc2",
-    "url": "https://s.shopee.com.br/gR4fPAdHH",
+    "url": "https://s.shopee.com.br/3qO803SW6g",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2253,7 +2277,7 @@
     "lowest30d": false,
     "vendas": 648,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -2277,7 +2301,7 @@
     "lowest30d": true,
     "vendas": 2441,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -2301,7 +2325,7 @@
     "lowest30d": true,
     "vendas": 137,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -2325,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 486,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -2349,7 +2373,7 @@
     "lowest30d": false,
     "vendas": 658,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T10:05:12.514Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -2877,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 283,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1054219578-20399715997",
@@ -2901,7 +2925,7 @@
     "lowest30d": true,
     "vendas": 1438,
     "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2925,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 780,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -4485,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 765,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1337284628-22398929943",
@@ -4509,7 +4533,7 @@
     "lowest30d": true,
     "vendas": 294,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP341167297-20350419516",
@@ -4797,7 +4821,7 @@
     "lowest30d": false,
     "vendas": 2292,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -4941,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 978,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5013,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 570,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1905647169-58265421821",
@@ -5037,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 2629,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -5109,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 1591,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -5157,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 1321,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -5253,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 1322,
     "publishedAt": "2026-10-08T11:05:16.635Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -5301,7 +5325,7 @@
     "lowest30d": true,
     "vendas": 1883,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5469,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 437,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5725,7 +5749,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8259s-mspwkgl4qrya99",
-    "url": "https://s.shopee.com.br/7puF2GzLh0",
+    "url": "https://s.shopee.com.br/7VHQNcc9w5",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5733,7 +5757,7 @@
     "lowest30d": false,
     "vendas": 4906,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB3927361477",
@@ -5757,7 +5781,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -6141,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6381,7 +6405,7 @@
     "lowest30d": false,
     "vendas": 1710,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6477,7 +6501,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6573,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -6621,7 +6645,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6709,7 +6733,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmty18z3s16o8d",
-    "url": "https://s.shopee.com.br/6VOrFeaYOL",
+    "url": "https://s.shopee.com.br/2gCATgjWKs",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6717,7 +6741,7 @@
     "lowest30d": false,
     "vendas": 957,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6741,7 +6765,7 @@
     "lowest30d": false,
     "vendas": 818,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7029,7 +7053,7 @@
     "lowest30d": false,
     "vendas": 1781,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP857619285-58267095847",
@@ -7320,30 +7344,6 @@
     "checkedAt": "2026-10-24T11:35:13.161Z"
   },
   {
-    "id": "SP898761179-58257621281",
-    "productId": "SP898761179-58257621281",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-    "price": 1729,
-    "originalPrice": 3390.2,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
-    "url": "https://s.shopee.com.br/8KqTXd4Il2",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1381,
-    "publishedAt": "2026-10-04T12:35:13.324Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
-  },
-  {
     "id": "SP1103918873-58267636006",
     "productId": "SP1103918873-58267636006",
     "marketplace": "shopee",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7485,7 +7485,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1542924779-19099837636",
@@ -7693,7 +7693,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlnjovwekr2dd2",
-    "url": "https://s.shopee.com.br/1qd0KPNNt9",
+    "url": "https://s.shopee.com.br/7faqQpEMV7",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1574,
     "publishedAt": "2026-10-07T15:35:16.180Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1662955195-58257222814",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP898761179-20198314386",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": 3328,
     "publishedAt": "2026-10-23T08:35:13.432Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB3767156322",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 2049,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB4153226076",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,6 +8421,30 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
+    "checkedAt": "2026-10-24T13:17:49.617Z"
+  },
+  {
+    "id": "SP728389176-58217601055",
+    "productId": "SP728389176-58217601055",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
+    "price": 89.99,
+    "originalPrice": 299.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
+    "url": "https://s.shopee.com.br/6VOpz8epjD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2907,
+    "publishedAt": "2026-10-06T02:30:18.499Z",
     "checkedAt": "2026-10-24T13:05:16.509Z"
   },
   {
@@ -8469,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 617,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8781,7 +8805,7 @@
     "lowest30d": false,
     "vendas": 115,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8805,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 872,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -8893,7 +8917,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdp9xzjgpsc937",
-    "url": "https://s.shopee.com.br/906BKdpfv8",
+    "url": "https://s.shopee.com.br/8V9xZSTkJ7",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8901,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1496,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9045,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 1620,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9069,7 +9093,7 @@
     "lowest30d": false,
     "vendas": 685,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -9429,7 +9453,7 @@
     "lowest30d": true,
     "vendas": 1151,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9502,6 +9526,30 @@
     "vendas": 308,
     "publishedAt": "2026-10-08T23:57:11.511Z",
     "checkedAt": "2026-10-24T12:35:18.751Z"
+  },
+  {
+    "id": "SP391739739-18397808004",
+    "productId": "SP391739739-18397808004",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
+    "price": 31.99,
+    "originalPrice": 99.97,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9507rnv3bm9d5",
+    "url": "https://s.shopee.com.br/8pmnyDyB15",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 771,
+    "publishedAt": "2026-10-24T13:17:49.617Z",
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -9789,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 1463,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9837,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9861,7 +9909,7 @@
     "lowest30d": true,
     "vendas": 548,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9885,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 423,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -9909,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 1073,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -9933,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 390,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9957,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 307,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -10005,7 +10053,7 @@
     "lowest30d": false,
     "vendas": 258,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10080,28 +10128,28 @@
     "checkedAt": "2026-10-24T11:05:11.855Z"
   },
   {
-    "id": "SP1545195730-58253714822",
-    "productId": "SP1545195730-58253714822",
+    "id": "SP1870601214-22399680511",
+    "productId": "SP1870601214-22399680511",
     "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Kit 3 Lâmpadas De Vela Led Eletrônica Cilíndrica Chama Realista Decoração Festa",
-    "price": 48.99,
-    "originalPrice": 148.45,
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Street Style Urbano Moderno Confortável para Passeio Trabalho e Faculdade",
+    "price": 49.99,
+    "originalPrice": 151.48,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrtw5cr01s21f",
-    "url": "https://s.shopee.com.br/1BNMp9q0LV",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-mrgaxlofq60xfa",
+    "url": "https://s.shopee.com.br/7VHQNcXYKt",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 670,
-    "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
+    "vendas": 1152,
+    "publishedAt": "2026-10-24T13:17:49.617Z",
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10125,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 1797,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10269,7 +10317,7 @@
     "lowest30d": false,
     "vendas": 318,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10422,8 +10470,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 35.88,
-    "originalPrice": 102.51,
+    "price": 35.89,
+    "originalPrice": 102.54,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10434,10 +10482,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1025,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10557,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 4920,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10653,7 +10701,7 @@
     "lowest30d": true,
     "vendas": 2542,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10677,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 3364,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -10822,30 +10870,6 @@
     "vendas": 410,
     "publishedAt": "2026-10-24T00:00:08.189Z",
     "checkedAt": "2026-10-24T10:35:12.863Z"
-  },
-  {
-    "id": "SP427678694-13622648490",
-    "productId": "SP427678694-13622648490",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "[Entrega 24 horas]led lâmpada de chuva de meteoro, Pisca pisca,decoração de festa,ac110v-220v,  jardim, Natal",
-    "price": 69.99,
-    "originalPrice": 199.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lvnydw93s8r296",
-    "url": "https://s.shopee.com.br/20wTogmpeo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 140,
-    "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
   },
   {
     "id": "SP1118395504-47513118746",
@@ -11469,7 +11493,7 @@
     "lowest30d": true,
     "vendas": 323,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
+    "checkedAt": "2026-10-24T13:17:49.617Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11808,6 +11832,30 @@
     "checkedAt": "2026-10-24T10:05:12.514Z"
   },
   {
+    "id": "SP378093609-26586640764",
+    "productId": "SP378093609-26586640764",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador Power Bank Portátil 20000mah Universal Saida 4 Cabos",
+    "price": 49.99,
+    "originalPrice": 131.55,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgd-m9tezr4di0pi61",
+    "url": "https://s.shopee.com.br/5fpmCNB2if",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 515,
+    "publishedAt": "2026-10-24T13:17:49.617Z",
+    "checkedAt": "2026-10-24T13:17:49.617Z"
+  },
+  {
     "id": "SP1544990534-22199186040",
     "productId": "SP1544990534-22199186040",
     "marketplace": "shopee",
@@ -11950,53 +11998,5 @@
     "vendas": 967,
     "publishedAt": "2026-10-24T00:00:08.189Z",
     "checkedAt": "2026-10-24T10:35:12.863Z"
-  },
-  {
-    "id": "SP1378212279-18199766258",
-    "productId": "SP1378212279-18199766258",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Inox 900ml ou 600ml | Tampa Flip Antivazamento | Alça para Transporte | Quente e Frio",
-    "price": 35.78,
-    "originalPrice": 89.45,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825aw-msf2gkkw16o455",
-    "url": "https://s.shopee.com.br/7puDZkMzLz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 974,
-    "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-24T09:35:13.171Z"
-  },
-  {
-    "id": "SP325008325-41600786899",
-    "productId": "SP325008325-41600786899",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Pista Dinossauro 2 em 1 Caminhão Cegonha Carro Brinquedo com Rampa Corrida",
-    "price": 99.9,
-    "originalPrice": 249.75,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q8hgfov0ah14",
-    "url": "https://s.shopee.com.br/6q1iNUXTsn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 938,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-24T13:05:16.509Z"
   }
 ]
