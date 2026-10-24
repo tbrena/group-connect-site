@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "DF1PDESCONTO"
+    ],
+    "desconto": "5% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 50",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16768",
+    "quando": "2026-10-24T12:16:46+00:00",
+    "id": "ml:DF1PDESCONTO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SPORTS15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 20",
+    "escopo": "Acessórios Esportivos",
+    "origem": "avidaefeitadedesconto/16766",
+    "quando": "2026-10-24T12:16:32+00:00",
+    "id": "ml:SPORTS15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SOM2410"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 70",
+    "minimo": null,
+    "escopo": "Som, Vídeo e Eletro",
+    "origem": "avidaefeitadedesconto/16765",
+    "quando": "2026-10-24T12:08:23+00:00",
+    "id": "ml:SOM2410",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE2410"
     ],
     "desconto": "R$ 50 OFF",
@@ -207,22 +249,6 @@
     "origem": "avidaefeitadedesconto/16742",
     "quando": "2026-10-23T13:38:33+00:00",
     "id": "ml:MOVEIS200",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SITE2310",
-      "40SITE2310",
-      "150TODOSITE2310"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16740",
-    "quando": "2026-10-23T12:07:56+00:00",
-    "id": "ml:SITE2310+40SITE2310+150TODOSITE2310",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
