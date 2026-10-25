@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB3297532241",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-24T15:35:13.249Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 162,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -382,30 +382,6 @@
     "vendas": 1677,
     "publishedAt": "2026-10-06T12:05:13.247Z",
     "checkedAt": "2026-10-25T03:05:18.352Z"
-  },
-  {
-    "id": "SP974102638-58210258643",
-    "productId": "SP974102638-58210258643",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
-    "price": 29.99,
-    "originalPrice": 99.97,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
-    "url": "https://s.shopee.com.br/4VdkwdSAtp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 927,
-    "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -573,7 +549,7 @@
     "lowest30d": false,
     "vendas": 762,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -597,7 +573,7 @@
     "lowest30d": false,
     "vendas": 689,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -790,6 +766,30 @@
     "vendas": 151,
     "publishedAt": "2026-10-08T18:05:13.753Z",
     "checkedAt": "2026-10-25T01:35:12.896Z"
+  },
+  {
+    "id": "SP1240425443-23893313838",
+    "productId": "SP1240425443-23893313838",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de Ouvido Sem Fio Bluetooth com Condução Óssea/Compacto e Leve/Resistente a Água/Tipo-C",
+    "price": 34.98,
+    "originalPrice": 109.31,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134211-820ln-mseaww44b5dz4b",
+    "url": "https://s.shopee.com.br/4LKLPInqYn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3250,
+    "publishedAt": "2026-10-25T03:05:18.352Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -1117,7 +1117,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
-    "url": "https://s.shopee.com.br/40hULilXZS",
+    "url": "https://s.shopee.com.br/5fpn9FS4Hb",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1125,7 +1125,7 @@
     "lowest30d": false,
     "vendas": 1608,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -1413,7 +1413,7 @@
     "lowest30d": false,
     "vendas": 521,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -1621,7 +1621,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-820n3-mo4jakj9emtg79",
-    "url": "https://s.shopee.com.br/8V9thyZLij",
+    "url": "https://s.shopee.com.br/2gCBZimcfx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1629,7 +1629,7 @@
     "lowest30d": true,
     "vendas": 105,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -1645,7 +1645,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztv-mkjwat5lsi6803",
-    "url": "https://s.shopee.com.br/BUmRdLZky",
+    "url": "https://s.shopee.com.br/W7gzjUTOL",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1653,7 +1653,7 @@
     "lowest30d": false,
     "vendas": 3731,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1392120718-23794055036",
@@ -1669,7 +1669,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ravh-mah6auxtim0jf0",
-    "url": "https://s.shopee.com.br/4qGbLFiMsh",
+    "url": "https://s.shopee.com.br/9APfJgEkBa",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 1382,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -1686,8 +1686,8 @@
     "fonte": "shopee:q:jogo de cama",
     "categoria": "Casa e Decoração",
     "title": "Kit Travesseiro Pluma de Ganso Confortavel e Macio Antiacaro 50x70cm",
-    "price": 30.9,
-    "originalPrice": 90.88,
+    "price": 30.99,
+    "originalPrice": 91.15,
     "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
@@ -1698,10 +1698,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 7005,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -1717,7 +1717,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ms04vb3imy2vc7",
-    "url": "https://s.shopee.com.br/qkSZquTWh",
+    "url": "https://s.shopee.com.br/1gJeNoReB4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1725,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 12494,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1813,7 +1813,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdtxrbuelvax14",
-    "url": "https://s.shopee.com.br/5VWI8XeLnO",
+    "url": "https://s.shopee.com.br/4fxFxTlvTM",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1821,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 1434,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP323760756-41721001761",
@@ -1845,7 +1845,7 @@
     "lowest30d": true,
     "vendas": 2703,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -1861,7 +1861,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
-    "url": "https://s.shopee.com.br/2BFuGrxkVm",
+    "url": "https://s.shopee.com.br/6q1kXIzFPv",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1869,7 +1869,7 @@
     "lowest30d": true,
     "vendas": 4149,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -1941,7 +1941,7 @@
     "lowest30d": false,
     "vendas": 811,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -2437,7 +2437,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mu2179tvc4cib1",
-    "url": "https://s.shopee.com.br/2qVZ55INqK",
+    "url": "https://s.shopee.com.br/W7gzfwcn6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2445,7 +2445,7 @@
     "lowest30d": true,
     "vendas": 3120,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -2941,7 +2941,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms59ecrmdj468a",
-    "url": "https://s.shopee.com.br/9APeDcci1v",
+    "url": "https://s.shopee.com.br/1W0EBZV4EU",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2949,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 498,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -2973,7 +2973,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 152,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3253,7 +3253,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mmpa3437t2bka1",
-    "url": "https://s.shopee.com.br/1W0CxQxUWh",
+    "url": "https://s.shopee.com.br/80DhvYNBEN",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3261,7 +3261,7 @@
     "lowest30d": false,
     "vendas": 719,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -3637,7 +3637,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgd-m9tezr4di0pi61",
-    "url": "https://s.shopee.com.br/5fpmCNB2if",
+    "url": "https://s.shopee.com.br/8fTOik3qre",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3645,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 661,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -3661,7 +3661,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-micuj22uwao146",
-    "url": "https://s.shopee.com.br/9pfL0nxJU2",
+    "url": "https://s.shopee.com.br/7farWq50qg",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3669,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 2341,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -3789,7 +3789,7 @@
     "lowest30d": false,
     "vendas": 146,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -3837,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 261,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -3877,7 +3877,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
-    "url": "https://s.shopee.com.br/9pfL0rIEmr",
+    "url": "https://s.shopee.com.br/9fLvuai2eQ",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3885,7 +3885,7 @@
     "lowest30d": false,
     "vendas": 1652,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP409939729-23694671466",
@@ -3981,7 +3981,7 @@
     "lowest30d": true,
     "vendas": 135,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -4045,7 +4045,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy7-m0os7gkj6b1hc4",
-    "url": "https://s.shopee.com.br/30p0JQK6zJ",
+    "url": "https://s.shopee.com.br/9zymJD2hdf",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4053,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 4202,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -4173,7 +4173,7 @@
     "lowest30d": true,
     "vendas": 642,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -5496,6 +5496,30 @@
     "checkedAt": "2026-10-25T01:35:12.896Z"
   },
   {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 620.99,
+    "originalPrice": 1514.61,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/70LAjgNSrx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1459,
+    "publishedAt": "2026-10-15T03:05:15.135Z",
+    "checkedAt": "2026-10-25T03:35:13.956Z"
+  },
+  {
     "id": "SP706485941-24714753678",
     "productId": "SP706485941-24714753678",
     "marketplace": "shopee",
@@ -5605,7 +5629,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8258f-meuhtq1ymm879d",
-    "url": "https://s.shopee.com.br/AKbbbir0kh",
+    "url": "https://s.shopee.com.br/2qVblxJ0qN",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5613,7 +5637,7 @@
     "lowest30d": false,
     "vendas": 593,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1493421921-21998324835",
@@ -5622,14 +5646,14 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
-    "price": 66.99,
-    "originalPrice": 159.5,
+    "price": 65.99,
+    "originalPrice": 157.12,
     "discount": 58,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mm8e1uokutc69b",
-    "url": "https://s.shopee.com.br/60SYjNvvlC",
+    "url": "https://s.shopee.com.br/2VslNQ0SN6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5637,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 2803,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5653,7 +5677,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnf3aihviadc11",
-    "url": "https://s.shopee.com.br/1BLaNVdRJ",
+    "url": "https://s.shopee.com.br/4Vdpl71J4O",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5661,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 1291,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -5733,7 +5757,7 @@
     "lowest30d": false,
     "vendas": 723,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5805,7 +5829,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -5941,7 +5965,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw8-mckje30hez0382",
-    "url": "https://s.shopee.com.br/7puCukox2P",
+    "url": "https://s.shopee.com.br/113xaf6APh",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5949,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 3142,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5974,30 +5998,6 @@
     "vendas": 648,
     "publishedAt": "2026-10-15T13:05:13.512Z",
     "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/1W09N6vSZh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1459,
-    "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -6085,7 +6085,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-    "url": "https://s.shopee.com.br/7KxwJqLeUP",
+    "url": "https://s.shopee.com.br/40hZABL91T",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 11339,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -6118,30 +6118,6 @@
     "vendas": 6851,
     "publishedAt": "2026-10-10T03:35:19.372Z",
     "checkedAt": "2026-10-25T00:35:14.862Z"
-  },
-  {
-    "id": "SP1009442766-58265284158",
-    "productId": "SP1009442766-58265284158",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Kit Hama Beads 10.000 Peças 2,6mm 24 Cores Pinças + Ferramentas Pegboard Chaveiro Brinquedos",
-    "price": 29.98,
-    "originalPrice": 69.72,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mra6ucrvp8uf6d",
-    "url": "https://s.shopee.com.br/9APeDey2PH",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5745,
-    "publishedAt": "2026-10-08T03:05:13.237Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
     "id": "SP371651689-23994017710",
@@ -6261,7 +6237,7 @@
     "lowest30d": false,
     "vendas": 794,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB5447342251",
@@ -6285,7 +6261,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6541,7 +6517,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mesio5ejrshvb6",
-    "url": "https://s.shopee.com.br/W7cBF093B",
+    "url": "https://s.shopee.com.br/W7gzfaYcv",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6549,7 +6525,7 @@
     "lowest30d": true,
     "vendas": 728,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP991338332-23298943553",
@@ -6597,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6693,7 +6669,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB7863332624",
@@ -6717,7 +6693,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6789,7 +6765,7 @@
     "lowest30d": false,
     "vendas": 596,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6949,7 +6925,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8262c-mlvtxvp11n2c17",
-    "url": "https://s.shopee.com.br/1gJZZODAHg",
+    "url": "https://s.shopee.com.br/8pmouzMQnw",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6957,7 +6933,7 @@
     "lowest30d": false,
     "vendas": 1455,
     "publishedAt": "2026-10-23T16:35:13.975Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1725104548-58211255048",
@@ -6973,7 +6949,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mokjobm8o5xfc1",
-    "url": "https://s.shopee.com.br/4LKLPA4gIi",
+    "url": "https://s.shopee.com.br/9fLvuVxOms",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6981,7 +6957,7 @@
     "lowest30d": false,
     "vendas": 2152,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB7847665416",
@@ -7005,7 +6981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7029,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 14774,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -7344,6 +7320,30 @@
     "checkedAt": "2026-10-25T01:05:13.693Z"
   },
   {
+    "id": "SP552896405-43079698414",
+    "productId": "SP552896405-43079698414",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
+    "price": 30.9,
+    "originalPrice": 59.42,
+    "discount": 48,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
+    "url": "https://s.shopee.com.br/5LCvBnH7mT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4528,
+    "publishedAt": "2026-10-25T03:05:18.352Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
     "id": "MLB1942049788",
     "productId": "MLB15578941",
     "marketplace": "ml",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7605,7 +7605,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB7690418174",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB5279469915",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB3767156322",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": 250,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
+  },
+  {
+    "id": "SP974102638-58210258643",
+    "productId": "SP974102638-58210258643",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
+    "price": 29.99,
+    "originalPrice": 99.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
+    "url": "https://s.shopee.com.br/1gJeNtPpkU",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 927,
+    "publishedAt": "2026-10-07T19:35:15.586Z",
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8517,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 688,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8917,7 +8941,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwn55av4zk757",
-    "url": "https://s.shopee.com.br/1BLaLwlsp",
+    "url": "https://s.shopee.com.br/9V2ViH9Tnz",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8925,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 939,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -8973,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 926,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9301,7 +9325,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mri8vcm5o9on91",
-    "url": "https://s.shopee.com.br/AKbXtMWEHd",
+    "url": "https://s.shopee.com.br/6q1kXOWQQn",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9309,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 1302,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9357,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9624,30 +9648,6 @@
     "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
-    "id": "SP1240425443-23893313838",
-    "productId": "SP1240425443-23893313838",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fone de Ouvido Sem Fio Bluetooth com Condução Óssea/Compacto e Leve/Resistente a Água/Tipo-C",
-    "price": 34.98,
-    "originalPrice": 109.31,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134211-820ln-mseaww44b5dz4b",
-    "url": "https://s.shopee.com.br/4LKLPInqYn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3250,
-    "publishedAt": "2026-10-25T03:05:18.352Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
-  },
-  {
     "id": "SP1593878986-58251903986",
     "productId": "SP1593878986-58251903986",
     "marketplace": "shopee",
@@ -9861,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 230,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -10248,6 +10248,30 @@
     "checkedAt": "2026-10-25T00:35:14.862Z"
   },
   {
+    "id": "SP676651970-23293814378",
+    "productId": "SP676651970-23293814378",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador De Pó Para Carro Soprador De Poeira Sem Fio Recarregável De Alta Potência Envio imediato",
+    "price": 65,
+    "originalPrice": 196.97,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjacltdm2ih29b",
+    "url": "https://s.shopee.com.br/8KqYK8n7MI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1718,
+    "publishedAt": "2026-10-25T03:35:13.956Z",
+    "checkedAt": "2026-10-25T03:35:13.956Z"
+  },
+  {
     "id": "SP376022922-22491394362",
     "productId": "SP376022922-22491394362",
     "marketplace": "shopee",
@@ -10293,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 1889,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10477,7 +10501,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8258b-metxplkloidgcf",
-    "url": "https://s.shopee.com.br/4B0uY5jI47",
+    "url": "https://s.shopee.com.br/3VlIZKuptw",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10485,7 +10509,7 @@
     "lowest30d": true,
     "vendas": 1442,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -11013,7 +11037,7 @@
     "lowest30d": false,
     "vendas": 421,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11118,8 +11142,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 46.9,
-    "originalPrice": 130.28,
+    "price": 46.89,
+    "originalPrice": 130.25,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -11133,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 1198,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11205,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 445,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11445,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 133,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -11653,7 +11677,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mpmilqshq03l08",
-    "url": "https://s.shopee.com.br/qkSZubGCB",
+    "url": "https://s.shopee.com.br/qkXONNzok",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11661,7 +11685,7 @@
     "lowest30d": false,
     "vendas": 3342,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -11757,7 +11781,7 @@
     "lowest30d": true,
     "vendas": 243,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -11829,7 +11853,7 @@
     "lowest30d": true,
     "vendas": 258,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -11853,7 +11877,7 @@
     "lowest30d": false,
     "vendas": 182,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   },
   {
     "id": "SP1430771203-22094984499",
@@ -11973,30 +11997,6 @@
     "lowest30d": false,
     "vendas": 862,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
-  },
-  {
-    "id": "SP552896405-43079698414",
-    "productId": "SP552896405-43079698414",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
-    "price": 30.9,
-    "originalPrice": 59.42,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
-    "url": "https://s.shopee.com.br/5LCvBnH7mT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4528,
-    "publishedAt": "2026-10-25T03:05:18.352Z",
-    "checkedAt": "2026-10-25T03:05:18.352Z"
+    "checkedAt": "2026-10-25T03:35:13.956Z"
   }
 ]
