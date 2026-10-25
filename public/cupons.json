@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "TVS2510"
+    ],
+    "desconto": "R$ 150 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16779",
+    "quando": "2026-10-25T15:07:26+00:00",
+    "id": "ml:TVS2510",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TODOSITE2510"
+    ],
+    "desconto": "R$ 50 OFF",
+    "limite": null,
+    "minimo": "R$ 499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16778",
+    "quando": "2026-10-25T15:04:49+00:00",
+    "id": "ml:TODOSITE2510",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "LIVROS2510"
     ],
     "desconto": "10% OFF",
@@ -81,34 +109,6 @@
     "origem": "avidaefeitadedesconto/16772",
     "quando": "2026-10-24T15:09:41+00:00",
     "id": "ml:TODOSITEMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIDEZ"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 30",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16771",
-    "quando": "2026-10-24T15:04:04+00:00",
-    "id": "ml:MELIDEZ",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELI18INTERNACIONAL"
-    ],
-    "desconto": "18% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 49",
-    "escopo": "Diversos Internacionais",
-    "origem": "avidaefeitadedesconto/16770",
-    "quando": "2026-10-24T14:55:19+00:00",
-    "id": "ml:MELI18INTERNACIONAL",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
