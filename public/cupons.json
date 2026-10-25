@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "LIVROS2510"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": null,
+    "escopo": "Livros e Jogos",
+    "origem": "avidaefeitadedesconto/16777",
+    "quando": "2026-10-25T12:06:27+00:00",
+    "id": "ml:LIVROS2510",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "AUTOS2510"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 60",
+    "minimo": null,
+    "escopo": "Automotivos e Ferramentas",
+    "origem": "avidaefeitadedesconto/16776",
+    "quando": "2026-10-25T12:06:20+00:00",
+    "id": "ml:AUTOS2510",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "RESGTETODOSITE"
     ],
     "desconto": "R$ 60 OFF",
@@ -123,34 +151,6 @@
     "origem": "avidaefeitadedesconto/16766",
     "quando": "2026-10-24T12:16:32+00:00",
     "id": "ml:SPORTS15",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SOM2410"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 70",
-    "minimo": null,
-    "escopo": "Som, Vídeo e Eletro",
-    "origem": "avidaefeitadedesconto/16765",
-    "quando": "2026-10-24T12:08:23+00:00",
-    "id": "ml:SOM2410",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE2410"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": "R$ 499",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16764",
-    "quando": "2026-10-24T12:03:03+00:00",
-    "id": "ml:TODOSITE2410",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
