@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB3297532241",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-24T15:35:13.249Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 351,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -381,7 +381,31 @@
     "lowest30d": true,
     "vendas": 1677,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
+    "id": "SP974102638-58210258643",
+    "productId": "SP974102638-58210258643",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
+    "price": 29.99,
+    "originalPrice": 99.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
+    "url": "https://s.shopee.com.br/4VdkwdSAtp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 927,
+    "publishedAt": "2026-10-07T19:35:15.586Z",
+    "checkedAt": "2026-10-25T00:18:59.810Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -414,8 +438,8 @@
     "fonte": "shopee:q:camiseta",
     "categoria": "Moda e Calçados",
     "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "price": 74,
-    "originalPrice": 238.71,
+    "price": 74.9,
+    "originalPrice": 241.61,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -426,10 +450,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 2040,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -597,7 +621,7 @@
     "lowest30d": false,
     "vendas": 1389,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP391739739-22194555567",
@@ -957,7 +981,7 @@
     "lowest30d": false,
     "vendas": 344,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -981,7 +1005,7 @@
     "lowest30d": false,
     "vendas": 4997,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -1005,7 +1029,7 @@
     "lowest30d": true,
     "vendas": 396,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -1149,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -1365,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 636,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -1413,102 +1437,6 @@
     "lowest30d": true,
     "vendas": 1033,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "MLB7690418228",
-    "productId": "MLB76874384",
-    "marketplace": "ml",
-    "fonte": "q:perfume feminino",
-    "categoria": "Beleza",
-    "title": "Perfume Feminino Rosé.12",
-    "price": 120,
-    "originalPrice": 368,
-    "discount": 67,
-    "base": "media",
-    "averagePrice": 368,
-    "sellers": 35,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_988485-MLA115976118017_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7690418228?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "MLB7690418174",
-    "productId": "MLB77141871",
-    "marketplace": "ml",
-    "fonte": "q:perfume masculino",
-    "categoria": "Beleza",
-    "title": "Perfume Masculino Millions",
-    "price": 120,
-    "originalPrice": 368,
-    "discount": 67,
-    "base": "media",
-    "averagePrice": 368,
-    "sellers": 37,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_710864-MLA116041874445_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7690418174?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "MLB5279469915",
-    "productId": "MLB77039877",
-    "marketplace": "ml",
-    "fonte": "q:perfume feminino",
-    "categoria": "Beleza",
-    "title": "Perfume Feminino Olympia",
-    "price": 120,
-    "originalPrice": 368,
-    "discount": 67,
-    "base": "media",
-    "averagePrice": 368,
-    "sellers": 35,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5279469915?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "MLB7847665416",
-    "productId": "MLB76876185",
-    "marketplace": "ml",
-    "fonte": "q:perfume feminino",
-    "categoria": "Beleza",
-    "title": "Perfume Feminino Delilah 50ml",
-    "price": 120,
-    "originalPrice": 368,
-    "discount": 67,
-    "base": "media",
-    "averagePrice": 368,
-    "sellers": 35,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_958703-MLA114615536406_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7847665416?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-20T00:05:13.745Z",
     "checkedAt": "2026-10-25T02:35:16.832Z"
   },
   {
@@ -1677,7 +1605,7 @@
     "lowest30d": false,
     "vendas": 122,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-10-25T00:05:14.130Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1043389652-23998793385",
@@ -1837,7 +1765,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkmzuvz24u9f0",
-    "url": "https://s.shopee.com.br/3qO49MVvQZ",
+    "url": "https://s.shopee.com.br/5q9DJfHZI7",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1845,7 +1773,7 @@
     "lowest30d": true,
     "vendas": 1934,
     "publishedAt": "2026-10-16T12:35:17.271Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -2061,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 1370,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -2469,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 502,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -2493,7 +2421,7 @@
     "lowest30d": false,
     "vendas": 650,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -2973,31 +2901,7 @@
     "lowest30d": false,
     "vendas": 285,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
-  },
-  {
-    "id": "SP1054219578-20399715997",
-    "productId": "SP1054219578-20399715997",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
-    "price": 35.88,
-    "originalPrice": 99.67,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
-    "url": "https://s.shopee.com.br/7puCwi5zwp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1451,
-    "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -3021,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 802,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -3600,30 +3504,6 @@
     "checkedAt": "2026-10-25T01:35:12.896Z"
   },
   {
-    "id": "MLB5458836957",
-    "productId": "MLB22305960",
-    "marketplace": "ml",
-    "fonte": "MLB1580",
-    "categoria": "Eletrodomésticos",
-    "title": "Fogão Cooktop Elétrico Elgin 2 Bocas Preto",
-    "price": 49.9,
-    "originalPrice": 132.96,
-    "discount": 62,
-    "base": "media",
-    "averagePrice": 132.96,
-    "sellers": 35,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_662341-MLA117831868834_102026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5458836957?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-25T02:05:16.767Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
     "id": "SP1193388723-55806745399",
     "productId": "SP1193388723-55806745399",
     "marketplace": "shopee",
@@ -3669,7 +3549,7 @@
     "lowest30d": false,
     "vendas": 189,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3693,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 320,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -4126,6 +4006,30 @@
     "vendas": 788,
     "publishedAt": "2026-10-11T14:05:13.666Z",
     "checkedAt": "2026-10-25T02:05:16.767Z"
+  },
+  {
+    "id": "SP1054219578-20399715997",
+    "productId": "SP1054219578-20399715997",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
+    "price": 37.89,
+    "originalPrice": 99.71,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
+    "url": "https://s.shopee.com.br/7puCwi5zwp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1451,
+    "publishedAt": "2026-10-10T22:35:14.994Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -4632,54 +4536,6 @@
     "checkedAt": "2026-10-25T00:18:59.810Z"
   },
   {
-    "id": "SP1495837089-23794414130",
-    "productId": "SP1495837089-23794414130",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 31.99,
-    "originalPrice": 79.97,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
-    "url": "https://s.shopee.com.br/3LRnYTt1CI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 764,
-    "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
-  },
-  {
-    "id": "SP1337284628-22398929943",
-    "productId": "SP1337284628-22398929943",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 31.99,
-    "originalPrice": 79.97,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
-    "url": "https://s.shopee.com.br/5VWI8Sklnv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 289,
-    "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
-  },
-  {
     "id": "SP341167297-20350419516",
     "productId": "SP341167297-20350419516",
     "marketplace": "shopee",
@@ -4965,7 +4821,7 @@
     "lowest30d": false,
     "vendas": 2296,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -5109,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 993,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5181,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 581,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1905647169-58265421821",
@@ -5205,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 2686,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -5277,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 1672,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -5325,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 1337,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -5421,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 1296,
     "publishedAt": "2026-10-08T11:05:16.635Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1724399264-58211321615",
@@ -5448,6 +5304,54 @@
     "checkedAt": "2026-10-25T00:18:59.810Z"
   },
   {
+    "id": "SP1495837089-23794414130",
+    "productId": "SP1495837089-23794414130",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
+    "url": "https://s.shopee.com.br/3LRnYTt1CI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 764,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
+    "id": "SP1337284628-22398929943",
+    "productId": "SP1337284628-22398929943",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
+    "url": "https://s.shopee.com.br/5VWI8Sklnv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 289,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
     "id": "SP1459882590-58208571406",
     "productId": "SP1459882590-58208571406",
     "marketplace": "shopee",
@@ -5469,7 +5373,7 @@
     "lowest30d": true,
     "vendas": 1876,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5613,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 439,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5832,30 +5736,6 @@
     "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
-    "id": "MLB5447342251",
-    "productId": "MLB65312129",
-    "marketplace": "ml",
-    "fonte": "MLB1576",
-    "categoria": "Eletrodomésticos",
-    "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
-    "price": 2089.05,
-    "originalPrice": 4946.32,
-    "discount": 58,
-    "base": "media",
-    "averagePrice": 4946.32,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5447342251?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
     "id": "SP1738153850-22594867370",
     "productId": "SP1738153850-22594867370",
     "marketplace": "shopee",
@@ -5901,7 +5781,7 @@
     "lowest30d": false,
     "vendas": 4788,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB3927361477",
@@ -5925,7 +5805,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -6264,6 +6144,30 @@
     "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
+    "id": "SP371651689-23994017710",
+    "productId": "SP371651689-23994017710",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
+    "price": 39.9,
+    "originalPrice": 90.68,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
+    "url": "https://s.shopee.com.br/W7cBIPKXo",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1856,
+    "publishedAt": "2026-10-25T02:35:16.832Z",
+    "checkedAt": "2026-10-25T02:35:16.832Z"
+  },
+  {
     "id": "SP302142396-22599393413",
     "productId": "SP302142396-22599393413",
     "marketplace": "shopee",
@@ -6358,6 +6262,30 @@
     "vendas": 794,
     "publishedAt": "2026-10-23T13:05:15.300Z",
     "checkedAt": "2026-10-25T00:05:14.130Z"
+  },
+  {
+    "id": "MLB5447342251",
+    "productId": "MLB65312129",
+    "marketplace": "ml",
+    "fonte": "MLB1576",
+    "categoria": "Eletrodomésticos",
+    "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
+    "price": 2199,
+    "originalPrice": 4946.32,
+    "discount": 56,
+    "base": "media",
+    "averagePrice": 4946.32,
+    "sellers": 16,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5447342251?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-22T19:05:57.093Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6597,7 +6525,7 @@
     "lowest30d": false,
     "vendas": 1749,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1600125401-23198908273",
@@ -6669,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6765,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-08T15:35:17.185Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB7863332624",
@@ -6789,7 +6717,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6885,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 971,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6909,7 +6837,7 @@
     "lowest30d": false,
     "vendas": 849,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -7056,6 +6984,30 @@
     "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
+    "id": "MLB7847665416",
+    "productId": "MLB76876185",
+    "marketplace": "ml",
+    "fonte": "q:perfume feminino",
+    "categoria": "Beleza",
+    "title": "Perfume Feminino Delilah 50ml",
+    "price": 180,
+    "originalPrice": 368,
+    "discount": 51,
+    "base": "media",
+    "averagePrice": 368,
+    "sellers": 35,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958703-MLA114615536406_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7847665416?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T00:05:13.745Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
     "id": "SP222975446-22394186914",
     "productId": "SP222975446-22394186914",
     "marketplace": "shopee",
@@ -7149,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 1874,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP857619285-58267095847",
@@ -7413,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7557,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7653,7 +7605,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7749,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP333164875-19699297807",
@@ -7821,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7917,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7968,30 +7920,6 @@
     "checkedAt": "2026-10-25T00:18:59.810Z"
   },
   {
-    "id": "SP1601586606-22998865188",
-    "productId": "SP1601586606-22998865188",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "￼Sapateira Multiuso Para Calçados 9-3 Andares Organizador Desmontável  organizador de sapatos tênis",
-    "price": 46.99,
-    "originalPrice": 70.13,
-    "discount": 33,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zum-mktwbclnopvldf",
-    "url": "https://s.shopee.com.br/9zyhUhd6pr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3352,
-    "publishedAt": "2026-10-23T08:35:13.432Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
-  },
-  {
     "id": "SP1045085918-23799188673",
     "productId": "SP1045085918-23799188673",
     "marketplace": "shopee",
@@ -8016,6 +7944,78 @@
     "checkedAt": "2026-10-25T01:05:13.693Z"
   },
   {
+    "id": "MLB7690418228",
+    "productId": "MLB76874384",
+    "marketplace": "ml",
+    "fonte": "q:perfume feminino",
+    "categoria": "Beleza",
+    "title": "Perfume Feminino Rosé.12",
+    "price": 249.9,
+    "originalPrice": 368,
+    "discount": 32,
+    "base": "media",
+    "averagePrice": 368,
+    "sellers": 35,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_988485-MLA115976118017_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7690418228?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-21T22:05:14.573Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
+    "id": "MLB7690418174",
+    "productId": "MLB77141871",
+    "marketplace": "ml",
+    "fonte": "q:perfume masculino",
+    "categoria": "Beleza",
+    "title": "Perfume Masculino Millions",
+    "price": 249.9,
+    "originalPrice": 368,
+    "discount": 32,
+    "base": "media",
+    "averagePrice": 368,
+    "sellers": 37,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_710864-MLA116041874445_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7690418174?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T00:05:13.745Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
+    "id": "MLB5279469915",
+    "productId": "MLB77039877",
+    "marketplace": "ml",
+    "fonte": "q:perfume feminino",
+    "categoria": "Beleza",
+    "title": "Perfume Feminino Olympia",
+    "price": 249.9,
+    "originalPrice": 368,
+    "discount": 32,
+    "base": "media",
+    "averagePrice": 368,
+    "sellers": 35,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5279469915?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T00:05:13.745Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
     "id": "MLB3767156322",
     "productId": "MLB17384401",
     "marketplace": "ml",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": 2100,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB4153226076",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB5812393646",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,31 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
-  },
-  {
-    "id": "SP974102638-58210258643",
-    "productId": "SP974102638-58210258643",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
-    "price": 29.99,
-    "originalPrice": 99.97,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
-    "url": "https://s.shopee.com.br/4VdkwdSAtp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 927,
-    "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-25T00:18:59.810Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8517,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 659,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8853,7 +8829,7 @@
     "lowest30d": false,
     "vendas": 112,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8862,8 +8838,8 @@
     "fonte": "shopee:q:aspirador",
     "categoria": "Eletrodomésticos",
     "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
-    "price": 38.8,
-    "originalPrice": 125.16,
+    "price": 38.5,
+    "originalPrice": 124.19,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -8877,7 +8853,7 @@
     "lowest30d": true,
     "vendas": 882,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -8973,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 1524,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9117,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 1675,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9141,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 656,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1489642206-24194076610",
@@ -9237,7 +9213,7 @@
     "lowest30d": false,
     "vendas": 547,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -9549,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 1084,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9645,7 +9621,31 @@
     "lowest30d": false,
     "vendas": 802,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
+  },
+  {
+    "id": "SP1240425443-23893313838",
+    "productId": "SP1240425443-23893313838",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de Ouvido Sem Fio Bluetooth com Condução Óssea/Compacto e Leve/Resistente a Água/Tipo-C",
+    "price": 34.98,
+    "originalPrice": 109.31,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134211-820ln-mseaww44b5dz4b",
+    "url": "https://s.shopee.com.br/4LKLPInqYn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3250,
+    "publishedAt": "2026-10-25T03:05:18.352Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -10005,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 197,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -10029,7 +10029,7 @@
     "lowest30d": true,
     "vendas": 536,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -10053,7 +10053,7 @@
     "lowest30d": true,
     "vendas": 407,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -10077,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 1027,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 335,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -10125,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 320,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -10173,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 241,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 1818,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10461,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 304,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10614,8 +10614,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 35.89,
-    "originalPrice": 102.54,
+    "price": 35.88,
+    "originalPrice": 102.51,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10626,10 +10626,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1022,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10741,7 +10741,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk7v28bxbjeq9a",
-    "url": "https://s.shopee.com.br/906CzkL4a1",
+    "url": "https://s.shopee.com.br/4qGg7pUAnk",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10749,7 +10749,7 @@
     "lowest30d": true,
     "vendas": 4784,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10821,7 +10821,7 @@
     "lowest30d": true,
     "vendas": 2476,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -10845,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 3358,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -11613,7 +11613,7 @@
     "lowest30d": true,
     "vendas": 322,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-24T23:35:14.222Z"
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-25T00:05:14.130Z"
   },
   {
-    "id": "SP371651689-23994017710",
-    "productId": "SP371651689-23994017710",
+    "id": "SP552896405-43079698414",
+    "productId": "SP552896405-43079698414",
     "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
-    "price": 39.9,
-    "originalPrice": 90.68,
-    "discount": 56,
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
+    "price": 30.9,
+    "originalPrice": 59.42,
+    "discount": 48,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
-    "url": "https://s.shopee.com.br/W7cBIPKXo",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
+    "url": "https://s.shopee.com.br/5LCvBnH7mT",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1856,
-    "publishedAt": "2026-10-25T02:35:16.832Z",
-    "checkedAt": "2026-10-25T02:35:16.832Z"
+    "vendas": 4528,
+    "publishedAt": "2026-10-25T03:05:18.352Z",
+    "checkedAt": "2026-10-25T03:05:18.352Z"
   }
 ]
