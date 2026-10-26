@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3297532241",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-24T15:35:13.249Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1397076460-58256962652",
@@ -252,7 +252,7 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyn59gt8ihgl07",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mur6yzz3wc1u5e",
     "url": "https://s.shopee.com.br/7AecKcQl2S",
     "freeShipping": false,
     "oficial": false,
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 361,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -390,8 +390,8 @@
     "fonte": "shopee:q:camiseta",
     "categoria": "Moda e Calçados",
     "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "price": 74.9,
-    "originalPrice": 241.61,
+    "price": 74,
+    "originalPrice": 238.71,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -402,10 +402,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2003,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 1404,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP391739739-22194555567",
@@ -744,30 +744,6 @@
     "checkedAt": "2026-10-26T02:05:14.063Z"
   },
   {
-    "id": "SP1240425443-23893313838",
-    "productId": "SP1240425443-23893313838",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fone de Ouvido Sem Fio Bluetooth com Condução Óssea/Compacto e Leve/Resistente a Água/Tipo-C",
-    "price": 34.98,
-    "originalPrice": 109.31,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134211-820ln-mseaww44b5dz4b",
-    "url": "https://s.shopee.com.br/5fpn9EoOxB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3035,
-    "publishedAt": "2026-10-25T03:05:18.352Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
-  },
-  {
     "id": "SP1257628820-28150363019",
     "productId": "SP1257628820-28150363019",
     "marketplace": "shopee",
@@ -933,7 +909,7 @@
     "lowest30d": false,
     "vendas": 349,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -957,7 +933,7 @@
     "lowest30d": false,
     "vendas": 5083,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -981,7 +957,7 @@
     "lowest30d": true,
     "vendas": 386,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP995022276-20499443237",
@@ -1197,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 612,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -1341,7 +1317,7 @@
     "lowest30d": false,
     "vendas": 23043,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -1365,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 646,
     "publishedAt": "2026-10-23T04:05:19.715Z",
-    "checkedAt": "2026-10-26T00:35:15.564Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1566977006-23399193375",
@@ -1845,7 +1821,7 @@
     "lowest30d": true,
     "vendas": 2717,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -1869,7 +1845,7 @@
     "lowest30d": true,
     "vendas": 4257,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -2469,7 +2445,7 @@
     "lowest30d": true,
     "vendas": 501,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -2493,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 644,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -2973,7 +2949,31 @@
     "lowest30d": false,
     "vendas": 268,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
+  },
+  {
+    "id": "SP1054219578-20399715997",
+    "productId": "SP1054219578-20399715997",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
+    "price": 35.88,
+    "originalPrice": 99.67,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
+    "url": "https://s.shopee.com.br/9zymVcdmXk",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1426,
+    "publishedAt": "2026-10-10T22:35:14.994Z",
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -2982,8 +2982,8 @@
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "Fone E36 Pro Bluetooth 5.3 Esportivo, ANC Microfone, IPX5, 40h de Bateria – Hi-Fi 9D",
-    "price": 35.99,
-    "originalPrice": 99.97,
+    "price": 35.88,
+    "originalPrice": 99.67,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2994,10 +2994,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 807,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -3093,7 +3093,7 @@
     "lowest30d": false,
     "vendas": 470,
     "publishedAt": "2026-10-25T06:35:13.427Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -3672,6 +3672,30 @@
     "checkedAt": "2026-10-26T01:35:13.391Z"
   },
   {
+    "id": "SP1661007426-23299713686",
+    "productId": "SP1661007426-23299713686",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete De Atividade Infantil Para engatinhar AMR-1013 Brinquedo bebe Musical Cor Verde",
+    "price": 59.17,
+    "originalPrice": 159.92,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mum5zkvhg3r4c8",
+    "url": "https://s.shopee.com.br/50a6Q3zg9R",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3023,
+    "publishedAt": "2026-10-07T13:55:18.295Z",
+    "checkedAt": "2026-10-26T02:05:14.063Z"
+  },
+  {
     "id": "SP1193388723-55806745399",
     "productId": "SP1193388723-55806745399",
     "marketplace": "shopee",
@@ -3717,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 203,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3741,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 318,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -4152,30 +4176,6 @@
     "checkedAt": "2026-10-26T02:35:15.764Z"
   },
   {
-    "id": "SP1054219578-20399715997",
-    "productId": "SP1054219578-20399715997",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
-    "price": 37.89,
-    "originalPrice": 99.71,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
-    "url": "https://s.shopee.com.br/9zymVcdmXk",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1426,
-    "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
-  },
-  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -4941,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 2279,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -5085,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 977,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5133,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 590,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -5181,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 2725,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1573953914-58208026725",
@@ -5229,7 +5229,7 @@
     "lowest30d": false,
     "vendas": 1735,
     "publishedAt": "2026-10-10T14:05:12.635Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -5277,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 1321,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP997025684-22893941716",
@@ -5373,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 748,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1337284628-22398929943",
@@ -5397,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 282,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -5421,7 +5421,7 @@
     "lowest30d": true,
     "vendas": 1850,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5565,7 +5565,7 @@
     "lowest30d": false,
     "vendas": 431,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP526625785-23694530523",
@@ -5829,7 +5829,7 @@
     "lowest30d": false,
     "vendas": 4545,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3927361477",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1109263850-18598167463",
@@ -6429,7 +6429,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -6549,7 +6549,7 @@
     "lowest30d": false,
     "vendas": 1755,
     "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP991338332-23298943553",
@@ -6597,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6693,7 +6693,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T16:05:20.158Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6789,7 +6789,7 @@
     "lowest30d": false,
     "vendas": 975,
     "publishedAt": "2026-10-07T17:05:22.285Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 846,
     "publishedAt": "2026-10-04T13:05:14.518Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -6981,7 +6981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 1945,
     "publishedAt": "2026-10-15T13:35:16.707Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP857619285-58267095847",
@@ -7102,6 +7102,30 @@
     "vendas": 2164,
     "publishedAt": "2026-10-03T13:05:14.688Z",
     "checkedAt": "2026-10-26T02:05:14.063Z"
+  },
+  {
+    "id": "SP552896405-43079698414",
+    "productId": "SP552896405-43079698414",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
+    "price": 29.9,
+    "originalPrice": 59.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
+    "url": "https://s.shopee.com.br/80DhvXEvEH",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4473,
+    "publishedAt": "2026-10-25T03:05:18.352Z",
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP528261467-49108107903",
@@ -7344,30 +7368,6 @@
     "checkedAt": "2026-10-26T01:35:13.391Z"
   },
   {
-    "id": "SP552896405-43079698414",
-    "productId": "SP552896405-43079698414",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Kit Lençol Casal 03 Peças Jogo de Cama Com Elastico Fronhas em Ponto Palito 400 fios Toque Macio",
-    "price": 30.9,
-    "originalPrice": 59.42,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmjspccz4npcc3",
-    "url": "https://s.shopee.com.br/80DhvXEvEH",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4473,
-    "publishedAt": "2026-10-25T03:05:18.352Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
-  },
-  {
     "id": "MLB1942049788",
     "productId": "MLB15578941",
     "marketplace": "ml",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7512,30 +7512,6 @@
     "checkedAt": "2026-10-26T01:05:13.051Z"
   },
   {
-    "id": "MLB7868262590",
-    "productId": "MLB56408764",
-    "marketplace": "ml",
-    "fonte": "MLB199407",
-    "categoria": "Beleza",
-    "title": "Creme Clareador para Axilas Virilha 60g",
-    "price": 99,
-    "originalPrice": 180.45,
-    "discount": 45,
-    "base": "media",
-    "averagePrice": 180.45,
-    "sellers": 15,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_946781-MLA116325720710_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7868262590?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
-  },
-  {
     "id": "SP1027415014-23299661359",
     "productId": "SP1027415014-23299661359",
     "marketplace": "shopee",
@@ -7582,6 +7558,30 @@
     "vendas": 859,
     "publishedAt": "2026-10-14T14:05:21.785Z",
     "checkedAt": "2026-10-26T01:07:13.326Z"
+  },
+  {
+    "id": "MLB7868262590",
+    "productId": "MLB56408764",
+    "marketplace": "ml",
+    "fonte": "MLB199407",
+    "categoria": "Beleza",
+    "title": "Creme Clareador para Axilas Virilha 60g",
+    "price": 99,
+    "originalPrice": 175.9,
+    "discount": 44,
+    "base": "media",
+    "averagePrice": 175.9,
+    "sellers": 16,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_946781-MLA116325720710_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7868262590?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-23T15:35:14.318Z",
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7749,7 +7749,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
+  },
+  {
+    "id": "MLB5812393646",
+    "productId": "MLB15345937",
+    "marketplace": "ml",
+    "fonte": "MLB447778",
+    "categoria": "Informática",
+    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
+    "price": 145,
+    "originalPrice": 235.87,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 235.87,
+    "sellers": 38,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-14T03:05:11.425Z",
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7893,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB5109948772",
@@ -7917,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3767156322",
@@ -7941,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7989,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB7690418174",
@@ -8013,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB5279469915",
@@ -8037,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8181,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8205,7 +8229,7 @@
     "lowest30d": true,
     "vendas": 2139,
     "publishedAt": "2026-10-12T20:05:15.606Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB4153226076",
@@ -8229,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3712331427",
@@ -8253,31 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
-  },
-  {
-    "id": "MLB5812393646",
-    "productId": "MLB15345937",
-    "marketplace": "ml",
-    "fonte": "MLB447778",
-    "categoria": "Informática",
-    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-    "price": 172,
-    "originalPrice": 235.87,
-    "discount": 27,
-    "base": "media",
-    "averagePrice": 235.87,
-    "sellers": 38,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB3682277189",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-26T03:05:14.319Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP400434768-18298068505",
@@ -8533,7 +8533,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-820mc-mqxych2t687b18",
-    "url": "https://s.shopee.com.br/7Ky1Kio0DA",
+    "url": "https://s.shopee.com.br/6VOvjkW77z",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 634,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8853,7 +8853,7 @@
     "lowest30d": false,
     "vendas": 101,
     "publishedAt": "2026-10-03T12:35:13.942Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 907,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 1537,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9117,7 +9117,7 @@
     "lowest30d": true,
     "vendas": 1668,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 624,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1489642206-24194076610",
@@ -9237,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 549,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -9549,7 +9549,7 @@
     "lowest30d": true,
     "vendas": 999,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9645,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 793,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -10053,7 +10053,7 @@
     "lowest30d": true,
     "vendas": 191,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -10077,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 545,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 391,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1615523230-58252351313",
@@ -10125,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 975,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP697872788-58263111749",
@@ -10149,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 271,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -10173,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 321,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1459307687-22894152352",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 220,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1600125401-58200309888",
@@ -10317,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 1790,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10533,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 293,
     "publishedAt": "2026-09-29T22:37:44.287Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10686,22 +10686,22 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 35.89,
-    "originalPrice": 102.54,
+    "price": 35.88,
+    "originalPrice": 102.51,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfxlmxd46gb0ed",
-    "url": "https://s.shopee.com.br/2qVYS6QmtX",
+    "url": "https://s.shopee.com.br/5fpokDZDXV",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 994,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -10821,7 +10821,7 @@
     "lowest30d": true,
     "vendas": 4580,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP867115662-23793884265",
@@ -10893,7 +10893,7 @@
     "lowest30d": true,
     "vendas": 2398,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP526625785-58202148501",
@@ -11229,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 3315,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -11301,30 +11301,6 @@
     "lowest30d": false,
     "vendas": 1398,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-10-26T02:05:14.063Z"
-  },
-  {
-    "id": "SP1661007426-23299713686",
-    "productId": "SP1661007426-23299713686",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete De Atividade Infantil Para engatinhar AMR-1013 Brinquedo bebe Musical Cor Verde",
-    "price": 59.17,
-    "originalPrice": 159.92,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mum5zkvhg3r4c8",
-    "url": "https://s.shopee.com.br/50a6Q3zg9R",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3023,
-    "publishedAt": "2026-10-07T13:55:18.295Z",
     "checkedAt": "2026-10-26T02:05:14.063Z"
   },
   {
@@ -11709,7 +11685,7 @@
     "lowest30d": true,
     "vendas": 321,
     "publishedAt": "2026-09-24T01:35:15.543Z",
-    "checkedAt": "2026-10-26T00:05:13.503Z"
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   },
   {
     "id": "SP400185488-58250005797",
@@ -11998,5 +11974,29 @@
     "vendas": 174,
     "publishedAt": "2026-09-28T23:35:18.557Z",
     "checkedAt": "2026-10-26T00:35:15.564Z"
+  },
+  {
+    "id": "MLB5451291113",
+    "productId": "MLB66980166",
+    "marketplace": "ml",
+    "fonte": "MLB133950",
+    "categoria": "Eletrônicos",
+    "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
+    "price": 198.75,
+    "originalPrice": 248.77,
+    "discount": 20,
+    "base": "media",
+    "averagePrice": 248.77,
+    "sellers": 31,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5451291113?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ELETRO .COM",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-26T03:35:15.834Z",
+    "checkedAt": "2026-10-26T03:35:15.834Z"
   }
 ]
