@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB3297532241",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-24T15:35:13.249Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1397076460-58256962652",
@@ -115,9 +115,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2234,
+    "vendas": 2126,
     "publishedAt": "2026-10-25T02:05:16.767Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1574084758-58205868634",
@@ -333,7 +333,31 @@
     "lowest30d": false,
     "vendas": 5611,
     "publishedAt": "2026-10-09T10:05:15.429Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
+  },
+  {
+    "id": "SP1339412998-27035836352",
+    "productId": "SP1339412998-27035836352",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Celimax The Vita A Retinal Shot Reforço Apertador 15ml",
+    "price": 97,
+    "originalPrice": 312.9,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-825ah-muij28saxfr4b6",
+    "url": "https://s.shopee.com.br/1W0H0p21vv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1348,
+    "publishedAt": "2026-10-26T22:05:15.254Z",
+    "checkedAt": "2026-10-26T22:05:15.254Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -379,9 +403,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 528,
+    "vendas": 578,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -595,9 +619,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2509,
+    "vendas": 2504,
     "publishedAt": "2026-10-21T18:05:16.726Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1275005853-58262654503",
@@ -669,7 +693,7 @@
     "lowest30d": true,
     "vendas": 600,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -1027,9 +1051,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1439,
+    "vendas": 1395,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1870601214-22399680511",
@@ -1195,9 +1219,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2973,
+    "vendas": 2930,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -1221,7 +1245,7 @@
     "lowest30d": false,
     "vendas": 1400,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -1245,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 3995,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -1267,9 +1291,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3784,
+    "vendas": 3706,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 1460,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP323760756-41721001761",
@@ -1957,7 +1981,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/04527aa2d9d6a2e8d2b68d715f079947",
-    "url": "https://s.shopee.com.br/2qVe46DrDP",
+    "url": "https://s.shopee.com.br/30p4jHBiA6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1965,7 +1989,7 @@
     "lowest30d": false,
     "vendas": 8815,
     "publishedAt": "2026-10-25T12:35:16.896Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -1989,7 +2013,7 @@
     "lowest30d": true,
     "vendas": 1304,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-26T19:14:43.720Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -2155,9 +2179,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 734,
+    "vendas": 706,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -2491,9 +2515,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 716,
+    "vendas": 713,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -2517,7 +2541,7 @@
     "lowest30d": true,
     "vendas": 182,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -2539,9 +2563,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1224,
+    "vendas": 1200,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -3019,9 +3043,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 525,
+    "vendas": 536,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -3379,9 +3403,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 158,
+    "vendas": 152,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3403,9 +3427,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 731,
+    "vendas": 733,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -3763,9 +3787,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 769,
+    "vendas": 875,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -3787,9 +3811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2282,
+    "vendas": 2184,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -3933,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 157,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -3979,9 +4003,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 254,
+    "vendas": 250,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -4027,9 +4051,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1660,
+    "vendas": 1659,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1193388723-57914922040",
@@ -4099,9 +4123,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 118,
+    "vendas": 101,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -4171,9 +4195,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4092,
+    "vendas": 3983,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -4195,9 +4219,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1459,
+    "vendas": 1448,
     "publishedAt": "2026-10-23T16:35:13.975Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB6194501592",
@@ -4221,7 +4245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -4285,15 +4309,15 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m034q42xa5z1db",
-    "url": "https://s.shopee.com.br/4VdpWjIWDL",
+    "url": "https://s.shopee.com.br/20wXdpeH2o",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 622,
+    "vendas": 590,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP316048997-58204421120",
@@ -4582,30 +4606,6 @@
     "vendas": 4752,
     "publishedAt": "2026-10-10T03:05:12.633Z",
     "checkedAt": "2026-10-26T19:14:43.720Z"
-  },
-  {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 168,
-    "originalPrice": 430.77,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/AAIE6SAERq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1177,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
   },
   {
     "id": "SP1032290308-58269276013",
@@ -5472,30 +5472,6 @@
     "checkedAt": "2026-10-26T20:35:13.603Z"
   },
   {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 620.99,
-    "originalPrice": 1514.61,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/70LAjgNSrx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1402,
-    "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
-  },
-  {
     "id": "SP706485941-24714753678",
     "productId": "SP706485941-24714753678",
     "marketplace": "shopee",
@@ -5587,9 +5563,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 585,
+    "vendas": 570,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1493421921-21998324835",
@@ -5611,9 +5587,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2762,
+    "vendas": 2714,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5635,9 +5611,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1292,
+    "vendas": 1288,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -5677,15 +5653,15 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lyowknf5ce5e3d",
-    "url": "https://s.shopee.com.br/4qGe3zovx0",
+    "url": "https://s.shopee.com.br/1qd7RWeyf4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 705,
+    "vendas": 685,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5757,7 +5733,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5875,9 +5851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3085,
+    "vendas": 2998,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5447342251",
@@ -5901,7 +5877,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5926,6 +5902,30 @@
     "vendas": 665,
     "publishedAt": "2026-10-15T13:05:13.512Z",
     "checkedAt": "2026-10-26T21:35:12.709Z"
+  },
+  {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 650.99,
+    "originalPrice": 1513.93,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/70LAjgNSrx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1375,
+    "publishedAt": "2026-10-15T03:05:15.135Z",
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -6043,9 +6043,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 11539,
+    "vendas": 11594,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -6211,9 +6211,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 784,
+    "vendas": 781,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP540093765-22697559457",
@@ -6456,6 +6456,30 @@
     "checkedAt": "2026-10-26T22:05:15.254Z"
   },
   {
+    "id": "SP688975125-58261587690",
+    "productId": "SP688975125-58261587690",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Sérum Peptídeo de Cobre GHK-Cu Reduz Rugas Linhas Finas Firmeza e Hidratação Facial Zencial",
+    "price": 137.9,
+    "originalPrice": 299.78,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mosqg5nsr6yt8c",
+    "url": "https://s.shopee.com.br/7puKYSdv4f",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1358,
+    "publishedAt": "2026-10-26T22:05:15.254Z",
+    "checkedAt": "2026-10-26T22:05:15.254Z"
+  },
+  {
     "id": "MLB5293442116",
     "productId": "MLB23463576",
     "marketplace": "ml",
@@ -6477,7 +6501,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP991338332-23298943553",
@@ -6525,7 +6549,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6667,9 +6691,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 580,
+    "vendas": 565,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6835,9 +6859,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2124,
+    "vendas": 2111,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB7847665416",
@@ -6861,7 +6885,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6883,9 +6907,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 14312,
+    "vendas": 13761,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -7029,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1717663781-23094876336",
@@ -7413,7 +7437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7560,30 +7584,6 @@
     "checkedAt": "2026-10-26T19:14:43.720Z"
   },
   {
-    "id": "SP1384111782-23593553623",
-    "productId": "SP1384111782-23593553623",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
-    "price": 514.9,
-    "originalPrice": 903.33,
-    "discount": 43,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
-    "url": "https://s.shopee.com.br/40hZABYPc5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1104,
-    "publishedAt": "2026-10-07T17:35:13.560Z",
-    "checkedAt": "2026-10-26T20:35:13.603Z"
-  },
-  {
     "id": "SP786353833-22194344661",
     "productId": "SP786353833-22194344661",
     "marketplace": "shopee",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5109948772",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5812393646",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB7690418228",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB7690418174",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5279469915",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5314233588",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB3712331427",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB3682277189",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5451291113",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB7071544106",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB6174995494",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB4521286991",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5054857751",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T06:05:16.386Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB4153226076",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -8491,9 +8491,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 935,
+    "vendas": 942,
     "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8587,9 +8587,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 620,
+    "vendas": 546,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8971,9 +8971,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 951,
+    "vendas": 939,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8995,9 +8995,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 936,
+    "vendas": 949,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9168,30 +9168,6 @@
     "checkedAt": "2026-10-26T19:14:43.720Z"
   },
   {
-    "id": "SP1339412998-27035836352",
-    "productId": "SP1339412998-27035836352",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Celimax The Vita A Retinal Shot Reforço Apertador 15ml",
-    "price": 97,
-    "originalPrice": 312.9,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-825ah-muij28saxfr4b6",
-    "url": "https://s.shopee.com.br/1W0H0p21vv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1348,
-    "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
-  },
-  {
     "id": "SP1028459403-19099850967",
     "productId": "SP1028459403-19099850967",
     "marketplace": "shopee",
@@ -9331,9 +9307,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1347,
+    "vendas": 1378,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9381,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9835,9 +9811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 234,
+    "vendas": 231,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -10291,9 +10267,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1834,
+    "vendas": 1799,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10363,9 +10339,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 3171,
+    "vendas": 3218,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10507,9 +10483,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1389,
+    "vendas": 1314,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -11035,9 +11011,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 193,
+    "vendas": 186,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1118395504-47513118746",
@@ -11059,9 +11035,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 414,
+    "vendas": 405,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11131,9 +11107,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 240,
+    "vendas": 238,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11203,9 +11179,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1143,
+    "vendas": 1103,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -11227,9 +11203,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 120,
+    "vendas": 115,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11299,9 +11275,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 432,
+    "vendas": 408,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11779,9 +11755,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3359,
+    "vendas": 3354,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -11923,9 +11899,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 256,
+    "vendas": 258,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP1127030290-50914065614",
@@ -11949,7 +11925,31 @@
     "lowest30d": false,
     "vendas": 168,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-26T19:05:18.317Z"
+    "checkedAt": "2026-10-26T22:35:15.547Z"
+  },
+  {
+    "id": "SP1673514861-58252475087",
+    "productId": "SP1673514861-58252475087",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
+    "price": 168,
+    "originalPrice": 430.77,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
+    "url": "https://s.shopee.com.br/AAIE6SAERq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1142,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-26T22:35:15.547Z"
   },
   {
     "id": "SP410705973-23694530547",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-26T21:05:21.831Z"
   },
   {
-    "id": "SP688975125-58261587690",
-    "productId": "SP688975125-58261587690",
+    "id": "SP1384111782-23593553623",
+    "productId": "SP1384111782-23593553623",
     "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Sérum Peptídeo de Cobre GHK-Cu Reduz Rugas Linhas Finas Firmeza e Hidratação Facial Zencial",
-    "price": 137.9,
-    "originalPrice": 299.78,
-    "discount": 54,
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
+    "price": 514.9,
+    "originalPrice": 903.33,
+    "discount": 43,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mosqg5nsr6yt8c",
-    "url": "https://s.shopee.com.br/7puKYSdv4f",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ku4ak7329u3e",
+    "url": "https://s.shopee.com.br/40hZABYPc5",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1358,
-    "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-10-26T22:05:15.254Z"
+    "vendas": 1104,
+    "publishedAt": "2026-10-07T17:35:13.560Z",
+    "checkedAt": "2026-10-26T20:35:13.603Z"
   }
 ]
