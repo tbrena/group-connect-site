@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "TODOSITERESGATE"
+    ],
+    "desconto": "R$ 60 OFF",
+    "limite": null,
+    "minimo": "R$ 499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16814",
+    "quando": "2026-10-27T03:24:16+00:00",
+    "id": "ml:TODOSITERESGATE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ESTOQUE2710"
+    ],
+    "desconto": "35% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 99",
+    "escopo": "Queima de Estoque",
+    "origem": "avidaefeitadedesconto/16813",
+    "quando": "2026-10-27T03:16:53+00:00",
+    "id": "ml:ESTOQUE2710",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "30ALLSITE"
     ],
     "desconto": "30% OFF",
@@ -165,34 +193,6 @@
     "origem": "avidaefeitadedesconto/16785",
     "quando": "2026-10-26T12:04:44+00:00",
     "id": "ml:SUPERDESCONTO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "QUEIMADEESTOQUE1610"
-    ],
-    "desconto": "35% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 99",
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16784",
-    "quando": "2026-10-26T03:14:53+00:00",
-    "id": "ml:QUEIMADEESTOQUE1610",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ALLSITERESGATE2610"
-    ],
-    "desconto": "R$ 60 OFF",
-    "limite": null,
-    "minimo": "R$ 499",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16783",
-    "quando": "2026-10-26T03:14:44+00:00",
-    "id": "ml:ALLSITERESGATE2610",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
