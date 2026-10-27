@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB3297532241",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-24T15:35:13.249Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1397076460-58256962652",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 148,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -525,7 +525,7 @@
     "lowest30d": true,
     "vendas": 746,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 761,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -1005,7 +1005,7 @@
     "lowest30d": false,
     "vendas": 1700,
     "publishedAt": "2026-10-25T03:35:13.956Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1669666744-58206781154",
@@ -1296,6 +1296,30 @@
     "checkedAt": "2026-10-27T05:05:14.083Z"
   },
   {
+    "id": "SP433494801-40378530289",
+    "productId": "SP433494801-40378530289",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Esportivo Feminino Leve Confortável Academia Caminhada Casual Antiderrapante",
+    "price": 29.9,
+    "originalPrice": 90.61,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
+    "url": "https://s.shopee.com.br/2BFuyjloKW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2226,
+    "publishedAt": "2026-09-23T03:30:08.026Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
+  },
+  {
     "id": "SP1779568981-58212580166",
     "productId": "SP1779568981-58212580166",
     "marketplace": "shopee",
@@ -1341,7 +1365,7 @@
     "lowest30d": false,
     "vendas": 633,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -1365,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 494,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -1389,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 1099,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -1605,7 +1629,7 @@
     "lowest30d": false,
     "vendas": 1608,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -1629,7 +1653,7 @@
     "lowest30d": false,
     "vendas": 3503,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1392120718-23794055036",
@@ -1797,7 +1821,7 @@
     "lowest30d": true,
     "vendas": 2729,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -2229,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 4245,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2253,7 +2277,7 @@
     "lowest30d": false,
     "vendas": 668,
     "publishedAt": "2026-10-22T13:05:24.625Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP451371260-22897389357",
@@ -2277,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 1611,
     "publishedAt": "2026-10-22T12:35:19.276Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP612306550-23798735982",
@@ -2565,7 +2589,7 @@
     "lowest30d": true,
     "vendas": 182,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -2589,7 +2613,7 @@
     "lowest30d": true,
     "vendas": 1200,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -2640,30 +2664,6 @@
     "checkedAt": "2026-10-27T03:35:11.482Z"
   },
   {
-    "id": "SP433494801-40378530289",
-    "productId": "SP433494801-40378530289",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Esportivo Feminino Leve Confortável Academia Caminhada Casual Antiderrapante",
-    "price": 32.36,
-    "originalPrice": 89.89,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
-    "url": "https://s.shopee.com.br/2BFuyjloKW",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2226,
-    "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
-  },
-  {
     "id": "SP378597608-22916640404",
     "productId": "SP378597608-22916640404",
     "marketplace": "shopee",
@@ -2685,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 4176,
     "publishedAt": "2026-10-23T03:05:13.101Z",
-    "checkedAt": "2026-10-27T02:05:13.820Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP303419140-57563387424",
@@ -2710,6 +2710,30 @@
     "vendas": 1085,
     "publishedAt": "2026-10-22T22:35:18.344Z",
     "checkedAt": "2026-10-27T02:05:13.820Z"
+  },
+  {
+    "id": "SP1668883425-58201729671",
+    "productId": "SP1668883425-58201729671",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "DELUX M900 Pro  Mouse Gamer Ergonômico Sem Fio/Com Fio – PAW3395, 63g, Dock 8K, Ice Coating, BK3633, 500mAh",
+    "price": 283,
+    "originalPrice": 786.11,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1eauc81ame23",
+    "url": "https://s.shopee.com.br/6q1nAAynEW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 152,
+    "publishedAt": "2026-10-22T21:35:14.359Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -3045,7 +3069,7 @@
     "lowest30d": true,
     "vendas": 536,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -3360,30 +3384,6 @@
     "checkedAt": "2026-10-27T04:35:14.537Z"
   },
   {
-    "id": "SP1668883425-58201729671",
-    "productId": "SP1668883425-58201729671",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "DELUX M900 Pro  Mouse Gamer Ergonômico Sem Fio/Com Fio – PAW3395, 63g, Dock 8K, Ice Coating, BK3633, 500mAh",
-    "price": 285,
-    "originalPrice": 770.27,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1eauc81ame23",
-    "url": "https://s.shopee.com.br/6q1nAAynEW",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 152,
-    "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
-  },
-  {
     "id": "SP837245818-45301021293",
     "productId": "SP837245818-45301021293",
     "marketplace": "shopee",
@@ -3405,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 733,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -3813,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 875,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -3837,7 +3837,7 @@
     "lowest30d": true,
     "vendas": 2184,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -3981,7 +3981,7 @@
     "lowest30d": true,
     "vendas": 157,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -4029,7 +4029,7 @@
     "lowest30d": true,
     "vendas": 250,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1541348350-58264273644",
@@ -4053,7 +4053,7 @@
     "lowest30d": false,
     "vendas": 1659,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1193388723-57914922040",
@@ -4125,7 +4125,7 @@
     "lowest30d": true,
     "vendas": 101,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -4197,7 +4197,7 @@
     "lowest30d": true,
     "vendas": 1448,
     "publishedAt": "2026-10-23T16:35:13.975Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB6194501592",
@@ -4221,7 +4221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -4293,7 +4293,7 @@
     "lowest30d": true,
     "vendas": 590,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1510947962-28040999242",
@@ -4582,6 +4582,30 @@
     "vendas": 177,
     "publishedAt": "2026-10-24T14:05:14.068Z",
     "checkedAt": "2026-10-27T02:05:13.820Z"
+  },
+  {
+    "id": "SP1493421921-21998324835",
+    "productId": "SP1493421921-21998324835",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
+    "price": 63.99,
+    "originalPrice": 159.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mm8e1uokutc69b",
+    "url": "https://s.shopee.com.br/3B8UQfxYiV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2714,
+    "publishedAt": "2026-10-23T23:35:12.652Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1495837089-23794414130",
@@ -5448,6 +5472,30 @@
     "checkedAt": "2026-10-27T03:35:11.482Z"
   },
   {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 620.99,
+    "originalPrice": 1514.61,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/70LAjgNSrx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1375,
+    "publishedAt": "2026-10-15T03:05:15.135Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
+  },
+  {
     "id": "SP706485941-24714753678",
     "productId": "SP706485941-24714753678",
     "marketplace": "shopee",
@@ -5541,31 +5589,7 @@
     "lowest30d": false,
     "vendas": 570,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
-  },
-  {
-    "id": "SP1493421921-21998324835",
-    "productId": "SP1493421921-21998324835",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
-    "price": 65.99,
-    "originalPrice": 157.12,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mm8e1uokutc69b",
-    "url": "https://s.shopee.com.br/3B8UQfxYiV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2714,
-    "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5589,7 +5613,7 @@
     "lowest30d": false,
     "vendas": 1288,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -5661,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 685,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5733,7 +5757,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5901,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 2998,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5926,30 +5950,6 @@
     "vendas": 665,
     "publishedAt": "2026-10-15T13:05:13.512Z",
     "checkedAt": "2026-10-27T04:35:14.537Z"
-  },
-  {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/70LAjgNSrx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1375,
-    "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -6069,7 +6069,7 @@
     "lowest30d": false,
     "vendas": 11594,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": 781,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP540093765-22697559457",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -6477,7 +6477,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP530370669-22101448576",
@@ -6549,7 +6549,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP832031799-23793575066",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 565,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6840,6 +6840,30 @@
     "checkedAt": "2026-10-27T05:05:14.083Z"
   },
   {
+    "id": "SP1725104548-58211255048",
+    "productId": "SP1725104548-58211255048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de Ouvido Bluetooth 5.4 Sem Fio TWS Quatro Fones Display LED Redução Ruído Esportivo Pronta Entrega",
+    "price": 57.99,
+    "originalPrice": 120.81,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mokjobm8o5xfc1",
+    "url": "https://s.shopee.com.br/1W0GRc3u6X",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2111,
+    "publishedAt": "2026-10-20T03:05:13.240Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
+  },
+  {
     "id": "SP654329517-23298924695",
     "productId": "SP654329517-23298924695",
     "marketplace": "shopee",
@@ -6888,30 +6912,6 @@
     "checkedAt": "2026-10-27T04:05:12.987Z"
   },
   {
-    "id": "SP1725104548-58211255048",
-    "productId": "SP1725104548-58211255048",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fone de Ouvido Bluetooth 5.4 Sem Fio TWS Quatro Fones Display LED Redução Ruído Esportivo Pronta Entrega",
-    "price": 58.99,
-    "originalPrice": 120.39,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mokjobm8o5xfc1",
-    "url": "https://s.shopee.com.br/1W0GRc3u6X",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2111,
-    "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
-  },
-  {
     "id": "MLB7847665416",
     "productId": "MLB76876185",
     "marketplace": "ml",
@@ -6933,7 +6933,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6942,8 +6942,8 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Balança Inteligente com Bioimpedância, App Integrado e Capacidade de até 180kg",
-    "price": 36.49,
-    "originalPrice": 74.47,
+    "price": 35.99,
+    "originalPrice": 73.45,
     "discount": 51,
     "base": "vendedor",
     "averagePrice": null,
@@ -6957,7 +6957,7 @@
     "lowest30d": true,
     "vendas": 13761,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1717663781-23094876336",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T15:35:14.318Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:35:13.285Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5109948772",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5812393646",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB7690418228",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB7690418174",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5279469915",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB3712331427",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T03:35:16.122Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB3682277189",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5451291113",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB7071544106",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5232182936",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB6174995494",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB4521286991",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5054857751",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T06:05:16.386Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB4153226076",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5830663578",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-27T05:05:14.083Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -8470,30 +8470,6 @@
     "vendas": 1701,
     "publishedAt": "2026-10-06T12:05:13.247Z",
     "checkedAt": "2026-10-27T03:35:11.482Z"
-  },
-  {
-    "id": "SP974102638-58210258643",
-    "productId": "SP974102638-58210258643",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Difusor Automático 5 Modos com Luz e Display – Umidificador de Parede/Mesa",
-    "price": 29.99,
-    "originalPrice": 99.97,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820mh-mny3kh4qe2v45e",
-    "url": "https://s.shopee.com.br/1gJeNtPpkU",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 942,
-    "publishedAt": "2026-10-07T19:35:15.586Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8589,7 +8565,7 @@
     "lowest30d": true,
     "vendas": 546,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8997,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 939,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -9021,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 949,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9309,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 1378,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9357,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9837,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 231,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -10269,7 +10245,7 @@
     "lowest30d": true,
     "vendas": 1799,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10317,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 3218,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10461,7 +10437,7 @@
     "lowest30d": true,
     "vendas": 1314,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -10992,6 +10968,30 @@
     "checkedAt": "2026-10-27T02:05:13.820Z"
   },
   {
+    "id": "SP1673514861-58252475087",
+    "productId": "SP1673514861-58252475087",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
+    "price": 168,
+    "originalPrice": 466.67,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
+    "url": "https://s.shopee.com.br/AAIE6SAERq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1142,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-27T05:35:14.042Z"
+  },
+  {
     "id": "SP1209650911-22394645339",
     "productId": "SP1209650911-22394645339",
     "marketplace": "shopee",
@@ -11013,7 +11013,7 @@
     "lowest30d": false,
     "vendas": 186,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1118395504-47513118746",
@@ -11037,7 +11037,7 @@
     "lowest30d": false,
     "vendas": 405,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11109,7 +11109,7 @@
     "lowest30d": true,
     "vendas": 238,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11157,7 +11157,7 @@
     "lowest30d": true,
     "vendas": 258,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -11214,8 +11214,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 46.9,
-    "originalPrice": 130.28,
+    "price": 46.89,
+    "originalPrice": 130.25,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -11229,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 1103,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -11253,7 +11253,7 @@
     "lowest30d": true,
     "vendas": 115,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11325,7 +11325,7 @@
     "lowest30d": false,
     "vendas": 408,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11709,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 3983,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -11781,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 3354,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -11925,7 +11925,7 @@
     "lowest30d": false,
     "vendas": 168,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
+    "checkedAt": "2026-10-27T05:35:14.042Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -11950,30 +11950,6 @@
     "vendas": 1005,
     "publishedAt": "2026-09-27T19:05:14.084Z",
     "checkedAt": "2026-10-27T03:35:11.482Z"
-  },
-  {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 168,
-    "originalPrice": 430.77,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/AAIE6SAERq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1142,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T02:01:43.842Z"
   },
   {
     "id": "SP410705973-23694530547",
