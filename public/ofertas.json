@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1397076460-58256962652",
@@ -198,8 +198,8 @@
     "fonte": "shopee:q:lampada led",
     "categoria": "Eletrônicos",
     "title": "Par Lampada Ultra Super Led 70000lm 500w Farol de carro H4 H7 H11 HB3 HB4 6500K Canbus",
-    "price": 149.99,
-    "originalPrice": 499.97,
+    "price": 148.99,
+    "originalPrice": 496.63,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 396,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -262,6 +262,30 @@
     "vendas": 109,
     "publishedAt": "2026-10-13T08:35:16.484Z",
     "checkedAt": "2026-10-28T01:35:12.708Z"
+  },
+  {
+    "id": "SP952371980-23397741792",
+    "productId": "SP952371980-23397741792",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
+    "price": 59.9,
+    "originalPrice": 199.67,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzgasnra2tdtb4",
+    "url": "https://s.shopee.com.br/6Am4L7xvZC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5770,
+    "publishedAt": "2026-10-08T12:35:13.204Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1339412998-27035836352",
@@ -357,7 +381,7 @@
     "lowest30d": false,
     "vendas": 1930,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -525,7 +549,7 @@
     "lowest30d": false,
     "vendas": 1422,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP391739739-22194555567",
@@ -646,6 +670,54 @@
     "vendas": 5483,
     "publishedAt": "2026-09-23T03:30:08.026Z",
     "checkedAt": "2026-10-28T01:05:13.815Z"
+  },
+  {
+    "id": "SP397374716-22697307193",
+    "productId": "SP397374716-22697307193",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Com Led RGB Portátil USB FM TWS",
+    "price": 94.96,
+    "originalPrice": 296.75,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquly5gqlxdn10",
+    "url": "https://s.shopee.com.br/70LAjgaawK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1387,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "SP717396632-20997608223",
+    "productId": "SP717396632-20997608223",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+    "price": 94.96,
+    "originalPrice": 296.75,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
+    "url": "https://s.shopee.com.br/gR7C2yhmn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3693,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -837,7 +909,7 @@
     "lowest30d": false,
     "vendas": 341,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -846,8 +918,8 @@
     "fonte": "shopee:q:brinquedo",
     "categoria": "Brinquedos",
     "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
-    "price": 38.51,
-    "originalPrice": 120.34,
+    "price": 38.9,
+    "originalPrice": 121.56,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -861,7 +933,55 @@
     "lowest30d": false,
     "vendas": 5176,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "SP1573953914-23998775294",
+    "productId": "SP1573953914-23998775294",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
+    "price": 66.4,
+    "originalPrice": 201.21,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjqdt1hw2dc3ba",
+    "url": "https://s.shopee.com.br/40hZAAm122",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1036,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "SP1468415010-23194993945",
+    "productId": "SP1468415010-23194993945",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
+    "price": 46.54,
+    "originalPrice": 141.03,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+    "url": "https://s.shopee.com.br/9fLvubUZlu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1907,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP995022276-20499443237",
@@ -984,6 +1104,30 @@
     "checkedAt": "2026-10-28T01:05:13.815Z"
   },
   {
+    "id": "SP418336777-20199545071",
+    "productId": "SP418336777-20199545071",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
+    "price": 59.99,
+    "originalPrice": 181.79,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
+    "url": "https://s.shopee.com.br/5q9EftFcSz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3534,
+    "publishedAt": "2026-09-24T03:05:19.247Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1232299933-57358236213",
     "productId": "SP1232299933-57358236213",
     "marketplace": "shopee",
@@ -1005,7 +1149,7 @@
     "lowest30d": true,
     "vendas": 623,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -1080,30 +1224,6 @@
     "checkedAt": "2026-10-28T02:35:13.644Z"
   },
   {
-    "id": "SP397374716-22697307193",
-    "productId": "SP397374716-22697307193",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Com Led RGB Portátil USB FM TWS",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquly5gqlxdn10",
-    "url": "https://s.shopee.com.br/70LAjgaawK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1387,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
     "id": "SP1585429562-58201056244",
     "productId": "SP1585429562-58201056244",
     "marketplace": "shopee",
@@ -1152,30 +1272,6 @@
     "checkedAt": "2026-10-28T02:35:13.644Z"
   },
   {
-    "id": "SP717396632-20997608223",
-    "productId": "SP717396632-20997608223",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-    "price": 99.99,
-    "originalPrice": 303,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
-    "url": "https://s.shopee.com.br/gR7C2yhmn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3693,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
     "id": "SP1408367819-23498780349",
     "productId": "SP1408367819-23498780349",
     "marketplace": "shopee",
@@ -1197,7 +1293,7 @@
     "lowest30d": false,
     "vendas": 22675,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -1245,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 595,
     "publishedAt": "2026-10-23T04:05:19.715Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1345043704-23694913872",
@@ -1728,30 +1824,6 @@
     "checkedAt": "2026-10-28T01:35:12.708Z"
   },
   {
-    "id": "SP952371980-23397741792",
-    "productId": "SP952371980-23397741792",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
-    "price": 68.89,
-    "originalPrice": 202.62,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzgasnra2tdtb4",
-    "url": "https://s.shopee.com.br/6Am4L7xvZC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5770,
-    "publishedAt": "2026-10-08T12:35:13.204Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
-  },
-  {
     "id": "SP1339065761-19199870733",
     "productId": "SP1339065761-19199870733",
     "marketplace": "shopee",
@@ -1917,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 1276,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -2013,55 +2085,7 @@
     "lowest30d": false,
     "vendas": 163,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
-  },
-  {
-    "id": "SP418336777-20199545071",
-    "productId": "SP418336777-20199545071",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro",
-    "price": 59.99,
-    "originalPrice": 171.4,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2387n4cm3fo30",
-    "url": "https://s.shopee.com.br/5q9EftFcSz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3534,
-    "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
-  },
-  {
-    "id": "SP1573953914-23998775294",
-    "productId": "SP1573953914-23998775294",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Inova caixa de som blootooth Portátil Go 4 Com Bateria Esportiva À Prova D 'Água pen drive FM TWS caixinha de som",
-    "price": 69.99,
-    "originalPrice": 199.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjqdt1hw2dc3ba",
-    "url": "https://s.shopee.com.br/40hZAAm122",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1036,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -2325,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 109,
     "publishedAt": "2026-10-12T14:35:16.944Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -2468,30 +2492,6 @@
     "loja": null,
     "lowest30d": true,
     "vendas": 778,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T00:35:13.525Z"
-  },
-  {
-    "id": "SP1468415010-23194993945",
-    "productId": "SP1468415010-23194993945",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
-    "price": 49.99,
-    "originalPrice": 138.86,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
-    "url": "https://s.shopee.com.br/9fLvubUZlu",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1907,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-28T00:35:13.525Z"
   },
@@ -2686,6 +2686,30 @@
     "vendas": 870,
     "publishedAt": "2026-10-16T11:35:14.250Z",
     "checkedAt": "2026-10-28T01:35:12.708Z"
+  },
+  {
+    "id": "SP1541348350-58264273644",
+    "productId": "SP1541348350-58264273644",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
+    "price": 160.55,
+    "originalPrice": 445.97,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
+    "url": "https://s.shopee.com.br/9fLvuai2eQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1689,
+    "publishedAt": "2026-10-15T02:35:12.646Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -2904,6 +2928,30 @@
     "checkedAt": "2026-10-28T02:11:05.726Z"
   },
   {
+    "id": "SP1615249354-41022402072",
+    "productId": "SP1615249354-41022402072",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
+    "price": 39.99,
+    "originalPrice": 108.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbyp1psmlu64f",
+    "url": "https://s.shopee.com.br/60SdXmJwwb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 684,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1259086167-40019216121",
     "productId": "SP1259086167-40019216121",
     "marketplace": "shopee",
@@ -2974,6 +3022,30 @@
     "vendas": 481,
     "publishedAt": "2026-10-25T06:35:13.427Z",
     "checkedAt": "2026-10-28T02:11:05.726Z"
+  },
+  {
+    "id": "SP1420392453-23198072057",
+    "productId": "SP1420392453-23198072057",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
+    "price": 37.38,
+    "originalPrice": 101.03,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
+    "url": "https://s.shopee.com.br/AKbchpS2Py",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1496,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3096,30 +3168,6 @@
     "checkedAt": "2026-10-28T01:35:12.708Z"
   },
   {
-    "id": "SP1615249354-41022402072",
-    "productId": "SP1615249354-41022402072",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
-    "price": 43.99,
-    "originalPrice": 118.89,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbyp1psmlu64f",
-    "url": "https://s.shopee.com.br/60SdXmJwwb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 684,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-28T02:05:14.975Z"
-  },
-  {
     "id": "SP1362613236-27893329314",
     "productId": "SP1362613236-27893329314",
     "marketplace": "shopee",
@@ -3189,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 1628,
     "publishedAt": "2026-10-21T12:05:13.064Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3246,8 +3294,8 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "Mouse Gamer TGT GM75, Rainbow, 3600DPI, 6 Botoes, Preto, TGT-GM75-BL01",
-    "price": 37.71,
-    "originalPrice": 101.92,
+    "price": 37.54,
+    "originalPrice": 101.46,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -3258,10 +3306,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 326,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1511724455-43203256115",
@@ -3432,6 +3480,30 @@
     "checkedAt": "2026-10-28T01:05:13.815Z"
   },
   {
+    "id": "SP392967703-16178844715",
+    "productId": "SP392967703-16178844715",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
+    "price": 81.99,
+    "originalPrice": 215.76,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
+    "url": "https://s.shopee.com.br/1BR22ZeNQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 458,
+    "publishedAt": "2026-10-10T04:05:11.213Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1448484843-22294173900",
     "productId": "SP1448484843-22294173900",
     "marketplace": "shopee",
@@ -3576,30 +3648,6 @@
     "checkedAt": "2026-10-28T02:35:13.644Z"
   },
   {
-    "id": "SP1420392453-23198072057",
-    "productId": "SP1420392453-23198072057",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "price": 37.58,
-    "originalPrice": 98.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
-    "url": "https://s.shopee.com.br/AKbchpS2Py",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1496,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
     "id": "SP1534000949-58252076983",
     "productId": "SP1534000949-58252076983",
     "marketplace": "shopee",
@@ -3621,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 2103,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -3765,7 +3813,7 @@
     "lowest30d": true,
     "vendas": 159,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -3813,7 +3861,7 @@
     "lowest30d": true,
     "vendas": 248,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1524383764-23493930815",
@@ -3838,30 +3886,6 @@
     "vendas": 5359,
     "publishedAt": "2026-09-29T12:35:18.138Z",
     "checkedAt": "2026-10-28T02:05:14.975Z"
-  },
-  {
-    "id": "SP1541348350-58264273644",
-    "productId": "SP1541348350-58264273644",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
-    "price": 169,
-    "originalPrice": 444.74,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
-    "url": "https://s.shopee.com.br/9fLvuai2eQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1689,
-    "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
   },
   {
     "id": "SP409939729-23694671466",
@@ -3960,30 +3984,6 @@
     "checkedAt": "2026-10-28T02:05:14.975Z"
   },
   {
-    "id": "SP458929927-23198020257",
-    "productId": "SP458929927-23198020257",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer fritadeira elétrica Sem Óleo que vira fogão 5L Amvox ARF 1150 1500W 2 em 1",
-    "price": 339.9,
-    "originalPrice": 894.47,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
-    "url": "https://s.shopee.com.br/4fxJe5OGsY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 648,
-    "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-28T01:05:13.815Z"
-  },
-  {
     "id": "SP1032290308-58269276013",
     "productId": "SP1032290308-58269276013",
     "marketplace": "shopee",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 199,
     "publishedAt": "2026-10-24T14:05:14.068Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -4029,7 +4029,7 @@
     "lowest30d": true,
     "vendas": 1480,
     "publishedAt": "2026-10-23T16:35:13.975Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB6194501592",
@@ -4053,7 +4053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -4125,7 +4125,7 @@
     "lowest30d": true,
     "vendas": 569,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1510947962-28040999242",
@@ -4149,7 +4149,7 @@
     "lowest30d": true,
     "vendas": 745,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -4173,7 +4173,7 @@
     "lowest30d": true,
     "vendas": 712,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -4197,7 +4197,7 @@
     "lowest30d": false,
     "vendas": 4521,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-28T00:05:12.805Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -4368,6 +4368,30 @@
     "checkedAt": "2026-10-28T02:11:05.726Z"
   },
   {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 589.94,
+    "originalPrice": 1512.67,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/5q9H2P6nFw",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1370,
+    "publishedAt": "2026-10-15T03:05:15.135Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1841870093-55315796592",
     "productId": "SP1841870093-55315796592",
     "marketplace": "shopee",
@@ -4494,8 +4518,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
-    "price": 63.99,
-    "originalPrice": 159.98,
+    "price": 63.64,
+    "originalPrice": 159.1,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -4509,7 +4533,7 @@
     "lowest30d": true,
     "vendas": 2722,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1495837089-23794414130",
@@ -4872,6 +4896,30 @@
     "checkedAt": "2026-10-28T02:05:14.975Z"
   },
   {
+    "id": "SP239168233-28253692946",
+    "productId": "SP239168233-28253692946",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Fones De Ouvido Sem Fio 46dB Híbrido Hi-Res LDAC",
+    "price": 176.99,
+    "originalPrice": 442.48,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lyowknf5ce5e3d",
+    "url": "https://s.shopee.com.br/1qd7RWeyf4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 684,
+    "publishedAt": "2026-10-22T23:05:20.987Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1412882242-23799040346",
     "productId": "SP1412882242-23799040346",
     "marketplace": "shopee",
@@ -5184,6 +5232,30 @@
     "checkedAt": "2026-10-28T00:35:13.525Z"
   },
   {
+    "id": "SP392239188-23596569225",
+    "productId": "SP392239188-23596569225",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+    "price": 40.99,
+    "originalPrice": 99.98,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+    "url": "https://s.shopee.com.br/4VdtRykawO",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1475,
+    "publishedAt": "2026-10-28T02:35:13.644Z",
+    "checkedAt": "2026-10-28T02:35:13.644Z"
+  },
+  {
     "id": "SP1724399264-58211321615",
     "productId": "SP1724399264-58211321615",
     "marketplace": "shopee",
@@ -5397,7 +5469,7 @@
     "lowest30d": false,
     "vendas": 195,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -5421,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 569,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5445,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 1326,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -5494,30 +5566,6 @@
     "vendas": 5683,
     "publishedAt": "2026-10-23T21:35:12.996Z",
     "checkedAt": "2026-10-28T01:35:12.708Z"
-  },
-  {
-    "id": "SP239168233-28253692946",
-    "productId": "SP239168233-28253692946",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Fones De Ouvido Sem Fio 46dB Híbrido Hi-Res LDAC",
-    "price": 183.99,
-    "originalPrice": 438.07,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lyowknf5ce5e3d",
-    "url": "https://s.shopee.com.br/1qd7RWeyf4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 684,
-    "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5589,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5709,7 +5757,7 @@
     "lowest30d": true,
     "vendas": 436,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1362240140-58253145740",
@@ -5805,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 2974,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5447342251",
@@ -5829,7 +5877,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -5856,30 +5904,6 @@
     "checkedAt": "2026-10-28T02:11:05.726Z"
   },
   {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/5q9H2P6nFw",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1370,
-    "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
     "id": "SP1813143307-58263625920",
     "productId": "SP1813143307-58263625920",
     "marketplace": "shopee",
@@ -5902,30 +5926,6 @@
     "vendas": 714,
     "publishedAt": "2026-10-12T11:35:11.585Z",
     "checkedAt": "2026-10-28T02:05:14.975Z"
-  },
-  {
-    "id": "SP392967703-16178844715",
-    "productId": "SP392967703-16178844715",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "Relógio Masculino Original CURREN De Quartzo De Aço Inoxidável À Prova D'água/Casual/Executivo/Retro/Militar CR15SX",
-    "price": 92.99,
-    "originalPrice": 216.26,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-2c50pjjx08iv8a",
-    "url": "https://s.shopee.com.br/1BR22ZeNQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 458,
-    "publishedAt": "2026-10-10T04:05:11.213Z",
-    "checkedAt": "2026-10-28T01:05:13.815Z"
   },
   {
     "id": "SP1431327147-18299659089",
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 11818,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1371998281-58261975350",
@@ -6141,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 782,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP540093765-22697559457",
@@ -6336,6 +6336,30 @@
     "checkedAt": "2026-10-28T00:35:13.525Z"
   },
   {
+    "id": "SP1541348350-18399858350",
+    "productId": "SP1541348350-18399858350",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor aspirador de pó 2 em 1 sucção forte de 16000Pa dust off silent Fácil de armazenar GVCW-M15A -1",
+    "price": 160.55,
+    "originalPrice": 356.78,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-matl92a16h2xf1",
+    "url": "https://s.shopee.com.br/9fLyXNsTV3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 548,
+    "publishedAt": "2026-10-02T13:35:18.060Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1619817893-58206271120",
     "productId": "SP1619817893-58206271120",
     "marketplace": "shopee",
@@ -6432,30 +6456,6 @@
     "checkedAt": "2026-10-28T01:35:12.708Z"
   },
   {
-    "id": "MLB3332109715",
-    "productId": "MLB18308305",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Vodka Smirnoff 1,75L",
-    "price": 50.36,
-    "originalPrice": 108.93,
-    "discount": 54,
-    "base": "media",
-    "averagePrice": 108.93,
-    "sellers": 11,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
     "id": "SP832031799-23793575066",
     "productId": "SP832031799-23793575066",
     "marketplace": "shopee",
@@ -6525,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6574,30 +6574,6 @@
     "vendas": 3256,
     "publishedAt": "2026-10-15T08:05:14.092Z",
     "checkedAt": "2026-10-28T01:05:13.815Z"
-  },
-  {
-    "id": "SP1541348350-18399858350",
-    "productId": "SP1541348350-18399858350",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor aspirador de pó 2 em 1 sucção forte de 16000Pa dust off silent Fácil de armazenar GVCW-M15A -1",
-    "price": 169,
-    "originalPrice": 359.57,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-matl92a16h2xf1",
-    "url": "https://s.shopee.com.br/9fLyXNsTV3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 548,
-    "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
   },
   {
     "id": "SP1782022476-23694928041",
@@ -6768,30 +6744,6 @@
     "checkedAt": "2026-10-28T02:35:13.644Z"
   },
   {
-    "id": "SP1725104548-58211255048",
-    "productId": "SP1725104548-58211255048",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fone de Ouvido Bluetooth 5.4 Sem Fio TWS Quatro Fones Display LED Redução Ruído Esportivo Pronta Entrega",
-    "price": 57.99,
-    "originalPrice": 120.81,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mokjobm8o5xfc1",
-    "url": "https://s.shopee.com.br/1W0GRc3u6X",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2127,
-    "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
     "id": "SP654329517-23298924695",
     "productId": "SP654329517-23298924695",
     "marketplace": "shopee",
@@ -6840,6 +6792,30 @@
     "checkedAt": "2026-10-28T02:05:14.975Z"
   },
   {
+    "id": "SP1725104548-58211255048",
+    "productId": "SP1725104548-58211255048",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de Ouvido Bluetooth 5.4 Sem Fio TWS Quatro Fones Display LED Redução Ruído Esportivo Pronta Entrega",
+    "price": 58.49,
+    "originalPrice": 119.37,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mokjobm8o5xfc1",
+    "url": "https://s.shopee.com.br/1W0GRc3u6X",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2127,
+    "publishedAt": "2026-10-20T03:05:13.240Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "MLB7847665416",
     "productId": "MLB76876185",
     "marketplace": "ml",
@@ -6861,7 +6837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6877,7 +6853,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3v-mbg5xql5j04le8",
-    "url": "https://s.shopee.com.br/2Vsl93Q43M",
+    "url": "https://s.shopee.com.br/1BV9eDPgy",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6885,7 +6861,7 @@
     "lowest30d": true,
     "vendas": 13621,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -7269,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7317,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7389,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -7488,6 +7464,30 @@
     "checkedAt": "2026-10-28T02:11:05.726Z"
   },
   {
+    "id": "MLB3332109715",
+    "productId": "MLB18308305",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Vodka Smirnoff 1,75L",
+    "price": 62.25,
+    "originalPrice": 108.93,
+    "discount": 43,
+    "base": "media",
+    "averagePrice": 108.93,
+    "sellers": 11,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1468415010-22698911997",
     "productId": "SP1468415010-22698911997",
     "marketplace": "shopee",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T21:35:15.453Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP552896405-43079698414",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7797,7 +7797,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "MLB3767156322",
+    "productId": "MLB17384401",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
+    "price": 119.84,
+    "originalPrice": 185.75,
+    "discount": 35,
+    "base": "media",
+    "averagePrice": 185.75,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-19T21:35:13.769Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7824,30 +7848,6 @@
     "checkedAt": "2026-10-28T02:05:14.975Z"
   },
   {
-    "id": "MLB3767156322",
-    "productId": "MLB17384401",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
-    "price": 122.9,
-    "originalPrice": 185.75,
-    "discount": 34,
-    "base": "media",
-    "averagePrice": 185.75,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
     "id": "MLB5109948772",
     "productId": "MLB34459465",
     "marketplace": "ml",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP290073877-44162911290",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB7690418228",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB7690418174",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5279469915",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8109,7 +8109,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5314233588",
@@ -8133,7 +8133,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "MLB4153226076",
+    "productId": "MLB12706806",
+    "marketplace": "ml",
+    "fonte": "MLB420409",
+    "categoria": "Bebês",
+    "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
+    "price": 351.4,
+    "originalPrice": 490,
+    "discount": 28,
+    "base": "media",
+    "averagePrice": 490,
+    "sellers": 8,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_873321-MLA99481911382_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4153226076?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-14T13:35:13.532Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB3982225645",
@@ -8157,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T20:05:14.357Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5451291113",
@@ -8181,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB3682277189",
@@ -8205,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB7071544106",
@@ -8229,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB6174995494",
@@ -8253,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB4521286991",
@@ -8277,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5364910333",
@@ -8325,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
-    "id": "MLB4153226076",
-    "productId": "MLB12706806",
-    "marketplace": "ml",
-    "fonte": "MLB420409",
-    "categoria": "Bebês",
-    "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
-    "price": 413.65,
-    "originalPrice": 490,
-    "discount": 16,
-    "base": "media",
-    "averagePrice": 490,
-    "sellers": 8,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_873321-MLA99481911382_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4153226076?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5830663578",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-18T21:35:17.093Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB7854548124",
@@ -8397,7 +8397,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1366045948-22993693932",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 515,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 945,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 981,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9168,6 +9168,30 @@
     "checkedAt": "2026-10-28T00:05:12.805Z"
   },
   {
+    "id": "SP443076516-23494418394",
+    "productId": "SP443076516-23494418394",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Kit 3x Magnésio e Inositol Taurina Melatonina 210g Bodyaction",
+    "price": 85.9,
+    "originalPrice": 277.1,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu0eg5w1o1u3e",
+    "url": "https://s.shopee.com.br/3g4nNrskho",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5165,
+    "publishedAt": "2026-10-28T03:05:21.047Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP964196467-58206595769",
     "productId": "SP964196467-58206595769",
     "marketplace": "shopee",
@@ -9288,30 +9312,6 @@
     "checkedAt": "2026-10-28T01:35:12.708Z"
   },
   {
-    "id": "SP1870747351-58215693918",
-    "productId": "SP1870747351-58215693918",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Lustre Pendente Luminaria De Teto Led Moderna Quadrada Quarto Dourado Sala Corredor Mesa Jantar 22w 127/220v",
-    "price": 57,
-    "originalPrice": 178.13,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mri8vcm5o9on91",
-    "url": "https://s.shopee.com.br/6q1kXOWQQn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1397,
-    "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
     "id": "SP1757833285-58256652658",
     "productId": "SP1757833285-58256652658",
     "marketplace": "shopee",
@@ -9349,7 +9349,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mun44xsyosg206",
-    "url": "https://s.shopee.com.br/9pfLsWyDT4",
+    "url": "https://s.shopee.com.br/2LZPvw4fQt",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9357,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9744,6 +9744,30 @@
     "checkedAt": "2026-10-28T02:05:14.975Z"
   },
   {
+    "id": "SP1870747351-58215693918",
+    "productId": "SP1870747351-58215693918",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Lustre Pendente Luminaria De Teto Led Moderna Quadrada Quarto Dourado Sala Corredor Mesa Jantar 22w 127/220v",
+    "price": 59.99,
+    "originalPrice": 181.79,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mri8vcm5o9on91",
+    "url": "https://s.shopee.com.br/6q1kXOWQQn",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1397,
+    "publishedAt": "2026-10-01T20:05:19.306Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1598184222-58263369269",
     "productId": "SP1598184222-58263369269",
     "marketplace": "shopee",
@@ -9837,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 229,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -10269,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 1093,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -10293,7 +10317,7 @@
     "lowest30d": true,
     "vendas": 1786,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10320,6 +10344,54 @@
     "checkedAt": "2026-10-28T00:35:13.525Z"
   },
   {
+    "id": "SP1114645438-22992653456",
+    "productId": "SP1114645438-22992653456",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
+    "price": 374.29,
+    "originalPrice": 1100.85,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
+    "url": "https://s.shopee.com.br/5AtWmnsji4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 391,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "SP983645094-57113764077",
+    "productId": "SP983645094-57113764077",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis de corrida, sola de borracha, parte superior em tecido de malha, unissex, tamanho 34-45, 1 par",
+    "price": 47.99,
+    "originalPrice": 141.15,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msqvigqau9ze31",
+    "url": "https://s.shopee.com.br/3qO8xnazw8",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2344,
+    "publishedAt": "2026-10-28T03:05:21.047Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP790605924-22897149838",
     "productId": "SP790605924-22897149838",
     "marketplace": "shopee",
@@ -10341,7 +10413,7 @@
     "lowest30d": true,
     "vendas": 3264,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10390,6 +10462,30 @@
     "vendas": 2872,
     "publishedAt": "2026-09-30T16:35:18.237Z",
     "checkedAt": "2026-10-28T00:05:12.805Z"
+  },
+  {
+    "id": "SP1118395504-47513118746",
+    "productId": "SP1118395504-47513118746",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
+    "price": 139.9,
+    "originalPrice": 399.71,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
+    "url": "https://s.shopee.com.br/3VlM7qtiAz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 404,
+    "publishedAt": "2026-10-05T22:05:16.407Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -10485,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1276,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -11013,7 +11109,7 @@
     "lowest30d": true,
     "vendas": 567,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -11022,8 +11118,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Smartwatch Original S20 Ultra MAX Série 10 Bússola 49mm Esportivo Fitness Relógio Inteligente Para Android IOS NFC GPS",
-    "price": 55.88,
-    "originalPrice": 155.22,
+    "price": 55.5,
+    "originalPrice": 154.17,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -11037,31 +11133,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
-    "id": "SP1118395504-47513118746",
-    "productId": "SP1118395504-47513118746",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
-    "price": 143.99,
-    "originalPrice": 399.97,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq33jzi4e39cc8",
-    "url": "https://s.shopee.com.br/3VlM7qtiAz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 404,
-    "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11133,7 +11205,7 @@
     "lowest30d": true,
     "vendas": 229,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11181,7 +11253,7 @@
     "lowest30d": true,
     "vendas": 263,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -11206,30 +11278,6 @@
     "vendas": 154,
     "publishedAt": "2026-09-24T15:35:16.598Z",
     "checkedAt": "2026-10-28T01:05:13.815Z"
-  },
-  {
-    "id": "SP1727133145-45813823049",
-    "productId": "SP1727133145-45813823049",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
-    "price": 38.99,
-    "originalPrice": 108.31,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
-    "url": "https://s.shopee.com.br/qkZ1QW2Vs",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 112,
-    "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11278,30 +11326,6 @@
     "vendas": 3270,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-28T02:35:13.644Z"
-  },
-  {
-    "id": "SP1114645438-22992653456",
-    "productId": "SP1114645438-22992653456",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
-    "price": 375,
-    "originalPrice": 1041.67,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
-    "url": "https://s.shopee.com.br/5AtWmnsji4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 391,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11544,6 +11568,30 @@
     "checkedAt": "2026-10-28T01:05:13.815Z"
   },
   {
+    "id": "SP1727133145-45813823049",
+    "productId": "SP1727133145-45813823049",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "SmartWatch X8 Pro Relógio inteligente + Set de fones de ouvido–Chamadas Bluetooth Relógio de tela táctil IOS & Android",
+    "price": 39.99,
+    "originalPrice": 108.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mqiq8zugq13j0a",
+    "url": "https://s.shopee.com.br/qkZ1QW2Vs",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 112,
+    "publishedAt": "2026-09-28T17:05:16.720Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
     "id": "SP1768799994-22099613752",
     "productId": "SP1768799994-22099613752",
     "marketplace": "shopee",
@@ -11664,6 +11712,54 @@
     "checkedAt": "2026-10-28T00:05:12.805Z"
   },
   {
+    "id": "SP450664666-20497747334",
+    "productId": "SP450664666-20497747334",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Antipulgas Para Cães Simparic 40mg De 10-20kg 1 Comprimido",
+    "price": 62.87,
+    "originalPrice": 169.92,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4h-lwr5yh2wnxl767",
+    "url": "https://s.shopee.com.br/5AtaFDqJZK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2428,
+    "publishedAt": "2026-10-28T03:05:21.047Z",
+    "checkedAt": "2026-10-28T03:05:21.047Z"
+  },
+  {
+    "id": "SP458929927-23198020257",
+    "productId": "SP458929927-23198020257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer fritadeira elétrica Sem Óleo que vira fogão 5L Amvox ARF 1150 1500W 2 em 1",
+    "price": 339.9,
+    "originalPrice": 894.47,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
+    "url": "https://s.shopee.com.br/4fxJe5OGsY",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 648,
+    "publishedAt": "2026-09-25T13:35:20.026Z",
+    "checkedAt": "2026-10-28T01:05:13.815Z"
+  },
+  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -11685,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 3954,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -11757,7 +11853,7 @@
     "lowest30d": false,
     "vendas": 3367,
     "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   },
   {
     "id": "SP507645665-23194055670",
@@ -11901,102 +11997,6 @@
     "lowest30d": false,
     "vendas": 161,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 155,
-    "originalPrice": 397.44,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/4B133MYb0Y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1132,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-27T23:35:14.904Z"
-  },
-  {
-    "id": "SP371439155-23392591433",
-    "productId": "SP371439155-23392591433",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tenis Masculino e Feminino Esportivo Black Todo Preto Original Academia Caminhada Corrida e Treino",
-    "price": 39,
-    "originalPrice": 100,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyxel26e96rea",
-    "url": "https://s.shopee.com.br/4LKTPyMI8p",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1309,
-    "publishedAt": "2026-10-27T13:39:15.607Z",
-    "checkedAt": "2026-10-28T00:35:13.525Z"
-  },
-  {
-    "id": "SP1661007426-58207680669",
-    "productId": "SP1661007426-58207680669",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Eps-2809 Limpador a Vapor Pressurizado 1,2L Alta Temperatura Profissional Multiuso",
-    "price": 135.12,
-    "originalPrice": 337.8,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mp411tqo1oubee",
-    "url": "https://s.shopee.com.br/AKbgUbqSiE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3700,
-    "publishedAt": "2026-10-09T12:35:13.789Z",
-    "checkedAt": "2026-10-28T02:11:05.726Z"
-  },
-  {
-    "id": "SP392239188-23596569225",
-    "productId": "SP392239188-23596569225",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-    "price": 40.99,
-    "originalPrice": 99.98,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-    "url": "https://s.shopee.com.br/4VdtRykawO",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1475,
-    "publishedAt": "2026-10-28T02:35:13.644Z",
-    "checkedAt": "2026-10-28T02:35:13.644Z"
+    "checkedAt": "2026-10-28T03:05:21.047Z"
   }
 ]
