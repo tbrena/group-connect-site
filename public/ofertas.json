@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 1477,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 22643,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 945,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -429,7 +429,7 @@
     "lowest30d": true,
     "vendas": 688,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -909,7 +909,7 @@
     "lowest30d": true,
     "vendas": 1411,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1870601214-22399680511",
@@ -1053,7 +1053,7 @@
     "lowest30d": false,
     "vendas": 3002,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -1246,6 +1246,30 @@
     "vendas": 106,
     "publishedAt": "2026-10-13T08:35:16.484Z",
     "checkedAt": "2026-10-29T16:05:16.572Z"
+  },
+  {
+    "id": "SP634842203-45708068728",
+    "productId": "SP634842203-45708068728",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Amaciante de sebo Super derretido ILSO reduz sebo e cravos 150ml",
+    "price": 69.4,
+    "originalPrice": 204.12,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8260q-mmijosfugkxxde",
+    "url": "https://s.shopee.com.br/5AtdpbnUx5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 137,
+    "publishedAt": "2026-10-29T17:05:15.883Z",
+    "checkedAt": "2026-10-29T17:05:15.883Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1509,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 1253,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP612306550-23798735982",
@@ -1893,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 1579,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1531826276-58219710815",
@@ -2013,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 530,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP427678694-13622648490",
@@ -2277,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 598,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -2301,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 2414,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP329944383-22899456944",
@@ -2589,7 +2613,7 @@
     "lowest30d": true,
     "vendas": 156,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -2661,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 2334,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -2685,7 +2709,7 @@
     "lowest30d": true,
     "vendas": 765,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -2709,7 +2733,7 @@
     "lowest30d": true,
     "vendas": 5078,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP866679071-23199528877",
@@ -2733,7 +2757,7 @@
     "lowest30d": true,
     "vendas": 1628,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1443634517-23498723822",
@@ -2781,31 +2805,31 @@
     "lowest30d": true,
     "vendas": 2158,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
-    "id": "SP530370669-21097428144",
-    "productId": "SP530370669-21097428144",
+    "id": "SP322434863-9414033305",
+    "productId": "SP322434863-9414033305",
     "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Kit 50 Fio Fada Cordão Luz Leds 2 Metros Díodo Emissor De Luz Segurança Leds Reutilizável Decoração Promoção",
-    "price": 56.99,
-    "originalPrice": 158.31,
-    "discount": 64,
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Wella Professionals Oil Reflections - Óleo Capilar 100ml",
+    "price": 135.9,
+    "originalPrice": 367.3,
+    "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ad-mr5ntv2dlkht9d",
-    "url": "https://s.shopee.com.br/8AXEZg5Jq7",
+    "image": "https://cf.shopee.com.br/file/f63c18472d8e6a2d61e843634178f763",
+    "url": "https://s.shopee.com.br/7VHYbtecDF",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
-    "vendas": 298,
-    "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "lowest30d": false,
+    "vendas": 377,
+    "publishedAt": "2026-10-29T17:05:15.883Z",
+    "checkedAt": "2026-10-29T17:05:15.883Z"
   },
   {
     "id": "SP1345043704-22497773735",
@@ -2829,7 +2853,7 @@
     "lowest30d": false,
     "vendas": 5020,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1730290113-58204994417",
@@ -2877,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 855,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3453,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 2698,
     "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -3549,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 1922,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1193388723-55806745399",
@@ -3573,7 +3597,7 @@
     "lowest30d": false,
     "vendas": 1415,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3597,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 338,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -3621,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 1048,
     "publishedAt": "2026-10-24T19:35:22.469Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -3741,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 576,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T14:05:13.931Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -3813,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 824,
     "publishedAt": "2026-10-22T00:05:14.739Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP316522636-58207521877",
@@ -4077,7 +4101,7 @@
     "lowest30d": true,
     "vendas": 1701,
     "publishedAt": "2026-10-24T00:35:15.624Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1397772996-29842873054",
@@ -4509,7 +4533,7 @@
     "lowest30d": true,
     "vendas": 1376,
     "publishedAt": "2026-10-27T14:05:14.572Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -5157,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 21087,
     "publishedAt": "2026-10-27T03:05:14.729Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1724399264-58211321615",
@@ -5541,7 +5565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5613,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5853,7 +5877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -6021,7 +6045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -6141,7 +6165,7 @@
     "lowest30d": true,
     "vendas": 414,
     "publishedAt": "2026-10-20T15:01:29.025Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1005356303-58256596821",
@@ -6192,30 +6216,6 @@
     "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
-    "id": "MLB3332109715",
-    "productId": "MLB18308305",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Vodka Smirnoff 1,75L",
-    "price": 48.9,
-    "originalPrice": 109.85,
-    "discount": 55,
-    "base": "media",
-    "averagePrice": 109.85,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
-  },
-  {
     "id": "SP1827560134-22695038756",
     "productId": "SP1827560134-22695038756",
     "marketplace": "shopee",
@@ -6237,7 +6237,7 @@
     "lowest30d": true,
     "vendas": 145,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP684149869-20299774133",
@@ -6285,7 +6285,7 @@
     "lowest30d": true,
     "vendas": 1115,
     "publishedAt": "2026-10-18T13:05:14.119Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP409535179-8540648652",
@@ -6565,7 +6565,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m4-motrp9z4imtc22",
-    "url": "https://s.shopee.com.br/4LKW8GVIlc",
+    "url": "https://s.shopee.com.br/4fxN28CfFK",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6573,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 3436,
     "publishedAt": "2026-10-15T08:05:14.092Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1815920431-58217669269",
@@ -6621,7 +6621,7 @@
     "lowest30d": true,
     "vendas": 1858,
     "publishedAt": "2026-10-28T04:35:16.031Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5293442116",
@@ -6645,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP371651689-23994017710",
@@ -6741,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7847665416",
@@ -6765,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6813,7 +6813,7 @@
     "lowest30d": true,
     "vendas": 160,
     "publishedAt": "2026-10-16T16:05:14.050Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1739085880-23994832430",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7125,7 +7125,7 @@
     "lowest30d": true,
     "vendas": 754,
     "publishedAt": "2026-10-21T19:35:15.142Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1574170248-23998667413",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7221,7 +7221,7 @@
     "lowest30d": true,
     "vendas": 1158,
     "publishedAt": "2026-10-12T03:05:13.166Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5472494813",
@@ -7245,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 2414,
     "publishedAt": "2026-10-28T12:05:15.710Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP552896405-43079698414",
@@ -7560,6 +7560,54 @@
     "checkedAt": "2026-10-29T15:35:21.451Z"
   },
   {
+    "id": "MLB3332109715",
+    "productId": "MLB18308305",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Vodka Smirnoff 1,75L",
+    "price": 62.25,
+    "originalPrice": 109.85,
+    "discount": 43,
+    "base": "media",
+    "averagePrice": 109.85,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-10-29T17:35:14.753Z"
+  },
+  {
+    "id": "MLB3767156322",
+    "productId": "MLB17384401",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
+    "price": 114.99,
+    "originalPrice": 197.55,
+    "discount": 42,
+    "base": "media",
+    "averagePrice": 197.55,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-10-19T21:35:13.769Z",
+    "checkedAt": "2026-10-29T17:35:14.753Z"
+  },
+  {
     "id": "MLB4190456415",
     "productId": "MLB50661985",
     "marketplace": "ml",
@@ -7581,31 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
-  },
-  {
-    "id": "SP1297519240-43765372374",
-    "productId": "SP1297519240-43765372374",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Kit 10 Lampadas Led Bulbo Hp 20w 30w 40w ou 50w 6500k Branco Frio BASE E27 110v/220v Bivolt Automático Alut By Avant",
-    "price": 149.9,
-    "originalPrice": 258.45,
-    "discount": 42,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuaqt4rxxq9af",
-    "url": "https://s.shopee.com.br/2BG1OTLANA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 252,
-    "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-29T15:05:13.431Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7677,31 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
-  },
-  {
-    "id": "MLB3767156322",
-    "productId": "MLB17384401",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
-    "price": 119.1,
-    "originalPrice": 197.55,
-    "discount": 40,
-    "base": "media",
-    "averagePrice": 197.55,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": 1087,
     "publishedAt": "2026-10-02T17:05:30.370Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 4664,
     "publishedAt": "2026-10-15T08:05:14.092Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5232182936",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5250929785",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7690418228",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7690418174",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5279469915",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP395166866-58209766348",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB4153226076",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5451291113",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7071544106",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB6174995494",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB4521286991",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5364910333",
@@ -8335,11 +8335,11 @@
     "categoria": "Eletrônicos",
     "title": "Fire Tv Stick Hd Amazon 8gb Wi-fi 6 Com Controle Alexa Voice Preto De Voz",
     "price": 219,
-    "originalPrice": 260.44,
+    "originalPrice": 260.87,
     "discount": 16,
     "base": "media",
-    "averagePrice": 260.44,
-    "sellers": 29,
+    "averagePrice": 260.87,
+    "sellers": 28,
     "image": "https://http2.mlstatic.com/D_NQ_NP_687350-MLA113716605439_062026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5364910333?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7854548124",
@@ -8373,7 +8373,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB7690840340",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T12:05:15.710Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8445,7 +8445,7 @@
     "lowest30d": false,
     "vendas": 343,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1366045948-22993693932",
@@ -8637,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 3300,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1569321608-58205025041",
@@ -8829,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 1189,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1345043704-22598029616",
@@ -8854,6 +8854,30 @@
     "vendas": 731,
     "publishedAt": "2026-10-29T00:24:09.917Z",
     "checkedAt": "2026-10-29T15:05:13.431Z"
+  },
+  {
+    "id": "SP1573558445-44307948736",
+    "productId": "SP1573558445-44307948736",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Crianças brincam esteira bebê música Pedal rastejando esteira com som",
+    "price": 79.9,
+    "originalPrice": 266.33,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-maxsaktjys3dfc",
+    "url": "https://s.shopee.com.br/2VssgeA157",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1091,
+    "publishedAt": "2026-10-29T17:35:14.753Z",
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -9141,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 3491,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -9261,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 558,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP392239188-58205885907",
@@ -9501,7 +9525,7 @@
     "lowest30d": true,
     "vendas": 211,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9669,7 +9693,7 @@
     "lowest30d": false,
     "vendas": 2322,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -9861,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 334,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -9957,7 +9981,7 @@
     "lowest30d": true,
     "vendas": 511,
     "publishedAt": "2026-09-26T16:05:14.784Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -10440,30 +10464,6 @@
     "checkedAt": "2026-10-29T15:35:21.451Z"
   },
   {
-    "id": "SP634842203-45708068728",
-    "productId": "SP634842203-45708068728",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Amaciante de sebo Super derretido ILSO reduz sebo e cravos 150ml",
-    "price": 69.4,
-    "originalPrice": 204.12,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8260q-mmijosfugkxxde",
-    "url": "https://s.shopee.com.br/5AtdpbnUx5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 137,
-    "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
-  },
-  {
     "id": "SP1339065761-58256853481",
     "productId": "SP1339065761-58256853481",
     "marketplace": "shopee",
@@ -10533,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 636,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -11064,6 +11064,30 @@
     "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
+    "id": "SP530370669-21097428144",
+    "productId": "SP530370669-21097428144",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Kit 50 Fio Fada Cordão Luz Leds 2 Metros Díodo Emissor De Luz Segurança Leds Reutilizável Decoração Promoção",
+    "price": 56.99,
+    "originalPrice": 158.31,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ad-mr5ntv2dlkht9d",
+    "url": "https://s.shopee.com.br/8AXEZg5Jq7",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 298,
+    "publishedAt": "2026-10-11T03:05:13.914Z",
+    "checkedAt": "2026-10-29T14:35:17.920Z"
+  },
+  {
     "id": "SP717396632-16326176621",
     "productId": "SP717396632-16326176621",
     "marketplace": "shopee",
@@ -11197,7 +11221,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825a6-ms2w4rj3eg3q6b",
-    "url": "https://s.shopee.com.br/40hfjeayD9",
+    "url": "https://s.shopee.com.br/9APmalluvt",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11205,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 14736,
     "publishedAt": "2026-10-05T12:35:15.197Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -11325,7 +11349,7 @@
     "lowest30d": false,
     "vendas": 156,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -11421,7 +11445,7 @@
     "lowest30d": true,
     "vendas": 223,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -11472,6 +11496,30 @@
     "checkedAt": "2026-10-29T14:05:13.931Z"
   },
   {
+    "id": "SP1541590567-23399163578",
+    "productId": "SP1541590567-23399163578",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "78 x 62cm Tapete Higiênico EVA Coletor de Areia Para Gato Lavável Dupla Camada Compatível com Caixa de Areia",
+    "price": 34.99,
+    "originalPrice": 97.19,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgw1jgqq8sg092",
+    "url": "https://s.shopee.com.br/5VWUG9yazP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1665,
+    "publishedAt": "2026-10-29T17:35:14.753Z",
+    "checkedAt": "2026-10-29T17:35:14.753Z"
+  },
+  {
     "id": "SP1520177807-23093899800",
     "productId": "SP1520177807-23093899800",
     "marketplace": "shopee",
@@ -11517,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 2892,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -11565,7 +11613,7 @@
     "lowest30d": false,
     "vendas": 827,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1661007426-23299713686",
@@ -11685,7 +11733,7 @@
     "lowest30d": true,
     "vendas": 1809,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1447668497-22299215183",
@@ -11709,7 +11757,7 @@
     "lowest30d": true,
     "vendas": 390,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1863279175-58217517406",
@@ -11733,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 596,
     "publishedAt": "2026-09-29T01:05:14.799Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP1727133145-45813823049",
@@ -11805,7 +11853,7 @@
     "lowest30d": true,
     "vendas": 1483,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP280795353-23597640147",
@@ -11856,30 +11904,6 @@
     "checkedAt": "2026-10-29T16:35:14.240Z"
   },
   {
-    "id": "SP322434863-9414033305",
-    "productId": "SP322434863-9414033305",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Wella Professionals Oil Reflections - Óleo Capilar 100ml",
-    "price": 135.9,
-    "originalPrice": 367.3,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/f63c18472d8e6a2d61e843634178f763",
-    "url": "https://s.shopee.com.br/7VHYbtecDF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 377,
-    "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-10-29T17:05:15.883Z"
-  },
-  {
     "id": "SP458929927-23198020257",
     "productId": "SP458929927-23198020257",
     "marketplace": "shopee",
@@ -11901,7 +11925,7 @@
     "lowest30d": false,
     "vendas": 656,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-29T13:42:25.110Z"
+    "checkedAt": "2026-10-29T17:35:14.753Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -11974,29 +11998,5 @@
     "vendas": 4872,
     "publishedAt": "2026-10-08T10:05:15.636Z",
     "checkedAt": "2026-10-29T14:35:17.920Z"
-  },
-  {
-    "id": "SP400185488-23499549166",
-    "productId": "SP400185488-23499549166",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Camisa Camiseta Brasil 13 Comunista Unissex em Algodão Premium Edição Copa do Mundo 2026",
-    "price": 34.17,
-    "originalPrice": 89.92,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mpmilqshq03l08",
-    "url": "https://s.shopee.com.br/2LZS3au2Vw",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3391,
-    "publishedAt": "2026-10-07T14:05:14.553Z",
-    "checkedAt": "2026-10-29T16:05:16.572Z"
   }
 ]
