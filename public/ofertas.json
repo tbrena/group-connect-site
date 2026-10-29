@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -501,7 +501,7 @@
     "lowest30d": true,
     "vendas": 761,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -525,7 +525,7 @@
     "lowest30d": true,
     "vendas": 888,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -960,30 +960,6 @@
     "checkedAt": "2026-10-29T12:35:14.682Z"
   },
   {
-    "id": "SP1543643896-23594449816",
-    "productId": "SP1543643896-23594449816",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
-    "price": 29.99,
-    "originalPrice": 90.88,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
-    "url": "https://s.shopee.com.br/80DoH64lgM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1645,
-    "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
-  },
-  {
     "id": "SP1232299933-57358236213",
     "productId": "SP1232299933-57358236213",
     "marketplace": "shopee",
@@ -1149,7 +1125,7 @@
     "lowest30d": true,
     "vendas": 651,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -1173,7 +1149,7 @@
     "lowest30d": true,
     "vendas": 477,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1197,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 170,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -1245,7 +1221,7 @@
     "lowest30d": false,
     "vendas": 146,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1574084758-23398826243",
@@ -1293,7 +1269,7 @@
     "lowest30d": false,
     "vendas": 1232,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -1317,7 +1293,7 @@
     "lowest30d": true,
     "vendas": 1786,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -1341,7 +1317,7 @@
     "lowest30d": true,
     "vendas": 1415,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1542724420-44918771443",
@@ -1390,6 +1366,30 @@
     "vendas": 154,
     "publishedAt": "2026-10-24T16:05:13.475Z",
     "checkedAt": "2026-10-29T12:35:14.682Z"
+  },
+  {
+    "id": "SP1543643896-23594449816",
+    "productId": "SP1543643896-23594449816",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
+    "price": 33.98,
+    "originalPrice": 99.94,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
+    "url": "https://s.shopee.com.br/80DoH64lgM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1645,
+    "publishedAt": "2026-10-24T06:05:13.805Z",
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1392120718-23794055036",
@@ -1629,7 +1629,7 @@
     "lowest30d": true,
     "vendas": 2780,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -1654,6 +1654,30 @@
     "vendas": 4484,
     "publishedAt": "2026-10-13T04:05:13.221Z",
     "checkedAt": "2026-10-29T12:35:14.682Z"
+  },
+  {
+    "id": "SP1408518151-22394524187",
+    "productId": "SP1408518151-22394524187",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:protetor solar",
+    "categoria": "Beleza",
+    "title": "Reihaku Hatomugi UV Milky Gel  250ml-Direto Do Japão",
+    "price": 43.75,
+    "originalPrice": 125,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-msz1t6ia6f4489",
+    "url": "https://s.shopee.com.br/4qGnGdEMEq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 196,
+    "publishedAt": "2026-10-29T14:35:17.920Z",
+    "checkedAt": "2026-10-29T14:35:17.920Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2013,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 175,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -2037,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 4213,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -2061,7 +2085,7 @@
     "lowest30d": false,
     "vendas": 666,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2085,7 +2109,7 @@
     "lowest30d": true,
     "vendas": 865,
     "publishedAt": "2026-10-22T13:05:24.625Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP451371260-22897389357",
@@ -2301,7 +2325,31 @@
     "lowest30d": false,
     "vendas": 505,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
+  },
+  {
+    "id": "SP329944383-22899456944",
+    "productId": "SP329944383-22899456944",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:protetor solar",
+    "categoria": "Beleza",
+    "title": "Protetor Solar Infantil Helioderm Kids FPS 70 com 120ml",
+    "price": 37.9,
+    "originalPrice": 105.28,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mrsq39k8uoli26",
+    "url": "https://s.shopee.com.br/6q1reJ6kAW",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 431,
+    "publishedAt": "2026-10-29T14:35:17.920Z",
+    "checkedAt": "2026-10-29T14:35:17.920Z"
   },
   {
     "id": "SP303419140-40682289936",
@@ -2808,30 +2856,6 @@
     "checkedAt": "2026-10-29T14:05:13.931Z"
   },
   {
-    "id": "SP1054219578-20399715997",
-    "productId": "SP1054219578-20399715997",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:legging",
-    "categoria": "Moda e Calçados",
-    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
-    "price": 35.88,
-    "originalPrice": 99.67,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
-    "url": "https://s.shopee.com.br/5fptb5F6xc",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1332,
-    "publishedAt": "2026-10-10T22:35:14.994Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
-  },
-  {
     "id": "SP1345043704-22497773735",
     "productId": "SP1345043704-22497773735",
     "marketplace": "shopee",
@@ -3141,7 +3165,7 @@
     "lowest30d": true,
     "vendas": 2164,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -3165,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 1111,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -3240,30 +3264,6 @@
     "checkedAt": "2026-10-29T12:35:14.682Z"
   },
   {
-    "id": "SP1485077747-58252016104",
-    "productId": "SP1485077747-58252016104",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Carregador Veicular Turbo 87.5W USB-C USB-A Carregamento rápido Metal aeronáutico TIPO C",
-    "price": 29.99,
-    "originalPrice": 81.05,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibg7m1hx3b555",
-    "url": "https://s.shopee.com.br/7VHXmS7vUf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1639,
-    "publishedAt": "2026-10-21T12:05:13.064Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
-  },
-  {
     "id": "SP837245818-45301021293",
     "productId": "SP837245818-45301021293",
     "marketplace": "shopee",
@@ -3333,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 329,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1511724455-43203256115",
@@ -3741,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 1552,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -3765,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 2075,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-29T12:05:22.787Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -4389,7 +4389,7 @@
     "lowest30d": true,
     "vendas": 395,
     "publishedAt": "2026-10-19T16:35:15.107Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1520921103-58217676479",
@@ -4413,7 +4413,7 @@
     "lowest30d": true,
     "vendas": 2729,
     "publishedAt": "2026-10-14T04:05:14.334Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1841870093-55315796592",
@@ -4629,7 +4629,7 @@
     "lowest30d": true,
     "vendas": 713,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1337284628-22398929943",
@@ -4653,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 265,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP341167297-20350419516",
@@ -4677,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 3271,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP337714883-23899122798",
@@ -4701,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 1893,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4725,7 +4725,7 @@
     "lowest30d": true,
     "vendas": 5984,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -4968,6 +4968,30 @@
     "checkedAt": "2026-10-29T13:35:13.131Z"
   },
   {
+    "id": "SP1485077747-58252016104",
+    "productId": "SP1485077747-58252016104",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador Veicular Turbo 87.5W USB-C USB-A Carregamento rápido Metal aeronáutico TIPO C",
+    "price": 31.98,
+    "originalPrice": 79.95,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibg7m1hx3b555",
+    "url": "https://s.shopee.com.br/7VHXmS7vUf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1639,
+    "publishedAt": "2026-10-21T12:05:13.064Z",
+    "checkedAt": "2026-10-29T15:05:13.431Z"
+  },
+  {
     "id": "SP499950777-47767182971",
     "productId": "SP499950777-47767182971",
     "marketplace": "shopee",
@@ -5013,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 959,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1793507407-45712892195",
@@ -5253,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 5212,
     "publishedAt": "2026-10-23T05:35:17.393Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5565,7 +5589,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5637,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5709,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 1728,
     "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1468415010-45768749056",
@@ -5829,7 +5853,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -5877,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 3068,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP874603044-21199848485",
@@ -5997,7 +6021,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -6093,7 +6117,7 @@
     "lowest30d": false,
     "vendas": 3059,
     "publishedAt": "2026-10-23T12:35:13.180Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6165,7 +6189,7 @@
     "lowest30d": false,
     "vendas": 165,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB3332109715",
@@ -6189,7 +6213,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -6309,7 +6333,7 @@
     "lowest30d": false,
     "vendas": 217,
     "publishedAt": "2026-10-27T12:05:18.640Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -6597,7 +6621,7 @@
     "lowest30d": false,
     "vendas": 1656,
     "publishedAt": "2026-10-25T02:35:16.832Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1384111782-23898040463",
@@ -6648,30 +6672,6 @@
     "checkedAt": "2026-10-29T14:35:17.920Z"
   },
   {
-    "id": "SP543131983-21451892447",
-    "productId": "SP543131983-21451892447",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de Som Bluetooth Grande Amplificada Torre Painel Led RGB Grasep Ultra Potente 2 Alto Falante",
-    "price": 143.99,
-    "originalPrice": 299.98,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mudxp4ajwide3a",
-    "url": "https://s.shopee.com.br/9fM2I91Svz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 263,
-    "publishedAt": "2026-10-02T18:35:15.170Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
-  },
-  {
     "id": "MLB7220744326",
     "productId": "MLB75627272",
     "marketplace": "ml",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5293442116",
@@ -6717,7 +6717,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
+  },
+  {
+    "id": "MLB1942049788",
+    "productId": "MLB15578941",
+    "marketplace": "ml",
+    "fonte": "MLB438284",
+    "categoria": "Eletrodomésticos",
+    "title": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
+    "price": 104,
+    "originalPrice": 210.9,
+    "discount": 51,
+    "base": "media",
+    "averagePrice": 210.9,
+    "sellers": 42,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_766837-MLA98259429221_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-1942049788?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-23T12:51:45.233Z",
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB7847665416",
@@ -6741,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6909,7 +6933,7 @@
     "lowest30d": true,
     "vendas": 1901,
     "publishedAt": "2026-10-21T17:05:12.379Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1404215442-40573257922",
@@ -6933,7 +6957,7 @@
     "lowest30d": false,
     "vendas": 1103,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1108960039-23098673975",
@@ -6957,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 667,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1468001620-45868320453",
@@ -6997,7 +7021,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
-    "url": "https://s.shopee.com.br/1W0KWyl5Y3",
+    "url": "https://s.shopee.com.br/AAIJU60VdK",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7005,7 +7029,7 @@
     "lowest30d": true,
     "vendas": 7200,
     "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1259153662-22293723811",
@@ -7054,30 +7078,6 @@
     "vendas": 303,
     "publishedAt": "2026-10-23T13:05:15.300Z",
     "checkedAt": "2026-10-29T13:05:17.518Z"
-  },
-  {
-    "id": "MLB1942049788",
-    "productId": "MLB15578941",
-    "marketplace": "ml",
-    "fonte": "MLB438284",
-    "categoria": "Eletrodomésticos",
-    "title": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
-    "price": 104,
-    "originalPrice": 204.95,
-    "discount": 49,
-    "base": "media",
-    "averagePrice": 204.95,
-    "sellers": 43,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_766837-MLA98259429221_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-1942049788?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7221,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -7341,7 +7341,7 @@
     "lowest30d": false,
     "vendas": 2666,
     "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP786353833-22194344661",
@@ -7461,7 +7461,7 @@
     "lowest30d": true,
     "vendas": 2595,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": 252,
     "publishedAt": "2026-10-11T03:05:13.914Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB3767156322",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB4190456415",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1320570542-58264207552",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5250929785",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB7690418228",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB7690418174",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5279469915",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5314233588",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB4153226076",
@@ -8166,7 +8166,7 @@
     "fonte": "MLB420409",
     "categoria": "Bebês",
     "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
-    "price": 348.9,
+    "price": 346.54,
     "originalPrice": 490,
     "discount": 29,
     "base": "media",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5451291113",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB7071544106",
@@ -8239,10 +8239,10 @@
     "categoria": "Eletrônicos",
     "title": "Radio Controle Dji Rc-n3 Neo 1 e 2, Mini 4 ou superior",
     "price": 899,
-    "originalPrice": 1118,
-    "discount": 20,
+    "originalPrice": 1138,
+    "discount": 21,
     "base": "media",
-    "averagePrice": 1118,
+    "averagePrice": 1138,
     "sellers": 41,
     "image": "https://http2.mlstatic.com/D_NQ_NP_944602-MLA99531144470_122025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7071544106?matt_word=promoninja&matt_tool=19839069",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB6174995494",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5812393646",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB4521286991",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5364910333",
@@ -8349,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
-  },
-  {
-    "id": "MLB7690840340",
-    "productId": "MLB62889081",
-    "marketplace": "ml",
-    "fonte": "MLB438282",
-    "categoria": "Eletrodomésticos",
-    "title": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
-    "price": 1529,
-    "originalPrice": 1734.42,
-    "discount": 12,
-    "base": "media",
-    "averagePrice": 1734.42,
-    "sellers": 5,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7690840340?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "FIDCOMERCIOEXTERIOREIRELI",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-28T12:05:15.710Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB7854548124",
@@ -8397,7 +8373,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T19:35:13.895Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
+  },
+  {
+    "id": "MLB7690840340",
+    "productId": "MLB62889081",
+    "marketplace": "ml",
+    "fonte": "MLB438282",
+    "categoria": "Eletrodomésticos",
+    "title": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
+    "price": 1529,
+    "originalPrice": 1699,
+    "discount": 10,
+    "base": "media",
+    "averagePrice": 1699,
+    "sellers": 6,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7690840340?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "FIDCOMERCIOEXTERIOREIRELI",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-28T12:05:15.710Z",
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8541,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 3410,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -8853,7 +8853,7 @@
     "lowest30d": false,
     "vendas": 731,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -8997,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 1263,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9525,7 +9525,7 @@
     "lowest30d": false,
     "vendas": 1495,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 719,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 607,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -9885,7 +9885,7 @@
     "lowest30d": false,
     "vendas": 1165,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -10197,7 +10197,7 @@
     "lowest30d": true,
     "vendas": 854,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1126224431-22394542808",
@@ -10245,7 +10245,7 @@
     "lowest30d": true,
     "vendas": 506,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -10317,7 +10317,7 @@
     "lowest30d": false,
     "vendas": 749,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10413,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 146,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -10461,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 2769,
     "publishedAt": "2026-10-10T13:35:14.395Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 531,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -11013,7 +11013,7 @@
     "lowest30d": false,
     "vendas": 294,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -11037,30 +11037,30 @@
     "lowest30d": false,
     "vendas": 253,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
-    "id": "SP1408518151-22394524187",
-    "productId": "SP1408518151-22394524187",
+    "id": "SP1054219578-20399715997",
+    "productId": "SP1054219578-20399715997",
     "marketplace": "shopee",
-    "fonte": "shopee:q:protetor solar",
-    "categoria": "Beleza",
-    "title": "Reihaku Hatomugi UV Milky Gel  250ml-Direto Do Japão",
-    "price": 43.75,
-    "originalPrice": 125,
-    "discount": 65,
+    "fonte": "shopee:q:legging",
+    "categoria": "Moda e Calçados",
+    "title": "CALÇA JOGGER FEMININA ESPORTIVA TACTEL ELASTANO TOP/CALÇA PARA TREINO,CAMINHADA,ACADEMIA DIA A DIA",
+    "price": 35.88,
+    "originalPrice": 99.67,
+    "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-msz1t6ia6f4489",
-    "url": "https://s.shopee.com.br/4qGnGdEMEq",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ik8ym7eltu4b",
+    "url": "https://s.shopee.com.br/5fptb5F6xc",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 196,
-    "publishedAt": "2026-10-29T14:35:17.920Z",
+    "lowest30d": true,
+    "vendas": 1332,
+    "publishedAt": "2026-10-10T22:35:14.994Z",
     "checkedAt": "2026-10-29T14:35:17.920Z"
   },
   {
@@ -11424,30 +11424,6 @@
     "checkedAt": "2026-10-29T14:05:13.931Z"
   },
   {
-    "id": "SP329944383-22899456944",
-    "productId": "SP329944383-22899456944",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:protetor solar",
-    "categoria": "Beleza",
-    "title": "Protetor Solar Infantil Helioderm Kids FPS 70 com 120ml",
-    "price": 37.9,
-    "originalPrice": 105.28,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mrsq39k8uoli26",
-    "url": "https://s.shopee.com.br/6q1reJ6kAW",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 431,
-    "publishedAt": "2026-10-29T14:35:17.920Z",
-    "checkedAt": "2026-10-29T14:35:17.920Z"
-  },
-  {
     "id": "SP1520177807-23093899800",
     "productId": "SP1520177807-23093899800",
     "marketplace": "shopee",
@@ -11613,7 +11589,7 @@
     "lowest30d": true,
     "vendas": 1247,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-29T11:35:15.818Z"
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -11998,5 +11974,29 @@
     "vendas": 904,
     "publishedAt": "2026-10-10T20:05:13.601Z",
     "checkedAt": "2026-10-29T14:35:17.920Z"
+  },
+  {
+    "id": "SP1408367819-23394279595",
+    "productId": "SP1408367819-23394279595",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Ventilador de Teto 80w Bivolt 5 helices Oval LED Com bulbo 3 Cores E27 Controle Função Timing",
+    "price": 38.8,
+    "originalPrice": 90.23,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820ok-mnmx5z82093802",
+    "url": "https://s.shopee.com.br/6L5aI1XitS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3551,
+    "publishedAt": "2026-10-29T15:05:13.431Z",
+    "checkedAt": "2026-10-29T15:05:13.431Z"
   }
 ]
