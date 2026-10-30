@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -94,30 +94,6 @@
     "vendas": 1106,
     "publishedAt": "2026-10-29T17:35:14.753Z",
     "checkedAt": "2026-10-30T15:52:47.190Z"
-  },
-  {
-    "id": "SP498371377-22094722395",
-    "productId": "SP498371377-22094722395",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Painel Placa Flexível Efeito Mármore 2,80x1,20m Revestimento de Parede Sala Cozinha Lavabo",
-    "price": 59.98,
-    "originalPrice": 199.93,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823qw-mozh5xwx0lxofa",
-    "url": "https://s.shopee.com.br/8KqefjGEA6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 6751,
-    "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -528,6 +504,30 @@
     "checkedAt": "2026-10-30T15:52:47.190Z"
   },
   {
+    "id": "SP498371377-22094722395",
+    "productId": "SP498371377-22094722395",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Painel Placa Flexível Efeito Mármore 2,80x1,20m Revestimento de Parede Sala Cozinha Lavabo",
+    "price": 61.99,
+    "originalPrice": 199.97,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-823qw-mozh5xwx0lxofa",
+    "url": "https://s.shopee.com.br/8KqefjGEA6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 6751,
+    "publishedAt": "2026-10-29T03:35:12.623Z",
+    "checkedAt": "2026-10-30T18:05:16.584Z"
+  },
+  {
     "id": "SP1187975388-18297808572",
     "productId": "SP1187975388-18297808572",
     "marketplace": "shopee",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 942,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP415175805-20103606180",
@@ -861,7 +861,31 @@
     "lowest30d": true,
     "vendas": 569,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
+  },
+  {
+    "id": "SP391739739-18397808004",
+    "productId": "SP391739739-18397808004",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
+    "price": 31.99,
+    "originalPrice": 99.97,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9507rnv3bm9d5",
+    "url": "https://s.shopee.com.br/8pmxrJHNMb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 878,
+    "publishedAt": "2026-10-24T13:17:49.617Z",
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP283185672-23998573447",
@@ -957,7 +981,7 @@
     "lowest30d": true,
     "vendas": 263,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1543737245-22794158252",
@@ -1029,7 +1053,7 @@
     "lowest30d": true,
     "vendas": 2545,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1269,7 +1293,7 @@
     "lowest30d": false,
     "vendas": 1472,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1545195730-58253714822",
@@ -1533,7 +1557,7 @@
     "lowest30d": false,
     "vendas": 143,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1738169938-46311869185",
@@ -1965,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 844,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -2061,7 +2085,7 @@
     "lowest30d": false,
     "vendas": 4189,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1420392453-58250419969",
@@ -2133,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 224,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1580145778-22499659115",
@@ -2157,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 406,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -2301,7 +2325,7 @@
     "lowest30d": false,
     "vendas": 440,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP335298185-23094846011",
@@ -2485,7 +2509,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg22l1lf864k12",
-    "url": "https://s.shopee.com.br/9KjC3nnTQ1",
+    "url": "https://s.shopee.com.br/50aFILkn4K",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2493,7 +2517,7 @@
     "lowest30d": true,
     "vendas": 1877,
     "publishedAt": "2026-10-22T12:35:19.276Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1615578976-22794424936",
@@ -2517,7 +2541,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1157995564-23398026212",
@@ -2592,30 +2616,6 @@
     "checkedAt": "2026-10-30T15:35:14.140Z"
   },
   {
-    "id": "SP1569321608-58252253531",
-    "productId": "SP1569321608-58252253531",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Karaokê Bluetooth Portátil Caixa de Som com 2 Microfones Sem Fio LED RGB",
-    "price": 34.99,
-    "originalPrice": 99.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvy-migbjdoomfifc2",
-    "url": "https://s.shopee.com.br/3qOFPiIRnA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 581,
-    "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-30T15:52:47.190Z"
-  },
-  {
     "id": "SP1791620681-23394950449",
     "productId": "SP1791620681-23394950449",
     "marketplace": "shopee",
@@ -2661,7 +2661,7 @@
     "lowest30d": true,
     "vendas": 1116,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 2756,
     "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3285,7 +3285,7 @@
     "lowest30d": true,
     "vendas": 682,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -3333,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 1899,
     "publishedAt": "2026-10-25T12:05:12.250Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1632292406-22494419367",
@@ -3405,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 8978,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -3429,7 +3429,7 @@
     "lowest30d": true,
     "vendas": 2194,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T15:05:16.094Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -3453,7 +3453,7 @@
     "lowest30d": true,
     "vendas": 1326,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -3477,7 +3477,7 @@
     "lowest30d": true,
     "vendas": 756,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -3645,7 +3645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -4557,7 +4557,7 @@
     "lowest30d": false,
     "vendas": 2224,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4917,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 2188,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1480010644-54052225033",
@@ -4941,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 4433,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP589696155-58211510076",
@@ -4965,7 +4965,7 @@
     "lowest30d": true,
     "vendas": 12178,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1331886707-23898664618",
@@ -4989,7 +4989,7 @@
     "lowest30d": true,
     "vendas": 4186,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -5253,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 445,
     "publishedAt": "2026-10-24T14:05:14.068Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5589,7 +5589,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5637,7 +5637,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5901,7 +5901,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -5973,7 +5973,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 2930,
     "publishedAt": "2026-10-28T03:35:18.503Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -6021,7 +6021,7 @@
     "lowest30d": false,
     "vendas": 5089,
     "publishedAt": "2026-10-27T13:35:14.823Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP302142396-22599393413",
@@ -6189,7 +6189,7 @@
     "lowest30d": true,
     "vendas": 144,
     "publishedAt": "2026-10-30T03:05:13.882Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -6429,7 +6429,7 @@
     "lowest30d": false,
     "vendas": 2041,
     "publishedAt": "2026-10-27T02:05:13.820Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP688975125-58261587690",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP371651689-23994017710",
@@ -6789,7 +6789,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB6194501592",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB7847665416",
@@ -6837,7 +6837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7005,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 364,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP528261467-49108107903",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": 5184,
     "publishedAt": "2026-10-24T10:35:12.863Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1717663781-23094876336",
@@ -7173,31 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
-  },
-  {
-    "id": "SP434195734-55011865850",
-    "productId": "SP434195734-55011865850",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Isolate Protein 900g Zero Lactose Zero Carboidrato 26g Proteínas - New Millen",
-    "price": 129.99,
-    "originalPrice": 254.88,
-    "discount": 49,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134211-820l5-mqqvtpmp8yyqa2",
-    "url": "https://s.shopee.com.br/2qViilzbxp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 353,
-    "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7269,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5472494813",
@@ -7279,11 +7255,11 @@
     "categoria": "Beleza",
     "title": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
     "price": 55.45,
-    "originalPrice": 105.95,
+    "originalPrice": 105.9,
     "discount": 48,
     "base": "media",
-    "averagePrice": 105.95,
-    "sellers": 41,
+    "averagePrice": 105.9,
+    "sellers": 42,
     "image": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5472494813?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7293,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7341,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7446,8 +7422,8 @@
     "fonte": "shopee:lista:2",
     "categoria": "Mais vendidos",
     "title": "Carregador Portátil 12000mAh LED com Cabos Integrados, Compacto, Carga Rápida, Compatível com iPhone e Android",
-    "price": 55.92,
-    "originalPrice": 101.67,
+    "price": 61.01,
+    "originalPrice": 110.93,
     "discount": 45,
     "base": "vendedor",
     "averagePrice": null,
@@ -7458,10 +7434,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 1354,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5109948772",
@@ -7485,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1509845472-43029805037",
@@ -7581,7 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7653,7 +7629,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7677,7 +7653,7 @@
     "lowest30d": false,
     "vendas": 1144,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB4190456415",
@@ -7701,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7749,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7773,7 +7749,7 @@
     "lowest30d": true,
     "vendas": 168,
     "publishedAt": "2026-10-18T16:35:13.655Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -7845,7 +7821,7 @@
     "lowest30d": true,
     "vendas": 963,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7941,7 +7917,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
+  },
+  {
+    "id": "SP434195734-55011865850",
+    "productId": "SP434195734-55011865850",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Isolate Protein 900g Zero Lactose Zero Carboidrato 26g Proteínas - New Millen",
+    "price": 170.99,
+    "originalPrice": 255.21,
+    "discount": 33,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134211-820l5-mqqvtpmp8yyqa2",
+    "url": "https://s.shopee.com.br/2qViilzbxp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 353,
+    "publishedAt": "2026-10-23T13:05:15.300Z",
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T13:35:17.797Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB7690418228",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB7690418174",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5279469915",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5314233588",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5739859240",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5451291113",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB7071544106",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB7578108490",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB6174995494",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
-  },
-  {
-    "id": "MLB5812393646",
-    "productId": "MLB15345937",
-    "marketplace": "ml",
-    "fonte": "MLB447778",
-    "categoria": "Informática",
-    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-    "price": 188.48,
-    "originalPrice": 227.5,
-    "discount": 17,
-    "base": "media",
-    "averagePrice": 227.5,
-    "sellers": 39,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8373,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
+  },
+  {
+    "id": "MLB5812393646",
+    "productId": "MLB15345937",
+    "marketplace": "ml",
+    "fonte": "MLB447778",
+    "categoria": "Informática",
+    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
+    "price": 188.73,
+    "originalPrice": 225,
+    "discount": 16,
+    "base": "media",
+    "averagePrice": 225,
+    "sellers": 40,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-14T03:05:11.425Z",
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-30T17:35:13.247Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 542,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 142,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 255,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": 1255,
     "publishedAt": "2026-10-25T00:18:59.810Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 375,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1028459403-19099850967",
@@ -9213,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9333,7 +9333,7 @@
     "lowest30d": false,
     "vendas": 933,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9405,7 +9405,7 @@
     "lowest30d": false,
     "vendas": 138,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9453,7 +9453,7 @@
     "lowest30d": false,
     "vendas": 1312,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -9576,30 +9576,6 @@
     "checkedAt": "2026-10-30T16:05:14.384Z"
   },
   {
-    "id": "SP391739739-18397808004",
-    "productId": "SP391739739-18397808004",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
-    "price": 31.99,
-    "originalPrice": 99.97,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9507rnv3bm9d5",
-    "url": "https://s.shopee.com.br/6L5aOJDKX5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 878,
-    "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-30T17:05:14.032Z"
-  },
-  {
     "id": "SP1136572611-50362394762",
     "productId": "SP1136572611-50362394762",
     "marketplace": "shopee",
@@ -9669,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 102,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9837,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 923,
     "publishedAt": "2026-09-29T17:35:18.359Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1738971782-22699530209",
@@ -9909,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 1683,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -10416,6 +10392,30 @@
     "checkedAt": "2026-10-30T17:05:14.032Z"
   },
   {
+    "id": "SP1569321608-58252253531",
+    "productId": "SP1569321608-58252253531",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Karaokê Bluetooth Portátil Caixa de Som com 2 Microfones Sem Fio LED RGB",
+    "price": 34.99,
+    "originalPrice": 99.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvy-migbjdoomfifc2",
+    "url": "https://s.shopee.com.br/3qOFPiIRnA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 581,
+    "publishedAt": "2026-10-13T18:05:17.192Z",
+    "checkedAt": "2026-10-30T15:52:47.190Z"
+  },
+  {
     "id": "SP1638793253-23299239521",
     "productId": "SP1638793253-23299239521",
     "marketplace": "shopee",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 3290,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -10605,7 +10605,7 @@
     "lowest30d": false,
     "vendas": 2603,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -10677,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 1028,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -10821,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10869,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-10-06T18:05:15.574Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10989,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 365,
     "publishedAt": "2026-10-24T00:00:08.189Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -11085,7 +11085,7 @@
     "lowest30d": true,
     "vendas": 1674,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -11421,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 2006,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -11685,7 +11685,7 @@
     "lowest30d": false,
     "vendas": 1404,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T14:35:13.761Z"
+    "checkedAt": "2026-10-30T18:05:16.584Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -11952,6 +11952,30 @@
     "checkedAt": "2026-10-30T15:35:14.140Z"
   },
   {
+    "id": "SP1284795277-22893701336",
+    "productId": "SP1284795277-22893701336",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+    "price": 44.8,
+    "originalPrice": 121.08,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mp42eo1159fqfc",
+    "url": "https://s.shopee.com.br/1BZL4p0I4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 777,
+    "publishedAt": "2026-10-30T18:05:16.584Z",
+    "checkedAt": "2026-10-30T18:05:16.584Z"
+  },
+  {
     "id": "SP1193388723-57914922040",
     "productId": "SP1193388723-57914922040",
     "marketplace": "shopee",
@@ -11973,30 +11997,6 @@
     "lowest30d": true,
     "vendas": 1217,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-30T16:05:14.384Z"
-  },
-  {
-    "id": "SP1925695008-58267992875",
-    "productId": "SP1925695008-58267992875",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Air Fryer 2,8L 800W 360° Circulação Antiaderente Cozinha Prática AF-35M02A",
-    "price": 229,
-    "originalPrice": 602.63,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mt0ggx4kt98g64",
-    "url": "https://s.shopee.com.br/70LHwiC0sf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 168,
-    "publishedAt": "2026-10-13T08:35:16.484Z",
     "checkedAt": "2026-10-30T16:05:14.384Z"
   }
 ]
