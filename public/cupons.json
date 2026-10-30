@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "CASA3010"
+    ],
+    "desconto": "R$ 100 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16888",
+    "quando": "2026-10-30T15:03:46+00:00",
+    "id": "ml:CASA3010",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODA3010"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": "Moda e Bem Estar",
+    "origem": "avidaefeitadedesconto/16887",
+    "quando": "2026-10-30T15:03:39+00:00",
+    "id": "ml:MODA3010",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE3010",
       "SITE3010"
     ],
