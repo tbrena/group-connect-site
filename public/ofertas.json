@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -165,7 +165,7 @@
     "lowest30d": true,
     "vendas": 1533,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP717333338-22698518082",
@@ -189,7 +189,7 @@
     "lowest30d": false,
     "vendas": 664,
     "publishedAt": "2026-10-22T20:35:14.423Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1367408218-58209240255",
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 1579,
     "publishedAt": "2026-10-21T16:35:13.635Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1024791137-58217572948",
@@ -286,6 +286,102 @@
     "vendas": 1484,
     "publishedAt": "2026-10-14T11:35:11.953Z",
     "checkedAt": "2026-10-30T12:35:12.892Z"
+  },
+  {
+    "id": "SP1654822470-22799185652",
+    "productId": "SP1654822470-22799185652",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "JIOYE Smartwatch Relogio Chamada Bluetooth à Prova d'Água Fitness Esporte Relógio Smartwatch Redondo",
+    "price": 218,
+    "originalPrice": 703.23,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrv0axfwypza99",
+    "url": "https://s.shopee.com.br/7Aejbcymgq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 305,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
+  },
+  {
+    "id": "SP1043771437-58259669449",
+    "productId": "SP1043771437-58259669449",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Lançamento  Smartwatch 2026 Ultra 5 Pro Amoled -Prova Dágua + Ligações + WhatsApp Microwear Original",
+    "price": 184.98,
+    "originalPrice": 596.71,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqf1cqslczk3d9",
+    "url": "https://s.shopee.com.br/7fb0CXwsg1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 195,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
+  },
+  {
+    "id": "SP1833219313-22095210353",
+    "productId": "SP1833219313-22095210353",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica 1 litro Feminina Estampada Fashion Inox 304 Antivazamento com Canudo e Alça para Quente e Frio",
+    "price": 64.99,
+    "originalPrice": 209.65,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mt66ad6zqh38be",
+    "url": "https://s.shopee.com.br/9pfUmbDTwZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 305,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
+  },
+  {
+    "id": "SP1557539807-58204570395",
+    "productId": "SP1557539807-58204570395",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "MODUS Garrafa Térmica De Viagem Inox 1700ml Com Isolamento A Vácuo",
+    "price": 79.99,
+    "originalPrice": 258.03,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzolhpl7iqzpbc",
+    "url": "https://s.shopee.com.br/7Ky9o0N01M",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 296,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
   },
   {
     "id": "SP1620616375-23395000941",
@@ -525,7 +621,7 @@
     "lowest30d": true,
     "vendas": 1628,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -597,7 +693,7 @@
     "lowest30d": true,
     "vendas": 5000,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -621,7 +717,7 @@
     "lowest30d": false,
     "vendas": 3906,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -741,7 +837,7 @@
     "lowest30d": true,
     "vendas": 234,
     "publishedAt": "2026-10-21T00:38:58.640Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1043771437-23893706063",
@@ -768,6 +864,30 @@
     "checkedAt": "2026-10-30T11:35:17.454Z"
   },
   {
+    "id": "SP283185672-23998573447",
+    "productId": "SP283185672-23998573447",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Vácuo 1200ml com Canudo, Aço Inoxidável - Alta Capacidade",
+    "price": 38.99,
+    "originalPrice": 121.84,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzh7lze9g5h95",
+    "url": "https://s.shopee.com.br/gRFrkmNXT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 333,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
+  },
+  {
     "id": "SP1860098702-58266070880",
     "productId": "SP1860098702-58266070880",
     "marketplace": "shopee",
@@ -789,7 +909,7 @@
     "lowest30d": true,
     "vendas": 4946,
     "publishedAt": "2026-10-25T14:20:46.965Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -912,6 +1032,30 @@
     "checkedAt": "2026-10-30T11:35:17.454Z"
   },
   {
+    "id": "SP1607476642-19199865083",
+    "productId": "SP1607476642-19199865083",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Copo Térmico 1200 ml Com Canudo Material Inoxidável Tampa 2 Funções Alça Aberto ou Fechada - LM",
+    "price": 32.99,
+    "originalPrice": 99.97,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mnedtryo33eqb5",
+    "url": "https://s.shopee.com.br/1BZ4WoutH",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 312,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
+  },
+  {
     "id": "SP1768799994-22099613752",
     "productId": "SP1768799994-22099613752",
     "marketplace": "shopee",
@@ -957,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 3785,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1345043704-22693513091",
@@ -1221,7 +1365,7 @@
     "lowest30d": true,
     "vendas": 6950,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1114645438-19997803637",
@@ -1392,54 +1536,6 @@
     "checkedAt": "2026-10-30T11:35:17.454Z"
   },
   {
-    "id": "SP1542039589-23394329762",
-    "productId": "SP1542039589-23394329762",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor 2,8L Air Fryer 360° Ar Quente Timer 60 Min 200°C Antiaderente Sem BPA AF-35M02A-1",
-    "price": 229,
-    "originalPrice": 693.94,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mlbhvraklwjra1",
-    "url": "https://s.shopee.com.br/9APnWd1J6Q",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 146,
-    "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-30T13:35:17.797Z"
-  },
-  {
-    "id": "SP1574084758-23398826243",
-    "productId": "SP1574084758-23398826243",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Fritadeira  Air Fryer 2,8L 360° Ar Quente Timer 60 Min 200°C Antiaderente Sem BPA AF-35M02A-1",
-    "price": 229,
-    "originalPrice": 693.94,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mlfuty8ay13bfe",
-    "url": "https://s.shopee.com.br/6AmA5njGKi",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 102,
-    "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
-  },
-  {
     "id": "SP1738169938-46311869185",
     "productId": "SP1738169938-46311869185",
     "marketplace": "shopee",
@@ -1485,7 +1581,7 @@
     "lowest30d": false,
     "vendas": 1470,
     "publishedAt": "2026-10-29T22:35:14.597Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP634842203-45708068728",
@@ -1725,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 13214,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP378597608-22916640404",
@@ -1920,30 +2016,6 @@
     "checkedAt": "2026-10-30T13:35:17.797Z"
   },
   {
-    "id": "SP1459307687-40624794433",
-    "productId": "SP1459307687-40624794433",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
-    "price": 50.99,
-    "originalPrice": 149.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
-    "url": "https://s.shopee.com.br/9APnt7RUco",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4567,
-    "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
     "id": "SP1550654557-23298543447",
     "productId": "SP1550654557-23298543447",
     "marketplace": "shopee",
@@ -1965,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 1230,
     "publishedAt": "2026-10-30T11:05:13.469Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -2088,30 +2160,6 @@
     "checkedAt": "2026-10-30T11:35:17.454Z"
   },
   {
-    "id": "SP1771091495-58212573737",
-    "productId": "SP1771091495-58212573737",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-    "price": 47.41,
-    "originalPrice": 135.46,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-    "url": "https://s.shopee.com.br/3qOFqMWKHT",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2756,
-    "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
-  },
-  {
     "id": "SP519073932-18297614947",
     "productId": "SP519073932-18297614947",
     "marketplace": "shopee",
@@ -2133,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 1291,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -2325,7 +2373,7 @@
     "lowest30d": false,
     "vendas": 135,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -2413,7 +2461,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mspkfpuk42ytbb",
-    "url": "https://s.shopee.com.br/30p9VxYxyP",
+    "url": "https://s.shopee.com.br/8fTXE6edQD",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2421,7 +2469,7 @@
     "lowest30d": true,
     "vendas": 955,
     "publishedAt": "2026-10-22T13:05:24.625Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP451371260-22897389357",
@@ -2592,28 +2640,28 @@
     "checkedAt": "2026-10-30T12:35:12.892Z"
   },
   {
-    "id": "SP1841870093-55315796592",
-    "productId": "SP1841870093-55315796592",
+    "id": "SP1791620681-23394950449",
+    "productId": "SP1791620681-23394950449",
     "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
-    "price": 26.99,
-    "originalPrice": 77.11,
-    "discount": 65,
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "2026 Novo Smartwatch S9 Ultra- Chamadas Bluetooth Calculadora Prova d'água Unissex Para Android e iOS Relógio feminino",
+    "price": 42.99,
+    "originalPrice": 119.42,
+    "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
-    "url": "https://s.shopee.com.br/8pmvGheXdl",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mnwiztoqc9aa6f",
+    "url": "https://s.shopee.com.br/6fiT0i0ghn",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2708,
-    "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-30T11:35:17.454Z"
+    "vendas": 135,
+    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "checkedAt": "2026-10-30T14:05:12.702Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -3213,7 +3261,31 @@
     "lowest30d": false,
     "vendas": 827,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-30T11:05:13.469Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
+  },
+  {
+    "id": "SP1771091495-58212573737",
+    "productId": "SP1771091495-58212573737",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+    "price": 47.41,
+    "originalPrice": 128.14,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
+    "url": "https://s.shopee.com.br/3qOFqMWKHT",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2756,
+    "publishedAt": "2026-10-28T20:35:17.024Z",
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3381,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 8978,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -3429,7 +3501,7 @@
     "lowest30d": true,
     "vendas": 1326,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -3453,7 +3525,7 @@
     "lowest30d": true,
     "vendas": 756,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -4080,54 +4152,6 @@
     "checkedAt": "2026-10-30T12:05:14.486Z"
   },
   {
-    "id": "SP1193388723-57914922040",
-    "productId": "SP1193388723-57914922040",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Carrinho de Controle Remoto Infantil RC 2.4GHz com Faróis LED e Bateria Recarregável Do Batman",
-    "price": 64.6,
-    "originalPrice": 170,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mr5vtq6ll72d6c",
-    "url": "https://s.shopee.com.br/4fxMKxG6KA",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1217,
-    "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
-  },
-  {
-    "id": "SP1925695008-58267992875",
-    "productId": "SP1925695008-58267992875",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Air Fryer 2,8L 800W 360° Circulação Antiaderente Cozinha Prática AF-35M02A",
-    "price": 229,
-    "originalPrice": 602.63,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mt0ggx4kt98g64",
-    "url": "https://s.shopee.com.br/70LHwiC0sf",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 168,
-    "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
-  },
-  {
     "id": "SP493201475-21799026815",
     "productId": "SP493201475-21799026815",
     "marketplace": "shopee",
@@ -4557,7 +4581,7 @@
     "lowest30d": false,
     "vendas": 2224,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4917,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 2188,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1480010644-54052225033",
@@ -4941,7 +4965,7 @@
     "lowest30d": false,
     "vendas": 4433,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP589696155-58211510076",
@@ -4965,7 +4989,7 @@
     "lowest30d": true,
     "vendas": 12178,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1331886707-23898664618",
@@ -4989,7 +5013,7 @@
     "lowest30d": true,
     "vendas": 4186,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -5160,30 +5184,6 @@
     "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
-    "id": "SP1905647169-58265421821",
-    "productId": "SP1905647169-58265421821",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Caminhão Dinossauro Engolidor com Carrinhos Multifuncional Interativo Educativo Presente Infantil",
-    "price": 71.98,
-    "originalPrice": 179.95,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-mrcu2huo2zglff",
-    "url": "https://s.shopee.com.br/8AXFnndR3v",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2790,
-    "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-30T13:35:17.797Z"
-  },
-  {
     "id": "SP301592546-22997149912",
     "productId": "SP301592546-22997149912",
     "marketplace": "shopee",
@@ -5277,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 445,
     "publishedAt": "2026-10-24T14:05:14.068Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1447668497-22398374434",
@@ -5613,7 +5613,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5661,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5877,7 +5877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP904620355-41083528216",
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6021,7 +6021,7 @@
     "lowest30d": false,
     "vendas": 2930,
     "publishedAt": "2026-10-28T03:35:18.503Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -6030,8 +6030,8 @@
     "fonte": "shopee:q:brinquedo",
     "categoria": "Brinquedos",
     "title": "Kit 3 Baozi Squishy Queijo e Manteiga Brinquedo Sensorial Macio",
-    "price": 69.98,
-    "originalPrice": 159.05,
+    "price": 69.99,
+    "originalPrice": 159.07,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -6042,10 +6042,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 5089,
     "publishedAt": "2026-10-27T13:35:14.823Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP302142396-22599393413",
@@ -6165,7 +6165,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6237,7 +6237,7 @@
     "lowest30d": true,
     "vendas": 144,
     "publishedAt": "2026-10-30T03:05:13.882Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1367598261-23798866617",
@@ -6477,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 2041,
     "publishedAt": "2026-10-27T02:05:13.820Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP688975125-58261587690",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5293442116",
@@ -6837,7 +6837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB7847665416",
@@ -6861,7 +6861,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7029,7 +7029,7 @@
     "lowest30d": false,
     "vendas": 364,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP528261467-49108107903",
@@ -7038,8 +7038,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
-    "price": 79.4,
-    "originalPrice": 158.8,
+    "price": 79.9,
+    "originalPrice": 159.8,
     "discount": 50,
     "base": "vendedor",
     "averagePrice": null,
@@ -7050,10 +7050,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 5184,
     "publishedAt": "2026-10-24T10:35:12.863Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1717663781-23094876336",
@@ -7197,7 +7197,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7221,7 +7221,7 @@
     "lowest30d": true,
     "vendas": 353,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -7461,7 +7461,7 @@
     "lowest30d": true,
     "vendas": 1354,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5109948772",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7653,7 +7653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB4190456415",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 1144,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7765,7 +7765,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msgd4t6cum869e",
-    "url": "https://s.shopee.com.br/AAIIquEAAB",
+    "url": "https://s.shopee.com.br/AKblHGIigi",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7773,7 +7773,7 @@
     "lowest30d": true,
     "vendas": 168,
     "publishedAt": "2026-10-18T16:35:13.655Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -7845,7 +7845,7 @@
     "lowest30d": true,
     "vendas": 963,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1609153445-22998824196",
@@ -7920,30 +7920,6 @@
     "checkedAt": "2026-10-30T11:05:13.469Z"
   },
   {
-    "id": "MLB5244237885",
-    "productId": "MLB77672147",
-    "marketplace": "ml",
-    "fonte": "MLB432988",
-    "categoria": "Brinquedos",
-    "title": "Blister Duplo Coleção 30 anos Pókemon Copag - Português",
-    "price": 82.9,
-    "originalPrice": 124.45,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 124.45,
-    "sellers": 47,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5244237885?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-30T13:35:17.797Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
     "id": "MLB5250929785",
     "productId": "MLB77333173",
     "marketplace": "ml",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7992,6 +7968,30 @@
     "checkedAt": "2026-10-30T12:35:12.892Z"
   },
   {
+    "id": "MLB5244237885",
+    "productId": "MLB77672147",
+    "marketplace": "ml",
+    "fonte": "MLB432988",
+    "categoria": "Brinquedos",
+    "title": "Blister Duplo Coleção 30 anos Pókemon Copag - Português",
+    "price": 82.9,
+    "originalPrice": 122,
+    "discount": 32,
+    "base": "media",
+    "averagePrice": 122,
+    "sellers": 47,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5244237885?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-30T13:35:17.797Z",
+    "checkedAt": "2026-10-30T14:35:13.761Z"
+  },
+  {
     "id": "MLB7690418228",
     "productId": "MLB76874384",
     "marketplace": "ml",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB7690418174",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5279469915",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8136,6 +8136,30 @@
     "checkedAt": "2026-10-30T11:05:13.469Z"
   },
   {
+    "id": "MLB7578108490",
+    "productId": "MLB25206092",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Pilha Alcalina Aa Comum Elgin 10 Cartelas De Blisters 2 Unidades",
+    "price": 35,
+    "originalPrice": 50.65,
+    "discount": 31,
+    "base": "media",
+    "averagePrice": 50.65,
+    "sellers": 5,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_747965-MLA81891915856_012025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7578108490?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-30T08:58:47.625Z",
+    "checkedAt": "2026-10-30T14:35:13.761Z"
+  },
+  {
     "id": "MLB4153226076",
     "productId": "MLB12706806",
     "marketplace": "ml",
@@ -8157,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5314233588",
@@ -8181,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5739859240",
@@ -8205,31 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
-    "id": "MLB7578108490",
-    "productId": "MLB25206092",
-    "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Pilha Alcalina Aa Comum Elgin 10 Cartelas De Blisters 2 Unidades",
-    "price": 37.8,
-    "originalPrice": 49.9,
-    "discount": 24,
-    "base": "media",
-    "averagePrice": 49.9,
-    "sellers": 6,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_747965-MLA81891915856_012025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7578108490?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB3682277189",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5451291113",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB7071544106",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB6174995494",
@@ -8310,7 +8310,7 @@
     "fonte": "MLB186456",
     "categoria": "Games",
     "title": "Super Mario Bros. Wonder Nintendo Switch (físico)",
-    "price": 313.9,
+    "price": 316.81,
     "originalPrice": 388.9,
     "discount": 19,
     "base": "media",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5812393646",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 542,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 142,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 255,
     "publishedAt": "2026-09-24T18:35:18.047Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": 1255,
     "publishedAt": "2026-10-25T00:18:59.810Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -9094,102 +9094,6 @@
     "vendas": 1167,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-30T13:05:13.886Z"
-  },
-  {
-    "id": "SP1654822470-22799185652",
-    "productId": "SP1654822470-22799185652",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "JIOYE Smartwatch Relogio Chamada Bluetooth à Prova d'Água Fitness Esporte Relógio Smartwatch Redondo",
-    "price": 218,
-    "originalPrice": 703.23,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrv0axfwypza99",
-    "url": "https://s.shopee.com.br/7Aejbcymgq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 305,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
-    "id": "SP1043771437-58259669449",
-    "productId": "SP1043771437-58259669449",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "Lançamento  Smartwatch 2026 Ultra 5 Pro Amoled -Prova Dágua + Ligações + WhatsApp Microwear Original",
-    "price": 184.98,
-    "originalPrice": 596.71,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqf1cqslczk3d9",
-    "url": "https://s.shopee.com.br/7fb0CXwsg1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 195,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
-    "id": "SP1833219313-22095210353",
-    "productId": "SP1833219313-22095210353",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica 1 litro Feminina Estampada Fashion Inox 304 Antivazamento com Canudo e Alça para Quente e Frio",
-    "price": 64.99,
-    "originalPrice": 209.65,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mt66ad6zqh38be",
-    "url": "https://s.shopee.com.br/9pfUmbDTwZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 305,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
-  },
-  {
-    "id": "SP1557539807-58204570395",
-    "productId": "SP1557539807-58204570395",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "MODUS Garrafa Térmica De Viagem Inox 1700ml Com Isolamento A Vácuo",
-    "price": 79.99,
-    "originalPrice": 258.03,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzolhpl7iqzpbc",
-    "url": "https://s.shopee.com.br/7Ky9o0N01M",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 296,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -9285,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 375,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1028459403-19099850967",
@@ -9309,7 +9213,7 @@
     "lowest30d": true,
     "vendas": 528,
     "publishedAt": "2026-10-07T14:35:20.973Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9429,7 +9333,7 @@
     "lowest30d": false,
     "vendas": 933,
     "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -9501,7 +9405,7 @@
     "lowest30d": false,
     "vendas": 138,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9549,7 +9453,7 @@
     "lowest30d": false,
     "vendas": 1312,
     "publishedAt": "2026-09-28T02:05:14.986Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP397374716-22992591666",
@@ -9720,28 +9624,52 @@
     "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
-    "id": "SP283185672-23998573447",
-    "productId": "SP283185672-23998573447",
+    "id": "SP1542039589-23394329762",
+    "productId": "SP1542039589-23394329762",
     "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Vácuo 1200ml com Canudo, Aço Inoxidável - Alta Capacidade",
-    "price": 38.99,
-    "originalPrice": 121.84,
-    "discount": 68,
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor 2,8L Air Fryer 360° Ar Quente Timer 60 Min 200°C Antiaderente Sem BPA AF-35M02A-1",
+    "price": 229,
+    "originalPrice": 693.94,
+    "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzh7lze9g5h95",
-    "url": "https://s.shopee.com.br/gRFrkmNXT",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mlbhvraklwjra1",
+    "url": "https://s.shopee.com.br/9APnWd1J6Q",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 333,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
+    "vendas": 146,
+    "publishedAt": "2026-10-13T08:35:16.484Z",
+    "checkedAt": "2026-10-30T13:35:17.797Z"
+  },
+  {
+    "id": "SP1574084758-23398826243",
+    "productId": "SP1574084758-23398826243",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Fritadeira  Air Fryer 2,8L 360° Ar Quente Timer 60 Min 200°C Antiaderente Sem BPA AF-35M02A-1",
+    "price": 229,
+    "originalPrice": 693.94,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mlfuty8ay13bfe",
+    "url": "https://s.shopee.com.br/6AmA5njGKi",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 102,
+    "publishedAt": "2026-10-13T08:35:16.484Z",
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9909,7 +9837,7 @@
     "lowest30d": true,
     "vendas": 3416,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -9933,7 +9861,7 @@
     "lowest30d": false,
     "vendas": 923,
     "publishedAt": "2026-09-29T17:35:18.359Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1738971782-22699530209",
@@ -10005,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 1683,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP258776766-23898311641",
@@ -10320,27 +10248,27 @@
     "checkedAt": "2026-10-30T11:05:13.469Z"
   },
   {
-    "id": "SP1607476642-19199865083",
-    "productId": "SP1607476642-19199865083",
+    "id": "SP1459307687-40624794433",
+    "productId": "SP1459307687-40624794433",
     "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Copo Térmico 1200 ml Com Canudo Material Inoxidável Tampa 2 Funções Alça Aberto ou Fechada - LM",
-    "price": 32.99,
-    "originalPrice": 99.97,
-    "discount": 67,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
+    "price": 50.99,
+    "originalPrice": 149.97,
+    "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mnedtryo33eqb5",
-    "url": "https://s.shopee.com.br/1BZ4WoutH",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
+    "url": "https://s.shopee.com.br/9APnt7RUco",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 312,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
+    "lowest30d": true,
+    "vendas": 4567,
+    "publishedAt": "2026-10-13T04:05:13.221Z",
     "checkedAt": "2026-10-30T14:05:12.702Z"
   },
   {
@@ -10512,6 +10440,30 @@
     "checkedAt": "2026-10-30T13:35:17.797Z"
   },
   {
+    "id": "SP1841870093-55315796592",
+    "productId": "SP1841870093-55315796592",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
+    "price": 26.99,
+    "originalPrice": 77.11,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
+    "url": "https://s.shopee.com.br/8pmvGheXdl",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2708,
+    "publishedAt": "2026-10-13T03:05:13.504Z",
+    "checkedAt": "2026-10-30T11:35:17.454Z"
+  },
+  {
     "id": "SP1339065761-58256853481",
     "productId": "SP1339065761-58256853481",
     "marketplace": "shopee",
@@ -10629,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 3290,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP391739739-58202148614",
@@ -10653,7 +10605,7 @@
     "lowest30d": false,
     "vendas": 2603,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -10725,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 1028,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1727047778-53064833713",
@@ -10869,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 401,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10917,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-10-06T18:05:15.574Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -11037,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 365,
     "publishedAt": "2026-10-24T00:00:08.189Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -11133,7 +11085,7 @@
     "lowest30d": true,
     "vendas": 1674,
     "publishedAt": "2026-10-12T16:05:13.807Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -11469,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 2006,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1114645438-22992653456",
@@ -11566,30 +11518,6 @@
     "vendas": 1482,
     "publishedAt": "2026-10-25T22:49:15.180Z",
     "checkedAt": "2026-10-30T12:05:14.486Z"
-  },
-  {
-    "id": "SP1791620681-23394950449",
-    "productId": "SP1791620681-23394950449",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "2026 Novo Smartwatch S9 Ultra- Chamadas Bluetooth Calculadora Prova d'água Unissex Para Android e iOS Relógio feminino",
-    "price": 42.99,
-    "originalPrice": 119.42,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mnwiztoqc9aa6f",
-    "url": "https://s.shopee.com.br/6fiT0i0ghn",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 135,
-    "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T14:05:12.702Z"
   },
   {
     "id": "SP1791620681-23794951516",
@@ -11733,7 +11661,7 @@
     "lowest30d": false,
     "vendas": 1404,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T10:35:15.828Z"
+    "checkedAt": "2026-10-30T14:35:13.761Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -11998,5 +11926,77 @@
     "vendas": 1480,
     "publishedAt": "2026-09-28T02:35:16.754Z",
     "checkedAt": "2026-10-30T11:35:17.454Z"
+  },
+  {
+    "id": "SP1193388723-57914922040",
+    "productId": "SP1193388723-57914922040",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Carrinho de Controle Remoto Infantil RC 2.4GHz com Faróis LED e Bateria Recarregável Do Batman",
+    "price": 64.6,
+    "originalPrice": 170,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mr5vtq6ll72d6c",
+    "url": "https://s.shopee.com.br/4fxMKxG6KA",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1217,
+    "publishedAt": "2026-10-13T11:35:14.167Z",
+    "checkedAt": "2026-10-30T12:35:12.892Z"
+  },
+  {
+    "id": "SP1925695008-58267992875",
+    "productId": "SP1925695008-58267992875",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Air Fryer 2,8L 800W 360° Circulação Antiaderente Cozinha Prática AF-35M02A",
+    "price": 229,
+    "originalPrice": 602.63,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mt0ggx4kt98g64",
+    "url": "https://s.shopee.com.br/70LHwiC0sf",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 168,
+    "publishedAt": "2026-10-13T08:35:16.484Z",
+    "checkedAt": "2026-10-30T12:35:12.892Z"
+  },
+  {
+    "id": "SP1905647169-58265421821",
+    "productId": "SP1905647169-58265421821",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Caminhão Dinossauro Engolidor com Carrinhos Multifuncional Interativo Educativo Presente Infantil",
+    "price": 71.98,
+    "originalPrice": 179.95,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-mrcu2huo2zglff",
+    "url": "https://s.shopee.com.br/8AXFnndR3v",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2790,
+    "publishedAt": "2026-10-13T11:35:14.167Z",
+    "checkedAt": "2026-10-30T13:35:17.797Z"
   }
 ]
