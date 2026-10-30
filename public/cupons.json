@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "FAVSFAXINA"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 50",
+    "minimo": null,
+    "escopo": "Produtos de Limpeza",
+    "origem": "avidaefeitadedesconto/16890",
+    "quando": "2026-10-30T15:37:34+00:00",
+    "id": "ml:FAVSFAXINA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "PET20SHOP"
+    ],
+    "desconto": "R$ 20 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/16889",
+    "quando": "2026-10-30T15:37:26+00:00",
+    "id": "ml:PET20SHOP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "CASA3010"
     ],
     "desconto": "R$ 100 OFF",
@@ -124,20 +152,6 @@
     "origem": "avidaefeitadedesconto/16872",
     "quando": "2026-10-30T03:08:36+00:00",
     "id": "ml:ESTOQUE2910",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJAS2910"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 79",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/16864",
-    "quando": "2026-10-29T15:18:52+00:00",
-    "id": "ml:LOJAS2910",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
