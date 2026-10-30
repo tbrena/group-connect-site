@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 3712,
     "publishedAt": "2026-10-21T03:05:13.956Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1275005853-21699336388",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 422,
     "publishedAt": "2026-10-14T16:35:15.408Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1566421672-22394353094",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": 100,
     "publishedAt": "2026-10-30T00:05:15.329Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1785592956-58264199622",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 3831,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 1895,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -693,7 +693,7 @@
     "lowest30d": true,
     "vendas": 1480,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP391739739-22194555567",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 2600,
     "publishedAt": "2026-10-21T18:05:16.726Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1275005853-58262654503",
@@ -1005,7 +1005,7 @@
     "lowest30d": false,
     "vendas": 1339,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -1029,7 +1029,7 @@
     "lowest30d": false,
     "vendas": 3642,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP995022276-20499443237",
@@ -1189,7 +1189,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mmrv51iope6fb3",
-    "url": "https://s.shopee.com.br/3VlOuoZVJj",
+    "url": "https://s.shopee.com.br/20wdHuOnpa",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1197,7 +1197,7 @@
     "lowest30d": true,
     "vendas": 645,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -1293,7 +1293,7 @@
     "lowest30d": true,
     "vendas": 558,
     "publishedAt": "2026-10-23T04:05:19.715Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1345043704-23694913872",
@@ -1438,6 +1438,30 @@
     "vendas": 102,
     "publishedAt": "2026-10-13T08:35:16.484Z",
     "checkedAt": "2026-10-30T11:05:13.469Z"
+  },
+  {
+    "id": "SP1738169938-46311869185",
+    "productId": "SP1738169938-46311869185",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calça Cargo Wide Leg Feminina Jeans Cintura Alta Sem Elastano Premium",
+    "price": 64.97,
+    "originalPrice": 191.09,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mqtf43bnobnl51",
+    "url": "https://s.shopee.com.br/80DqUyVvzV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1564,
+    "publishedAt": "2026-10-30T12:35:12.892Z",
+    "checkedAt": "2026-10-30T12:35:12.892Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -2013,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 212,
     "publishedAt": "2026-10-29T14:35:17.920Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP473616631-40528825167",
@@ -2133,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 1085,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP857741670-22694714481",
@@ -2277,7 +2301,7 @@
     "lowest30d": true,
     "vendas": 1224,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP806378220-19097985961",
@@ -2661,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 432,
     "publishedAt": "2026-10-29T14:35:17.920Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP303419140-40682289936",
@@ -2748,7 +2772,7 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-muxdtcby50jn9f",
     "url": "https://s.shopee.com.br/9pfSSTBCBv",
     "freeShipping": false,
     "oficial": false,
@@ -2757,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 1695,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -3024,30 +3048,6 @@
     "checkedAt": "2026-10-30T12:35:12.892Z"
   },
   {
-    "id": "SP1541348350-58264273644",
-    "productId": "SP1541348350-58264273644",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
-    "price": 160.55,
-    "originalPrice": 445.97,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
-    "url": "https://s.shopee.com.br/1BWkO4QSx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1726,
-    "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
-  },
-  {
     "id": "SP421422443-23498040823",
     "productId": "SP421422443-23498040823",
     "marketplace": "shopee",
@@ -3069,7 +3069,7 @@
     "lowest30d": true,
     "vendas": 809,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-30T09:35:17.101Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -3189,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 1197,
     "publishedAt": "2026-10-29T03:05:13.689Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1339888238-23394402377",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 1399,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 1615,
     "publishedAt": "2026-10-21T12:05:13.064Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -3669,7 +3669,7 @@
     "lowest30d": false,
     "vendas": 133,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -4053,7 +4053,7 @@
     "lowest30d": true,
     "vendas": 163,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -4437,7 +4437,7 @@
     "lowest30d": true,
     "vendas": 390,
     "publishedAt": "2026-10-19T16:35:15.107Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1520921103-58217676479",
@@ -4461,7 +4461,7 @@
     "lowest30d": true,
     "vendas": 2494,
     "publishedAt": "2026-10-14T04:05:14.334Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -4669,7 +4669,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
-    "url": "https://s.shopee.com.br/2gCHvHTsQ8",
+    "url": "https://s.shopee.com.br/AAIL0ukugC",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4677,7 +4677,7 @@
     "lowest30d": true,
     "vendas": 709,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1337284628-22398929943",
@@ -4693,7 +4693,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
-    "url": "https://s.shopee.com.br/4LKVuLNX2c",
+    "url": "https://s.shopee.com.br/6VP2eAys7e",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4701,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 265,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP341167297-20350419516",
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 3260,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP337714883-23899122798",
@@ -4749,7 +4749,7 @@
     "lowest30d": true,
     "vendas": 1863,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4765,7 +4765,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
-    "url": "https://s.shopee.com.br/1W0M9xUHOX",
+    "url": "https://s.shopee.com.br/80DqUyWD1E",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -4773,7 +4773,7 @@
     "lowest30d": true,
     "vendas": 5978,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -4989,7 +4989,7 @@
     "lowest30d": false,
     "vendas": 5290,
     "publishedAt": "2026-10-23T05:35:17.393Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -5085,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 947,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1793507407-45712892195",
@@ -5110,6 +5110,30 @@
     "vendas": 638,
     "publishedAt": "2026-10-16T11:35:14.250Z",
     "checkedAt": "2026-10-30T09:35:17.101Z"
+  },
+  {
+    "id": "SP1541348350-58264273644",
+    "productId": "SP1541348350-58264273644",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
+    "price": 160.55,
+    "originalPrice": 401.38,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
+    "url": "https://s.shopee.com.br/1BWkO4QSx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1726,
+    "publishedAt": "2026-10-15T02:35:12.646Z",
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1905647169-58265421821",
@@ -5541,7 +5565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-22T19:05:57.093Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5589,7 +5613,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5637,7 +5661,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5757,7 +5781,7 @@
     "lowest30d": true,
     "vendas": 3500,
     "publishedAt": "2026-10-29T15:05:13.431Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -5853,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 3117,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP874603044-21199848485",
@@ -5949,7 +5973,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6093,7 +6117,7 @@
     "lowest30d": false,
     "vendas": 3176,
     "publishedAt": "2026-10-23T12:35:13.180Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6213,7 +6237,7 @@
     "lowest30d": false,
     "vendas": 163,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -6382,54 +6406,6 @@
     "vendas": 868,
     "publishedAt": "2026-10-04T13:05:14.518Z",
     "checkedAt": "2026-10-30T09:35:17.101Z"
-  },
-  {
-    "id": "SP1541348350-19098205730",
-    "productId": "SP1541348350-19098205730",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
-    "price": 160.55,
-    "originalPrice": 356.78,
-    "discount": 55,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc1qxfiwwjvrbd",
-    "url": "https://s.shopee.com.br/8VA4s0Y4DL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2619,
-    "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
-  },
-  {
-    "id": "SP1619817893-58206271120",
-    "productId": "SP1619817893-58206271120",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ml-LC",
-    "price": 99.98,
-    "originalPrice": 217.35,
-    "discount": 54,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m8-mqyk4o25xtdx84",
-    "url": "https://s.shopee.com.br/9KjBvduqUi",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 233,
-    "publishedAt": "2026-10-27T12:05:18.640Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -6717,7 +6693,7 @@
     "lowest30d": false,
     "vendas": 1602,
     "publishedAt": "2026-10-25T02:35:16.832Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1384111782-23898040463",
@@ -6789,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5293442116",
@@ -6813,7 +6789,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB6194501592",
@@ -6837,7 +6813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB7847665416",
@@ -6861,7 +6837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7069,7 +7045,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820me-mukvjuuebqbmf5",
-    "url": "https://s.shopee.com.br/5VWTIUADld",
+    "url": "https://s.shopee.com.br/gRFhSCHIy",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7077,7 +7053,7 @@
     "lowest30d": true,
     "vendas": 1809,
     "publishedAt": "2026-10-21T17:05:12.379Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1404215442-40573257922",
@@ -7101,7 +7077,7 @@
     "lowest30d": false,
     "vendas": 1119,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -7149,7 +7125,7 @@
     "lowest30d": false,
     "vendas": 675,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1468001620-45868320453",
@@ -7189,7 +7165,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
-    "url": "https://s.shopee.com.br/5AteC7unJM",
+    "url": "https://s.shopee.com.br/9KjE5QMWic",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7197,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 7582,
     "publishedAt": "2026-10-13T03:05:13.504Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB1942049788",
@@ -7221,7 +7197,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7317,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7379,7 +7355,7 @@
     "discount": 47,
     "base": "media",
     "averagePrice": 103.88,
-    "sellers": 41,
+    "sellers": 42,
     "image": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5472494813?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7389,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -7414,6 +7390,30 @@
     "vendas": 3171,
     "publishedAt": "2026-10-24T14:35:14.198Z",
     "checkedAt": "2026-10-30T11:05:13.469Z"
+  },
+  {
+    "id": "SP1541348350-19098205730",
+    "productId": "SP1541348350-19098205730",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
+    "price": 189,
+    "originalPrice": 356.6,
+    "discount": 47,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc1qxfiwwjvrbd",
+    "url": "https://s.shopee.com.br/8VA4s0Y4DL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2619,
+    "publishedAt": "2026-10-15T02:05:13.523Z",
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7533,7 +7533,7 @@
     "lowest30d": true,
     "vendas": 2546,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7653,7 +7653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB4190456415",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1609153445-22998824196",
@@ -7920,6 +7920,30 @@
     "checkedAt": "2026-10-30T11:05:13.469Z"
   },
   {
+    "id": "MLB5250929785",
+    "productId": "MLB77333173",
+    "marketplace": "ml",
+    "fonte": "q:controle ps5",
+    "categoria": "Games",
+    "title": "Controle Ps5 Dualsense Edição Limitada Wolverine Battle Amarelo",
+    "price": 599,
+    "originalPrice": 889.95,
+    "discount": 33,
+    "base": "media",
+    "averagePrice": 889.95,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893594-MLA116195829919_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5250929785?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "KM20260806165159823",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-29T12:05:22.787Z",
+    "checkedAt": "2026-10-30T13:05:13.886Z"
+  },
+  {
     "id": "SP915838501-19197998202",
     "productId": "SP915838501-19197998202",
     "marketplace": "shopee",
@@ -7944,30 +7968,6 @@
     "checkedAt": "2026-10-30T12:35:12.892Z"
   },
   {
-    "id": "MLB5250929785",
-    "productId": "MLB77333173",
-    "marketplace": "ml",
-    "fonte": "q:controle ps5",
-    "categoria": "Games",
-    "title": "Controle Ps5 Dualsense Edição Limitada Wolverine Battle Amarelo",
-    "price": 599,
-    "originalPrice": 882,
-    "discount": 32,
-    "base": "media",
-    "averagePrice": 882,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_893594-MLA116195829919_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5250929785?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "KM20260806165159823",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
-  },
-  {
     "id": "MLB7690418228",
     "productId": "MLB76874384",
     "marketplace": "ml",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB7690418174",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5279469915",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5314233588",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5739859240",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB7578108490",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8229,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
+  },
+  {
+    "id": "MLB5451291113",
+    "productId": "MLB66980166",
+    "marketplace": "ml",
+    "fonte": "MLB133950",
+    "categoria": "Eletrônicos",
+    "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
+    "price": 198.75,
+    "originalPrice": 254,
+    "discount": 22,
+    "base": "media",
+    "averagePrice": 254,
+    "sellers": 39,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5451291113?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ELETRO .COM",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-26T03:35:15.834Z",
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB7071544106",
@@ -8253,31 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
-  },
-  {
-    "id": "MLB5451291113",
-    "productId": "MLB66980166",
-    "marketplace": "ml",
-    "fonte": "MLB133950",
-    "categoria": "Eletrônicos",
-    "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
-    "price": 198.75,
-    "originalPrice": 249.99,
-    "discount": 20,
-    "base": "media",
-    "averagePrice": 249.99,
-    "sellers": 38,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5451291113?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ELETRO .COM",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB6174995494",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB4521286991",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5812393646",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5364910333",
@@ -8359,10 +8359,10 @@
     "categoria": "Eletrônicos",
     "title": "Fire Tv Stick Hd Amazon 8gb Wi-fi 6 Com Controle Alexa Voice Preto De Voz",
     "price": 219,
-    "originalPrice": 260.87,
+    "originalPrice": 260,
     "discount": 16,
     "base": "media",
-    "averagePrice": 260.87,
+    "averagePrice": 260,
     "sellers": 28,
     "image": "https://http2.mlstatic.com/D_NQ_NP_687350-MLA113716605439_062026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5364910333?matt_word=promoninja&matt_tool=19839069",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB7690840340",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T12:05:15.710Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8541,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 3472,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -8853,7 +8853,7 @@
     "lowest30d": false,
     "vendas": 737,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 1224,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9093,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 1167,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -9501,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 1501,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9613,7 +9613,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
-    "url": "https://s.shopee.com.br/906MWx1pUH",
+    "url": "https://s.shopee.com.br/80DqXDoeLN",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9621,7 +9621,7 @@
     "lowest30d": true,
     "vendas": 717,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 608,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -10173,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 507,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -10245,7 +10245,7 @@
     "lowest30d": false,
     "vendas": 735,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10341,7 +10341,7 @@
     "lowest30d": false,
     "vendas": 147,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -10368,30 +10368,6 @@
     "checkedAt": "2026-10-30T09:35:17.101Z"
   },
   {
-    "id": "SP1738169938-46311869185",
-    "productId": "SP1738169938-46311869185",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calça Cargo Wide Leg Feminina Jeans Cintura Alta Sem Elastano Premium",
-    "price": 64.97,
-    "originalPrice": 191.09,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mqtf43bnobnl51",
-    "url": "https://s.shopee.com.br/80DqUyVvzV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1564,
-    "publishedAt": "2026-10-30T12:35:12.892Z",
-    "checkedAt": "2026-10-30T12:35:12.892Z"
-  },
-  {
     "id": "SP1339065761-58256853481",
     "productId": "SP1339065761-58256853481",
     "marketplace": "shopee",
@@ -10413,7 +10389,7 @@
     "lowest30d": false,
     "vendas": 511,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1654609614-23899120952",
@@ -10429,7 +10405,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtg380orklc344",
-    "url": "https://s.shopee.com.br/8fTV4KB1yZ",
+    "url": "https://s.shopee.com.br/8KqgoC7GJp",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10437,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 2843,
     "publishedAt": "2026-10-10T13:35:14.395Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -10701,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 546,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -10941,7 +10917,7 @@
     "lowest30d": false,
     "vendas": 284,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -10965,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 236,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP508140700-58254276340",
@@ -11661,7 +11637,7 @@
     "lowest30d": true,
     "vendas": 1257,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-30T09:05:15.060Z"
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -11998,5 +11974,29 @@
     "vendas": 3829,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-30T10:05:15.380Z"
+  },
+  {
+    "id": "SP443076516-44959639811",
+    "productId": "SP443076516-44959639811",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
+    "price": 39.9,
+    "originalPrice": 99.75,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mnlhyfwwl05g38",
+    "url": "https://s.shopee.com.br/2LZTkYrmW1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3412,
+    "publishedAt": "2026-10-30T13:05:13.886Z",
+    "checkedAt": "2026-10-30T13:05:13.886Z"
   }
 ]
