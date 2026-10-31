@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -501,7 +501,7 @@
     "lowest30d": false,
     "vendas": 6824,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1187975388-18297808572",
@@ -525,7 +525,7 @@
     "lowest30d": false,
     "vendas": 942,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP415175805-20103606180",
@@ -813,7 +813,7 @@
     "lowest30d": true,
     "vendas": 567,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP391739739-18397808004",
@@ -837,7 +837,7 @@
     "lowest30d": true,
     "vendas": 904,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP283185672-23998573447",
@@ -912,30 +912,6 @@
     "checkedAt": "2026-10-31T00:35:17.417Z"
   },
   {
-    "id": "SP1397772996-58211339678",
-    "productId": "SP1397772996-58211339678",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Kit Whey Ultra Protein Concentrado Pote 900g + Creatina Monohidratada Pura 300g - FTW",
-    "price": 95.9,
-    "originalPrice": 299.69,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-moo9erticjk312",
-    "url": "https://s.shopee.com.br/AAIJx9qi8H",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 260,
-    "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
-  },
-  {
     "id": "SP1543737245-22794158252",
     "productId": "SP1543737245-22794158252",
     "marketplace": "shopee",
@@ -1005,7 +981,7 @@
     "lowest30d": true,
     "vendas": 2627,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP771750144-20797868953",
@@ -1078,6 +1054,30 @@
     "vendas": 319,
     "publishedAt": "2026-10-30T14:05:12.702Z",
     "checkedAt": "2026-10-31T02:35:15.323Z"
+  },
+  {
+    "id": "SP1585429562-58201056244",
+    "productId": "SP1585429562-58201056244",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
+    "price": 49.39,
+    "originalPrice": 149.67,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
+    "url": "https://s.shopee.com.br/3LRyiVj8ya",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4137,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -1269,7 +1269,7 @@
     "lowest30d": true,
     "vendas": 1532,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1545195730-58253714822",
@@ -1509,7 +1509,7 @@
     "lowest30d": false,
     "vendas": 144,
     "publishedAt": "2026-10-13T08:35:16.484Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1738169938-46311869185",
@@ -1941,7 +1941,7 @@
     "lowest30d": true,
     "vendas": 845,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -2013,7 +2013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T23:05:12.564Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2038,30 +2038,6 @@
     "vendas": 1237,
     "publishedAt": "2026-10-30T11:05:13.469Z",
     "checkedAt": "2026-10-31T03:05:14.066Z"
-  },
-  {
-    "id": "SP1585429562-58201056244",
-    "productId": "SP1585429562-58201056244",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w 3 Velocidades C Controle Remoto",
-    "price": 51.99,
-    "originalPrice": 148.54,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhiq7536v9j78b",
-    "url": "https://s.shopee.com.br/3LRyiVj8ya",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4137,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
   },
   {
     "id": "SP1420392453-58250419969",
@@ -2118,8 +2094,8 @@
     "fonte": "shopee:q:mouse",
     "categoria": "Informática",
     "title": "Mouse Pad Gamer Apex Hibrid Profissional 49x42 Preto Branco Vermelho Girl Espada Ergonômico Titorion",
-    "price": 69.78,
-    "originalPrice": 199.37,
+    "price": 69.9,
+    "originalPrice": 199.71,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2133,7 +2109,7 @@
     "lowest30d": false,
     "vendas": 238,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1580145778-22499659115",
@@ -2157,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 453,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP519073932-18297614947",
@@ -2277,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 459,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP335298185-23094846011",
@@ -2421,7 +2397,7 @@
     "lowest30d": false,
     "vendas": 653,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2445,7 +2421,7 @@
     "lowest30d": true,
     "vendas": 1072,
     "publishedAt": "2026-10-22T13:05:24.625Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP451371260-22897389357",
@@ -2469,7 +2445,7 @@
     "lowest30d": true,
     "vendas": 1948,
     "publishedAt": "2026-10-22T12:35:19.276Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1615578976-22794424936",
@@ -2493,7 +2469,31 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "SP1397772996-58211339678",
+    "productId": "SP1397772996-58211339678",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Kit Whey Ultra Protein Concentrado Pote 900g + Creatina Monohidratada Pura 300g - FTW",
+    "price": 104.9,
+    "originalPrice": 299.71,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-moo9erticjk312",
+    "url": "https://s.shopee.com.br/AAIJx9qi8H",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 260,
+    "publishedAt": "2026-10-19T19:05:13.688Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1157995564-23398026212",
@@ -2541,7 +2541,7 @@
     "lowest30d": false,
     "vendas": 153,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2952,6 +2952,30 @@
     "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
+    "id": "SP1541348350-58264273644",
+    "productId": "SP1541348350-58264273644",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
+    "price": 160.55,
+    "originalPrice": 445.97,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
+    "url": "https://s.shopee.com.br/1BWkO4QSx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1743,
+    "publishedAt": "2026-10-15T02:35:12.646Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
     "id": "SP421422443-23498040823",
     "productId": "SP421422443-23498040823",
     "marketplace": "shopee",
@@ -3021,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 789,
     "publishedAt": "2026-10-30T18:05:16.584Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -3045,7 +3069,7 @@
     "lowest30d": false,
     "vendas": 1124,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP322434863-9414033305",
@@ -3069,7 +3093,7 @@
     "lowest30d": false,
     "vendas": 383,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-10-31T00:07:30.427Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1345043704-22497773735",
@@ -3549,7 +3573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -4077,7 +4101,7 @@
     "lowest30d": false,
     "vendas": 833,
     "publishedAt": "2026-10-28T18:05:17.013Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -4389,31 +4413,7 @@
     "lowest30d": true,
     "vendas": 395,
     "publishedAt": "2026-10-19T16:35:15.107Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
-  },
-  {
-    "id": "SP1520921103-58217676479",
-    "productId": "SP1520921103-58217676479",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Squishy Bolinho Baozi Caixa Misteriosa 3 Recheios Brinquedo Sensorial Antiestresse Fidget Cores Aleatórias",
-    "price": 21.98,
-    "originalPrice": 56.36,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-muk4olqgb7r465",
-    "url": "https://s.shopee.com.br/W7qKepp8s",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2293,
-    "publishedAt": "2026-10-14T04:05:14.334Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP378093609-23597579698",
@@ -4461,7 +4461,7 @@
     "lowest30d": true,
     "vendas": 3392,
     "publishedAt": "2026-10-30T13:05:13.886Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -4680,54 +4680,6 @@
     "checkedAt": "2026-10-31T00:35:17.417Z"
   },
   {
-    "id": "SP1495837089-23794414130",
-    "productId": "SP1495837089-23794414130",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 31.99,
-    "originalPrice": 79.97,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
-    "url": "https://s.shopee.com.br/AAIL0ukugC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 703,
-    "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
-  },
-  {
-    "id": "SP1337284628-22398929943",
-    "productId": "SP1337284628-22398929943",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:webcam",
-    "categoria": "Informática",
-    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
-    "price": 31.99,
-    "originalPrice": 79.97,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
-    "url": "https://s.shopee.com.br/6VP2eAys7e",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 267,
-    "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
-  },
-  {
     "id": "SP341167297-20350419516",
     "productId": "SP341167297-20350419516",
     "marketplace": "shopee",
@@ -4749,7 +4701,7 @@
     "lowest30d": false,
     "vendas": 3287,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP337714883-23899122798",
@@ -4773,7 +4725,7 @@
     "lowest30d": true,
     "vendas": 1832,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4797,7 +4749,7 @@
     "lowest30d": true,
     "vendas": 6074,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -4992,30 +4944,6 @@
     "checkedAt": "2026-10-31T01:05:14.274Z"
   },
   {
-    "id": "SP1467811745-58208944738",
-    "productId": "SP1467811745-58208944738",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
-    "price": 31.96,
-    "originalPrice": 79.9,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
-    "url": "https://s.shopee.com.br/1qdAvbEgWM",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5407,
-    "publishedAt": "2026-10-23T05:35:17.393Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
-  },
-  {
     "id": "SP1125040258-42524620494",
     "productId": "SP1125040258-42524620494",
     "marketplace": "shopee",
@@ -5109,7 +5037,7 @@
     "lowest30d": false,
     "vendas": 952,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP684149869-20299774133",
@@ -5160,28 +5088,28 @@
     "checkedAt": "2026-10-31T00:07:30.427Z"
   },
   {
-    "id": "SP1541348350-58264273644",
-    "productId": "SP1541348350-58264273644",
+    "id": "SP1630928956-18598350302",
+    "productId": "SP1630928956-18598350302",
     "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador 2 em 1 18000Pa Forte Sucção Silencioso Fácil Guardar CW-18M02A",
-    "price": 160.55,
-    "originalPrice": 401.38,
-    "discount": 60,
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Alaxe5 Generation Original Speaker Immediate Shipping Best Price",
+    "price": 44.64,
+    "originalPrice": 108.88,
+    "discount": 59,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mr5cbswjnz0n87",
-    "url": "https://s.shopee.com.br/1BWkO4QSx",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh4dohuahhc099",
+    "url": "https://s.shopee.com.br/8fTV4JBR2l",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
-    "vendas": 1743,
-    "publishedAt": "2026-10-15T02:35:12.646Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "lowest30d": true,
+    "vendas": 5039,
+    "publishedAt": "2026-10-31T03:05:14.066Z",
+    "checkedAt": "2026-10-31T03:05:14.066Z"
   },
   {
     "id": "SP301592546-22997149912",
@@ -5280,6 +5208,54 @@
     "checkedAt": "2026-10-31T01:05:14.274Z"
   },
   {
+    "id": "SP1495837089-23794414130",
+    "productId": "SP1495837089-23794414130",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-meu568hupmgyc3",
+    "url": "https://s.shopee.com.br/AAIL0ukugC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 703,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "SP1337284628-22398929943",
+    "productId": "SP1337284628-22398929943",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:webcam",
+    "categoria": "Informática",
+    "title": "Webcam  Câmera Full Hd 1080p Microfone Pc Notebook Home Office",
+    "price": 32.99,
+    "originalPrice": 80.46,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-meu7r59s99flba",
+    "url": "https://s.shopee.com.br/6VP2eAys7e",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 267,
+    "publishedAt": "2026-10-23T23:05:14.500Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
     "id": "SP1447668497-22398374434",
     "productId": "SP1447668497-22398374434",
     "marketplace": "shopee",
@@ -5326,6 +5302,30 @@
     "vendas": 1546,
     "publishedAt": "2026-10-23T17:51:43.252Z",
     "checkedAt": "2026-10-31T02:35:15.323Z"
+  },
+  {
+    "id": "SP1467811745-58208944738",
+    "productId": "SP1467811745-58208944738",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Sapatilha Nautica Sola Anti Derrapante Meia Neoprene Tenis Hibrido Meia Praia Canoagem Pesca Rio Jet",
+    "price": 32.75,
+    "originalPrice": 79.88,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtz77x28chkzfc",
+    "url": "https://s.shopee.com.br/1qdAvbEgWM",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5407,
+    "publishedAt": "2026-10-23T05:35:17.393Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5565,7 +5565,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5733,7 +5733,7 @@
     "lowest30d": true,
     "vendas": 3407,
     "publishedAt": "2026-10-29T15:05:13.431Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -5829,7 +5829,7 @@
     "lowest30d": false,
     "vendas": 3159,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP874603044-21199848485",
@@ -5949,7 +5949,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 3295,
     "publishedAt": "2026-10-23T12:35:13.180Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6213,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 163,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1827560134-22695038756",
@@ -6334,6 +6334,30 @@
     "vendas": 884,
     "publishedAt": "2026-10-04T13:05:14.518Z",
     "checkedAt": "2026-10-31T00:07:30.427Z"
+  },
+  {
+    "id": "SP1541348350-19098205730",
+    "productId": "SP1541348350-19098205730",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
+    "price": 160.55,
+    "originalPrice": 356.78,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc1qxfiwwjvrbd",
+    "url": "https://s.shopee.com.br/8VA4s0Y4DL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2589,
+    "publishedAt": "2026-10-15T02:05:13.523Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -6597,31 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
-  },
-  {
-    "id": "SP371651689-23994017710",
-    "productId": "SP371651689-23994017710",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
-    "price": 42.9,
-    "originalPrice": 89.38,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
-    "url": "https://s.shopee.com.br/W7nLJtJuh",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1554,
-    "publishedAt": "2026-10-25T02:35:16.832Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1384111782-23898040463",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB7847665416",
@@ -6741,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6981,7 +6981,7 @@
     "lowest30d": true,
     "vendas": 1731,
     "publishedAt": "2026-10-21T17:05:12.379Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1404215442-40573257922",
@@ -7005,7 +7005,7 @@
     "lowest30d": false,
     "vendas": 1131,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1638165366-23599241533",
@@ -7053,7 +7053,31 @@
     "lowest30d": false,
     "vendas": 696,
     "publishedAt": "2026-10-15T13:05:13.512Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "SP1520921103-58217676479",
+    "productId": "SP1520921103-58217676479",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Squishy Bolinho Baozi Caixa Misteriosa 3 Recheios Brinquedo Sensorial Antiestresse Fidget Cores Aleatórias",
+    "price": 21.98,
+    "originalPrice": 43.96,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-muk4olqgb7r465",
+    "url": "https://s.shopee.com.br/W7qKepp8s",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2293,
+    "publishedAt": "2026-10-14T04:05:14.334Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7101,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7173,7 +7197,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7272,30 +7296,6 @@
     "checkedAt": "2026-10-31T00:07:30.427Z"
   },
   {
-    "id": "SP1541348350-19098205730",
-    "productId": "SP1541348350-19098205730",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
-    "price": 189,
-    "originalPrice": 356.6,
-    "discount": 47,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc1qxfiwwjvrbd",
-    "url": "https://s.shopee.com.br/8VA4s0Y4DL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2589,
-    "publishedAt": "2026-10-15T02:05:13.523Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
-  },
-  {
     "id": "SP1805200864-58267718302",
     "productId": "SP1805200864-58267718302",
     "marketplace": "shopee",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": 611,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB6251497824",
@@ -7423,11 +7423,11 @@
     "categoria": "Brinquedos",
     "title": "Jogo de Tabuleiro - Perfil 8 - Grow - 4992",
     "price": 84.69,
-    "originalPrice": 149.95,
+    "originalPrice": 149.99,
     "discount": 44,
     "base": "media",
-    "averagePrice": 149.95,
-    "sellers": 43,
+    "averagePrice": 149.99,
+    "sellers": 44,
     "image": "https://http2.mlstatic.com/D_NQ_NP_879550-MLA105423714224_012026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-6251497824?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7437,7 +7437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-30T21:35:14.655Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7461,7 +7461,7 @@
     "lowest30d": true,
     "vendas": 2518,
     "publishedAt": "2026-10-17T21:05:14.011Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5109948772",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7584,30 +7584,6 @@
     "checkedAt": "2026-10-31T00:07:30.427Z"
   },
   {
-    "id": "MLB1942049788",
-    "productId": "MLB15578941",
-    "marketplace": "ml",
-    "fonte": "MLB438284",
-    "categoria": "Eletrodomésticos",
-    "title": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
-    "price": 116.48,
-    "originalPrice": 204.95,
-    "discount": 43,
-    "base": "media",
-    "averagePrice": 204.95,
-    "sellers": 43,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_766837-MLA98259429221_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-1942049788?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
-  },
-  {
     "id": "MLB4190456415",
     "productId": "MLB50661985",
     "marketplace": "ml",
@@ -7629,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB2196138476",
@@ -7653,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7701,7 +7677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7774,6 +7750,30 @@
     "vendas": 4024,
     "publishedAt": "2026-10-29T20:35:16.988Z",
     "checkedAt": "2026-10-31T01:35:14.822Z"
+  },
+  {
+    "id": "MLB6194501592",
+    "productId": "MLB62230579",
+    "marketplace": "ml",
+    "fonte": "MLB438284",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+    "price": 441.05,
+    "originalPrice": 718.75,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 718.75,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-25T15:35:15.214Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7893,31 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
-  },
-  {
-    "id": "MLB6194501592",
-    "productId": "MLB62230579",
-    "marketplace": "ml",
-    "fonte": "MLB438284",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-    "price": 425.91,
-    "originalPrice": 639.5,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 639.5,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7989,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB2777493229",
@@ -8013,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB7690418174",
@@ -8037,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5279469915",
@@ -8061,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5314233588",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5739859240",
@@ -8181,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB6949268730",
@@ -8205,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB7071544106",
@@ -8253,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5451291113",
@@ -8277,31 +8253,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
-    "id": "MLB7578108490",
-    "productId": "MLB25206092",
+    "id": "MLB1942049788",
+    "productId": "MLB15578941",
     "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Pilha Alcalina Aa Comum Elgin 10 Cartelas De Blisters 2 Unidades",
-    "price": 42.59,
-    "originalPrice": 52.65,
+    "fonte": "MLB438284",
+    "categoria": "Eletrodomésticos",
+    "title": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
+    "price": 166.24,
+    "originalPrice": 204.95,
     "discount": 19,
     "base": "media",
-    "averagePrice": 52.65,
-    "sellers": 7,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_747965-MLA81891915856_012025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7578108490?matt_word=promoninja&matt_tool=19839069",
+    "averagePrice": 204.95,
+    "sellers": 43,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_766837-MLA98259429221_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-1942049788?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
     "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "publishedAt": "2026-10-23T12:51:45.233Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB6174995494",
@@ -8325,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5812393646",
@@ -8349,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB4521286991",
@@ -8373,7 +8349,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "MLB7578108490",
+    "productId": "MLB25206092",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Pilha Alcalina Aa Comum Elgin 10 Cartelas De Blisters 2 Unidades",
+    "price": 42.59,
+    "originalPrice": 51.39,
+    "discount": 17,
+    "base": "media",
+    "averagePrice": 51.39,
+    "sellers": 6,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_747965-MLA81891915856_012025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7578108490?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-30T08:58:47.625Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8541,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 3538,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1372012421-23394401333",
@@ -8853,7 +8853,7 @@
     "lowest30d": false,
     "vendas": 737,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 1194,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1378634979-26784395340",
@@ -9093,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 1150,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1339888238-19999903108",
@@ -9501,7 +9501,7 @@
     "lowest30d": true,
     "vendas": 1498,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1458737764-53660327247",
@@ -9574,30 +9574,6 @@
     "vendas": 336,
     "publishedAt": "2026-10-08T23:57:11.511Z",
     "checkedAt": "2026-10-31T03:05:14.066Z"
-  },
-  {
-    "id": "SP1136572611-50362394762",
-    "productId": "SP1136572611-50362394762",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brastoy Escavadeira de Controle Remoto, Caçamba Metálica 2.4Ghz, 11 Funções, Brinquedo RC",
-    "price": 157.69,
-    "originalPrice": 492.78,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
-    "url": "https://s.shopee.com.br/80DqXDoeLN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 716,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
   },
   {
     "id": "SP1542039589-23394329762",
@@ -9741,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 616,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -10101,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 514,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -10197,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 722,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10222,6 +10198,30 @@
     "vendas": 1883,
     "publishedAt": "2026-10-01T14:35:16.076Z",
     "checkedAt": "2026-10-31T00:07:30.427Z"
+  },
+  {
+    "id": "SP1136572611-50362394762",
+    "productId": "SP1136572611-50362394762",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brastoy Escavadeira de Controle Remoto, Caçamba Metálica 2.4Ghz, 11 Funções, Brinquedo RC",
+    "price": 169.53,
+    "originalPrice": 498.62,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
+    "url": "https://s.shopee.com.br/80DqXDoeLN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 716,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1552402777-53602161553",
@@ -10293,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 147,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -10461,7 +10461,7 @@
     "lowest30d": false,
     "vendas": 512,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1654609614-23899120952",
@@ -10470,8 +10470,8 @@
     "fonte": "shopee:q:tapete",
     "categoria": "Casa e Decoração",
     "title": "Tapete Infantil Bebê 180x200cm 8mm Dupla Face Impermeável Macio para Engatinhar Brincar e Aprender",
-    "price": 89.99,
-    "originalPrice": 257.11,
+    "price": 90.99,
+    "originalPrice": 259.97,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10485,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 2938,
     "publishedAt": "2026-10-10T13:35:14.395Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 667,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1502681481-20898320113",
@@ -10989,7 +10989,7 @@
     "lowest30d": false,
     "vendas": 274,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -11013,7 +11013,7 @@
     "lowest30d": false,
     "vendas": 238,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP508140700-58254276340",
@@ -11709,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 1304,
     "publishedAt": "2026-10-04T19:05:13.218Z",
-    "checkedAt": "2026-10-31T00:05:13.601Z"
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   },
   {
     "id": "SP1876740465-23295121971",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-10-31T02:05:12.485Z"
   },
   {
-    "id": "SP1630928956-18598350302",
-    "productId": "SP1630928956-18598350302",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Alaxe5 Generation Original Speaker Immediate Shipping Best Price",
-    "price": 44.64,
-    "originalPrice": 108.88,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh4dohuahhc099",
-    "url": "https://s.shopee.com.br/8fTV4JBR2l",
-    "freeShipping": false,
+    "id": "MLB3959694605",
+    "productId": "MLB29229840",
+    "marketplace": "ml",
+    "fonte": "MLB1292",
+    "categoria": "Esportes",
+    "title": "Freio Disco Hidraulico Traseiro Altus Bl-mt200/br-mt200 1700",
+    "price": 138.61,
+    "originalPrice": 182.45,
+    "discount": 24,
+    "base": "media",
+    "averagePrice": 182.45,
+    "sellers": 31,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962695-MLA99937455629_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3959694605?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5039,
-    "publishedAt": "2026-10-31T03:05:14.066Z",
-    "checkedAt": "2026-10-31T03:05:14.066Z"
+    "lojaOficial": true,
+    "loja": "RTM BIKE",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-31T03:35:14.050Z",
+    "checkedAt": "2026-10-31T03:35:14.050Z"
   }
 ]
