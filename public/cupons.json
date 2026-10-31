@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "AUTO3110"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 30",
+    "minimo": "R$ 249",
+    "escopo": "Auto e Ferramentas",
+    "origem": "avidaefeitadedesconto/16916",
+    "quando": "2026-10-31T20:43:33+00:00",
+    "id": "ml:AUTO3110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFICIAIS3110"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 20",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16915",
+    "quando": "2026-10-31T20:37:56+00:00",
+    "id": "ml:OFICIAIS3110",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIPROMO3111"
     ],
     "desconto": "20% OFF",
@@ -95,20 +123,6 @@
     "origem": "avidaefeitadedesconto/16906",
     "quando": "2026-10-31T04:10:49+00:00",
     "id": "ml:FULL3010",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELI150TODOSITE"
-    ],
-    "desconto": "R$ 150 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16905",
-    "quando": "2026-10-30T21:06:12+00:00",
-    "id": "ml:MELI150TODOSITE",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
