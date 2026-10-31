@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -93,7 +93,7 @@
     "lowest30d": false,
     "vendas": 1123,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -264,30 +264,6 @@
     "checkedAt": "2026-10-31T01:35:14.822Z"
   },
   {
-    "id": "SP1566421672-22394353094",
-    "productId": "SP1566421672-22394353094",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Bebê Reborn Boneca Silicone 48cm Bettie Menina Ohlo Azul",
-    "price": 209.76,
-    "originalPrice": 699.2,
-    "discount": 70,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdtxrbuelvax14",
-    "url": "https://s.shopee.com.br/AAIIxLta6K",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1480,
-    "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
-  },
-  {
     "id": "SP1654822470-22799185652",
     "productId": "SP1654822470-22799185652",
     "marketplace": "shopee",
@@ -453,7 +429,7 @@
     "lowest30d": true,
     "vendas": 22272,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -477,7 +453,7 @@
     "lowest30d": true,
     "vendas": 943,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -606,8 +582,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Luminária LED USB 3 cores Regulável Recarregável Com sensor de movimento 60cm -F9",
-    "price": 30.55,
-    "originalPrice": 98.55,
+    "price": 30.99,
+    "originalPrice": 99.97,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -618,10 +594,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 824,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -814,6 +790,30 @@
     "vendas": 567,
     "publishedAt": "2026-10-16T11:35:14.250Z",
     "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "SP1566421672-22394353094",
+    "productId": "SP1566421672-22394353094",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Bebê Reborn Boneca Silicone 48cm Bettie Menina Ohlo Azul",
+    "price": 218.8,
+    "originalPrice": 705.81,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdtxrbuelvax14",
+    "url": "https://s.shopee.com.br/AAIIxLta6K",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1480,
+    "publishedAt": "2026-10-14T11:35:11.953Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP391739739-18397808004",
@@ -1245,7 +1245,7 @@
     "lowest30d": true,
     "vendas": 1407,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1870601214-22399680511",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 2979,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -1525,7 +1525,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mqtf43bnobnl51",
-    "url": "https://s.shopee.com.br/6VP2kHYPBM",
+    "url": "https://s.shopee.com.br/2Vsv0myhTF",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1533,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 1618,
     "publishedAt": "2026-10-30T12:35:12.892Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -1869,7 +1869,7 @@
     "lowest30d": false,
     "vendas": 1404,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP612306550-23798735982",
@@ -2013,7 +2013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T23:05:12.564Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2184,30 +2184,6 @@
     "checkedAt": "2026-10-31T01:35:14.822Z"
   },
   {
-    "id": "SP1339065761-19199870733",
-    "productId": "SP1339065761-19199870733",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "INOVA Caixa De Som Bluetooth Tws Estéreo Alta Hifi Longa Duração IPX6 Speaker Portátil Som Potente Casa Caixa Som",
-    "price": 75.99,
-    "originalPrice": 217.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mntlub0nek1tc4",
-    "url": "https://s.shopee.com.br/4B15i2SZBD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1596,
-    "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
-  },
-  {
     "id": "SP1684686802-58209249661",
     "productId": "SP1684686802-58209249661",
     "marketplace": "shopee",
@@ -2325,7 +2301,7 @@
     "lowest30d": false,
     "vendas": 595,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP427678694-13622648490",
@@ -2374,6 +2350,54 @@
     "vendas": 653,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-10-31T03:35:14.050Z"
+  },
+  {
+    "id": "SP1735575008-58255873721",
+    "productId": "SP1735575008-58255873721",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey Protein 900g Muito Barato Bom e Saboroso - Massa Muscular Academia Fitness Treino Tênis Camiseta ENVIO RAPIDO",
+    "price": 47.69,
+    "originalPrice": 136.26,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
+    "url": "https://s.shopee.com.br/5LD3d7IZeq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 364,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
+    "id": "SP1735575008-58205886633",
+    "productId": "SP1735575008-58205886633",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
+    "price": 47.69,
+    "originalPrice": 136.26,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
+    "url": "https://s.shopee.com.br/3g4piIwRH4",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 396,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2541,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 1755,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP329944383-22899456944",
@@ -2637,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 559,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -2709,7 +2733,7 @@
     "lowest30d": true,
     "vendas": 168,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP335298185-23794863238",
@@ -2733,55 +2757,7 @@
     "lowest30d": true,
     "vendas": 1178,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
-  },
-  {
-    "id": "SP1735575008-58255873721",
-    "productId": "SP1735575008-58255873721",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey Protein 900g Muito Barato Bom e Saboroso - Massa Muscular Academia Fitness Treino Tênis Camiseta ENVIO RAPIDO",
-    "price": 49.9,
-    "originalPrice": 138.61,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mruyz495l7uv97",
-    "url": "https://s.shopee.com.br/5LD3d7IZeq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 364,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
-  },
-  {
-    "id": "SP1735575008-58205886633",
-    "productId": "SP1735575008-58205886633",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
-    "price": 49.9,
-    "originalPrice": 138.61,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
-    "url": "https://s.shopee.com.br/3g4piIwRH4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 396,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -2973,30 +2949,6 @@
     "lowest30d": true,
     "vendas": 844,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-31T02:35:15.323Z"
-  },
-  {
-    "id": "SP1438243592-22894353600",
-    "productId": "SP1438243592-22894353600",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calcinha Short Modeladora de Barriga Enchimento de Glúteos Levanta Bumbum Cor preta e bege",
-    "price": 35.9,
-    "originalPrice": 99.72,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmbqmnkhlvk6e5",
-    "url": "https://s.shopee.com.br/2gCI1ZMt9v",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5210,
-    "publishedAt": "2026-10-14T08:05:17.071Z",
     "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
@@ -3216,6 +3168,30 @@
     "checkedAt": "2026-10-31T04:05:12.455Z"
   },
   {
+    "id": "SP1339065761-19199870733",
+    "productId": "SP1339065761-19199870733",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "INOVA Caixa De Som Bluetooth Tws Estéreo Alta Hifi Longa Duração IPX6 Speaker Portátil Som Potente Casa Caixa Som",
+    "price": 79.99,
+    "originalPrice": 216.19,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mntlub0nek1tc4",
+    "url": "https://s.shopee.com.br/4B15i2SZBD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1596,
+    "publishedAt": "2026-09-27T13:35:14.120Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
     "id": "SP1259086167-40019216121",
     "productId": "SP1259086167-40019216121",
     "marketplace": "shopee",
@@ -3333,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 8935,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -3357,7 +3333,7 @@
     "lowest30d": true,
     "vendas": 2228,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -3381,7 +3357,7 @@
     "lowest30d": true,
     "vendas": 1290,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-31T01:05:14.274Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -3549,7 +3525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -4245,7 +4221,7 @@
     "lowest30d": true,
     "vendas": 783,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -4269,7 +4245,7 @@
     "lowest30d": false,
     "vendas": 4357,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP733181094-40552787490",
@@ -4293,7 +4269,7 @@
     "lowest30d": true,
     "vendas": 1616,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1104525762-23998143402",
@@ -4317,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 1210,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -4485,7 +4461,7 @@
     "lowest30d": true,
     "vendas": 5374,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1462595809-22098406235",
@@ -4701,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 2740,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP341167297-20350419516",
@@ -5352,6 +5328,30 @@
     "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 620.99,
+    "originalPrice": 1514.61,
+    "discount": 59,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/1BYuEEoem",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1345,
+    "publishedAt": "2026-10-15T03:05:15.135Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
     "id": "SP938876119-22298083710",
     "productId": "SP938876119-22298083710",
     "marketplace": "shopee",
@@ -5421,7 +5421,7 @@
     "lowest30d": false,
     "vendas": 257,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 589,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5469,7 +5469,7 @@
     "lowest30d": true,
     "vendas": 1357,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 698,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1738153850-22594867370",
@@ -5565,7 +5565,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5701,7 +5701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mrg4n9yvhgcm07",
-    "url": "https://s.shopee.com.br/1BNVjGLzbm",
+    "url": "https://s.shopee.com.br/40hinjjfpx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5709,7 +5709,7 @@
     "lowest30d": false,
     "vendas": 197,
     "publishedAt": "2026-10-29T19:12:30.972Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1408367819-23394279595",
@@ -5805,7 +5805,7 @@
     "lowest30d": true,
     "vendas": 456,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP904620355-41083528216",
@@ -5853,31 +5853,7 @@
     "lowest30d": false,
     "vendas": 2963,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
-  },
-  {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 650.99,
-    "originalPrice": 1513.93,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/1BYuEEoem",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1345,
-    "publishedAt": "2026-10-15T03:05:15.135Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -5949,7 +5925,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6093,7 +6069,7 @@
     "lowest30d": true,
     "vendas": 769,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP540093765-22697559457",
@@ -6309,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 523,
     "publishedAt": "2026-10-02T13:35:18.060Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1542039589-20699836502",
@@ -6504,6 +6480,30 @@
     "checkedAt": "2026-10-31T03:05:14.066Z"
   },
   {
+    "id": "SP296363855-22197373105",
+    "productId": "SP296363855-22197373105",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:jogo de cama",
+    "categoria": "Casa e Decoração",
+    "title": "Lencol Micropercal 400 Fios Jogo De Cama Casal, Queen, King 03 Peças Solteiro e Berço 2Pçs",
+    "price": 31.9,
+    "originalPrice": 67.87,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lc73bia33",
+    "url": "https://s.shopee.com.br/5VWTIV5PyS",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4412,
+    "publishedAt": "2026-10-31T04:05:12.455Z",
+    "checkedAt": "2026-10-31T04:05:12.455Z"
+  },
+  {
     "id": "SP776910666-58203158658",
     "productId": "SP776910666-58203158658",
     "marketplace": "shopee",
@@ -6549,7 +6549,7 @@
     "lowest30d": false,
     "vendas": 2736,
     "publishedAt": "2026-10-28T03:05:21.047Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1725104548-58211255048",
@@ -6573,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 2184,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1368887676-23694394818",
@@ -6645,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1384111782-23898040463",
@@ -6741,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB7847665416",
@@ -6765,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6789,7 +6789,7 @@
     "lowest30d": true,
     "vendas": 12934,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1867200811-58267394973",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7221,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7365,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7437,7 +7437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-30T21:35:14.655Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7485,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB2196138476",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7677,7 +7677,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7776,6 +7776,30 @@
     "checkedAt": "2026-10-31T02:05:12.485Z"
   },
   {
+    "id": "MLB2777493229",
+    "productId": "MLB16195364",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
+    "price": 44.62,
+    "originalPrice": 73.68,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 73.68,
+    "sellers": 47,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_902576-MLA99924632301_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-2777493229?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
     "id": "SP833407931-58208888653",
     "productId": "SP833407931-58208888653",
     "marketplace": "shopee",
@@ -7869,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7941,31 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
-  },
-  {
-    "id": "MLB2777493229",
-    "productId": "MLB16195364",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
-    "price": 49.9,
-    "originalPrice": 73.68,
-    "discount": 32,
-    "base": "media",
-    "averagePrice": 73.68,
-    "sellers": 47,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_902576-MLA99924632301_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-2777493229?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB7690418174",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5279469915",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB4153226076",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5314233588",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5739859240",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB6949268730",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB3959694605",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T03:35:14.050Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB3682277189",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB7071544106",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5451291113",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB1942049788",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB6174995494",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5812393646",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB7578108490",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 394,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8949,7 +8949,7 @@
     "lowest30d": true,
     "vendas": 1120,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 5479,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -9381,7 +9381,7 @@
     "lowest30d": true,
     "vendas": 198,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1779568981-22799569021",
@@ -9741,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 1575,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP290073877-23694409684",
@@ -9813,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 218,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -10117,7 +10117,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mjou7n8y8utg83",
-    "url": "https://s.shopee.com.br/9APnt7RUco",
+    "url": "https://s.shopee.com.br/AKbmLBQgZc",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10125,7 +10125,7 @@
     "lowest30d": true,
     "vendas": 4664,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP952371980-23397741792",
@@ -10141,7 +10141,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzgasnra2tdtb4",
-    "url": "https://s.shopee.com.br/30pAZqhKW6",
+    "url": "https://s.shopee.com.br/7fb1AHbav0",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10149,7 +10149,7 @@
     "lowest30d": false,
     "vendas": 5678,
     "publishedAt": "2026-10-08T12:35:13.204Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -10230,8 +10230,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 43.9,
-    "originalPrice": 129.12,
+    "price": 43.89,
+    "originalPrice": 129.09,
     "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
@@ -10245,7 +10245,7 @@
     "lowest30d": true,
     "vendas": 1063,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10533,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 3327,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10584,6 +10584,30 @@
     "checkedAt": "2026-10-31T01:05:14.274Z"
   },
   {
+    "id": "SP1118395504-47513118746",
+    "productId": "SP1118395504-47513118746",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
+    "price": 139.9,
+    "originalPrice": 399.71,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-muvhd4p7cr9e36",
+    "url": "https://s.shopee.com.br/9KjBzhKI5Z",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 395,
+    "publishedAt": "2026-10-05T22:05:16.407Z",
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
     "id": "SP790605924-19499073421",
     "productId": "SP790605924-19499073421",
     "marketplace": "shopee",
@@ -10629,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 1181,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -11037,7 +11061,31 @@
     "lowest30d": false,
     "vendas": 626,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
+    "id": "SP1438243592-22894353600",
+    "productId": "SP1438243592-22894353600",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calcinha Short Modeladora de Barriga Enchimento de Glúteos Levanta Bumbum Cor preta e bege",
+    "price": 35.9,
+    "originalPrice": 99.72,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmbqmnkhlvk6e5",
+    "url": "https://s.shopee.com.br/2gCI1ZMt9v",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5210,
+    "publishedAt": "2026-10-14T08:05:17.071Z",
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP866679071-23199528877",
@@ -11157,7 +11205,7 @@
     "lowest30d": true,
     "vendas": 869,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -11181,7 +11229,7 @@
     "lowest30d": true,
     "vendas": 656,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -11205,31 +11253,7 @@
     "lowest30d": false,
     "vendas": 211,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
-  },
-  {
-    "id": "SP1118395504-47513118746",
-    "productId": "SP1118395504-47513118746",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "MODUS Garrafa Térmica Galão Térmico 3.6L 2.4L Aço Inoxidável 304 Grande Capacidade Quente e Frio",
-    "price": 143.99,
-    "originalPrice": 399.97,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-muvhd4p7cr9e36",
-    "url": "https://s.shopee.com.br/9KjBzhKI5Z",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 395,
-    "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11301,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 216,
     "publishedAt": "2026-10-02T12:35:19.029Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11349,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 281,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -11413,7 +11437,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
-    "url": "https://s.shopee.com.br/6q1r16TX87",
+    "url": "https://s.shopee.com.br/1BNXQWujeh",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -11421,7 +11445,7 @@
     "lowest30d": false,
     "vendas": 382,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1580145778-22998838796",
@@ -11517,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 231,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -11565,7 +11589,7 @@
     "lowest30d": true,
     "vendas": 411,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-10-31T00:35:17.417Z"
+    "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -11974,29 +11998,5 @@
     "vendas": 2916,
     "publishedAt": "2026-09-30T15:32:03.838Z",
     "checkedAt": "2026-10-31T02:05:12.485Z"
-  },
-  {
-    "id": "SP296363855-22197373105",
-    "productId": "SP296363855-22197373105",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Lencol Micropercal 400 Fios Jogo De Cama Casal, Queen, King 03 Peças Solteiro e Berço 2Pçs",
-    "price": 31.9,
-    "originalPrice": 67.87,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lc73bia33",
-    "url": "https://s.shopee.com.br/5VWTIV5PyS",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4412,
-    "publishedAt": "2026-10-31T04:05:12.455Z",
-    "checkedAt": "2026-10-31T04:05:12.455Z"
   }
 ]
