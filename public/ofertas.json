@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -69,7 +69,7 @@
     "lowest30d": true,
     "vendas": 3742,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1573558445-44307948736",
@@ -645,7 +645,7 @@
     "lowest30d": true,
     "vendas": 769,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -669,7 +669,7 @@
     "lowest30d": true,
     "vendas": 989,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -981,7 +981,7 @@
     "lowest30d": false,
     "vendas": 4542,
     "publishedAt": "2026-10-31T02:05:12.485Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1293,7 +1293,7 @@
     "lowest30d": false,
     "vendas": 3490,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -1413,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 694,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -1437,7 +1437,7 @@
     "lowest30d": true,
     "vendas": 466,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1473898517-22394522228",
@@ -1461,7 +1461,7 @@
     "lowest30d": true,
     "vendas": 166,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -1581,7 +1581,7 @@
     "lowest30d": false,
     "vendas": 1169,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 1802,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -1629,7 +1629,7 @@
     "lowest30d": true,
     "vendas": 1458,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -1725,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 1758,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1392120718-23794055036",
@@ -1944,6 +1944,30 @@
     "checkedAt": "2026-10-31T04:05:12.455Z"
   },
   {
+    "id": "SP1524383764-23493930815",
+    "productId": "SP1524383764-23493930815",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+    "price": 61.99,
+    "originalPrice": 182.32,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+    "url": "https://s.shopee.com.br/4fxPetO2ic",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5904,
+    "publishedAt": "2026-09-29T12:35:18.138Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
+  },
+  {
     "id": "SP323760756-41721001761",
     "productId": "SP323760756-41721001761",
     "marketplace": "shopee",
@@ -1965,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 2781,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5488459307",
@@ -1989,7 +2013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T23:05:12.564Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2160,6 +2184,30 @@
     "checkedAt": "2026-10-31T05:05:12.918Z"
   },
   {
+    "id": "SP857741670-22694714481",
+    "productId": "SP857741670-22694714481",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:oculos de sol",
+    "categoria": "Moda e Calçados",
+    "title": "Óculos de Sol Unissex com Nariz Removível Plaan Tariss Proteção UV Verão Moda",
+    "price": 27.99,
+    "originalPrice": 79.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1nykvl337m22",
+    "url": "https://s.shopee.com.br/3B8YWDry1l",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 676,
+    "publishedAt": "2026-10-28T01:05:13.815Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
+  },
+  {
     "id": "SP1684686802-58209249661",
     "productId": "SP1684686802-58209249661",
     "marketplace": "shopee",
@@ -2205,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 527,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -2301,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 212,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1056621160-58256763000",
@@ -2661,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 1586,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -2805,7 +2853,7 @@
     "lowest30d": true,
     "vendas": 163,
     "publishedAt": "2026-10-22T21:35:14.359Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -2829,7 +2877,7 @@
     "lowest30d": true,
     "vendas": 1022,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP328666563-58255491703",
@@ -2853,7 +2901,7 @@
     "lowest30d": true,
     "vendas": 1099,
     "publishedAt": "2026-10-17T19:35:11.457Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -2925,30 +2973,6 @@
     "lowest30d": true,
     "vendas": 844,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-31T02:35:15.323Z"
-  },
-  {
-    "id": "SP1438243592-22894353600",
-    "productId": "SP1438243592-22894353600",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calcinha Short Modeladora de Barriga Enchimento de Glúteos Levanta Bumbum Cor preta e bege",
-    "price": 35.9,
-    "originalPrice": 99.72,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmbqmnkhlvk6e5",
-    "url": "https://s.shopee.com.br/2gCI1ZMt9v",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 5210,
-    "publishedAt": "2026-10-14T08:05:17.071Z",
     "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
@@ -3525,7 +3549,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -3573,7 +3597,7 @@
     "lowest30d": false,
     "vendas": 1947,
     "publishedAt": "2026-10-28T15:35:28.135Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -3597,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 1799,
     "publishedAt": "2026-10-28T15:35:28.135Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -3621,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 1063,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1459882590-58255858312",
@@ -3645,7 +3669,7 @@
     "lowest30d": false,
     "vendas": 1927,
     "publishedAt": "2026-09-26T16:35:17.004Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1531826276-58219710815",
@@ -3693,7 +3717,7 @@
     "lowest30d": true,
     "vendas": 1450,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3717,7 +3741,7 @@
     "lowest30d": true,
     "vendas": 350,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -3741,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 1073,
     "publishedAt": "2026-10-24T19:35:22.469Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -3750,8 +3774,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica de aço inoxidável 600/800ml boca larga de grande capacidadea---4021",
-    "price": 34.5,
-    "originalPrice": 90.79,
+    "price": 33.8,
+    "originalPrice": 88.95,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -3762,10 +3786,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 768,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP378093609-26586640764",
@@ -3789,7 +3813,7 @@
     "lowest30d": true,
     "vendas": 1656,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -4006,30 +4030,6 @@
     "vendas": 195,
     "publishedAt": "2026-10-19T19:05:13.688Z",
     "checkedAt": "2026-10-31T02:05:12.485Z"
-  },
-  {
-    "id": "SP1524383764-23493930815",
-    "productId": "SP1524383764-23493930815",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
-    "price": 68.9,
-    "originalPrice": 181.32,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
-    "url": "https://s.shopee.com.br/gRF2MxR9t",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5904,
-    "publishedAt": "2026-09-29T12:35:18.138Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -4560,30 +4560,6 @@
     "checkedAt": "2026-10-31T04:05:12.455Z"
   },
   {
-    "id": "SP857741670-22694714481",
-    "productId": "SP857741670-22694714481",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:oculos de sol",
-    "categoria": "Moda e Calçados",
-    "title": "Óculos de Sol Unissex com Nariz Removível Plaan Tariss Proteção UV Verão Moda",
-    "price": 31.96,
-    "originalPrice": 79.9,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi1nykvl337m22",
-    "url": "https://s.shopee.com.br/3B8YWDry1l",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 676,
-    "publishedAt": "2026-10-28T01:05:13.815Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
     "id": "SP337287596-28090542009",
     "productId": "SP337287596-28090542009",
     "marketplace": "shopee",
@@ -4989,7 +4965,7 @@
     "lowest30d": true,
     "vendas": 984,
     "publishedAt": "2026-10-22T01:35:13.596Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP499950777-47767182971",
@@ -5133,7 +5109,7 @@
     "lowest30d": true,
     "vendas": 753,
     "publishedAt": "2026-10-28T22:35:14.706Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1362240140-58253145740",
@@ -5376,30 +5352,6 @@
     "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
-    "id": "SP1338454963-23898332843",
-    "productId": "SP1338454963-23898332843",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Inova Caixa De Som Bluetooth Tws Grave Potente 15h Bateria Portátil Grave Potente Com Radio a prova d' água",
-    "price": 66.49,
-    "originalPrice": 158.31,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7n4fg0igsk409",
-    "url": "https://s.shopee.com.br/W7nXZPhtr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 659,
-    "publishedAt": "2026-10-28T00:35:13.525Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
     "id": "SP627750190-58200362396",
     "productId": "SP627750190-58200362396",
     "marketplace": "shopee",
@@ -5541,7 +5493,7 @@
     "lowest30d": true,
     "vendas": 114,
     "publishedAt": "2026-10-21T19:05:15.011Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB3332109715",
@@ -5565,7 +5517,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5613,7 +5565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5685,7 +5637,7 @@
     "lowest30d": true,
     "vendas": 1063,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1344793312-58258130167",
@@ -5925,7 +5877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -5950,6 +5902,30 @@
     "vendas": 2971,
     "publishedAt": "2026-10-28T03:35:18.503Z",
     "checkedAt": "2026-10-31T05:05:12.918Z"
+  },
+  {
+    "id": "SP1338454963-23898332843",
+    "productId": "SP1338454963-23898332843",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Inova Caixa De Som Bluetooth Tws Grave Potente 15h Bateria Portátil Grave Potente Com Radio a prova d' água",
+    "price": 69.9,
+    "originalPrice": 158.86,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7n4fg0igsk409",
+    "url": "https://s.shopee.com.br/W7nXZPhtr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 659,
+    "publishedAt": "2026-10-28T00:35:13.525Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -6021,7 +5997,7 @@
     "lowest30d": true,
     "vendas": 806,
     "publishedAt": "2026-10-24T14:35:14.198Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP530370669-22101448576",
@@ -6126,8 +6102,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Kit 50 Cabides Veludo De Roupa Antideslizante Slim Adulto  Gancho 360°",
-    "price": 59.91,
-    "originalPrice": 136.16,
+    "price": 59.89,
+    "originalPrice": 136.11,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -6138,10 +6114,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 3668,
     "publishedAt": "2026-10-19T13:05:15.349Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1094419922-48062703638",
@@ -6261,7 +6237,7 @@
     "lowest30d": false,
     "vendas": 300,
     "publishedAt": "2026-10-17T22:35:14.039Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1541348350-18399858350",
@@ -6645,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1384111782-23898040463",
@@ -6741,7 +6717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB7847665416",
@@ -6765,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -7135,11 +7111,11 @@
     "categoria": "Beleza",
     "title": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
     "price": 55.45,
-    "originalPrice": 109,
+    "originalPrice": 109.04,
     "discount": 49,
     "base": "media",
-    "averagePrice": 109,
-    "sellers": 42,
+    "averagePrice": 109.04,
+    "sellers": 41,
     "image": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5472494813?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7149,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7245,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7293,31 +7269,7 @@
     "lowest30d": true,
     "vendas": 2153,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
-    "id": "SP1551841162-58257503731",
-    "productId": "SP1551841162-58257503731",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete Bolinha KIT 4 Unidades Microfibra Banheiro Popcorn 38x58 Antiderrapante Macio Alta Absorção",
-    "price": 49.9,
-    "originalPrice": 94.15,
-    "discount": 47,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mm7hso6y7fgk10",
-    "url": "https://s.shopee.com.br/9KjE023SIB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3173,
-    "publishedAt": "2026-10-24T14:35:14.198Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -7389,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7461,7 +7413,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-30T21:35:14.655Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7509,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7557,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7629,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB2196138476",
@@ -7653,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7701,7 +7653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7749,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7782,8 +7734,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Chave de Impacto Elétrica Sem Fio a Bateria de Lítio Kit 2 Baterias 4 Soquetes Carregador Rápido para Rodas e Porcas",
-    "price": 190,
-    "originalPrice": 311.48,
+    "price": 189.99,
+    "originalPrice": 311.46,
     "discount": 39,
     "base": "vendedor",
     "averagePrice": null,
@@ -7797,7 +7749,31 @@
     "lowest30d": false,
     "vendas": 4024,
     "publishedAt": "2026-10-29T20:35:16.988Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
+  },
+  {
+    "id": "MLB6194501592",
+    "productId": "MLB62230579",
+    "marketplace": "ml",
+    "fonte": "MLB438284",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+    "price": 441.05,
+    "originalPrice": 718.75,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 718.75,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-25T15:35:15.214Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7848,6 +7824,30 @@
     "checkedAt": "2026-10-31T05:05:12.918Z"
   },
   {
+    "id": "SP1551841162-58257503731",
+    "productId": "SP1551841162-58257503731",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete Bolinha KIT 4 Unidades Microfibra Banheiro Popcorn 38x58 Antiderrapante Macio Alta Absorção",
+    "price": 59.9,
+    "originalPrice": 95.08,
+    "discount": 37,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mm7hso6y7fgk10",
+    "url": "https://s.shopee.com.br/9KjE023SIB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3173,
+    "publishedAt": "2026-10-24T14:35:14.198Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
+  },
+  {
     "id": "SP1609153445-22998824196",
     "productId": "SP1609153445-22998824196",
     "marketplace": "shopee",
@@ -7869,7 +7869,7 @@
     "lowest30d": true,
     "vendas": 869,
     "publishedAt": "2026-10-25T22:05:13.616Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP885771154-23693478424",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": 937,
     "publishedAt": "2026-10-14T14:05:21.785Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5250929785",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB7690418174",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5279469915",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8037,31 +8037,31 @@
     "lowest30d": true,
     "vendas": 7601,
     "publishedAt": "2026-10-18T12:35:13.508Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
-    "id": "MLB6194501592",
-    "productId": "MLB62230579",
+    "id": "MLB6224601478",
+    "productId": "MLB45423403",
     "marketplace": "ml",
-    "fonte": "MLB438284",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-    "price": 441.05,
-    "originalPrice": 639.5,
+    "fonte": "MLB455425",
+    "categoria": "Brinquedos",
+    "title": "Lego 77242 Speed Champions Ferrari Sf24 F1 Quantidade de peças 275",
+    "price": 162.36,
+    "originalPrice": 235.01,
     "discount": 31,
     "base": "media",
-    "averagePrice": 639.5,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
+    "averagePrice": 235.01,
+    "sellers": 39,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857306-MLA100035167343_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6224601478?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
     "oficial": false,
     "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
+    "loja": "Mercado Livre Casa",
     "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "publishedAt": "2026-10-31T05:05:12.918Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB4153226076",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5314233588",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5739859240",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB6949268730",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB3959694605",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T03:35:14.050Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB3682277189",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB7071544106",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5451291113",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB1942049788",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB6174995494",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5812393646",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB4521286991",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB7578108490",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8565,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 1308,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -9069,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 214,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1127030290-22497983911",
@@ -9357,7 +9357,7 @@
     "lowest30d": false,
     "vendas": 465,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -9429,7 +9429,7 @@
     "lowest30d": false,
     "vendas": 278,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9669,7 +9669,7 @@
     "lowest30d": false,
     "vendas": 1859,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 249,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10261,7 +10261,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-7ravt-mb2w188hbv4yb0",
-    "url": "https://s.shopee.com.br/20wbKKJipq",
+    "url": "https://s.shopee.com.br/4VdzSaOg4Y",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10269,7 +10269,7 @@
     "lowest30d": true,
     "vendas": 989,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1620496963-23598879635",
@@ -10893,7 +10893,7 @@
     "lowest30d": true,
     "vendas": 1235,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1569804599-22094455907",
@@ -10917,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -10941,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 503,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1643589827-58259648766",
@@ -10965,7 +10965,7 @@
     "lowest30d": false,
     "vendas": 854,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP379519619-23298173737",
@@ -11064,6 +11064,30 @@
     "checkedAt": "2026-10-31T04:35:11.877Z"
   },
   {
+    "id": "SP1438243592-22894353600",
+    "productId": "SP1438243592-22894353600",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calcinha Short Modeladora de Barriga Enchimento de Glúteos Levanta Bumbum Cor preta e bege",
+    "price": 35.9,
+    "originalPrice": 99.72,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mmbqmnkhlvk6e5",
+    "url": "https://s.shopee.com.br/2gCI1ZMt9v",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5210,
+    "publishedAt": "2026-10-14T08:05:17.071Z",
+    "checkedAt": "2026-10-31T02:35:15.323Z"
+  },
+  {
     "id": "SP866679071-23199528877",
     "productId": "SP866679071-23199528877",
     "marketplace": "shopee",
@@ -11109,7 +11133,7 @@
     "lowest30d": true,
     "vendas": 2116,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -11277,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 1059,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1114645438-42664270345",
@@ -11373,7 +11397,7 @@
     "lowest30d": false,
     "vendas": 217,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1493421921-22694294672",
@@ -11518,6 +11542,30 @@
     "vendas": 231,
     "publishedAt": "2026-10-30T14:05:12.702Z",
     "checkedAt": "2026-10-31T04:35:11.877Z"
+  },
+  {
+    "id": "SP409939729-23694671466",
+    "productId": "SP409939729-23694671466",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
+    "price": 36.8,
+    "originalPrice": 99.46,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
+    "url": "https://s.shopee.com.br/6AmAHz4tGq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2805,
+    "publishedAt": "2026-10-13T11:35:14.167Z",
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -11838,8 +11886,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.5,
-    "originalPrice": 90.54,
+    "price": 33.45,
+    "originalPrice": 90.41,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11850,10 +11898,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 505,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
+    "checkedAt": "2026-10-31T05:33:04.651Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11904,30 +11952,6 @@
     "checkedAt": "2026-10-31T04:05:12.455Z"
   },
   {
-    "id": "SP409939729-23694671466",
-    "productId": "SP409939729-23694671466",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
-    "price": 37.9,
-    "originalPrice": 99.74,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
-    "url": "https://s.shopee.com.br/6AmAHz4tGq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2805,
-    "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
     "id": "SP1193388723-57914922040",
     "productId": "SP1193388723-57914922040",
     "marketplace": "shopee",
@@ -11974,29 +11998,5 @@
     "vendas": 2916,
     "publishedAt": "2026-09-30T15:32:03.838Z",
     "checkedAt": "2026-10-31T02:05:12.485Z"
-  },
-  {
-    "id": "MLB6224601478",
-    "productId": "MLB45423403",
-    "marketplace": "ml",
-    "fonte": "MLB455425",
-    "categoria": "Brinquedos",
-    "title": "Lego 77242 Speed Champions Ferrari Sf24 F1 Quantidade de peças 275",
-    "price": 162.36,
-    "originalPrice": 235.01,
-    "discount": 31,
-    "base": "media",
-    "averagePrice": 235.01,
-    "sellers": 39,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_857306-MLA100035167343_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6224601478?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-10-31T05:05:12.918Z"
   }
 ]
