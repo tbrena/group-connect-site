@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB3687097769",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1103946075-58202615709",
@@ -141,7 +141,7 @@
     "lowest30d": true,
     "vendas": 351,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -309,7 +309,7 @@
     "lowest30d": true,
     "vendas": 304,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1043771437-58259669449",
@@ -333,7 +333,7 @@
     "lowest30d": false,
     "vendas": 198,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1833219313-22095210353",
@@ -357,7 +357,7 @@
     "lowest30d": false,
     "vendas": 310,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1557539807-58204570395",
@@ -381,7 +381,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1785592956-58264199622",
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 764,
     "publishedAt": "2026-10-29T19:05:13.395Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 9377,
     "publishedAt": "2026-10-25T12:35:16.896Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1339412998-27035836352",
@@ -885,7 +885,7 @@
     "lowest30d": false,
     "vendas": 330,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1860098702-58266070880",
@@ -1032,6 +1032,30 @@
     "checkedAt": "2026-10-31T00:07:30.427Z"
   },
   {
+    "id": "SP771750144-20797868953",
+    "productId": "SP771750144-20797868953",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
+    "price": 53.97,
+    "originalPrice": 163.55,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
+    "url": "https://s.shopee.com.br/AAIIr4jJyu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4542,
+    "publishedAt": "2026-10-31T02:05:12.485Z",
+    "checkedAt": "2026-10-31T02:05:12.485Z"
+  },
+  {
     "id": "SP1598184222-58263369269",
     "productId": "SP1598184222-58263369269",
     "marketplace": "shopee",
@@ -1077,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 319,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -1101,7 +1125,7 @@
     "lowest30d": false,
     "vendas": 6112,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -1149,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 2520,
     "publishedAt": "2026-10-28T04:05:14.906Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -1221,7 +1245,7 @@
     "lowest30d": false,
     "vendas": 422,
     "publishedAt": "2026-10-25T19:35:13.364Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -1290,10 +1314,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 595,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -1701,7 +1725,7 @@
     "lowest30d": true,
     "vendas": 6952,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1542724420-44918771443",
@@ -1722,10 +1746,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 235,
     "publishedAt": "2026-10-24T19:05:19.081Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1351679961-22998068679",
@@ -1746,10 +1770,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 176,
     "publishedAt": "2026-10-24T16:05:13.475Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1543643896-23594449816",
@@ -1797,7 +1821,7 @@
     "lowest30d": true,
     "vendas": 1321,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1457230584-58200448338",
@@ -2013,7 +2037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T23:05:12.564Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2949,7 +2973,7 @@
     "lowest30d": true,
     "vendas": 2591,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -2973,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 844,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -2997,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 5210,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1284795277-22893701336",
@@ -3117,7 +3141,7 @@
     "lowest30d": true,
     "vendas": 1189,
     "publishedAt": "2026-10-29T03:05:13.689Z",
-    "checkedAt": "2026-10-30T23:35:12.800Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1339888238-23394402377",
@@ -3549,7 +3573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -4821,7 +4845,7 @@
     "lowest30d": true,
     "vendas": 346,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP753139334-58210495292",
@@ -4845,7 +4869,7 @@
     "lowest30d": true,
     "vendas": 642,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP368328709-40727316477",
@@ -4869,7 +4893,7 @@
     "lowest30d": true,
     "vendas": 2813,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP332016197-58208127828",
@@ -5061,7 +5085,7 @@
     "lowest30d": true,
     "vendas": 1871,
     "publishedAt": "2026-10-20T11:35:15.041Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1513043316-18398317475",
@@ -5277,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 473,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1613759296-43667445132",
@@ -5301,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 1546,
     "publishedAt": "2026-10-23T17:51:43.252Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5325,7 +5349,7 @@
     "lowest30d": true,
     "vendas": 1131,
     "publishedAt": "2026-10-18T13:35:14.642Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP938876119-22298083710",
@@ -5349,7 +5373,7 @@
     "lowest30d": false,
     "vendas": 4348,
     "publishedAt": "2026-10-29T14:05:13.931Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1338454963-23898332843",
@@ -5541,7 +5565,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5589,7 +5613,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5925,7 +5949,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -6021,7 +6045,7 @@
     "lowest30d": true,
     "vendas": 1397,
     "publishedAt": "2026-10-24T04:30:29.125Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1162454632-23698857639",
@@ -6381,7 +6405,7 @@
     "lowest30d": true,
     "vendas": 2760,
     "publishedAt": "2026-10-24T04:30:29.125Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1034396314-23897904339",
@@ -6453,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 374,
     "publishedAt": "2026-10-29T21:35:13.285Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP983645094-57113764077",
@@ -6528,30 +6552,6 @@
     "checkedAt": "2026-10-31T02:05:12.485Z"
   },
   {
-    "id": "SP1815920431-58217669269",
-    "productId": "SP1815920431-58217669269",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Tablet Hancdon S12 Plus 12.8\" 2.5K Android 15 16GB+512GB 10000mAh 24+48MP Estoque Brasil Kit Teclado Mouse Caneta",
-    "price": 1009,
-    "originalPrice": 2146.81,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-muxbj13hc2de52",
-    "url": "https://s.shopee.com.br/gRDjsP4Yu",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 229,
-    "publishedAt": "2026-10-13T23:35:17.759Z",
-    "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
     "id": "SP296363855-7952814558",
     "productId": "SP296363855-7952814558",
     "marketplace": "shopee",
@@ -6597,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP371651689-23994017710",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T21:35:13.262Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB6194501592",
@@ -6741,7 +6741,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB7847665416",
@@ -6765,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6909,7 +6909,7 @@
     "lowest30d": false,
     "vendas": 376,
     "publishedAt": "2026-10-30T12:05:14.486Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP408027260-23893782668",
@@ -7080,30 +7080,6 @@
     "checkedAt": "2026-10-31T00:05:13.601Z"
   },
   {
-    "id": "SP1468001620-45868320453",
-    "productId": "SP1468001620-45868320453",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Garrafa Térmica Nórdica Berlim Café 1L Cabo De Madeira Luxo Mesa Posta Canelado Dourado",
-    "price": 54.9,
-    "originalPrice": 109.8,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mtfqfhd5f1tu1b",
-    "url": "https://s.shopee.com.br/40hfVkKxWm",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 693,
-    "publishedAt": "2026-10-14T15:05:15.844Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
-  },
-  {
     "id": "SP1045085918-23799188673",
     "productId": "SP1045085918-23799188673",
     "marketplace": "shopee",
@@ -7125,7 +7101,7 @@
     "lowest30d": true,
     "vendas": 4644,
     "publishedAt": "2026-10-15T08:05:14.092Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB1942049788",
@@ -7149,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -7221,7 +7197,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5472494813",
@@ -7245,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP913580882-58254927126",
@@ -7269,7 +7245,7 @@
     "lowest30d": false,
     "vendas": 2909,
     "publishedAt": "2026-10-27T03:35:11.482Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5232182936",
@@ -7293,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7416,6 +7392,30 @@
     "checkedAt": "2026-10-30T23:35:12.800Z"
   },
   {
+    "id": "SP1468001620-45868320453",
+    "productId": "SP1468001620-45868320453",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Garrafa Térmica Nórdica Berlim Café 1L Cabo De Madeira Luxo Mesa Posta Canelado Dourado",
+    "price": 59,
+    "originalPrice": 109.26,
+    "discount": 46,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mtfqfhd5f1tu1b",
+    "url": "https://s.shopee.com.br/40hfVkKxWm",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 693,
+    "publishedAt": "2026-10-14T15:05:15.844Z",
+    "checkedAt": "2026-10-31T02:35:15.323Z"
+  },
+  {
     "id": "SP1027415014-23299661359",
     "productId": "SP1027415014-23299661359",
     "marketplace": "shopee",
@@ -7485,7 +7485,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-30T21:35:14.655Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T15:35:14.674Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP912905460-16892189215",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": 2007,
     "publishedAt": "2026-10-14T15:05:15.844Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5537222254",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1258838775-58203062102",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-15T21:35:19.314Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB2196138476",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7725,7 +7725,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB7690418174",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5279469915",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T13:35:13.532Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5314233588",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-16T08:35:15.627Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5739859240",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB6949268730",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB7071544106",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5451291113",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB7578108490",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB6174995494",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5812393646",
@@ -8334,7 +8334,7 @@
     "fonte": "MLB447778",
     "categoria": "Informática",
     "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-    "price": 188.93,
+    "price": 188,
     "originalPrice": 230,
     "discount": 18,
     "base": "media",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB4521286991",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5364910333",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -8493,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 968,
     "publishedAt": "2026-10-08T23:35:13.181Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP400434768-18298068505",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 1862,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": 573,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1690814452-23094925162",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 475,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1060793149-22997488034",
@@ -8757,7 +8757,7 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-09-26T12:35:50.774Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 5617,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -9285,7 +9285,7 @@
     "lowest30d": false,
     "vendas": 528,
     "publishedAt": "2026-10-02T18:05:15.490Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -9309,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 3475,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -9885,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 159,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1607422451-58213469366",
@@ -9909,7 +9909,7 @@
     "lowest30d": false,
     "vendas": 2235,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -9933,7 +9933,7 @@
     "lowest30d": false,
     "vendas": 363,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1447668497-58207970262",
@@ -10126,30 +10126,6 @@
     "vendas": 249,
     "publishedAt": "2026-10-22T23:20:28.981Z",
     "checkedAt": "2026-10-31T01:35:14.822Z"
-  },
-  {
-    "id": "SP771750144-20797868953",
-    "productId": "SP771750144-20797868953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
-    "price": 53.97,
-    "originalPrice": 163.55,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-    "url": "https://s.shopee.com.br/AAIIr4jJyu",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4542,
-    "publishedAt": "2026-10-31T02:05:12.485Z",
-    "checkedAt": "2026-10-31T02:05:12.485Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10413,7 +10389,7 @@
     "lowest30d": false,
     "vendas": 562,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -10437,7 +10413,7 @@
     "lowest30d": false,
     "vendas": 2446,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1841870093-55315796592",
@@ -10629,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 5418,
     "publishedAt": "2026-10-05T13:35:14.015Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10701,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 204,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -10749,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 286,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1028459403-58258154242",
@@ -11157,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 255,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1209650911-58259484943",
@@ -11349,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 899,
     "publishedAt": "2026-10-01T23:35:12.903Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1677892241-58202842410",
@@ -11517,7 +11493,7 @@
     "lowest30d": false,
     "vendas": 1502,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1791620681-23794951516",
@@ -11565,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 1867,
     "publishedAt": "2026-10-12T04:05:18.200Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP787370863-22692818490",
@@ -11613,7 +11589,7 @@
     "lowest30d": false,
     "vendas": 1293,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -11685,7 +11661,7 @@
     "lowest30d": false,
     "vendas": 3294,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -11709,7 +11685,7 @@
     "lowest30d": true,
     "vendas": 225,
     "publishedAt": "2026-10-05T21:35:38.087Z",
-    "checkedAt": "2026-10-30T23:05:12.564Z"
+    "checkedAt": "2026-10-31T02:35:15.323Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -11998,5 +11974,29 @@
     "vendas": 2916,
     "publishedAt": "2026-09-30T15:32:03.838Z",
     "checkedAt": "2026-10-31T02:05:12.485Z"
+  },
+  {
+    "id": "SP1815920431-58217669269",
+    "productId": "SP1815920431-58217669269",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "Tablet Hancdon S12 Plus 12.8\" 2.5K Android 15 16GB+512GB 10000mAh 24+48MP Estoque Brasil Kit Teclado Mouse Caneta",
+    "price": 1009,
+    "originalPrice": 2146.81,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-muxbj13hc2de52",
+    "url": "https://s.shopee.com.br/gRDjsP4Yu",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 229,
+    "publishedAt": "2026-10-13T23:35:17.759Z",
+    "checkedAt": "2026-10-31T01:35:14.822Z"
   }
 ]
