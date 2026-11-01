@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "LOJAS0111"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16933",
+    "quando": "2026-11-01T18:25:48+00:00",
+    "id": "ml:LOJAS0111",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SUPER15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": "Supermercado",
+    "origem": "avidaefeitadedesconto/16932",
+    "quando": "2026-11-01T18:22:58+00:00",
+    "id": "ml:SUPER15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "CONSTRUIRML"
     ],
     "desconto": "10% OFF",
