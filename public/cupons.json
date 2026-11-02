@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "TO0211"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/16950",
+    "quando": "2026-11-02T18:20:51+00:00",
+    "id": "ml:TO0211",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "BEBES0211"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 40",
+    "minimo": null,
+    "escopo": "Itens de Bebês e Pets",
+    "origem": "avidaefeitadedesconto/16949",
+    "quando": "2026-11-02T18:18:11+00:00",
+    "id": "ml:BEBES0211",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "OFERTADEZ"
     ],
     "desconto": "10% OFF",
@@ -109,34 +137,6 @@
     "origem": "avidaefeitadedesconto/16938",
     "quando": "2026-11-02T03:05:56+00:00",
     "id": "ml:FULLRESGAT0211",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJAS0111"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/16933",
-    "quando": "2026-11-01T18:25:48+00:00",
-    "id": "ml:LOJAS0111",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SUPER15"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 30",
-    "minimo": null,
-    "escopo": "Supermercado",
-    "origem": "avidaefeitadedesconto/16932",
-    "quando": "2026-11-01T18:22:58+00:00",
-    "id": "ml:SUPER15",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
