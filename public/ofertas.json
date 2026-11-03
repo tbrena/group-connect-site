@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-22T05:05:12.905Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1351679961-21798030664",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 1108,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -264,30 +264,6 @@
     "checkedAt": "2026-11-03T02:35:13.376Z"
   },
   {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 39.99,
-    "originalPrice": 129,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/1gJpY4lFIZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 954,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
-  },
-  {
     "id": "SP1654822470-22799185652",
     "productId": "SP1654822470-22799185652",
     "marketplace": "shopee",
@@ -429,7 +405,7 @@
     "lowest30d": true,
     "vendas": 19510,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP883941882-23899159653",
@@ -453,7 +429,7 @@
     "lowest30d": true,
     "vendas": 912,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP498371377-22094722395",
@@ -582,8 +558,8 @@
     "fonte": "shopee:q:luminaria",
     "categoria": "Casa e Decoração",
     "title": "Luminária LED USB 3 cores Regulável Recarregável Com sensor de movimento 60cm -F9",
-    "price": 30.99,
-    "originalPrice": 99.97,
+    "price": 30.55,
+    "originalPrice": 98.55,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -594,10 +570,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 986,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -766,6 +742,30 @@
     "vendas": 3338,
     "publishedAt": "2026-10-02T12:05:14.623Z",
     "checkedAt": "2026-11-03T00:05:13.545Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 40.99,
+    "originalPrice": 128.09,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/1gJpY4lFIZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 954,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP391739739-18397808004",
@@ -1053,7 +1053,7 @@
     "lowest30d": true,
     "vendas": 1702,
     "publishedAt": "2026-10-31T11:05:11.930Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP771750144-20797868953",
@@ -1149,7 +1149,7 @@
     "lowest30d": false,
     "vendas": 1908,
     "publishedAt": "2026-10-30T12:35:12.892Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -1269,7 +1269,7 @@
     "lowest30d": true,
     "vendas": 1357,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1870601214-22399680511",
@@ -1389,7 +1389,7 @@
     "lowest30d": false,
     "vendas": 2847,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -1848,30 +1848,6 @@
     "checkedAt": "2026-11-03T01:35:13.151Z"
   },
   {
-    "id": "SP1022889520-29058857695",
-    "productId": "SP1022889520-29058857695",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "Lenovo GM2 PRO Fone de ouvido para jogos de baixa latência Cancelamento inteligente de ruído",
-    "price": 53.99,
-    "originalPrice": 158.79,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m5vbeyo02t9y3b",
-    "url": "https://s.shopee.com.br/4B1AvTXRrv",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1605,
-    "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
-  },
-  {
     "id": "MLB7895735000",
     "productId": "MLB75873123",
     "marketplace": "ml",
@@ -1893,7 +1869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2238,8 +2214,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Relógio Smartwatch Original X9 Pro Série 45mm, GPS, NFC, Monitor de Pressão Arterial – São Paulo, Estoque Disponível",
-    "price": 69.77,
-    "originalPrice": 199.34,
+    "price": 69.88,
+    "originalPrice": 199.66,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -2253,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 648,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP427678694-13622648490",
@@ -2302,6 +2278,30 @@
     "vendas": 622,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-11-03T02:05:15.795Z"
+  },
+  {
+    "id": "SP1022889520-29058857695",
+    "productId": "SP1022889520-29058857695",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "Lenovo GM2 PRO Fone de ouvido para jogos de baixa latência Cancelamento inteligente de ruído",
+    "price": 55.99,
+    "originalPrice": 159.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m5vbeyo02t9y3b",
+    "url": "https://s.shopee.com.br/4B1AvTXRrv",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1605,
+    "publishedAt": "2026-10-17T23:25:22.284Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP876865394-23693001909",
@@ -2469,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 298,
     "publishedAt": "2026-11-01T12:05:17.360Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1924699036-58270758042",
@@ -2541,7 +2541,7 @@
     "lowest30d": false,
     "vendas": 1809,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP303419140-40682289936",
@@ -3165,7 +3165,7 @@
     "lowest30d": true,
     "vendas": 1987,
     "publishedAt": "2026-10-25T12:05:12.250Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1632292406-22494419367",
@@ -3624,30 +3624,6 @@
     "checkedAt": "2026-11-03T02:05:15.795Z"
   },
   {
-    "id": "SP1531826276-58219710815",
-    "productId": "SP1531826276-58219710815",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Projetor LED Natalino 16 Temas Luzes de Natal Desenhos Coloridos Rotação 270° Decoração Casa Jardim Parede Festa",
-    "price": 37.96,
-    "originalPrice": 99.89,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtw3amr9o4xu08",
-    "url": "https://s.shopee.com.br/50aJi6jcql",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2343,
-    "publishedAt": "2026-10-26T12:35:15.956Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
-  },
-  {
     "id": "SP1193388723-55806745399",
     "productId": "SP1193388723-55806745399",
     "marketplace": "shopee",
@@ -3741,7 +3717,7 @@
     "lowest30d": true,
     "vendas": 714,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP378093609-26586640764",
@@ -3765,7 +3741,7 @@
     "lowest30d": true,
     "vendas": 2147,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -3781,7 +3757,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-micuj22uwao146",
-    "url": "https://s.shopee.com.br/9zyveCqGzj",
+    "url": "https://s.shopee.com.br/9pfaR06uUb",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3789,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 1737,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -3813,7 +3789,7 @@
     "lowest30d": true,
     "vendas": 559,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1337284628-23295027006",
@@ -3822,8 +3798,8 @@
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "Fone De Ouvido sem fio Bluetooh 5.2  Compativel  IOS e  Android Sem borracha",
-    "price": 49.99,
-    "originalPrice": 131.55,
+    "price": 49.98,
+    "originalPrice": 131.53,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -3834,10 +3810,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2471,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -3861,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 3263,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -3885,7 +3861,7 @@
     "lowest30d": true,
     "vendas": 1356,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP316522636-58207521877",
@@ -3909,7 +3885,7 @@
     "lowest30d": true,
     "vendas": 143,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -3933,7 +3909,7 @@
     "lowest30d": true,
     "vendas": 186,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1283675544-51606352089",
@@ -4197,7 +4173,7 @@
     "lowest30d": false,
     "vendas": 4071,
     "publishedAt": "2026-10-23T03:05:13.101Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -4341,7 +4317,7 @@
     "lowest30d": false,
     "vendas": 537,
     "publishedAt": "2026-11-01T05:35:14.302Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB3646373243",
@@ -4365,7 +4341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4510,6 +4486,30 @@
     "vendas": 1599,
     "publishedAt": "2026-10-27T14:05:14.572Z",
     "checkedAt": "2026-11-03T00:05:13.545Z"
+  },
+  {
+    "id": "SP1531826276-58219710815",
+    "productId": "SP1531826276-58219710815",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Projetor LED Natalino 16 Temas Luzes de Natal Desenhos Coloridos Rotação 270° Decoração Casa Jardim Parede Festa",
+    "price": 39.96,
+    "originalPrice": 99.9,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtw3amr9o4xu08",
+    "url": "https://s.shopee.com.br/50aJi6jcql",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2343,
+    "publishedAt": "2026-10-26T12:35:15.956Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP676651970-23293814378",
@@ -5205,7 +5205,7 @@
     "lowest30d": false,
     "vendas": 11633,
     "publishedAt": "2026-11-02T12:35:13.827Z",
-    "checkedAt": "2026-11-02T23:51:52.929Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP432069203-58206129432",
@@ -5301,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 1120,
     "publishedAt": "2026-10-29T03:05:13.689Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP627750190-58200362396",
@@ -5421,7 +5421,7 @@
     "lowest30d": true,
     "vendas": 123,
     "publishedAt": "2026-10-21T19:05:15.011Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1541348350-58264273646",
@@ -5469,7 +5469,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -5541,7 +5541,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 590,
     "publishedAt": "2026-10-28T00:35:13.525Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -5925,7 +5925,7 @@
     "lowest30d": true,
     "vendas": 829,
     "publishedAt": "2026-10-24T14:35:14.198Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1162454632-23698857639",
@@ -5989,7 +5989,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-824if-mehc2xa90kch3f",
-    "url": "https://s.shopee.com.br/8pn0JhwOq8",
+    "url": "https://s.shopee.com.br/5VWbH2MvSY",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5997,7 +5997,7 @@
     "lowest30d": true,
     "vendas": 378,
     "publishedAt": "2026-10-20T15:01:29.025Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1005356303-58256596821",
@@ -6006,8 +6006,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Kit 50 Cabides Veludo De Roupa Antideslizante Slim Adulto  Gancho 360°",
-    "price": 59.96,
-    "originalPrice": 136.27,
+    "price": 59.89,
+    "originalPrice": 136.11,
     "discount": 56,
     "base": "vendedor",
     "averagePrice": null,
@@ -6018,10 +6018,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 4251,
     "publishedAt": "2026-10-19T13:05:15.349Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP409535179-8540648652",
@@ -6045,7 +6045,7 @@
     "lowest30d": false,
     "vendas": 304,
     "publishedAt": "2026-10-17T22:35:14.039Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP378093609-23597579698",
@@ -6288,6 +6288,30 @@
     "checkedAt": "2026-11-03T00:05:13.545Z"
   },
   {
+    "id": "MLB3332109715",
+    "productId": "MLB18308305",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Vodka Smirnoff 1,75L",
+    "price": 50.28,
+    "originalPrice": 109.85,
+    "discount": 54,
+    "base": "media",
+    "averagePrice": 109.85,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
+  },
+  {
     "id": "SP1719146158-22094949932",
     "productId": "SP1719146158-22094949932",
     "marketplace": "shopee",
@@ -6453,7 +6477,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP296363855-7952814558",
@@ -6501,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1485077747-58252016104",
@@ -6573,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6645,7 +6669,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -6822,12 +6846,12 @@
     "fonte": "MLB1574",
     "categoria": "Casa e Decoração",
     "title": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
-    "price": 95.9,
-    "originalPrice": 189.9,
+    "price": 96.9,
+    "originalPrice": 189,
     "discount": 49,
     "base": "media",
-    "averagePrice": 189.9,
-    "sellers": 4,
+    "averagePrice": 189,
+    "sellers": 5,
     "image": "https://http2.mlstatic.com/D_NQ_NP_932662-MLA114564682923_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-6600701296?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -6837,7 +6861,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T21:05:16.837Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5472494813",
@@ -6861,7 +6885,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T00:05:12.805Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -6933,7 +6957,7 @@
     "lowest30d": true,
     "vendas": 2954,
     "publishedAt": "2026-10-24T14:35:14.198Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP443076516-44959639811",
@@ -7029,7 +7053,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -7077,7 +7101,7 @@
     "lowest30d": false,
     "vendas": 753,
     "publishedAt": "2026-10-28T22:35:14.706Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB6194501592",
@@ -7101,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7149,7 +7173,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -7165,7 +7189,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
-    "url": "https://s.shopee.com.br/3g4vKfwHsc",
+    "url": "https://s.shopee.com.br/5fq1TLQgsa",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7173,7 +7197,7 @@
     "lowest30d": false,
     "vendas": 3383,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1717663781-22999528910",
@@ -7224,30 +7248,6 @@
     "checkedAt": "2026-11-03T01:35:13.151Z"
   },
   {
-    "id": "MLB3332109715",
-    "productId": "MLB18308305",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Vodka Smirnoff 1,75L",
-    "price": 62.15,
-    "originalPrice": 109.85,
-    "discount": 43,
-    "base": "media",
-    "averagePrice": 109.85,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
-  },
-  {
     "id": "SP753139334-22594417331",
     "productId": "SP753139334-22594417331",
     "marketplace": "shopee",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1468415010-22698911997",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 3715,
     "publishedAt": "2026-10-29T20:35:16.988Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP833407931-58208888653",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 1959,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1609153445-22998824196",
@@ -7557,7 +7557,7 @@
     "lowest30d": true,
     "vendas": 819,
     "publishedAt": "2026-10-25T22:05:13.616Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": 3392,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1059412251-18597753531",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7690418228",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7690418174",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5279469915",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -7845,7 +7845,7 @@
     "lowest30d": true,
     "vendas": 7588,
     "publishedAt": "2026-10-18T12:35:13.508Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7816881744",
@@ -7869,7 +7869,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5739859240",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB4104379865",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB6949268730",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB6943866984",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T19:35:13.416Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB3682277189",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7021195702",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T00:35:16.047Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5488515025",
@@ -8085,7 +8085,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5812393646",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7071544106",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB4521286991",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7653303324",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T05:35:17.202Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5451291113",
@@ -8205,7 +8205,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
+  },
+  {
+    "id": "MLB3767156322",
+    "productId": "MLB17384401",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
+    "price": 169,
+    "originalPrice": 211.99,
+    "discount": 20,
+    "base": "media",
+    "averagePrice": 211.99,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-19T21:35:13.769Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7578108490",
@@ -8229,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB7804407866",
@@ -8253,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB4754741037",
@@ -8277,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T22:35:12.664Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5364910333",
@@ -8301,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T16:35:15.033Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB6174995494",
@@ -8325,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
-  },
-  {
-    "id": "MLB3767156322",
-    "productId": "MLB17384401",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
-    "price": 177.4,
-    "originalPrice": 211.99,
-    "discount": 16,
-    "base": "media",
-    "averagePrice": 211.99,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB2196138476",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5540300748",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T20:35:25.015Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB3556651987",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-03T02:35:13.376Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -8661,7 +8661,7 @@
     "lowest30d": false,
     "vendas": 977,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 545,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 214,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1127030290-22497983911",
@@ -9309,7 +9309,7 @@
     "lowest30d": false,
     "vendas": 440,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -9357,7 +9357,7 @@
     "lowest30d": false,
     "vendas": 254,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9573,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 1591,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -9957,7 +9957,7 @@
     "lowest30d": true,
     "vendas": 246,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP441005685-54401956392",
@@ -10173,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 823,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1620496963-23598879635",
@@ -10222,30 +10222,6 @@
     "vendas": 951,
     "publishedAt": "2026-09-29T01:35:16.139Z",
     "checkedAt": "2026-11-03T01:35:13.151Z"
-  },
-  {
-    "id": "SP1331633037-28958988085",
-    "productId": "SP1331633037-28958988085",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "mouse Para Jogos Leve Sem Fio Attack shark R1 X11 Três Modos De Conexão PAW3311 22000DPI 400IPS 50G Rato Ergonômico espo",
-    "price": 98.99,
-    "originalPrice": 291.15,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcby-m69gtf0e8hg807",
-    "url": "https://s.shopee.com.br/8VA8gwi63y",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 247,
-    "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
   },
   {
     "id": "SP1620481153-58252252799",
@@ -10797,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 1294,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1569804599-22094455907",
@@ -10813,7 +10789,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf3o4ll6pybof7",
-    "url": "https://s.shopee.com.br/9V2i2fZVuh",
+    "url": "https://s.shopee.com.br/7fb5r1JQ9A",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10821,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 160,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -10845,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 417,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1643589827-58259648766",
@@ -10869,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 872,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -10992,30 +10968,6 @@
     "checkedAt": "2026-11-03T02:05:15.795Z"
   },
   {
-    "id": "SP1511724455-43203256115",
-    "productId": "SP1511724455-43203256115",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fone de ouvido TWS com condução óssea, sem fio, Bluetooth 5.3, clip-on, display digital, redução de ruído verdadeira -LU",
-    "price": 39.89,
-    "originalPrice": 110.81,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-motd9a2j42dre4",
-    "url": "https://s.shopee.com.br/AUvCLFXBx4",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 561,
-    "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
-  },
-  {
     "id": "SP421422443-23498040823",
     "productId": "SP421422443-23498040823",
     "marketplace": "shopee",
@@ -11133,7 +11085,7 @@
     "lowest30d": true,
     "vendas": 2048,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -11349,7 +11301,31 @@
     "lowest30d": false,
     "vendas": 975,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
+  },
+  {
+    "id": "SP1331633037-28958988085",
+    "productId": "SP1331633037-28958988085",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:teclado",
+    "categoria": "Informática",
+    "title": "mouse Para Jogos Leve Sem Fio Attack shark R1 X11 Três Modos De Conexão PAW3311 22000DPI 400IPS 50G Rato Ergonômico espo",
+    "price": 109,
+    "originalPrice": 302.78,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcby-m69gtf0e8hg807",
+    "url": "https://s.shopee.com.br/8VA8gwi63y",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 247,
+    "publishedAt": "2026-09-30T17:05:14.390Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11541,7 +11517,7 @@
     "lowest30d": true,
     "vendas": 2734,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -11814,8 +11790,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.5,
-    "originalPrice": 90.54,
+    "price": 33.45,
+    "originalPrice": 90.41,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11826,10 +11802,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 467,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-02T23:35:13.536Z"
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11950,6 +11926,30 @@
     "vendas": 2885,
     "publishedAt": "2026-10-13T03:05:13.504Z",
     "checkedAt": "2026-11-02T23:51:52.929Z"
+  },
+  {
+    "id": "SP1511724455-43203256115",
+    "productId": "SP1511724455-43203256115",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de ouvido TWS com condução óssea, sem fio, Bluetooth 5.3, clip-on, display digital, redução de ruído verdadeira -LU",
+    "price": 39.89,
+    "originalPrice": 99.73,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-motd9a2j42dre4",
+    "url": "https://s.shopee.com.br/60SrrxPQFp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 561,
+    "publishedAt": "2026-10-16T11:35:14.250Z",
+    "checkedAt": "2026-11-03T03:05:14.080Z"
   },
   {
     "id": "SP1793507407-45712892195",
