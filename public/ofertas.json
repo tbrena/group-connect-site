@@ -45,7 +45,7 @@
     "lowest30d": true,
     "vendas": 568,
     "publishedAt": "2026-11-03T04:05:14.033Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1351679961-21798030664",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 634,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1573558445-44307948736",
@@ -285,7 +285,7 @@
     "lowest30d": false,
     "vendas": 102,
     "publishedAt": "2026-11-01T19:35:13.899Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -669,7 +669,7 @@
     "lowest30d": true,
     "vendas": 750,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -693,7 +693,7 @@
     "lowest30d": true,
     "vendas": 1084,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -885,7 +885,7 @@
     "lowest30d": false,
     "vendas": 3749,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -1029,7 +1029,7 @@
     "lowest30d": false,
     "vendas": 1720,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -1077,7 +1077,7 @@
     "lowest30d": false,
     "vendas": 4549,
     "publishedAt": "2026-10-31T02:05:12.485Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1598184222-58263369269",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 1860,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -1485,7 +1485,7 @@
     "lowest30d": true,
     "vendas": 706,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -1509,7 +1509,7 @@
     "lowest30d": true,
     "vendas": 418,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP421422443-20999319242",
@@ -1534,6 +1534,30 @@
     "vendas": 1326,
     "publishedAt": "2026-10-22T00:35:14.193Z",
     "checkedAt": "2026-11-03T15:05:16.787Z"
+  },
+  {
+    "id": "SP790605924-22897149838",
+    "productId": "SP790605924-22897149838",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Boneca Reborn Bebê Girafinha Luxo Original Realista de Silicone Menina Pode Dar Banho Envio Imediato",
+    "price": 71.9,
+    "originalPrice": 211.47,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mu2179tvc4cib1",
+    "url": "https://s.shopee.com.br/6AmEuIVbMH",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3297,
+    "publishedAt": "2026-10-07T13:55:18.295Z",
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP790605924-19499073421",
@@ -1573,7 +1597,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mmpa3437t2bka1",
-    "url": "https://s.shopee.com.br/80Dt5jN0RH",
+    "url": "https://s.shopee.com.br/7puWz1uZU4",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1581,7 +1605,7 @@
     "lowest30d": false,
     "vendas": 777,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1701,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 977,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1627872094-58200782275",
@@ -1725,7 +1749,7 @@
     "lowest30d": true,
     "vendas": 1704,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -1749,7 +1773,7 @@
     "lowest30d": true,
     "vendas": 1481,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -1896,6 +1920,30 @@
     "checkedAt": "2026-11-03T15:05:16.787Z"
   },
   {
+    "id": "SP758867324-58268254332",
+    "productId": "SP758867324-58268254332",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Kit 3 Baozi Squishy Queijo e Manteiga Brinquedo Sensorial Macio",
+    "price": 55.99,
+    "originalPrice": 159.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt74laovim861f",
+    "url": "https://s.shopee.com.br/6fiVVDPIYq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4862,
+    "publishedAt": "2026-10-27T13:35:14.823Z",
+    "checkedAt": "2026-11-03T17:05:20.246Z"
+  },
+  {
     "id": "SP1550654557-23298543447",
     "productId": "SP1550654557-23298543447",
     "marketplace": "shopee",
@@ -1989,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 209,
     "publishedAt": "2026-10-29T14:35:17.920Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1512108548-22898395702",
@@ -2133,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 1158,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP857741670-22694714481",
@@ -2517,7 +2565,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2757,7 +2805,7 @@
     "lowest30d": true,
     "vendas": 1341,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1668883425-58201729671",
@@ -3285,7 +3333,7 @@
     "lowest30d": true,
     "vendas": 680,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -3309,7 +3357,7 @@
     "lowest30d": true,
     "vendas": 606,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP741872429-58267105902",
@@ -3909,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 786,
     "publishedAt": "2026-10-31T14:05:11.808Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -3957,7 +4005,7 @@
     "lowest30d": true,
     "vendas": 848,
     "publishedAt": "2026-10-28T18:05:17.013Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -4005,7 +4053,7 @@
     "lowest30d": true,
     "vendas": 1717,
     "publishedAt": "2026-10-23T16:35:13.975Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP323761608-22997740309",
@@ -4029,7 +4077,7 @@
     "lowest30d": false,
     "vendas": 1839,
     "publishedAt": "2026-10-24T00:35:15.624Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP720952207-22797771827",
@@ -4365,7 +4413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4413,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 559,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1350045638-52658057285",
@@ -5013,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 194,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1511719344-41651822287",
@@ -5133,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 1255,
     "publishedAt": "2026-10-23T17:51:43.252Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1467811745-58208944738",
@@ -5173,7 +5221,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lyowknf5ce5e3d",
-    "url": "https://s.shopee.com.br/40hmv92R43",
+    "url": "https://s.shopee.com.br/W7wFYQXnm",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5181,7 +5229,7 @@
     "lowest30d": false,
     "vendas": 723,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP979730489-22598825926",
@@ -5205,7 +5253,7 @@
     "lowest30d": true,
     "vendas": 1153,
     "publishedAt": "2026-10-18T13:35:14.642Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1242044379-22092998564",
@@ -5229,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 11633,
     "publishedAt": "2026-11-02T12:35:13.827Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP432069203-58206129432",
@@ -5253,7 +5301,7 @@
     "lowest30d": true,
     "vendas": 3543,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP397082154-22297448111",
@@ -5277,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 993,
     "publishedAt": "2026-10-31T05:36:15.429Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -5301,7 +5349,7 @@
     "lowest30d": false,
     "vendas": 4796,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1730290113-58204994417",
@@ -5349,7 +5397,7 @@
     "lowest30d": true,
     "vendas": 345,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -5373,7 +5421,7 @@
     "lowest30d": false,
     "vendas": 599,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1573771593-40059441990",
@@ -5397,7 +5445,7 @@
     "lowest30d": true,
     "vendas": 1337,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1459882590-58208571406",
@@ -5493,7 +5541,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4641589414",
@@ -5517,7 +5565,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -5565,7 +5613,7 @@
     "lowest30d": false,
     "vendas": 371,
     "publishedAt": "2026-10-29T19:12:30.972Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1408367819-23394279595",
@@ -5661,7 +5709,7 @@
     "lowest30d": true,
     "vendas": 476,
     "publishedAt": "2026-10-27T23:35:14.904Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP874603044-21199848485",
@@ -5685,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 2822,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4138957549",
@@ -5709,7 +5757,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5832,30 +5880,6 @@
     "checkedAt": "2026-11-03T14:35:16.712Z"
   },
   {
-    "id": "SP758867324-58268254332",
-    "productId": "SP758867324-58268254332",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Kit 3 Baozi Squishy Queijo e Manteiga Brinquedo Sensorial Macio",
-    "price": 69.99,
-    "originalPrice": 159.07,
-    "discount": 56,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt74laovim861f",
-    "url": "https://s.shopee.com.br/6fiVVDPIYq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4862,
-    "publishedAt": "2026-10-27T13:35:14.823Z",
-    "checkedAt": "2026-11-03T14:05:22.224Z"
-  },
-  {
     "id": "SP1367598261-23798866617",
     "productId": "SP1367598261-23798866617",
     "marketplace": "shopee",
@@ -5925,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 751,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1147645290-23098907867",
@@ -6117,7 +6141,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6429,7 +6453,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1485077747-58252016104",
@@ -6477,7 +6501,7 @@
     "lowest30d": false,
     "vendas": 2105,
     "publishedAt": "2026-10-20T03:05:13.240Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7847665416",
@@ -6491,7 +6515,7 @@
     "discount": 51,
     "base": "media",
     "averagePrice": 368,
-    "sellers": 28,
+    "sellers": 36,
     "image": "https://http2.mlstatic.com/D_NQ_NP_958703-MLA114615536406_082026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7847665416?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -6501,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6525,7 +6549,7 @@
     "lowest30d": true,
     "vendas": 11703,
     "publishedAt": "2026-10-19T12:35:14.361Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP394192376-21065270721",
@@ -6573,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -6717,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T21:05:16.837Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -6765,7 +6789,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1574170248-23998667413",
@@ -6981,7 +7005,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1027415014-23299661359",
@@ -7029,7 +7053,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -7149,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP753139334-22594417331",
@@ -7197,7 +7221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB3722102795",
@@ -7221,31 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
-  },
-  {
-    "id": "MLB4701793653",
-    "productId": "MLB64174316",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
-    "price": 31.56,
-    "originalPrice": 52.9,
-    "discount": 40,
-    "base": "media",
-    "averagePrice": 52.9,
-    "sellers": 48,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7341,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7512,6 +7512,30 @@
     "checkedAt": "2026-11-03T14:35:16.712Z"
   },
   {
+    "id": "MLB4701793653",
+    "productId": "MLB64174316",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
+    "price": 34.42,
+    "originalPrice": 52.9,
+    "discount": 35,
+    "base": "media",
+    "averagePrice": 52.9,
+    "sellers": 48,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-03T17:05:20.246Z"
+  },
+  {
     "id": "SP296363855-22197552043",
     "productId": "SP296363855-22197552043",
     "marketplace": "shopee",
@@ -7534,6 +7558,30 @@
     "vendas": 3643,
     "publishedAt": "2026-11-03T03:35:17.655Z",
     "checkedAt": "2026-11-03T14:42:24.132Z"
+  },
+  {
+    "id": "MLB7845017868",
+    "productId": "MLB16084371",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Papel higiênico Neve Toque da Seda folha dupla 30 m de 32 un",
+    "price": 58.99,
+    "originalPrice": 90.75,
+    "discount": 35,
+    "base": "media",
+    "averagePrice": 90.75,
+    "sellers": 9,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_846712-MLA99595796020_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7845017868?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-01T09:35:17.104Z",
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7581,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7653,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP434195734-55011865850",
@@ -7701,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB6224601478",
@@ -7725,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7690418228",
@@ -7739,7 +7787,7 @@
     "discount": 32,
     "base": "media",
     "averagePrice": 368,
-    "sellers": 28,
+    "sellers": 36,
     "image": "https://http2.mlstatic.com/D_NQ_NP_988485-MLA115976118017_082026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7690418228?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7749,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7690418174",
@@ -7763,7 +7811,7 @@
     "discount": 32,
     "base": "media",
     "averagePrice": 368,
-    "sellers": 31,
+    "sellers": 38,
     "image": "https://http2.mlstatic.com/D_NQ_NP_710864-MLA116041874445_082026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7690418174?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7773,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5279469915",
@@ -7787,7 +7835,7 @@
     "discount": 32,
     "base": "media",
     "averagePrice": 368,
-    "sellers": 30,
+    "sellers": 36,
     "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5279469915?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7797,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1528310601-23098579259",
@@ -7824,6 +7872,30 @@
     "checkedAt": "2026-11-03T14:35:16.712Z"
   },
   {
+    "id": "MLB5504200939",
+    "productId": "MLB64896669",
+    "marketplace": "ml",
+    "fonte": "MLB2526",
+    "categoria": "Ferramentas",
+    "title": "Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável 48v Bivolt Velocidade Ajustavel Com Travas Mandril Resistente Woosh",
+    "price": 104.5,
+    "originalPrice": 149.9,
+    "discount": 30,
+    "base": "media",
+    "averagePrice": 149.9,
+    "sellers": 11,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_956285-MLA115392782062_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5504200939?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T13:05:15.920Z",
+    "checkedAt": "2026-11-03T17:05:20.246Z"
+  },
+  {
     "id": "MLB7816881744",
     "productId": "MLB66785024",
     "marketplace": "ml",
@@ -7845,7 +7917,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7893,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5739859240",
@@ -7917,55 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
-  },
-  {
-    "id": "MLB5504200939",
-    "productId": "MLB64896669",
-    "marketplace": "ml",
-    "fonte": "MLB2526",
-    "categoria": "Ferramentas",
-    "title": "Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável 48v Bivolt Velocidade Ajustavel Com Travas Mandril Resistente Woosh",
-    "price": 110,
-    "originalPrice": 149.9,
-    "discount": 27,
-    "base": "media",
-    "averagePrice": 149.9,
-    "sellers": 11,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_956285-MLA115392782062_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5504200939?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T13:05:15.920Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
-  },
-  {
-    "id": "MLB7845017868",
-    "productId": "MLB16084371",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Papel higiênico Neve Toque da Seda folha dupla 30 m de 32 un",
-    "price": 66.49,
-    "originalPrice": 90.75,
-    "discount": 27,
-    "base": "media",
-    "averagePrice": 90.75,
-    "sellers": 9,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_846712-MLA99595796020_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7845017868?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4104379865",
@@ -7979,7 +8003,7 @@
     "discount": 27,
     "base": "media",
     "averagePrice": 119.9,
-    "sellers": 35,
+    "sellers": 34,
     "image": "https://http2.mlstatic.com/D_NQ_NP_625242-MLA109735920377_032026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4104379865?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7989,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB6949268730",
@@ -8013,31 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
-  },
-  {
-    "id": "MLB6943866984",
-    "productId": "MLB69351361",
-    "marketplace": "ml",
-    "fonte": "MLB1580",
-    "categoria": "Eletrodomésticos",
-    "title": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
-    "price": 468.18,
-    "originalPrice": 623.92,
-    "discount": 25,
-    "base": "media",
-    "averagePrice": 623.92,
-    "sellers": 5,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_914513-MLA110469751630_052026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6943866984?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "BUDCOMÉRCIOELETRODOMÉSTICOS",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-02T19:35:13.416Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7021195702",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T00:35:16.047Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB3682277189",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4178016811",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:42:24.132Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5812393646",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5488515025",
@@ -8157,7 +8157,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7071544106",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4521286991",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5451291113",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7653303324",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T05:35:17.202Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7804407866",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB4754741037",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T22:35:12.664Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB7578108490",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB6174995494",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB2196138476",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB3767156322",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T21:35:13.769Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB3556651987",
@@ -8407,11 +8407,11 @@
     "categoria": "Bebês",
     "title": "Kit 2 Unidades De Bico Pétala 3.0 T5 Para Bebês De 6 Meses Phillips Avent",
     "price": 40.81,
-    "originalPrice": 59.95,
+    "originalPrice": 59.9,
     "discount": 32,
     "base": "media",
-    "averagePrice": 59.95,
-    "sellers": 41,
+    "averagePrice": 59.9,
+    "sellers": 42,
     "image": "https://http2.mlstatic.com/D_NQ_NP_653510-MLA110085549759_042026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3556651987?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 5420,
     "publishedAt": "2026-10-08T12:35:13.204Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1366045948-22993693932",
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 273,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8925,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1337,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1472984464-58217006381",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 5660,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1860098702-58266177953",
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 184,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9717,7 +9717,7 @@
     "lowest30d": false,
     "vendas": 221,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -10077,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 4816,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -10101,30 +10101,6 @@
     "lowest30d": false,
     "vendas": 655,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-11-03T16:35:22.363Z"
-  },
-  {
-    "id": "SP790605924-22897149838",
-    "productId": "SP790605924-22897149838",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Boneca Reborn Bebê Girafinha Luxo Original Realista de Silicone Menina Pode Dar Banho Envio Imediato",
-    "price": 71.9,
-    "originalPrice": 211.47,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mu2179tvc4cib1",
-    "url": "https://s.shopee.com.br/6AmEuIVbMH",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 3297,
-    "publishedAt": "2026-10-07T13:55:18.295Z",
     "checkedAt": "2026-11-03T16:35:22.363Z"
   },
   {
@@ -10173,7 +10149,7 @@
     "lowest30d": true,
     "vendas": 951,
     "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10557,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 1079,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10893,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 584,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP328666563-58255491703",
@@ -10941,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 2973,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -11133,7 +11109,7 @@
     "lowest30d": true,
     "vendas": 844,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1825887656-58266634964",
@@ -11157,7 +11133,7 @@
     "lowest30d": true,
     "vendas": 707,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -11181,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 232,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11397,7 +11373,7 @@
     "lowest30d": false,
     "vendas": 223,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -11541,7 +11517,7 @@
     "lowest30d": true,
     "vendas": 420,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -11661,7 +11637,7 @@
     "lowest30d": false,
     "vendas": 385,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -11877,7 +11853,7 @@
     "lowest30d": true,
     "vendas": 289,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-11-03T13:35:14.155Z"
+    "checkedAt": "2026-11-03T17:05:20.246Z"
   },
   {
     "id": "SP1524383764-23493930815",
