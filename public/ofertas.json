@@ -21,7 +21,7 @@
     "lowest30d": true,
     "vendas": 3260,
     "publishedAt": "2026-11-03T12:35:14.397Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1398196452-26044322175",
@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 594,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": 1060,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1654822470-22799185652",
@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 1278,
     "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -909,7 +909,7 @@
     "lowest30d": false,
     "vendas": 1322,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -1677,7 +1677,7 @@
     "lowest30d": false,
     "vendas": 184,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP322434863-9414033305",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 348,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1965,7 +1965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -2469,7 +2469,7 @@
     "lowest30d": true,
     "vendas": 151,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1397772996-58211339678",
@@ -2493,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 251,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -2517,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 534,
     "publishedAt": "2026-11-01T05:35:14.302Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2589,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 293,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2634,10 +2634,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1199,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP281898655-42514418718",
@@ -2709,7 +2709,7 @@
     "lowest30d": true,
     "vendas": 718,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -2757,7 +2757,7 @@
     "lowest30d": true,
     "vendas": 686,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -2880,30 +2880,6 @@
     "checkedAt": "2026-11-04T00:05:16.817Z"
   },
   {
-    "id": "MLB3332109715",
-    "productId": "MLB18308305",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Vodka Smirnoff 1,75L",
-    "price": 40.74,
-    "originalPrice": 109.85,
-    "discount": 63,
-    "base": "media",
-    "averagePrice": 109.85,
-    "sellers": 10,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
-  },
-  {
     "id": "SP1673514861-58252475087",
     "productId": "SP1673514861-58252475087",
     "marketplace": "shopee",
@@ -2997,7 +2973,7 @@
     "lowest30d": false,
     "vendas": 1242,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1284795277-22893701336",
@@ -3021,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 812,
     "publishedAt": "2026-10-30T18:05:16.584Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -3045,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 1126,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1345043704-22497773735",
@@ -3069,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 4876,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3117,7 +3093,7 @@
     "lowest30d": true,
     "vendas": 632,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -3408,6 +3384,30 @@
     "checkedAt": "2026-11-04T00:53:13.378Z"
   },
   {
+    "id": "SP1362287645-22993553341",
+    "productId": "SP1362287645-22993553341",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Tesoura de Picotar Profissional Tecidos Artesanato  - AERO",
+    "price": 28.71,
+    "originalPrice": 75.55,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqrsa8dexiwx11",
+    "url": "https://s.shopee.com.br/qkmRZ6rUD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 849,
+    "publishedAt": "2026-11-03T22:05:17.100Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
+  },
+  {
     "id": "SP741872429-58267105902",
     "productId": "SP741872429-58267105902",
     "marketplace": "shopee",
@@ -3477,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 211,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 300,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -3621,7 +3621,7 @@
     "lowest30d": true,
     "vendas": 1417,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3645,7 +3645,7 @@
     "lowest30d": true,
     "vendas": 353,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -3669,7 +3669,7 @@
     "lowest30d": true,
     "vendas": 1041,
     "publishedAt": "2026-10-24T19:35:22.469Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -3726,8 +3726,8 @@
     "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
     "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "price": 37.58,
-    "originalPrice": 98.89,
+    "price": 37.59,
+    "originalPrice": 98.92,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -3741,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 1780,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -4005,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 1095,
     "publishedAt": "2026-10-30T21:05:14.231Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP493201475-21799026815",
@@ -4293,7 +4293,7 @@
     "lowest30d": false,
     "vendas": 150,
     "publishedAt": "2026-10-19T14:05:14.666Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -4317,7 +4317,7 @@
     "lowest30d": false,
     "vendas": 587,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -4389,7 +4389,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -4629,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 2597,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1337284628-22398929943",
@@ -4653,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 252,
     "publishedAt": "2026-10-23T23:05:14.500Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1495837089-23794414130",
@@ -4701,7 +4701,7 @@
     "lowest30d": false,
     "vendas": 1377,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP341167297-20350419516",
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 3320,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4749,7 +4749,7 @@
     "lowest30d": true,
     "vendas": 6024,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1338519571-58259417049",
@@ -5181,7 +5181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T20:35:13.603Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1242044379-22092998564",
@@ -5472,30 +5472,6 @@
     "checkedAt": "2026-11-03T23:35:14.084Z"
   },
   {
-    "id": "SP1362287645-22993553341",
-    "productId": "SP1362287645-22993553341",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Tesoura de Picotar Profissional Tecidos Artesanato  - AERO",
-    "price": 31.9,
-    "originalPrice": 74.19,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqrsa8dexiwx11",
-    "url": "https://s.shopee.com.br/qkmRZ6rUD",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 849,
-    "publishedAt": "2026-11-03T22:05:17.100Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
-  },
-  {
     "id": "MLB4641589414",
     "productId": "MLB34295736",
     "marketplace": "ml",
@@ -5517,7 +5493,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -5709,7 +5685,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -6117,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -6165,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 3889,
     "publishedAt": "2026-10-29T14:05:13.931Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1316771485-23998649477",
@@ -6237,7 +6213,7 @@
     "lowest30d": true,
     "vendas": 1455,
     "publishedAt": "2026-10-24T04:30:29.125Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP991338332-23298943553",
@@ -6360,6 +6336,30 @@
     "checkedAt": "2026-11-03T22:35:14.961Z"
   },
   {
+    "id": "MLB5293442116",
+    "productId": "MLB23463576",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Purificador de Água Consul Branco/Prata CPB34ASVNA",
+    "price": 464,
+    "originalPrice": 989,
+    "discount": 53,
+    "base": "media",
+    "averagePrice": 989,
+    "sellers": 22,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_946189-MLA115405170646_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5293442116?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-26T17:35:19.332Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
+  },
+  {
     "id": "SP1468415010-58208798751",
     "productId": "SP1468415010-58208798751",
     "marketplace": "shopee",
@@ -6405,31 +6405,7 @@
     "lowest30d": true,
     "vendas": 1840,
     "publishedAt": "2026-10-28T04:35:16.031Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
-  },
-  {
-    "id": "MLB5293442116",
-    "productId": "MLB23463576",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Purificador de Água Consul Branco/Prata CPB34ASVNA",
-    "price": 464,
-    "originalPrice": 968.59,
-    "discount": 52,
-    "base": "media",
-    "averagePrice": 968.59,
-    "sellers": 23,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_946189-MLA115405170646_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5293442116?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-26T17:35:19.332Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1485077747-58252016104",
@@ -6480,6 +6456,30 @@
     "checkedAt": "2026-11-03T22:35:14.961Z"
   },
   {
+    "id": "MLB6194501592",
+    "productId": "MLB62230579",
+    "marketplace": "ml",
+    "fonte": "MLB438284",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+    "price": 349,
+    "originalPrice": 718.75,
+    "discount": 51,
+    "base": "media",
+    "averagePrice": 718.75,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-25T15:35:15.214Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
+  },
+  {
     "id": "SP1725104548-58211255048",
     "productId": "SP1725104548-58211255048",
     "marketplace": "shopee",
@@ -6525,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP222975446-22394186914",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T21:05:16.837Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4755939250",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1754134369-58268146480",
@@ -6741,7 +6741,7 @@
     "lowest30d": true,
     "vendas": 1281,
     "publishedAt": "2026-10-21T19:35:15.142Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1574170248-23998667413",
@@ -6790,6 +6790,30 @@
     "vendas": 2914,
     "publishedAt": "2026-10-24T14:35:14.198Z",
     "checkedAt": "2026-11-04T00:53:13.378Z"
+  },
+  {
+    "id": "MLB3332109715",
+    "productId": "MLB18308305",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Vodka Smirnoff 1,75L",
+    "price": 59.21,
+    "originalPrice": 109.85,
+    "discount": 46,
+    "base": "media",
+    "averagePrice": 109.85,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783096-MLA99929512991_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3332109715?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-20T21:05:27.623Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP443076516-44959639811",
@@ -6912,30 +6936,6 @@
     "checkedAt": "2026-11-04T00:53:13.378Z"
   },
   {
-    "id": "MLB6194501592",
-    "productId": "MLB62230579",
-    "marketplace": "ml",
-    "fonte": "MLB438284",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-    "price": 349,
-    "originalPrice": 639.5,
-    "discount": 45,
-    "base": "media",
-    "averagePrice": 639.5,
-    "sellers": 16,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6194501592?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
-  },
-  {
     "id": "SP1027415014-23299661359",
     "productId": "SP1027415014-23299661359",
     "marketplace": "shopee",
@@ -6981,7 +6981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4431431291",
@@ -7005,7 +7005,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -7077,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T19:35:17.310Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP552896405-43079698414",
@@ -7149,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB3722102795",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7269,7 +7269,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7318,6 +7318,30 @@
     "vendas": 2042,
     "publishedAt": "2026-11-03T14:05:22.224Z",
     "checkedAt": "2026-11-04T00:53:13.378Z"
+  },
+  {
+    "id": "MLB4701793653",
+    "productId": "MLB64174316",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
+    "price": 31.56,
+    "originalPrice": 51.99,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 51.99,
+    "sellers": 48,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -7437,7 +7461,7 @@
     "lowest30d": true,
     "vendas": 832,
     "publishedAt": "2026-10-25T22:05:13.616Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP395166866-58262387632",
@@ -7557,31 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
-  },
-  {
-    "id": "MLB4701793653",
-    "productId": "MLB64174316",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
-    "price": 34.42,
-    "originalPrice": 51.99,
-    "discount": 34,
-    "base": "media",
-    "averagePrice": 51.99,
-    "sellers": 48,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB3917376669",
@@ -7605,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": 3399,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5250929785",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7690418228",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T22:05:14.573Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7690418174",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5279469915",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T00:05:13.745Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP915838501-19197998202",
@@ -7845,7 +7845,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-03T20:35:27.291Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5739859240",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7845017868",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4104379865",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB6949268730",
@@ -7927,10 +7927,10 @@
     "categoria": "Eletrônicos",
     "title": "Amazon Fire Tv Stick 4k Max 16gb Wi-fi 6 e Alexa Controle Por Voz Preto",
     "price": 352.01,
-    "originalPrice": 472.51,
+    "originalPrice": 474.45,
     "discount": 26,
     "base": "media",
-    "averagePrice": 472.51,
+    "averagePrice": 474.45,
     "sellers": 41,
     "image": "https://http2.mlstatic.com/D_NQ_NP_625659-MLA113111634652_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-6949268730?matt_word=promoninja&matt_tool=19839069",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5537222254",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB2777493229",
@@ -7975,10 +7975,10 @@
     "categoria": "Mercado",
     "title": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
     "price": 55.1,
-    "originalPrice": 74.6,
+    "originalPrice": 74.2,
     "discount": 26,
     "base": "media",
-    "averagePrice": 74.6,
+    "averagePrice": 74.2,
     "sellers": 47,
     "image": "https://http2.mlstatic.com/D_NQ_NP_902576-MLA99924632301_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-2777493229?matt_word=promoninja&matt_tool=19839069",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB3682277189",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7021195702",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T00:35:16.047Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5812393646",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4521286991",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-21T23:05:12.476Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB2079647540",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4178016811",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:42:24.132Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7816881744",
@@ -8157,7 +8157,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5488515025",
@@ -8181,31 +8181,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
-  },
-  {
-    "id": "MLB5451291113",
-    "productId": "MLB66980166",
-    "marketplace": "ml",
-    "fonte": "MLB133950",
-    "categoria": "Eletrônicos",
-    "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
-    "price": 198.75,
-    "originalPrice": 250.4,
-    "discount": 21,
-    "base": "media",
-    "averagePrice": 250.4,
-    "sellers": 37,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5451291113?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ELETRO .COM",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7071544106",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T01:05:23.980Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7653303324",
@@ -8253,7 +8229,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T05:35:17.202Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
+  },
+  {
+    "id": "MLB5451291113",
+    "productId": "MLB66980166",
+    "marketplace": "ml",
+    "fonte": "MLB133950",
+    "categoria": "Eletrônicos",
+    "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
+    "price": 198.75,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "base": "media",
+    "averagePrice": 249.99,
+    "sellers": 37,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5451291113?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ELETRO .COM",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-26T03:35:15.834Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7578108490",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB3918296339",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T17:35:19.435Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB7804407866",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB6174995494",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB2196138476",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB4754741037",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T22:35:12.664Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB3556651987",
@@ -8421,7 +8421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-09-27T18:05:14.194Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "MLB5686403044",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1542039589-58255861085",
@@ -8661,7 +8661,7 @@
     "lowest30d": false,
     "vendas": 912,
     "publishedAt": "2026-10-04T13:35:12.182Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 541,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1568541347-23199502567",
@@ -9021,7 +9021,7 @@
     "lowest30d": true,
     "vendas": 237,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1127030290-22497983911",
@@ -9309,7 +9309,7 @@
     "lowest30d": false,
     "vendas": 441,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1550289868-45164931447",
@@ -9357,7 +9357,7 @@
     "lowest30d": false,
     "vendas": 258,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1480118625-49501660876",
@@ -9573,7 +9573,7 @@
     "lowest30d": false,
     "vendas": 1524,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -9909,7 +9909,7 @@
     "lowest30d": true,
     "vendas": 246,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP441005685-54401956392",
@@ -9925,7 +9925,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkmzuvz24u9f0",
-    "url": "https://s.shopee.com.br/9pfYfoiGSu",
+    "url": "https://s.shopee.com.br/1qdKMqdNWu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -9933,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 3254,
     "publishedAt": "2026-10-16T12:35:17.271Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 807,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1620496963-23598879635",
@@ -10653,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 1394,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1569804599-22094455907",
@@ -10677,7 +10677,7 @@
     "lowest30d": true,
     "vendas": 153,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1127030290-23794729092",
@@ -10701,7 +10701,7 @@
     "lowest30d": false,
     "vendas": 402,
     "publishedAt": "2026-09-30T16:35:18.237Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1643589827-58259648766",
@@ -10725,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 772,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -10821,7 +10821,7 @@
     "lowest30d": true,
     "vendas": 1329,
     "publishedAt": "2026-10-17T19:35:11.457Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -10965,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 2027,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP530370669-21097428144",
@@ -11133,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 945,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -11157,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 262,
     "publishedAt": "2026-09-30T17:05:14.390Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP321618298-58208305945",
@@ -11398,30 +11398,6 @@
     "vendas": 342,
     "publishedAt": "2026-10-01T16:35:14.298Z",
     "checkedAt": "2026-11-04T00:53:13.378Z"
-  },
-  {
-    "id": "SP409939729-23694671466",
-    "productId": "SP409939729-23694671466",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
-    "price": 36.8,
-    "originalPrice": 99.46,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
-    "url": "https://s.shopee.com.br/4LKaRbOPBq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2699,
-    "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -11718,8 +11694,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica infantil com canudo e alça 500/520ml Copo em aço inox - BM-1330",
-    "price": 33.45,
-    "originalPrice": 90.41,
+    "price": 33.5,
+    "originalPrice": 90.54,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -11730,10 +11706,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 458,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11832,6 +11808,30 @@
     "checkedAt": "2026-11-04T00:53:13.378Z"
   },
   {
+    "id": "SP409939729-23694671466",
+    "productId": "SP409939729-23694671466",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "25 Peças Brinquedo de Pistas Estacionamento - Carro + Acessórios Infantis",
+    "price": 37.9,
+    "originalPrice": 99.74,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgyhjucdx1qdad",
+    "url": "https://s.shopee.com.br/9pfbtYDnqK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2699,
+    "publishedAt": "2026-10-13T11:35:14.167Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
+  },
+  {
     "id": "SP1841870093-55315796592",
     "productId": "SP1841870093-55315796592",
     "marketplace": "shopee",
@@ -11877,7 +11877,7 @@
     "lowest30d": false,
     "vendas": 564,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-03T21:35:26.924Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1793507407-45712892195",
@@ -11949,7 +11949,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-19T09:35:15.408Z",
-    "checkedAt": "2026-11-04T00:53:13.378Z"
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   },
   {
     "id": "SP1826543308-58213106918",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-11-03T22:05:17.100Z"
   },
   {
-    "id": "SP1719146158-22094949932",
-    "productId": "SP1719146158-22094949932",
+    "id": "SP1485077747-58200879255",
+    "productId": "SP1485077747-58200879255",
     "marketplace": "shopee",
-    "fonte": "shopee:q:jogo de cama",
-    "categoria": "Casa e Decoração",
-    "title": "Jogo de Cama 500 Fios Kit Lencol Toque de Algodão Lençol Toque de Seda Casal Queen King",
-    "price": 36.9,
-    "originalPrice": 80.22,
-    "discount": 54,
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Carregador de Carregamento Turbo 30w Fonte 3A Torre Carregar Celular Tipo-C com Cabo Lightning(ios)",
+    "price": 53.99,
+    "originalPrice": 119.98,
+    "discount": 55,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mr06izreo6bq80",
-    "url": "https://s.shopee.com.br/50aHWCVBf2",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpfk4paqdm9v32",
+    "url": "https://s.shopee.com.br/1BNYx8VxDu",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1178,
-    "publishedAt": "2026-10-18T13:05:14.119Z",
-    "checkedAt": "2026-11-03T22:05:17.100Z"
+    "vendas": 3760,
+    "publishedAt": "2026-11-04T01:05:12.618Z",
+    "checkedAt": "2026-11-04T01:05:12.618Z"
   }
 ]
