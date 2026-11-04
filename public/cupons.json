@@ -44,6 +44,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "ESTOQUE0311"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 79",
+    "escopo": "Queima de Estoque",
+    "origem": "avidaefeitadedesconto/16976",
+    "quando": "2026-11-03T17:46:55+00:00",
+    "id": "ml:ESTOQUE0311",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "GARNIERNOMELI"
     ],
     "desconto": "15% OFF",
@@ -278,34 +292,6 @@
     "origem": "avidaefeitadedesconto/16953",
     "quando": "2026-11-03T12:05:37+00:00",
     "id": "ml:GANHEDESCONTO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESTOQUE0311"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 50",
-    "minimo": null,
-    "escopo": "Queima de Estoque",
-    "origem": "avidaefeitadedesconto/16952",
-    "quando": "2026-11-03T03:44:35+00:00",
-    "id": "ml:ESTOQUE0311",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "RESGATEALLSITE0211"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 199",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16951",
-    "quando": "2026-11-03T03:44:17+00:00",
-    "id": "ml:RESGATEALLSITE0211",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
