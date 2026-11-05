@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "MOVEIS0511"
+    ],
+    "desconto": "R$ 90 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17036",
+    "quando": "2026-11-05T12:15:06+00:00",
+    "id": "ml:MOVEIS0511",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MODAMELI"
     ],
     "desconto": "12% OFF",
@@ -404,76 +418,6 @@
     "origem": "avidaefeitadedesconto/16999",
     "quando": "2026-11-04T13:19:17+00:00",
     "id": "ml:AVENEMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SAUDEML"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 79",
-    "escopo": "Saúde e Bem-Estar",
-    "origem": "avidaefeitadedesconto/16997",
-    "quando": "2026-11-04T12:17:56+00:00",
-    "id": "ml:SAUDEML",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SEMPREMODA"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 79",
-    "escopo": "Moda",
-    "origem": "avidaefeitadedesconto/16996",
-    "quando": "2026-11-04T12:14:03+00:00",
-    "id": "ml:SEMPREMODA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CASASEMPRE"
-    ],
-    "desconto": "20% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/16995",
-    "quando": "2026-11-04T12:13:54+00:00",
-    "id": "ml:CASASEMPRE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "AUTOSEMPRE"
-    ],
-    "desconto": "18% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 99",
-    "escopo": "Acessórios para Veículos",
-    "origem": "avidaefeitadedesconto/16994",
-    "quando": "2026-11-04T12:13:47+00:00",
-    "id": "ml:AUTOSEMPRE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CONSTRUSEMPRE"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 79",
-    "escopo": "Ferramentas e Construção",
-    "origem": "avidaefeitadedesconto/16993",
-    "quando": "2026-11-04T12:13:43+00:00",
-    "id": "ml:CONSTRUSEMPRE",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
