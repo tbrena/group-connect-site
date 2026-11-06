@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "SUPER0611"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Supermercado",
+    "origem": "avidaefeitadedesconto/17067",
+    "quando": "2026-11-06T18:22:55+00:00",
+    "id": "ml:SUPER0611",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "FULL0611"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Entrega Full",
+    "origem": "avidaefeitadedesconto/17066",
+    "quando": "2026-11-06T18:20:21+00:00",
+    "id": "ml:FULL0611",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TECH0611"
+    ],
+    "desconto": "R$ 220 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17065",
+    "quando": "2026-11-06T18:20:12+00:00",
+    "id": "ml:TECH0611",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "DECORACAO0611"
     ],
     "desconto": "20% OFF",
@@ -180,20 +222,6 @@
     "origem": "avidaefeitadedesconto/17049",
     "quando": "2026-11-05T19:31:49+00:00",
     "id": "ml:HOJECOMCUPOM",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DECOR0511"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": "R$ 399",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17048",
-    "quando": "2026-11-05T18:12:30+00:00",
-    "id": "ml:DECOR0511",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
