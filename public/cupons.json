@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "LOJAS0611"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/17061",
+    "quando": "2026-11-06T15:11:22+00:00",
+    "id": "ml:LOJAS0611",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SEMPREOFF"
+    ],
+    "desconto": "R$ 400 OFF",
+    "limite": null,
+    "minimo": "R$ 2699",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17060",
+    "quando": "2026-11-06T15:03:07+00:00",
+    "id": "ml:SEMPREOFF",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE0611"
     ],
     "desconto": "R$ 20 OFF",
@@ -138,20 +166,6 @@
     "origem": "avidaefeitadedesconto/17048",
     "quando": "2026-11-05T18:12:30+00:00",
     "id": "ml:DECOR0511",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFICIAIS0511"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/17046",
-    "quando": "2026-11-05T15:04:21+00:00",
-    "id": "ml:OFICIAIS0511",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
