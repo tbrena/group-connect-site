@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "MOVEIS0711"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Móveis",
+    "origem": "avidaefeitadedesconto/17081",
+    "quando": "2026-11-07T12:04:30+00:00",
+    "id": "ml:MOVEIS0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "LOJAS0711"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/17080",
+    "quando": "2026-11-07T12:03:55+00:00",
+    "id": "ml:LOJAS0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELIMAIS0711"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 80",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17079",
+    "quando": "2026-11-07T12:01:10+00:00",
+    "id": "ml:MELIMAIS0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "RESGATEALLSITE0711"
     ],
     "desconto": "20% OFF",
@@ -193,63 +235,6 @@
     "origem": "avidaefeitadedesconto/17057",
     "quando": "2026-11-06T13:07:08+00:00",
     "id": "ml:SITETODO0611",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFPRAAUTO"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 99",
-    "escopo": "Acessórios para Veículos",
-    "origem": "avidaefeitadedesconto/17056",
-    "quando": "2026-11-06T12:06:21+00:00",
-    "id": "ml:OFFPRAAUTO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFPRACASA"
-    ],
-    "desconto": "20% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17055",
-    "quando": "2026-11-06T12:02:21+00:00",
-    "id": "ml:OFFPRACASA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MODASEMPRE"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 79",
-    "escopo": "Moda",
-    "origem": "avidaefeitadedesconto/17054",
-    "quando": "2026-11-06T12:00:19+00:00",
-    "id": "ml:MODASEMPRE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FAVORITO",
-      "OFFNOMELI"
-    ],
-    "desconto": null,
-    "limite": "R$ 200",
-    "minimo": null,
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/17053",
-    "quando": "2026-11-06T11:56:12+00:00",
-    "id": "ml:FAVORITO+OFFNOMELI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
