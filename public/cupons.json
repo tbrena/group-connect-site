@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "FULL0711"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Entrega Full",
+    "origem": "avidaefeitadedesconto/17086",
+    "quando": "2026-11-07T15:16:23+00:00",
+    "id": "ml:FULL0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODA0711"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 25",
+    "minimo": "R$ 99",
+    "escopo": "Moda e Bem-Estar",
+    "origem": "avidaefeitadedesconto/17085",
+    "quando": "2026-11-07T15:16:08+00:00",
+    "id": "ml:MODA0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "BEBEPET0711"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 60",
+    "minimo": null,
+    "escopo": "Itens de Bebês e Pets",
+    "origem": "avidaefeitadedesconto/17084",
+    "quando": "2026-11-07T15:09:37+00:00",
+    "id": "ml:BEBEPET0711",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "OFERTANOMELI"
     ],
     "desconto": "10% OFF",
@@ -165,48 +207,6 @@
     "origem": "avidaefeitadedesconto/17065",
     "quando": "2026-11-06T18:20:12+00:00",
     "id": "ml:TECH0611",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DECORACAO0611"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 80",
-    "minimo": "R$ 129",
-    "escopo": "Itens de Casa",
-    "origem": "avidaefeitadedesconto/17063",
-    "quando": "2026-11-06T15:18:10+00:00",
-    "id": "ml:DECORACAO0611",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZA0611"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 20",
-    "minimo": null,
-    "escopo": "Moda e Beleza",
-    "origem": "avidaefeitadedesconto/17062",
-    "quando": "2026-11-06T15:14:36+00:00",
-    "id": "ml:BELEZA0611",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJAS0611"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/17061",
-    "quando": "2026-11-06T15:11:22+00:00",
-    "id": "ml:LOJAS0611",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]

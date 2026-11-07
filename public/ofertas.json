@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 560,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1187975388-18297808572",
@@ -309,7 +309,7 @@
     "lowest30d": false,
     "vendas": 1148,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 1331,
     "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -624,30 +624,6 @@
     "checkedAt": "2026-11-07T13:05:20.227Z"
   },
   {
-    "id": "SP1525414236-58267013138",
-    "productId": "SP1525414236-58267013138",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone bluetooth",
-    "categoria": "Eletrônicos",
-    "title": "Fones de ouvido intra-auriculares sem fio com Bluetooth, modo de hibernação, compactos e portáteis T-70",
-    "price": 30.99,
-    "originalPrice": 99.97,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mufcuegz7ksi2b",
-    "url": "https://s.shopee.com.br/50aNrpACtV",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1174,
-    "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-11-07T13:35:18.415Z"
-  },
-  {
     "id": "MLB3798323167",
     "productId": "MLB19466433",
     "marketplace": "ml",
@@ -669,7 +645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -813,7 +789,7 @@
     "lowest30d": false,
     "vendas": 1204,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -886,6 +862,30 @@
     "vendas": 4649,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-11-07T14:35:13.966Z"
+  },
+  {
+    "id": "SP1209650911-22194732923",
+    "productId": "SP1209650911-22194732923",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
+    "price": 55.88,
+    "originalPrice": 169.33,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvbz0es6l1ec9",
+    "url": "https://s.shopee.com.br/50aNrf0Z5i",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 961,
+    "publishedAt": "2026-10-08T14:05:17.537Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP543131983-14478149714",
@@ -1581,7 +1581,7 @@
     "lowest30d": true,
     "vendas": 213,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1821,7 +1821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T20:35:14.814Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP511410160-16386482120",
@@ -2349,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 4052,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2421,7 +2421,7 @@
     "lowest30d": true,
     "vendas": 413,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2493,7 +2493,7 @@
     "lowest30d": true,
     "vendas": 1325,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP281898655-42514418718",
@@ -2589,7 +2589,7 @@
     "lowest30d": true,
     "vendas": 701,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1495837089-23794414130",
@@ -2733,7 +2733,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -2829,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 1250,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1284795277-22893701336",
@@ -2853,7 +2853,7 @@
     "lowest30d": true,
     "vendas": 794,
     "publishedAt": "2026-10-30T18:05:16.584Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -2877,7 +2877,7 @@
     "lowest30d": false,
     "vendas": 1113,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1345043704-22497773735",
@@ -2901,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 4882,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1730290113-58204994417",
@@ -2949,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 697,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -3021,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 608,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1448484843-22294173900",
@@ -3165,7 +3165,7 @@
     "lowest30d": false,
     "vendas": 1942,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -3349,7 +3349,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqrsa8dexiwx11",
-    "url": "https://s.shopee.com.br/5fq6svlxmm",
+    "url": "https://s.shopee.com.br/7VHmfD1192",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3357,7 +3357,7 @@
     "lowest30d": true,
     "vendas": 2177,
     "publishedAt": "2026-11-03T22:05:17.100Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3405,7 +3405,7 @@
     "lowest30d": true,
     "vendas": 241,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -3429,7 +3429,7 @@
     "lowest30d": false,
     "vendas": 531,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3549,7 +3549,7 @@
     "lowest30d": true,
     "vendas": 1391,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP385864671-51557168529",
@@ -3573,7 +3573,7 @@
     "lowest30d": true,
     "vendas": 343,
     "publishedAt": "2026-10-24T20:05:12.932Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1459882590-58255858869",
@@ -3597,7 +3597,7 @@
     "lowest30d": true,
     "vendas": 1021,
     "publishedAt": "2026-10-24T19:35:22.469Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -3781,7 +3781,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
-    "url": "https://s.shopee.com.br/1qdOJt0YYg",
+    "url": "https://s.shopee.com.br/6L5pH4181d",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3789,7 +3789,7 @@
     "lowest30d": true,
     "vendas": 3504,
     "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1283675544-51606352089",
@@ -3861,7 +3861,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP493201475-21799026815",
@@ -3886,30 +3886,6 @@
     "vendas": 864,
     "publishedAt": "2026-10-28T18:05:17.013Z",
     "checkedAt": "2026-11-07T13:35:18.415Z"
-  },
-  {
-    "id": "SP450664666-20497747354",
-    "productId": "SP450664666-20497747354",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Antipulgas Para Cães Simparic 20mg De 5,1-10kg 1 Comprimido",
-    "price": 54.21,
-    "originalPrice": 139,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj2vh9s15vl6c",
-    "url": "https://s.shopee.com.br/8fTgIfYR2G",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3334,
-    "publishedAt": "2026-10-28T03:35:18.503Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
   },
   {
     "id": "SP1716664673-48257296392",
@@ -4149,7 +4125,7 @@
     "lowest30d": false,
     "vendas": 906,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB3379519035",
@@ -4173,7 +4149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -4197,7 +4173,7 @@
     "lowest30d": false,
     "vendas": 614,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -4485,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 2986,
     "publishedAt": "2026-10-24T16:05:13.475Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -4533,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 1373,
     "publishedAt": "2026-10-23T22:35:13.761Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -5349,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 552,
     "publishedAt": "2026-10-28T00:35:13.525Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1183719086-22593793702",
@@ -5414,14 +5390,14 @@
     "sellers": 5,
     "image": "https://http2.mlstatic.com/D_NQ_NP_718229-MLA113595305320_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7443466120?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
+    "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-07T04:35:14.239Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1368787663-23597895251",
@@ -5493,7 +5469,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP492409068-22594296140",
@@ -5589,7 +5565,31 @@
     "lowest30d": true,
     "vendas": 2347,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
+  },
+  {
+    "id": "SP450664666-20497747354",
+    "productId": "SP450664666-20497747354",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Antipulgas Para Cães Simparic 20mg De 5,1-10kg 1 Comprimido",
+    "price": 61.95,
+    "originalPrice": 140.8,
+    "discount": 56,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj2vh9s15vl6c",
+    "url": "https://s.shopee.com.br/8fTgIfYR2G",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3334,
+    "publishedAt": "2026-10-28T03:35:18.503Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP378093609-26586640764",
@@ -5637,7 +5637,7 @@
     "lowest30d": true,
     "vendas": 748,
     "publishedAt": "2026-10-23T13:05:15.300Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T15:35:20.383Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1094419922-48062703638",
@@ -6069,7 +6069,7 @@
     "lowest30d": true,
     "vendas": 424,
     "publishedAt": "2026-10-29T21:35:13.285Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP302142396-22599393413",
@@ -6117,7 +6117,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T15:35:19.283Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP296363855-7952814558",
@@ -6141,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 1807,
     "publishedAt": "2026-10-28T04:35:16.031Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4006196241",
@@ -6165,7 +6165,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -6192,30 +6192,6 @@
     "checkedAt": "2026-11-07T14:35:13.966Z"
   },
   {
-    "id": "MLB3793237586",
-    "productId": "MLB24208936",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "price": 32.17,
-    "originalPrice": 64.99,
-    "discount": 51,
-    "base": "media",
-    "averagePrice": 64.99,
-    "sellers": 44,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3793237586?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
-  },
-  {
     "id": "MLB3312152968",
     "productId": "MLB17331957",
     "marketplace": "ml",
@@ -6237,7 +6213,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6194501592",
@@ -6261,7 +6237,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4434428164",
@@ -6285,7 +6261,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T15:35:20.172Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -6309,7 +6285,7 @@
     "lowest30d": false,
     "vendas": 3047,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1146989156-23799809320",
@@ -6381,7 +6357,7 @@
     "lowest30d": true,
     "vendas": 5041,
     "publishedAt": "2026-10-24T10:35:12.863Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1805200864-58267718302",
@@ -6429,7 +6405,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -6501,7 +6477,7 @@
     "lowest30d": false,
     "vendas": 464,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1551841162-58257503731",
@@ -6549,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T18:35:14.514Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1855095856-58212716558",
@@ -6597,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1062544851-58201181466",
@@ -6693,7 +6669,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -6813,7 +6789,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP898761179-58206235171",
@@ -6861,7 +6837,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB2754855144",
@@ -6885,7 +6861,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T19:35:17.310Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -6933,7 +6909,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-23T12:51:45.233Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7578108490",
@@ -6957,7 +6933,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1573559062-47702868379",
@@ -6981,31 +6957,7 @@
     "lowest30d": true,
     "vendas": 1116,
     "publishedAt": "2026-11-06T13:05:12.554Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
-  },
-  {
-    "id": "SP394192376-21065270721",
-    "productId": "SP394192376-21065270721",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Mix Tropical Nuts 1Kg Castanha de Caju do Pará Amendoa Nozes Uva Passa Amendoim Gojiberry P&P",
-    "price": 48.85,
-    "originalPrice": 80.08,
-    "discount": 39,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lw5v4e4id0hh77",
-    "url": "https://s.shopee.com.br/6q24LZNLs7",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 14644,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP496965331-21705688558",
@@ -7053,7 +7005,7 @@
     "lowest30d": true,
     "vendas": 646,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB3646373243",
@@ -7077,7 +7029,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T09:35:18.052Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1296760327-22193173984",
@@ -7125,7 +7077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP457864097-25293647491",
@@ -7173,7 +7125,31 @@
     "lowest30d": true,
     "vendas": 5433,
     "publishedAt": "2026-11-03T22:35:14.961Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
+  },
+  {
+    "id": "MLB4701793653",
+    "productId": "MLB64174316",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
+    "price": 31.56,
+    "originalPrice": 51.28,
+    "discount": 38,
+    "base": "media",
+    "averagePrice": 51.28,
+    "sellers": 48,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7845017868",
@@ -7197,7 +7173,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7938591364",
@@ -7207,11 +7183,11 @@
     "categoria": "Mercado",
     "title": "Suplemento Em Pó Nutren Senior 50+ Carboidratos Sem Sabor 740g",
     "price": 127.48,
-    "originalPrice": 199.08,
+    "originalPrice": 199.17,
     "discount": 36,
     "base": "media",
-    "averagePrice": 199.08,
-    "sellers": 37,
+    "averagePrice": 199.17,
+    "sellers": 36,
     "image": "https://http2.mlstatic.com/D_NQ_NP_984686-MLA99458609238_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7938591364?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -7221,7 +7197,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7317,7 +7293,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T21:05:18.955Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5214721643",
@@ -7341,7 +7317,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T18:35:15.312Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7513235336",
@@ -7351,11 +7327,11 @@
     "categoria": "Beleza",
     "title": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
     "price": 31.9,
-    "originalPrice": 48.99,
+    "originalPrice": 48.95,
     "discount": 35,
     "base": "media",
-    "averagePrice": 48.99,
-    "sellers": 46,
+    "averagePrice": 48.95,
+    "sellers": 45,
     "image": "https://http2.mlstatic.com/D_NQ_NP_988587-MLA113982412397_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7513235336?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -7365,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP973419961-58260330620",
@@ -7389,7 +7365,7 @@
     "lowest30d": false,
     "vendas": 4097,
     "publishedAt": "2026-11-04T20:05:15.035Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP296363855-22197552043",
@@ -7413,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 4362,
     "publishedAt": "2026-11-03T03:35:17.655Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1482776546-22094520788",
@@ -7461,7 +7437,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7509,31 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
-  },
-  {
-    "id": "MLB4701793653",
-    "productId": "MLB64174316",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
-    "price": 34.42,
-    "originalPrice": 51.28,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 51.28,
-    "sellers": 48,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB3917376669",
@@ -7557,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4641589414",
@@ -7581,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7653,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T13:05:12.554Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1824003005-23899698917",
@@ -7701,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T21:05:12.739Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB3556275459",
@@ -7725,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7216528316",
@@ -7749,7 +7701,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-07T14:35:13.966Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5525129469",
@@ -7773,7 +7725,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-07T11:35:11.968Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
+  },
+  {
+    "id": "SP394192376-21065270721",
+    "productId": "SP394192376-21065270721",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Mix Tropical Nuts 1Kg Castanha de Caju do Pará Amendoa Nozes Uva Passa Amendoim Gojiberry P&P",
+    "price": 55.9,
+    "originalPrice": 79.86,
+    "discount": 30,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lw5v4e4id0hh77",
+    "url": "https://s.shopee.com.br/6q24LZNLs7",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 14644,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5250929785",
@@ -7797,7 +7773,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6802433980",
@@ -7821,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5739859240",
@@ -7845,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-27T08:35:14.396Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5830400690",
@@ -7869,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T18:05:16.316Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7297391068",
@@ -7893,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6949268730",
@@ -7917,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5537222254",
@@ -7941,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5812393646",
@@ -7950,7 +7926,7 @@
     "fonte": "MLB447778",
     "categoria": "Informática",
     "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-    "price": 178,
+    "price": 178.54,
     "originalPrice": 240.28,
     "discount": 26,
     "base": "media",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7862762630",
@@ -7989,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T10:35:13.762Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4178016811",
@@ -8013,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:42:24.132Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5488515025",
@@ -8037,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6477776054",
@@ -8061,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4482650561",
@@ -8085,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6420215012",
@@ -8109,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T19:05:15.526Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7021195702",
@@ -8133,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T00:35:16.047Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7653303324",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T05:35:17.202Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5451291113",
@@ -8181,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7952646326",
@@ -8205,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T01:05:13.895Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB3682277189",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-19T19:35:16.046Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5452950305",
@@ -8253,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7804407866",
@@ -8277,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5000007235",
@@ -8301,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB4728634751",
@@ -8325,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T20:35:13.493Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB7816881744",
@@ -8349,7 +8325,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB6174995494",
@@ -8373,7 +8349,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
+  },
+  {
+    "id": "MLB3793237586",
+    "productId": "MLB24208936",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "price": 57.49,
+    "originalPrice": 64.99,
+    "discount": 12,
+    "base": "media",
+    "averagePrice": 64.99,
+    "sellers": 44,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3793237586?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-04T16:05:20.484Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB2196138476",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-07T15:05:13.675Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -8541,7 +8541,7 @@
     "lowest30d": false,
     "vendas": 4810,
     "publishedAt": "2026-10-09T10:05:15.429Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -8701,7 +8701,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mihjml5o9p8j76",
-    "url": "https://s.shopee.com.br/9KjNGJ8X3m",
+    "url": "https://s.shopee.com.br/80E3SpbeXb",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -8709,7 +8709,7 @@
     "lowest30d": true,
     "vendas": 640,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -8806,6 +8806,30 @@
     "vendas": 961,
     "publishedAt": "2026-09-29T01:35:16.139Z",
     "checkedAt": "2026-11-07T12:35:14.560Z"
+  },
+  {
+    "id": "SP1525414236-58267013138",
+    "productId": "SP1525414236-58267013138",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fones de ouvido intra-auriculares sem fio com Bluetooth, modo de hibernação, compactos e portáteis T-70",
+    "price": 30.99,
+    "originalPrice": 99.97,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mufcuegz7ksi2b",
+    "url": "https://s.shopee.com.br/50aNrpACtV",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1174,
+    "publishedAt": "2026-10-22T23:05:20.987Z",
+    "checkedAt": "2026-11-07T13:35:18.415Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -9141,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 1230,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -9333,31 +9357,7 @@
     "lowest30d": false,
     "vendas": 250,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
-  },
-  {
-    "id": "SP397374716-22992591666",
-    "productId": "SP397374716-22992591666",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:teclado",
-    "categoria": "Informática",
-    "title": "Teclado Gamer Usb Com Iluminação Led Teclas Em Formato Arredondado",
-    "price": 54.96,
-    "originalPrice": 171.75,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lneditex47ft30",
-    "url": "https://s.shopee.com.br/9V2ocoYNEN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 190,
-    "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-11-07T12:05:12.880Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9526,30 +9526,6 @@
     "vendas": 2539,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-11-07T12:05:12.880Z"
-  },
-  {
-    "id": "SP1209650911-22194732923",
-    "productId": "SP1209650911-22194732923",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
-    "price": 55.88,
-    "originalPrice": 169.33,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvbz0es6l1ec9",
-    "url": "https://s.shopee.com.br/50aNrf0Z5i",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 961,
-    "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-11-07T14:05:14.522Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -10461,7 +10437,7 @@
     "lowest30d": true,
     "vendas": 1000,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1600164263-23294528185",
@@ -10725,7 +10701,7 @@
     "lowest30d": true,
     "vendas": 600,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP303419140-57563387424",
@@ -10741,7 +10717,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mq94rs8pm0aq0a",
-    "url": "https://s.shopee.com.br/7puZF23otS",
+    "url": "https://s.shopee.com.br/2LZgiPwoSz",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -10749,7 +10725,7 @@
     "lowest30d": true,
     "vendas": 1445,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -10821,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 3695,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -10989,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 887,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1654609614-23899120952",
@@ -11061,7 +11037,7 @@
     "lowest30d": true,
     "vendas": 758,
     "publishedAt": "2026-10-09T11:05:13.431Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -11085,7 +11061,7 @@
     "lowest30d": false,
     "vendas": 220,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11229,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 228,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP457864097-23524387565",
@@ -11277,7 +11253,7 @@
     "lowest30d": false,
     "vendas": 1437,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -11397,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 449,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -11493,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 391,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1620092777-55450779075",
@@ -11733,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 300,
     "publishedAt": "2026-10-01T17:35:14.068Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP316522636-58207521877",
@@ -11853,7 +11829,7 @@
     "lowest30d": true,
     "vendas": 1856,
     "publishedAt": "2026-10-20T11:35:15.041Z",
-    "checkedAt": "2026-11-07T11:35:11.968Z"
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1006215031-40380721249",
@@ -11902,6 +11878,30 @@
     "vendas": 2995,
     "publishedAt": "2026-10-13T03:05:13.504Z",
     "checkedAt": "2026-11-07T13:05:20.227Z"
+  },
+  {
+    "id": "SP1080919365-27095692379",
+    "productId": "SP1080919365-27095692379",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Inox 1,9L Apertar Pressão Bebidas Café Quente Água Pump Butter Cream",
+    "price": 61.98,
+    "originalPrice": 158.92,
+    "discount": 61,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mshgc45n9y4l51",
+    "url": "https://s.shopee.com.br/9fMDQJyNXQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1089,
+    "publishedAt": "2026-11-07T15:35:13.012Z",
+    "checkedAt": "2026-11-07T15:35:13.012Z"
   },
   {
     "id": "SP1412882242-23799040346",
