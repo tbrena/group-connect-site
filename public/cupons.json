@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "ELETRO0811"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 100",
+    "minimo": "R$ 500",
+    "escopo": "Som, Vídeo e Eletro",
+    "origem": "avidaefeitadedesconto/17101",
+    "quando": "2026-11-08T15:25:27+00:00",
+    "id": "ml:ELETRO0811",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "LOJAS0811"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 40",
+    "minimo": "R$ 89",
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/17100",
+    "quando": "2026-11-08T15:22:04+00:00",
+    "id": "ml:LOJAS0811",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "COMPRAHOJE"
     ],
     "desconto": "25% OFF",
@@ -165,34 +193,6 @@
     "origem": "avidaefeitadedesconto/17087",
     "quando": "2026-11-07T15:52:27+00:00",
     "id": "ml:CUPOMPRAAUTO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FULL0711"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Entrega Full",
-    "origem": "avidaefeitadedesconto/17086",
-    "quando": "2026-11-07T15:16:23+00:00",
-    "id": "ml:FULL0711",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MODA0711"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 25",
-    "minimo": "R$ 99",
-    "escopo": "Moda e Bem-Estar",
-    "origem": "avidaefeitadedesconto/17085",
-    "quando": "2026-11-07T15:16:08+00:00",
-    "id": "ml:MODA0711",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
