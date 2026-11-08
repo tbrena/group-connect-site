@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "JOGOS0811"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Diversão",
+    "origem": "avidaefeitadedesconto/17103",
+    "quando": "2026-11-08T18:06:12+00:00",
+    "id": "ml:JOGOS0811",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "BORTODEZ"
     ],
     "desconto": "10% OFF",
@@ -109,48 +123,6 @@
     "origem": "avidaefeitadedesconto/17095",
     "quando": "2026-11-08T00:30:41+00:00",
     "id": "ml:PROMODEZ",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SITE0711TODO"
-    ],
-    "desconto": "R$ 220 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17094",
-    "quando": "2026-11-07T18:09:10+00:00",
-    "id": "ml:SITE0711TODO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SITETODO0711"
-    ],
-    "desconto": "R$ 100 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17093",
-    "quando": "2026-11-07T18:08:07+00:00",
-    "id": "ml:SITETODO0711",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE0711"
-    ],
-    "desconto": "R$ 40 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17092",
-    "quando": "2026-11-07T18:06:58+00:00",
-    "id": "ml:TODOSITE0711",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
