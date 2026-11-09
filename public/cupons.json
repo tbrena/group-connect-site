@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "HOJEMESMO"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17116",
+    "quando": "2026-11-09T12:21:46+00:00",
+    "id": "ml:HOJEMESMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE0911"
     ],
     "desconto": "R$ 20 OFF",
@@ -179,20 +193,6 @@
     "origem": "avidaefeitadedesconto/17097",
     "quando": "2026-11-08T13:30:09+00:00",
     "id": "ml:HOJECONSTRU",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE0811"
-    ],
-    "desconto": "R$ 10 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17096",
-    "quando": "2026-11-08T12:29:29+00:00",
-    "id": "ml:TODOSITE0811",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
