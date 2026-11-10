@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "MELIMAIS1011"
+    ],
+    "desconto": null,
+    "limite": "R$ 80",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17138",
+    "quando": "2026-11-10T03:04:19+00:00",
+    "id": "ml:MELIMAIS1011",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "FULL1011"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 40",
+    "minimo": null,
+    "escopo": "Entregas Full",
+    "origem": "avidaefeitadedesconto/17137",
+    "quando": "2026-11-10T03:01:37+00:00",
+    "id": "ml:FULL1011",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELITEMCUPOM"
     ],
     "desconto": "30% OFF",
@@ -222,20 +250,6 @@
     "origem": "avidaefeitadedesconto/17110",
     "quando": "2026-11-09T03:18:20+00:00",
     "id": "ml:QUEIMA0911",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "FULL0911"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Entregas Full",
-    "origem": "avidaefeitadedesconto/17109",
-    "quando": "2026-11-09T03:01:35+00:00",
-    "id": "ml:FULL0911",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
