@@ -2,6 +2,21 @@
   {
     "loja": "ml",
     "codigos": [
+      "AUTO70OFF",
+      "AUTO45OFF"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17153",
+    "quando": "2026-11-10T12:43:25+00:00",
+    "id": "ml:AUTO70OFF+AUTO45OFF",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIMAISPREDD"
     ],
     "desconto": "R$ 50 OFF",
@@ -249,91 +264,6 @@
     "origem": "avidaefeitadedesconto/17124",
     "quando": "2026-11-09T15:05:51+00:00",
     "id": "ml:LOJAS0911",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZAMELI"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 79",
-    "escopo": "Beleza",
-    "origem": "avidaefeitadedesconto/17122",
-    "quando": "2026-11-09T12:53:39+00:00",
-    "id": "ml:BELEZAMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PROMOFLASH25"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Promo Flash",
-    "origem": "avidaefeitadedesconto/17121",
-    "quando": "2026-11-09T12:49:39+00:00",
-    "id": "ml:PROMOFLASH25",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIVIP20"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Achados Esportivos",
-    "origem": "avidaefeitadedesconto/17120",
-    "quando": "2026-11-09T12:47:38+00:00",
-    "id": "ml:MELIVIP20",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIOFF22"
-    ],
-    "desconto": "22% OFF",
-    "limite": "R$ 500",
-    "minimo": null,
-    "escopo": "Achados de Moda e Beleza",
-    "origem": "avidaefeitadedesconto/17119",
-    "quando": "2026-11-09T12:44:38+00:00",
-    "id": "ml:MELIOFF22",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PRESENTE",
-      "OFFSEMPRE"
-    ],
-    "desconto": null,
-    "limite": "R$ 200",
-    "minimo": null,
-    "escopo": "Tecnologia e Eletrônicos",
-    "origem": "avidaefeitadedesconto/17118",
-    "quando": "2026-11-09T12:43:11+00:00",
-    "id": "ml:PRESENTE+OFFSEMPRE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIOFF25"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Achados da Segunda",
-    "origem": "avidaefeitadedesconto/17117",
-    "quando": "2026-11-09T12:43:04+00:00",
-    "id": "ml:MELIOFF25",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
