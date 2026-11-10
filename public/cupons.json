@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "CORREHOJE"
+    ],
+    "desconto": "20% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17185",
+    "quando": "2026-11-10T23:35:41+00:00",
+    "id": "ml:CORREHOJE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "OFERTAS"
     ],
     "desconto": "12% OFF",
@@ -404,20 +418,6 @@
     "origem": "avidaefeitadedesconto/17137",
     "quando": "2026-11-10T03:01:37+00:00",
     "id": "ml:FULL1011",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELITEMCUPOM"
-    ],
-    "desconto": "30% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Garimpos",
-    "origem": "avidaefeitadedesconto/17136",
-    "quando": "2026-11-09T23:26:32+00:00",
-    "id": "ml:MELITEMCUPOM",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
