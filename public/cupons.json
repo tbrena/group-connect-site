@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "PROMOCOMTECH"
+    ],
+    "desconto": "12% OFF",
+    "limite": "R$ 300",
+    "minimo": null,
+    "escopo": "Tecnologia e Eletro",
+    "origem": "avidaefeitadedesconto/17268",
+    "quando": "2026-11-11T16:33:31+00:00",
+    "id": "ml:PROMOCOMTECH",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "APROVEITAAGORA"
     ],
     "desconto": "30% OFF",
@@ -504,20 +518,6 @@
     "origem": "avidaefeitadedesconto/17173",
     "quando": "2026-11-10T18:12:32+00:00",
     "id": "ml:MP1011",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFFAGORA"
-    ],
-    "desconto": "18% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17170",
-    "quando": "2026-11-10T16:33:14+00:00",
-    "id": "ml:OFFAGORA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
