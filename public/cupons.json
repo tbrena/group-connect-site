@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "MELHORESPROMOS"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17303",
+    "quando": "2026-11-11T22:05:51+00:00",
+    "id": "ml:MELHORESPROMOS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "OFERTAMELI"
     ],
     "desconto": "18% OFF",
@@ -574,20 +588,6 @@
     "origem": "avidaefeitadedesconto/17184",
     "quando": "2026-11-10T22:36:59+00:00",
     "id": "ml:OFERTAS",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "HOJENOML"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17182",
-    "quando": "2026-11-10T21:44:33+00:00",
-    "id": "ml:HOJENOML",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
