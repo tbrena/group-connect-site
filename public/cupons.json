@@ -1,5 +1,47 @@
 [
   {
+    "loja": "ml",
+    "codigos": [
+      "DATADUPLACAPACETES"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Capacetes para Moto",
+    "origem": "avidaefeitadedesconto/17285",
+    "quando": "2026-11-11T19:07:25+00:00",
+    "id": "ml:DATADUPLACAPACETES",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TECH1111"
+    ],
+    "desconto": "R$ 220 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17284",
+    "quando": "2026-11-11T19:05:45+00:00",
+    "id": "ml:TECH1111",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "AGORAPROMO"
+    ],
+    "desconto": "25% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17283",
+    "quando": "2026-11-11T19:02:50+00:00",
+    "id": "ml:AGORAPROMO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
     "loja": "shopee",
     "codigos": [
       "C4RR1NH0CH310"
@@ -532,20 +574,6 @@
     "origem": "avidaefeitadedesconto/17176",
     "quando": "2026-11-10T19:13:10+00:00",
     "id": "ml:TVCEL1011",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFERTAMELIMAIS1011"
-    ],
-    "desconto": "R$ 100 OFF",
-    "limite": null,
-    "minimo": "R$ 799",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17175",
-    "quando": "2026-11-10T19:00:16+00:00",
-    "id": "ml:OFERTAMELIMAIS1011",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
