@@ -1,5 +1,19 @@
 [
   {
+    "loja": "shopee",
+    "codigos": [
+      "C4RR1NH0CH310"
+    ],
+    "desconto": "R$ 70 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17276",
+    "quando": "2026-11-11T18:21:35+00:00",
+    "id": "shopee:C4RR1NH0CH310",
+    "link": "https://s.shopee.com.br/3LSKU4M8oK"
+  },
+  {
     "loja": "ml",
     "codigos": [
       "MELHOROFERTA"
@@ -532,20 +546,6 @@
     "origem": "avidaefeitadedesconto/17175",
     "quando": "2026-11-10T19:00:16+00:00",
     "id": "ml:OFERTAMELIMAIS1011",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MP1011"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": "R$ 1.000",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17173",
-    "quando": "2026-11-10T18:12:32+00:00",
-    "id": "ml:MP1011",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
