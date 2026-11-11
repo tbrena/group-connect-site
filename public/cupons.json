@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "PET11SUPER11"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": "Petshop",
+    "origem": "avidaefeitadedesconto/17255",
+    "quando": "2026-11-11T15:15:34+00:00",
+    "id": "ml:PET11SUPER11",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SUPER1111"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 35",
+    "minimo": null,
+    "escopo": "Supermercado",
+    "origem": "avidaefeitadedesconto/17252",
+    "quando": "2026-11-11T15:11:17+00:00",
+    "id": "ml:SUPER1111",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "BELEZASEMPRE"
     ],
     "desconto": "12% OFF",
@@ -476,34 +504,6 @@
     "origem": "avidaefeitadedesconto/17170",
     "quando": "2026-11-10T16:33:14+00:00",
     "id": "ml:OFFAGORA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZABLACK20"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 145",
-    "minimo": null,
-    "escopo": "Produtos Mantecorp",
-    "origem": "avidaefeitadedesconto/17168",
-    "quando": "2026-11-10T15:38:18+00:00",
-    "id": "ml:BELEZABLACK20",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SPORTS11DO11"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 70",
-    "minimo": "R$ 299",
-    "escopo": "Esportes e Fitness",
-    "origem": "avidaefeitadedesconto/17167",
-    "quando": "2026-11-10T15:32:38+00:00",
-    "id": "ml:SPORTS11DO11",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
