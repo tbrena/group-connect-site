@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "SEMPREAQUI"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 80",
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17233",
+    "quando": "2026-11-11T13:00:59+00:00",
+    "id": "ml:SEMPREAQUI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODO1111SITE",
       "SITE1111TODO",
       "TODOOSITE1111",
@@ -505,20 +519,5 @@
     "quando": "2026-11-10T13:17:45+00:00",
     "id": "shopee:V0UCH3R002AF",
     "link": "https://s.shopee.com.br/9KjVhifqsU"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "AUTO70OFF",
-      "AUTO45OFF"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17153",
-    "quando": "2026-11-10T12:43:25+00:00",
-    "id": "ml:AUTO70OFF+AUTO45OFF",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
