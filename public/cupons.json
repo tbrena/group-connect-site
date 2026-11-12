@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "LOJASOFICIAIS1211"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/17347",
+    "quando": "2026-11-12T15:10:30+00:00",
+    "id": "ml:LOJASOFICIAIS1211",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MAISDESCONTOHOJE"
     ],
     "desconto": "10% OFF",
@@ -459,76 +473,6 @@
     "origem": "avidaefeitadedesconto/17262",
     "quando": "2026-11-11T16:01:12+00:00",
     "id": "ml:APROVEITAAGORA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PET11SUPER11"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 30",
-    "minimo": null,
-    "escopo": "Petshop",
-    "origem": "avidaefeitadedesconto/17255",
-    "quando": "2026-11-11T15:15:34+00:00",
-    "id": "ml:PET11SUPER11",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SUPER1111"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 35",
-    "minimo": null,
-    "escopo": "Supermercado",
-    "origem": "avidaefeitadedesconto/17252",
-    "quando": "2026-11-11T15:11:17+00:00",
-    "id": "ml:SUPER1111",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZASEMPRE"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 79",
-    "escopo": "Perfumaria e Beleza",
-    "origem": "avidaefeitadedesconto/17251",
-    "quando": "2026-11-11T15:10:43+00:00",
-    "id": "ml:BELEZASEMPRE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESPORTE1111"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 80",
-    "minimo": null,
-    "escopo": "Esporte",
-    "origem": "avidaefeitadedesconto/17250",
-    "quando": "2026-11-11T15:09:24+00:00",
-    "id": "ml:ESPORTE1111",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIMAIS20"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 80",
-    "minimo": "R$ 249",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17249",
-    "quando": "2026-11-11T15:07:35+00:00",
-    "id": "ml:MELIMAIS20",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
