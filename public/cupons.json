@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "QUEIMA1211"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 79",
+    "escopo": "Queima de Estoque",
+    "origem": "avidaefeitadedesconto/17321",
+    "quando": "2026-11-12T03:12:14+00:00",
+    "id": "ml:QUEIMA1211",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "FULL1211"
     ],
     "desconto": "25% OFF",
@@ -434,48 +448,6 @@
     "origem": "avidaefeitadedesconto/17221",
     "quando": "2026-11-11T11:31:05+00:00",
     "id": "ml:CORREPROCUPOM",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE1111"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17208",
-    "quando": "2026-11-11T03:21:27+00:00",
-    "id": "ml:TODOSITE1111",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZALUXO"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 199",
-    "escopo": "Beleza de Luxo",
-    "origem": "avidaefeitadedesconto/17207",
-    "quando": "2026-11-11T03:19:33+00:00",
-    "id": "ml:BELEZALUXO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "NOMELITEM"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 300",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17206",
-    "quando": "2026-11-11T03:13:17+00:00",
-    "id": "ml:NOMELITEM",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
