@@ -477,7 +477,7 @@
     "lowest30d": false,
     "vendas": 1357,
     "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 1206,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -837,7 +837,7 @@
     "lowest30d": false,
     "vendas": 787,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -1293,7 +1293,7 @@
     "lowest30d": true,
     "vendas": 277,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -1461,7 +1461,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-11T23:05:15.580Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -1677,7 +1677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:35:14.243Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP787352489-22298559090",
@@ -2253,7 +2253,7 @@
     "lowest30d": false,
     "vendas": 4388,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2301,7 +2301,7 @@
     "lowest30d": true,
     "vendas": 522,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2349,7 +2349,7 @@
     "lowest30d": true,
     "vendas": 1528,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -2421,7 +2421,7 @@
     "lowest30d": true,
     "vendas": 726,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1860098702-23099869803",
@@ -2760,6 +2760,30 @@
     "checkedAt": "2026-11-13T02:05:13.093Z"
   },
   {
+    "id": "SP1125040258-42524620494",
+    "productId": "SP1125040258-42524620494",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
+    "price": 292.49,
+    "originalPrice": 790.51,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo6pfixw88aw29",
+    "url": "https://s.shopee.com.br/2BGNejUPLm",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 656,
+    "publishedAt": "2026-10-23T04:35:12.967Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP413762733-22992647539",
     "productId": "SP413762733-22992647539",
     "marketplace": "shopee",
@@ -2832,14 +2856,38 @@
     "checkedAt": "2026-11-13T02:54:07.149Z"
   },
   {
+    "id": "SP1104525762-23998143402",
+    "productId": "SP1104525762-23998143402",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Ventilador Portátil de Mesa com Nebulização Umidificador USB Recarregável, Silencioso Casa e Escritório",
+    "price": 36.99,
+    "originalPrice": 99.97,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5i-m7t9v8w4ukrr0b",
+    "url": "https://s.shopee.com.br/30pV33MoHC",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1067,
+    "publishedAt": "2026-10-23T17:35:13.764Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP1284795277-22893701336",
     "productId": "SP1284795277-22893701336",
     "marketplace": "shopee",
     "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
     "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
-    "price": 44.99,
-    "originalPrice": 121.59,
+    "price": 44.8,
+    "originalPrice": 121.08,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2853,7 +2901,7 @@
     "lowest30d": false,
     "vendas": 729,
     "publishedAt": "2026-10-30T18:05:16.584Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -2877,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 1048,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1339888238-23394402377",
@@ -2886,8 +2934,8 @@
     "fonte": "shopee:q:fone de ouvido",
     "categoria": "Eletrônicos",
     "title": "INOVA Fone De Ouvido Bluetooth 5.4 Toque DE Impressão Digital 72H Autonomia ANC Cancelando Ruído",
-    "price": 59,
-    "originalPrice": 159.46,
+    "price": 58.7,
+    "originalPrice": 158.65,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2901,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 690,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -2973,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 557,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -3093,7 +3141,7 @@
     "lowest30d": false,
     "vendas": 3279,
     "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -3141,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 983,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -3165,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 2943,
     "publishedAt": "2026-11-08T04:05:12.544Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB3798323167",
@@ -3189,7 +3237,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3240,30 +3288,6 @@
     "checkedAt": "2026-11-13T03:35:13.006Z"
   },
   {
-    "id": "SP1104525762-23998143402",
-    "productId": "SP1104525762-23998143402",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Ventilador Portátil de Mesa com Nebulização Umidificador USB Recarregável, Silencioso Casa e Escritório",
-    "price": 37.99,
-    "originalPrice": 99.97,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5i-m7t9v8w4ukrr0b",
-    "url": "https://s.shopee.com.br/30pV33MoHC",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1067,
-    "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
     "id": "SP1791620681-23394950449",
     "productId": "SP1791620681-23394950449",
     "marketplace": "shopee",
@@ -3285,7 +3309,7 @@
     "lowest30d": true,
     "vendas": 259,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1562642590-23899298854",
@@ -3309,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 1162,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -3477,7 +3501,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T15:35:12.781Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -3501,7 +3525,7 @@
     "lowest30d": false,
     "vendas": 951,
     "publishedAt": "2026-11-07T15:35:13.012Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -3525,7 +3549,7 @@
     "lowest30d": false,
     "vendas": 3969,
     "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1283675544-51606352089",
@@ -4005,31 +4029,7 @@
     "lowest30d": false,
     "vendas": 748,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
-    "id": "SP1125040258-42524620494",
-    "productId": "SP1125040258-42524620494",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:smartwatch",
-    "categoria": "Smartwatches",
-    "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
-    "price": 292.49,
-    "originalPrice": 731.23,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo6pfixw88aw29",
-    "url": "https://s.shopee.com.br/2BGNejUPLm",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 656,
-    "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -4485,7 +4485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:05:14.550Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -4608,6 +4608,30 @@
     "checkedAt": "2026-11-13T02:54:07.149Z"
   },
   {
+    "id": "SP1338454963-23898332843",
+    "productId": "SP1338454963-23898332843",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Inova Caixa De Som Bluetooth Tws Grave Potente 15h Bateria Portátil Grave Potente Com Radio a prova d' água",
+    "price": 66.4,
+    "originalPrice": 158.1,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7n4fg0igsk409",
+    "url": "https://s.shopee.com.br/8fTrbGlRSa",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 520,
+    "publishedAt": "2026-10-28T00:35:13.525Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP627750190-58200362396",
     "productId": "SP627750190-58200362396",
     "marketplace": "shopee",
@@ -4725,7 +4749,7 @@
     "lowest30d": false,
     "vendas": 422,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1362287645-22993553341",
@@ -4749,7 +4773,7 @@
     "lowest30d": false,
     "vendas": 5407,
     "publishedAt": "2026-11-03T22:05:17.100Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7895735000",
@@ -4773,7 +4797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1344793312-58258130167",
@@ -4846,30 +4870,6 @@
     "vendas": 604,
     "publishedAt": "2026-10-10T04:05:11.213Z",
     "checkedAt": "2026-11-13T04:05:12.457Z"
-  },
-  {
-    "id": "SP1338454963-23898332843",
-    "productId": "SP1338454963-23898332843",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Inova Caixa De Som Bluetooth Tws Grave Potente 15h Bateria Portátil Grave Potente Com Radio a prova d' água",
-    "price": 68.56,
-    "originalPrice": 159.44,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7n4fg0igsk409",
-    "url": "https://s.shopee.com.br/8fTrbGlRSa",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 520,
-    "publishedAt": "2026-10-28T00:35:13.525Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
   },
   {
     "id": "SP1183719086-22593793702",
@@ -5085,7 +5085,7 @@
     "lowest30d": true,
     "vendas": 1437,
     "publishedAt": "2026-10-23T21:21:23.972Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1350045638-55666184367",
@@ -5229,7 +5229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1566977006-58202231060",
@@ -5496,6 +5496,30 @@
     "checkedAt": "2026-11-13T02:05:13.093Z"
   },
   {
+    "id": "SP1634491040-58257412160",
+    "productId": "SP1634491040-58257412160",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
+    "price": 49.9,
+    "originalPrice": 106.17,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
+    "url": "https://s.shopee.com.br/8VAROxm0XL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2425,
+    "publishedAt": "2026-11-09T05:35:14.096Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP1815838665-23999636078",
     "productId": "SP1815838665-23999636078",
     "marketplace": "shopee",
@@ -5568,6 +5592,30 @@
     "checkedAt": "2026-11-13T04:05:12.457Z"
   },
   {
+    "id": "SP332059670-54557028525",
+    "productId": "SP332059670-54557028525",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
+    "price": 37.44,
+    "originalPrice": 79.66,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
+    "url": "https://s.shopee.com.br/1W0h1yUmPe",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3762,
+    "publishedAt": "2026-11-01T03:05:13.613Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP296363855-22197373105",
     "productId": "SP296363855-22197373105",
     "marketplace": "shopee",
@@ -5637,7 +5685,7 @@
     "lowest30d": true,
     "vendas": 476,
     "publishedAt": "2026-10-29T21:35:13.285Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1687634475-58210385589",
@@ -5685,7 +5733,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1550183716-23498664691",
@@ -5733,7 +5781,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB3793237586",
@@ -5757,7 +5805,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5853,7 +5901,7 @@
     "lowest30d": true,
     "vendas": 1620,
     "publishedAt": "2026-10-28T04:35:16.031Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4006196241",
@@ -5877,7 +5925,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB3312152968",
@@ -5901,7 +5949,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP741872429-58267105902",
@@ -5926,6 +5974,30 @@
     "vendas": 681,
     "publishedAt": "2026-11-01T12:35:20.557Z",
     "checkedAt": "2026-11-13T04:05:12.457Z"
+  },
+  {
+    "id": "SP1638165366-23294741602",
+    "productId": "SP1638165366-23294741602",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
+    "price": 49,
+    "originalPrice": 100,
+    "discount": 51,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
+    "url": "https://s.shopee.com.br/3g5BVaNdGb",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2866,
+    "publishedAt": "2026-11-01T04:35:13.337Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP766187556-23899779442",
@@ -6069,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 3914,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4648803608",
@@ -6093,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1504823224-58252293617",
@@ -6117,7 +6189,7 @@
     "lowest30d": true,
     "vendas": 655,
     "publishedAt": "2026-11-09T12:05:18.812Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1639558656-23394523052",
@@ -6165,7 +6237,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T12:05:17.148Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP394192376-21065270721",
@@ -6189,31 +6261,7 @@
     "lowest30d": true,
     "vendas": 13395,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
-    "id": "SP1638165366-23294741602",
-    "productId": "SP1638165366-23294741602",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
-    "price": 49.9,
-    "originalPrice": 99.8,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-    "url": "https://s.shopee.com.br/3g5BVaNdGb",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2866,
-    "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1146989156-23799809320",
@@ -6264,30 +6312,6 @@
     "checkedAt": "2026-11-13T02:35:15.097Z"
   },
   {
-    "id": "MLB2715864979",
-    "productId": "MLB19119107",
-    "marketplace": "ml",
-    "fonte": "MLB1580",
-    "categoria": "Eletrodomésticos",
-    "title": "Micro-ondas Brastemp 32L Branco com Menu Gourmet - BMS46AB",
-    "price": 647,
-    "originalPrice": 1259,
-    "discount": 49,
-    "base": "media",
-    "averagePrice": 1259,
-    "sellers": 8,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_934673-MLA99506615418_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-2715864979?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-07T23:57:27.617Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
-  },
-  {
     "id": "SP1718568808-23699380722",
     "productId": "SP1718568808-23699380722",
     "marketplace": "shopee",
@@ -6309,31 +6333,31 @@
     "lowest30d": false,
     "vendas": 6429,
     "publishedAt": "2026-11-08T05:55:05.922Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
-    "id": "SP1634491040-58257412160",
-    "productId": "SP1634491040-58257412160",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
-    "price": 49.9,
-    "originalPrice": 95.96,
+    "id": "MLB2715864979",
+    "productId": "MLB19119107",
+    "marketplace": "ml",
+    "fonte": "MLB1580",
+    "categoria": "Eletrodomésticos",
+    "title": "Micro-ondas Brastemp 32L Branco com Menu Gourmet - BMS46AB",
+    "price": 649,
+    "originalPrice": 1259,
     "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
-    "url": "https://s.shopee.com.br/8VAROxm0XL",
-    "freeShipping": false,
+    "base": "media",
+    "averagePrice": 1259,
+    "sellers": 8,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_934673-MLA99506615418_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-2715864979?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
     "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
     "lowest30d": false,
-    "vendas": 2425,
-    "publishedAt": "2026-11-09T05:35:14.096Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "vendas": null,
+    "publishedAt": "2026-11-07T23:57:27.617Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -6357,7 +6381,7 @@
     "lowest30d": false,
     "vendas": 2432,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1574170248-23998667413",
@@ -6381,31 +6405,7 @@
     "lowest30d": false,
     "vendas": 430,
     "publishedAt": "2026-10-27T09:35:13.980Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
-    "id": "MLB3767156322",
-    "productId": "MLB17384401",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
-    "price": 108.8,
-    "originalPrice": 205.77,
-    "discount": 47,
-    "base": "media",
-    "averagePrice": 205.77,
-    "sellers": 9,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -6453,7 +6453,7 @@
     "lowest30d": false,
     "vendas": 2369,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP418336777-19098016325",
@@ -6477,7 +6477,31 @@
     "lowest30d": false,
     "vendas": 1147,
     "publishedAt": "2026-11-10T06:35:11.945Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
+    "id": "MLB3767156322",
+    "productId": "MLB17384401",
+    "marketplace": "ml",
+    "fonte": "MLB278123",
+    "categoria": "Mercado",
+    "title": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
+    "price": 108.8,
+    "originalPrice": 199.95,
+    "discount": 46,
+    "base": "media",
+    "averagePrice": 199.95,
+    "sellers": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733878-MLA99929513535_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3767156322?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-11-03T21:05:22.258Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1737468986-58262847430",
@@ -6525,7 +6549,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -6549,7 +6573,7 @@
     "lowest30d": true,
     "vendas": 1817,
     "publishedAt": "2026-10-29T20:35:16.988Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP301592546-22997149912",
@@ -6573,7 +6597,7 @@
     "lowest30d": false,
     "vendas": 776,
     "publishedAt": "2026-10-28T22:35:14.706Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5346752329",
@@ -6597,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:35:14.707Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP720952207-58219003410",
@@ -6621,31 +6645,7 @@
     "lowest30d": false,
     "vendas": 2220,
     "publishedAt": "2026-11-05T01:05:14.758Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
-    "id": "SP332059670-54557028525",
-    "productId": "SP332059670-54557028525",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
-    "price": 43.9,
-    "originalPrice": 78.39,
-    "discount": 44,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
-    "url": "https://s.shopee.com.br/1W0h1yUmPe",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3762,
-    "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-13T01:35:14.018Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -6765,7 +6765,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1671103334-58210224446",
@@ -7077,7 +7077,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1062544851-58201181466",
@@ -7125,31 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
-  },
-  {
-    "id": "MLB4701793653",
-    "productId": "MLB64174316",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
-    "price": 31.56,
-    "originalPrice": 52.45,
-    "discount": 40,
-    "base": "media",
-    "averagePrice": 52.45,
-    "sellers": 47,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -7341,7 +7317,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7389,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:35:29.366Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4201389169",
@@ -7413,7 +7389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T15:35:19.283Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7461,7 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1609153445-22998824196",
@@ -7533,7 +7509,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP973419961-58260330620",
@@ -7653,7 +7629,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
+    "id": "MLB4701793653",
+    "productId": "MLB64174316",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
+    "price": 34.42,
+    "originalPrice": 52.45,
+    "discount": 34,
+    "base": "media",
+    "averagePrice": 52.45,
+    "sellers": 47,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7845017868",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP511410160-23396808146",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 3240,
     "publishedAt": "2026-11-12T21:35:14.759Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4803658086",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T13:35:14.313Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1658811417-22895162663",
@@ -7773,7 +7773,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
+    "id": "MLB5812393646",
+    "productId": "MLB15345937",
+    "marketplace": "ml",
+    "fonte": "MLB447778",
+    "categoria": "Informática",
+    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
+    "price": 168,
+    "originalPrice": 242.14,
+    "discount": 31,
+    "base": "media",
+    "averagePrice": 242.14,
+    "sellers": 35,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Eletronicos",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-14T03:05:11.425Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7004732660",
@@ -7797,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T00:35:13.400Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6611494338",
@@ -7821,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6802433980",
@@ -7845,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7297391068",
@@ -7869,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5250929785",
@@ -7893,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4641589414",
@@ -7917,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6363542818",
@@ -7941,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T21:05:12.739Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7657977886",
@@ -7965,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5830400690",
@@ -7989,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T18:05:16.316Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB3917376669",
@@ -8013,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5488515025",
@@ -8037,7 +8061,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6823283528",
@@ -8061,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-13T03:35:13.006Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7862762630",
@@ -8085,31 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T10:35:13.762Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
-  },
-  {
-    "id": "MLB5812393646",
-    "productId": "MLB15345937",
-    "marketplace": "ml",
-    "fonte": "MLB447778",
-    "categoria": "Informática",
-    "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-    "price": 183.01,
-    "originalPrice": 242.14,
-    "discount": 24,
-    "base": "media",
-    "averagePrice": 242.14,
-    "sellers": 35,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5812393646?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Eletronicos",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4482650561",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4786678702",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5452950305",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB2131892885",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T08:35:12.802Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5205286193",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T03:05:15.434Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB7938591364",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5354628463",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T21:35:17.326Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5451291113",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5000007235",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6174995494",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB6949268730",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB4655090087",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-13T04:05:12.457Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8664,6 +8664,30 @@
     "checkedAt": "2026-11-13T03:35:13.006Z"
   },
   {
+    "id": "SP1284769631-23097971890",
+    "productId": "SP1284769631-23097971890",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Luminária LED USB 3 cores Regulável Recarregável Com sensor de movimento 60cm -F9",
+    "price": 30.55,
+    "originalPrice": 98.55,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-muolfjpqxb0gc5",
+    "url": "https://s.shopee.com.br/5q9gE1JIjx",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1371,
+    "publishedAt": "2026-10-22T11:45:05.435Z",
+    "checkedAt": "2026-11-13T04:35:14.172Z"
+  },
+  {
     "id": "SP777798362-43461643565",
     "productId": "SP777798362-43461643565",
     "marketplace": "shopee",
@@ -8901,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 1491,
     "publishedAt": "2026-10-25T00:18:59.810Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8910,8 +8934,8 @@
     "fonte": "shopee:q:legging",
     "categoria": "Moda e Calçados",
     "title": "Legging Flare Plus Size Flanelada Calça Leg Boca De Sino Bailarina Grossa Zero Transparência Cós Alto",
-    "price": 36.99,
-    "originalPrice": 119.32,
+    "price": 36.9,
+    "originalPrice": 119.03,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -8922,10 +8946,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 974,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -8952,30 +8976,6 @@
     "checkedAt": "2026-11-13T04:05:12.457Z"
   },
   {
-    "id": "SP1284769631-23097971890",
-    "productId": "SP1284769631-23097971890",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Luminária LED USB 3 cores Regulável Recarregável Com sensor de movimento 60cm -F9",
-    "price": 31.99,
-    "originalPrice": 99.97,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-muolfjpqxb0gc5",
-    "url": "https://s.shopee.com.br/5q9gE1JIjx",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1371,
-    "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
-  },
-  {
     "id": "SP1847771333-58214309634",
     "productId": "SP1847771333-58214309634",
     "marketplace": "shopee",
@@ -8997,7 +8997,7 @@
     "lowest30d": false,
     "vendas": 847,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 310,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": 228,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9054,8 +9054,8 @@
     "fonte": "shopee:q:legging",
     "categoria": "Moda e Calçados",
     "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
-    "price": 34.99,
-    "originalPrice": 109.34,
+    "price": 34.9,
+    "originalPrice": 109.06,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": 4183,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -10173,7 +10173,7 @@
     "lowest30d": true,
     "vendas": 514,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP612306550-23798735982",
@@ -10389,7 +10389,7 @@
     "lowest30d": false,
     "vendas": 1133,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP508140700-58254276340",
@@ -10533,7 +10533,7 @@
     "lowest30d": false,
     "vendas": 254,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1028459403-58258154242",
@@ -10557,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 709,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1436,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10773,7 +10773,7 @@
     "lowest30d": false,
     "vendas": 2909,
     "publishedAt": "2026-10-22T12:35:19.276Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -10797,7 +10797,7 @@
     "lowest30d": true,
     "vendas": 980,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -11061,7 +11061,7 @@
     "lowest30d": true,
     "vendas": 1160,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1791620681-23794951516",
@@ -11349,7 +11349,7 @@
     "lowest30d": false,
     "vendas": 331,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP1511724455-43203256115",
@@ -11925,7 +11925,7 @@
     "lowest30d": false,
     "vendas": 1822,
     "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T04:35:14.172Z"
   },
   {
     "id": "SP676651970-23293814378",
