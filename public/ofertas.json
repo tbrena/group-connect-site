@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": 1573,
     "publishedAt": "2026-11-10T19:35:14.557Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -213,7 +213,7 @@
     "lowest30d": true,
     "vendas": 1957,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 1842,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -504,6 +504,30 @@
     "checkedAt": "2026-11-13T00:35:15.642Z"
   },
   {
+    "id": "SP1169146045-20799757649",
+    "productId": "SP1169146045-20799757649",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:camiseta",
+    "categoria": "Moda e Calçados",
+    "title": "Jaqueta Blusa Jogger Masculina com Capuz Para Frio Com Refletivo",
+    "price": 28.96,
+    "originalPrice": 90.5,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xmicgozq6150",
+    "url": "https://s.shopee.com.br/7Af3iEP1EI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2811,
+    "publishedAt": "2026-11-12T04:35:13.128Z",
+    "checkedAt": "2026-11-13T03:05:27.414Z"
+  },
+  {
     "id": "SP1597425469-58204620137",
     "productId": "SP1597425469-58204620137",
     "marketplace": "shopee",
@@ -645,7 +669,7 @@
     "lowest30d": true,
     "vendas": 272,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -693,7 +717,7 @@
     "lowest30d": false,
     "vendas": 2503,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP397374716-22697307193",
@@ -768,30 +792,6 @@
     "checkedAt": "2026-11-13T01:05:18.231Z"
   },
   {
-    "id": "SP1860098702-58266177953",
-    "productId": "SP1860098702-58266177953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Hidrabene Sérum Facial GHK-Cu Peptídeo de Cobre – Firmeza e Densidade 700 Nano Peptídeos",
-    "price": 79.9,
-    "originalPrice": 242.12,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mul5tmdze3giff",
-    "url": "https://s.shopee.com.br/1BNqV55g0w",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2763,
-    "publishedAt": "2026-10-02T02:35:13.202Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
-  },
-  {
     "id": "SP964196467-58206595769",
     "productId": "SP964196467-58206595769",
     "marketplace": "shopee",
@@ -813,7 +813,7 @@
     "lowest30d": false,
     "vendas": 398,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -885,7 +885,7 @@
     "lowest30d": true,
     "vendas": 716,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 12176,
     "publishedAt": "2026-11-02T12:35:13.827Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1053,7 +1053,7 @@
     "lowest30d": true,
     "vendas": 397,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1738169938-46311869185",
@@ -1101,31 +1101,7 @@
     "lowest30d": false,
     "vendas": 3937,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
-  },
-  {
-    "id": "SP995022276-20499443237",
-    "productId": "SP995022276-20499443237",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Soprador de folhas Aspirador Soprador Elétrico 2 em 1 Folhas Jardim Quintal Barato 220V",
-    "price": 84.75,
-    "originalPrice": 256.82,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0kls1kcao4g86",
-    "url": "https://s.shopee.com.br/70LdW0oVsI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 445,
-    "publishedAt": "2026-10-25T19:35:13.364Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1232649860-58267934035",
@@ -1197,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 1700,
     "publishedAt": "2026-11-10T19:35:14.557Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP452872883-41468871729",
@@ -1221,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 930,
     "publishedAt": "2026-11-10T16:35:27.121Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP944725778-22199288225",
@@ -1293,7 +1269,7 @@
     "lowest30d": true,
     "vendas": 11807,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -1365,7 +1341,7 @@
     "lowest30d": true,
     "vendas": 3319,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -1461,7 +1437,7 @@
     "lowest30d": true,
     "vendas": 7949,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1620616375-58252248202",
@@ -1509,7 +1485,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-11T23:05:15.580Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -1542,8 +1518,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "Relógio Smartwatch Original X9 Pro Série 45mm, GPS, NFC, Monitor de Pressão Arterial – São Paulo, Estoque Disponível",
-    "price": 69.88,
-    "originalPrice": 199.66,
+    "price": 69.77,
+    "originalPrice": 199.34,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -1557,7 +1533,7 @@
     "lowest30d": false,
     "vendas": 913,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -1581,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 1328,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -1605,7 +1581,7 @@
     "lowest30d": false,
     "vendas": 1205,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1097148583-23598482764",
@@ -2085,7 +2061,7 @@
     "lowest30d": true,
     "vendas": 1010,
     "publishedAt": "2026-10-28T01:05:13.815Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1684686802-58209249661",
@@ -2181,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 1556,
     "publishedAt": "2026-11-10T19:35:14.557Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1815920431-58270015623",
@@ -2253,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 1957,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1485077747-58200879255",
@@ -2421,7 +2397,7 @@
     "lowest30d": false,
     "vendas": 1098,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -2446,30 +2422,6 @@
     "vendas": 726,
     "publishedAt": "2026-09-25T13:35:20.026Z",
     "checkedAt": "2026-11-13T01:35:14.018Z"
-  },
-  {
-    "id": "SP1169146045-20799757649",
-    "productId": "SP1169146045-20799757649",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:camiseta",
-    "categoria": "Moda e Calçados",
-    "title": "Jaqueta Blusa Jogger Masculina com Capuz Para Frio Com Refletivo",
-    "price": 32.97,
-    "originalPrice": 89.11,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xmicgozq6150",
-    "url": "https://s.shopee.com.br/7Af3iEP1EI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2811,
-    "publishedAt": "2026-11-12T04:35:13.128Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -2517,7 +2469,7 @@
     "lowest30d": false,
     "vendas": 4720,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -2541,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 1765,
     "publishedAt": "2026-10-12T04:05:18.200Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1590001727-23893695703",
@@ -2637,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 993,
     "publishedAt": "2026-11-10T16:35:27.121Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1311097443-19199559900",
@@ -2661,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 2266,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -2685,7 +2637,7 @@
     "lowest30d": false,
     "vendas": 760,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP992612253-41368657771",
@@ -2709,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 658,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -2733,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 778,
     "publishedAt": "2026-11-09T04:05:14.475Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB6726997138",
@@ -2757,7 +2709,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:35:14.243Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP444150322-23498720035",
@@ -2997,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 10149,
     "publishedAt": "2026-10-25T12:35:16.896Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -3048,6 +3000,30 @@
     "checkedAt": "2026-11-13T02:35:15.097Z"
   },
   {
+    "id": "SP995022276-20499443237",
+    "productId": "SP995022276-20499443237",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Soprador de folhas Aspirador Soprador Elétrico 2 em 1 Folhas Jardim Quintal Barato 220V",
+    "price": 95.96,
+    "originalPrice": 259.35,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0kls1kcao4g86",
+    "url": "https://s.shopee.com.br/70LdW0oVsI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 445,
+    "publishedAt": "2026-10-25T19:35:13.364Z",
+    "checkedAt": "2026-11-13T03:05:27.414Z"
+  },
+  {
     "id": "SP1847771333-58216516799",
     "productId": "SP1847771333-58216516799",
     "marketplace": "shopee",
@@ -3070,6 +3046,30 @@
     "vendas": 2485,
     "publishedAt": "2026-10-25T12:05:12.250Z",
     "checkedAt": "2026-11-13T02:05:13.093Z"
+  },
+  {
+    "id": "SP1632292406-22494419367",
+    "productId": "SP1632292406-22494419367",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Masculino Casual Urbano Estiloso Trabalho Dia a Dia Envio Imediato Promoção",
+    "price": 44.9,
+    "originalPrice": 121.35,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meaa7tzh8wlf90",
+    "url": "https://s.shopee.com.br/7VHuB07WeZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 447,
+    "publishedAt": "2026-10-25T06:35:13.427Z",
+    "checkedAt": "2026-11-13T01:05:18.231Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3117,7 +3117,7 @@
     "lowest30d": false,
     "vendas": 1348,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -3189,7 +3189,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3405,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 284,
     "publishedAt": "2026-11-12T00:59:23.420Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -3501,7 +3501,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T15:35:12.781Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -3741,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 2721,
     "publishedAt": "2026-11-12T01:05:15.445Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1325610951-58212470947",
@@ -3765,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 4539,
     "publishedAt": "2026-11-11T18:35:16.543Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1432047820-29926409235",
@@ -4173,7 +4173,7 @@
     "lowest30d": false,
     "vendas": 774,
     "publishedAt": "2026-10-29T03:05:13.689Z",
-    "checkedAt": "2026-11-13T00:05:32.167Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -4461,7 +4461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:05:14.550Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -4749,7 +4749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T15:35:14.140Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1344793312-58258130167",
@@ -5205,7 +5205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -5349,7 +5349,7 @@
     "lowest30d": true,
     "vendas": 1569,
     "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1566977006-58202231060",
@@ -5661,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 1293,
     "publishedAt": "2026-11-12T23:35:14.917Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4755939250",
@@ -5685,7 +5685,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1550183716-23498664691",
@@ -5733,7 +5733,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB3793237586",
@@ -5757,7 +5757,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5877,7 +5877,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB3312152968",
@@ -5901,7 +5901,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP741872429-58267105902",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1504823224-58252293617",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T12:05:17.148Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP394192376-21065270721",
@@ -6285,7 +6285,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T23:57:27.617Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1718568808-23699380722",
@@ -6429,7 +6429,31 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
+  },
+  {
+    "id": "MLB7845017868",
+    "productId": "MLB16084371",
+    "marketplace": "ml",
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Papel higiênico Neve Toque da Seda folha dupla 30 m de 32 un",
+    "price": 58.5,
+    "originalPrice": 110.45,
+    "discount": 47,
+    "base": "media",
+    "averagePrice": 110.45,
+    "sellers": 7,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_846712-MLA99595796020_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7845017868?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-01T09:35:17.104Z",
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -6549,7 +6573,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -6621,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:35:14.707Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP720952207-58219003410",
@@ -6717,7 +6741,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-25T15:35:15.214Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -6789,7 +6813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1671103334-58210224446",
@@ -7063,10 +7087,10 @@
     "categoria": "Brinquedos",
     "title": "Lego 77242 Speed Champions Ferrari Sf24 F1 Quantidade de peças 275",
     "price": 142.99,
-    "originalPrice": 237.14,
+    "originalPrice": 239.57,
     "discount": 40,
     "base": "media",
-    "averagePrice": 237.14,
+    "averagePrice": 239.57,
     "sellers": 40,
     "image": "https://http2.mlstatic.com/D_NQ_NP_857306-MLA100035167343_122025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-6224601478?matt_word=promoninja&matt_tool=19839069",
@@ -7077,7 +7101,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T05:05:12.918Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1062544851-58201181466",
@@ -7125,7 +7149,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -7341,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:35:29.366Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4201389169",
@@ -7413,7 +7437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T15:35:19.283Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7461,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1609153445-22998824196",
@@ -7533,31 +7557,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
-  },
-  {
-    "id": "MLB6802433980",
-    "productId": "MLB18726361",
-    "marketplace": "ml",
-    "fonte": "MLB1276",
-    "categoria": "Esportes",
-    "title": "Creatina Em Pó 100g Creapure Growth Supplements",
-    "price": 62.9,
-    "originalPrice": 96.39,
-    "discount": 35,
-    "base": "media",
-    "averagePrice": 96.39,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_659835-MLA98760176203_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6802433980?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "GRWTSUPPLEMENTS",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7513235336",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP973419961-58260330620",
@@ -7701,31 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
-  },
-  {
-    "id": "MLB7845017868",
-    "productId": "MLB16084371",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Papel higiênico Neve Toque da Seda folha dupla 30 m de 32 un",
-    "price": 72.7,
-    "originalPrice": 110.45,
-    "discount": 34,
-    "base": "media",
-    "averagePrice": 110.45,
-    "sellers": 7,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_846712-MLA99595796020_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7845017868?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP511410160-23396808146",
@@ -7773,7 +7749,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T13:35:14.313Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1658811417-22895162663",
@@ -7821,7 +7797,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5812393646",
@@ -7845,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-14T03:05:11.425Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7004732660",
@@ -7869,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T00:35:13.400Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB6611494338",
@@ -7893,7 +7869,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
+  },
+  {
+    "id": "MLB6802433980",
+    "productId": "MLB18726361",
+    "marketplace": "ml",
+    "fonte": "MLB1276",
+    "categoria": "Esportes",
+    "title": "Creatina Em Pó 100g Creapure Growth Supplements",
+    "price": 67.8,
+    "originalPrice": 96.39,
+    "discount": 30,
+    "base": "media",
+    "averagePrice": 96.39,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_659835-MLA98760176203_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6802433980?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "GRWTSUPPLEMENTS",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-06T11:05:12.644Z",
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7297391068",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5250929785",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4641589414",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB6363542818",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T21:05:12.739Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7657977886",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5830400690",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T18:05:16.316Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB3917376669",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5488515025",
@@ -8085,7 +8085,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7862762630",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T10:35:13.762Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4482650561",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4786678702",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5452950305",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB2131892885",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T08:35:12.802Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5205286193",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T03:05:15.434Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB7938591364",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5354628463",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T21:35:17.326Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5451291113",
@@ -8301,7 +8301,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T03:35:15.834Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
+  },
+  {
+    "id": "MLB5000007235",
+    "productId": "MLB49278422",
+    "marketplace": "ml",
+    "fonte": "MLB1700",
+    "categoria": "Informática",
+    "title": "TP-Link Deco X10(1-pack) Roteador Mesh Wifi6 AX1500 Cobre até 190m²",
+    "price": 329.99,
+    "originalPrice": 394.83,
+    "discount": 16,
+    "base": "media",
+    "averagePrice": 394.83,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_917131-MLA99583182742_122025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5000007235?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-05T07:35:14.672Z",
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB6174995494",
@@ -8325,31 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-26T12:05:17.727Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
-  },
-  {
-    "id": "MLB5000007235",
-    "productId": "MLB49278422",
-    "marketplace": "ml",
-    "fonte": "MLB1700",
-    "categoria": "Informática",
-    "title": "TP-Link Deco X10(1-pack) Roteador Mesh Wifi6 AX1500 Cobre até 190m²",
-    "price": 329.99,
-    "originalPrice": 387.74,
-    "discount": 15,
-    "base": "media",
-    "averagePrice": 387.74,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_917131-MLA99583182742_122025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5000007235?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB6949268730",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB4655090087",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-13T02:54:07.149Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 742,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -8589,7 +8589,7 @@
     "lowest30d": false,
     "vendas": 381,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 569,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 1095,
     "publishedAt": "2026-10-22T23:05:20.987Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 323,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 451,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -9813,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 246,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP379519619-23298173737",
@@ -9861,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 1139,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -10437,7 +10437,7 @@
     "lowest30d": false,
     "vendas": 512,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10461,7 +10461,7 @@
     "lowest30d": true,
     "vendas": 2613,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10917,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 5134,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -10941,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 201,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1393510332-20499840117",
@@ -11109,31 +11109,7 @@
     "lowest30d": false,
     "vendas": 254,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
-  },
-  {
-    "id": "SP1632292406-22494419367",
-    "productId": "SP1632292406-22494419367",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Masculino Casual Urbano Estiloso Trabalho Dia a Dia Envio Imediato Promoção",
-    "price": 44.9,
-    "originalPrice": 121.35,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meaa7tzh8wlf90",
-    "url": "https://s.shopee.com.br/7VHuB07WeZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 447,
-    "publishedAt": "2026-10-25T06:35:13.427Z",
-    "checkedAt": "2026-11-13T01:05:18.231Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -11157,7 +11133,7 @@
     "lowest30d": false,
     "vendas": 2876,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -11229,7 +11205,7 @@
     "lowest30d": true,
     "vendas": 2419,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -11253,7 +11229,7 @@
     "lowest30d": false,
     "vendas": 3528,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -11565,7 +11541,7 @@
     "lowest30d": true,
     "vendas": 1123,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP1314013169-22898807249",
@@ -11757,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 1677,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP316522636-58207521877",
@@ -11781,7 +11757,7 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP923156888-58209090891",
@@ -11805,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-12T23:35:14.917Z"
+    "checkedAt": "2026-11-13T03:05:27.414Z"
   },
   {
     "id": "SP409939729-23694671466",
