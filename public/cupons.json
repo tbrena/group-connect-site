@@ -2,6 +2,36 @@
   {
     "loja": "ml",
     "codigos": [
+      "MELIMAIS1411"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 80",
+    "minimo": "R$ 249",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17393",
+    "quando": "2026-11-14T12:17:52+00:00",
+    "id": "ml:MELIMAIS1411",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "TODOST1411",
+      "STTODO1411",
+      "TODO141126SITE"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17392",
+    "quando": "2026-11-14T12:14:51+00:00",
+    "id": "ml:TODOST1411+STTODO1411+TODO141126SITE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "ENTREGASFULL1411"
     ],
     "desconto": "25% OFF",
@@ -67,34 +97,6 @@
     "origem": "avidaefeitadedesconto/17371",
     "quando": "2026-11-13T16:04:22+00:00",
     "id": "ml:OFERTAPRATEC",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VEMHOJE"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 80",
-    "minimo": "R$ 79",
-    "escopo": "Móveis e Decoração",
-    "origem": "avidaefeitadedesconto/17364",
-    "quando": "2026-11-13T12:30:31+00:00",
-    "id": "ml:VEMHOJE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PARTIUREFORMA"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 50",
-    "minimo": null,
-    "escopo": "Construção e Reforma",
-    "origem": "avidaefeitadedesconto/17363",
-    "quando": "2026-11-13T12:30:23+00:00",
-    "id": "ml:PARTIUREFORMA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
