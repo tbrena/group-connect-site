@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "DECORELETRO1411"
+    ],
+    "desconto": "R$ 50 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17405",
+    "quando": "2026-11-14T18:12:24+00:00",
+    "id": "ml:DECORELETRO1411",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "LOJASOFICIAIS1411"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 40",
+    "minimo": null,
+    "escopo": "Lojas Oficiais",
+    "origem": "avidaefeitadedesconto/17404",
+    "quando": "2026-11-14T18:11:38+00:00",
+    "id": "ml:LOJASOFICIAIS1411",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "PROMOTEC"
     ],
     "desconto": "R$ 300 OFF",
@@ -139,34 +167,6 @@
     "origem": "avidaefeitadedesconto/17390",
     "quando": "2026-11-14T03:07:46+00:00",
     "id": "ml:ENTREGASFULL1411",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJASOFICIAIS1311"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/17377",
-    "quando": "2026-11-13T18:13:09+00:00",
-    "id": "ml:LOJASOFICIAIS1311",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ESPORTE1311"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Esportes e Saúde",
-    "origem": "avidaefeitadedesconto/17376",
-    "quando": "2026-11-13T18:12:54+00:00",
-    "id": "ml:ESPORTE1311",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
