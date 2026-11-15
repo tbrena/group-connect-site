@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": 566,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1573558445-44307948736",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 1109,
     "publishedAt": "2026-11-01T22:05:18.952Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -597,7 +597,7 @@
     "lowest30d": true,
     "vendas": 3019,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1049584869-23993697539",
@@ -717,7 +717,7 @@
     "lowest30d": false,
     "vendas": 1118,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -741,7 +741,7 @@
     "lowest30d": false,
     "vendas": 3335,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1803524453-58215621878",
@@ -981,7 +981,7 @@
     "lowest30d": false,
     "vendas": 2977,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1607476642-19199865083",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:05:15.580Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -1605,7 +1605,7 @@
     "lowest30d": false,
     "vendas": 1790,
     "publishedAt": "2026-11-10T22:05:13.998Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1686900498-58217856182",
@@ -1653,7 +1653,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T21:35:14.243Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP787352489-22298559090",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 1090,
     "publishedAt": "2026-11-04T20:35:14.814Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1234991453-58262387784",
@@ -1821,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 126,
     "publishedAt": "2026-11-01T19:35:13.899Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -2037,7 +2037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T01:35:20.767Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -2088,6 +2088,30 @@
     "checkedAt": "2026-11-15T11:35:14.019Z"
   },
   {
+    "id": "SP1223506816-58251518035",
+    "productId": "SP1223506816-58251518035",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
+    "price": 42.51,
+    "originalPrice": 118.08,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mscge5xo2rk7e9",
+    "url": "https://s.shopee.com.br/LooI6DKxt",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4663,
+    "publishedAt": "2026-09-23T03:30:08.026Z",
+    "checkedAt": "2026-11-15T12:35:14.025Z"
+  },
+  {
     "id": "SP1590001727-23893695703",
     "productId": "SP1590001727-23893695703",
     "marketplace": "shopee",
@@ -2109,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 628,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1272600089-18597998986",
@@ -2373,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 583,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1468415010-23194993945",
@@ -2637,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 410,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -2901,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 1683,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1512108548-23698384152",
@@ -2949,7 +2973,7 @@
     "lowest30d": false,
     "vendas": 1253,
     "publishedAt": "2026-11-14T04:35:17.105Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1557539807-58208104098",
@@ -2974,30 +2998,6 @@
     "vendas": 645,
     "publishedAt": "2026-11-13T20:35:14.089Z",
     "checkedAt": "2026-11-15T11:05:12.668Z"
-  },
-  {
-    "id": "SP1223506816-58251518035",
-    "productId": "SP1223506816-58251518035",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
-    "price": 45.14,
-    "originalPrice": 118.79,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mscge5xo2rk7e9",
-    "url": "https://s.shopee.com.br/LooI6DKxt",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4663,
-    "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3141,7 +3141,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3165,7 +3165,7 @@
     "lowest30d": true,
     "vendas": 1957,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3309,7 +3309,7 @@
     "lowest30d": false,
     "vendas": 1991,
     "publishedAt": "2026-11-13T23:52:04.770Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1625647300-58270203180",
@@ -3381,7 +3381,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -3429,7 +3429,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T15:35:12.781Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -3909,7 +3909,7 @@
     "lowest30d": true,
     "vendas": 318,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -4029,7 +4029,7 @@
     "lowest30d": true,
     "vendas": 1268,
     "publishedAt": "2026-11-01T00:05:14.228Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP389800143-23598108989",
@@ -4341,7 +4341,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-13T18:05:15.349Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP627750190-22997611303",
@@ -4773,7 +4773,7 @@
     "lowest30d": false,
     "vendas": 4072,
     "publishedAt": "2026-10-28T03:05:21.047Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP392967703-16178844715",
@@ -5085,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 2312,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1137412789-58204613889",
@@ -5133,7 +5133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T12:05:17.148Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -5181,7 +5181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP983645094-55114813058",
@@ -5229,7 +5229,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-15T03:05:23.855Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP974102638-23694031516",
@@ -5397,7 +5397,7 @@
     "lowest30d": true,
     "vendas": 1522,
     "publishedAt": "2026-11-03T18:05:27.879Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1511719344-41651822287",
@@ -5445,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 1732,
     "publishedAt": "2026-10-27T02:05:13.820Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -5493,7 +5493,7 @@
     "lowest30d": true,
     "vendas": 2994,
     "publishedAt": "2026-11-12T21:35:14.759Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1459307687-21799836330",
@@ -5517,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 5781,
     "publishedAt": "2026-11-11T10:48:57.969Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP368012695-48506195929",
@@ -5541,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 511,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP328666563-58203053079",
@@ -5565,7 +5565,7 @@
     "lowest30d": false,
     "vendas": 2080,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1634491040-58257412160",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": 231,
     "publishedAt": "2026-11-07T09:35:14.264Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP801055718-58205889664",
@@ -5637,7 +5637,7 @@
     "lowest30d": true,
     "vendas": 2549,
     "publishedAt": "2026-11-05T12:35:19.564Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1911970870-58266023927",
@@ -5661,7 +5661,7 @@
     "lowest30d": true,
     "vendas": 501,
     "publishedAt": "2026-10-30T12:05:14.486Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 3691,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP296363855-22197373105",
@@ -5709,7 +5709,7 @@
     "lowest30d": false,
     "vendas": 3605,
     "publishedAt": "2026-10-31T04:05:12.455Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP378093609-23597579698",
@@ -5733,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 158,
     "publishedAt": "2026-10-30T23:35:12.800Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP776910666-58203158658",
@@ -5829,7 +5829,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1550183716-23498664691",
@@ -5877,7 +5877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5973,7 +5973,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP741872429-58267105902",
@@ -6045,7 +6045,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-14T15:35:15.232Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP766187556-23899779442",
@@ -6381,7 +6381,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T23:57:27.617Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4006196241",
@@ -6405,7 +6405,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -6453,7 +6453,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -6549,7 +6549,7 @@
     "lowest30d": false,
     "vendas": 1159,
     "publishedAt": "2026-11-10T06:35:11.945Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1468415010-58208798751",
@@ -6573,7 +6573,7 @@
     "lowest30d": false,
     "vendas": 1908,
     "publishedAt": "2026-10-30T20:05:14.586Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP983753255-23691204900",
@@ -6597,7 +6597,7 @@
     "lowest30d": false,
     "vendas": 273,
     "publishedAt": "2026-11-14T01:35:27.341Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1737468986-58262847430",
@@ -6621,7 +6621,7 @@
     "lowest30d": false,
     "vendas": 280,
     "publishedAt": "2026-11-12T00:05:19.814Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -6645,7 +6645,7 @@
     "lowest30d": true,
     "vendas": 1344,
     "publishedAt": "2026-10-29T20:35:16.988Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP301592546-22997149912",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 790,
     "publishedAt": "2026-10-28T22:35:14.706Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5346752329",
@@ -6693,7 +6693,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:35:14.707Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP720952207-58219003410",
@@ -6717,7 +6717,7 @@
     "lowest30d": false,
     "vendas": 2676,
     "publishedAt": "2026-11-05T01:05:14.758Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -6741,7 +6741,7 @@
     "lowest30d": false,
     "vendas": 1222,
     "publishedAt": "2026-10-30T21:05:14.231Z",
-    "checkedAt": "2026-11-15T09:35:12.693Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -6789,7 +6789,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4431431291",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -7101,7 +7101,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB3722102795",
@@ -7125,7 +7125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1259086167-40019216121",
@@ -7248,6 +7248,30 @@
     "checkedAt": "2026-11-15T12:05:15.466Z"
   },
   {
+    "id": "MLB4701793653",
+    "productId": "MLB64174316",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
+    "price": 31.56,
+    "originalPrice": 51.9,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 51.9,
+    "sellers": 48,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-03T14:05:22.224Z",
+    "checkedAt": "2026-11-15T12:35:14.025Z"
+  },
+  {
     "id": "SP805674361-23993804201",
     "productId": "SP805674361-23993804201",
     "marketplace": "shopee",
@@ -7317,7 +7341,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T13:35:14.313Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4655090087",
@@ -7341,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP973419961-58260330620",
@@ -7389,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1106058316-19699210101",
@@ -7437,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:35:29.366Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB2794699684",
@@ -7461,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:05:14.550Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7485,7 +7509,7 @@
     "lowest30d": false,
     "vendas": 2162,
     "publishedAt": "2026-11-01T22:35:14.542Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1128329580-23094491440",
@@ -7509,7 +7533,7 @@
     "lowest30d": false,
     "vendas": 3728,
     "publishedAt": "2026-10-28T13:05:20.226Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1296642221-23797969162",
@@ -7533,7 +7557,7 @@
     "lowest30d": false,
     "vendas": 2657,
     "publishedAt": "2026-11-09T10:35:18.603Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7578108490",
@@ -7557,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T08:58:47.625Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7513235336",
@@ -7581,7 +7605,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP296363855-22197552043",
@@ -7656,30 +7680,6 @@
     "checkedAt": "2026-11-15T09:35:12.693Z"
   },
   {
-    "id": "MLB4701793653",
-    "productId": "MLB64174316",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
-    "price": 34.42,
-    "originalPrice": 51.9,
-    "discount": 34,
-    "base": "media",
-    "averagePrice": 51.9,
-    "sellers": 48,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
-  },
-  {
     "id": "MLB7845017868",
     "productId": "MLB16084371",
     "marketplace": "ml",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7657977886",
@@ -7725,7 +7725,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1658811417-22895162663",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5537222254",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB6802433980",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1073407287-49516046201",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4104379865",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7297391068",
@@ -7989,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4641589414",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB3917376669",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5205286193",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T03:05:15.434Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7862762630",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T10:35:13.762Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5830400690",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T18:05:16.316Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5560600917",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-14T21:35:20.760Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4482650561",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5000007235",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5488515025",
@@ -8205,7 +8205,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB4786678702",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5452950305",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7996005336",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-14T21:05:13.727Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB2131892885",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T08:35:12.802Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB7938591364",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5354628463",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T21:35:17.326Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB6363542818",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T21:05:12.739Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB6949268730",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-30T22:35:15.138Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-15T12:05:15.466Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": 186,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1339412998-27035836352",
@@ -8733,7 +8733,7 @@
     "lowest30d": true,
     "vendas": 2056,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -9141,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 2496,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1484279813-20298320200",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 518,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -9213,7 +9213,7 @@
     "lowest30d": false,
     "vendas": 365,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9237,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 189,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9357,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 2147,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -9429,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 681,
     "publishedAt": "2026-10-23T04:05:19.715Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1345043704-23694913872",
@@ -9525,7 +9525,7 @@
     "lowest30d": false,
     "vendas": 125,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1077,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1643589827-58259648766",
@@ -10629,7 +10629,7 @@
     "lowest30d": true,
     "vendas": 169,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -10653,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 215,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -11325,7 +11325,7 @@
     "lowest30d": false,
     "vendas": 993,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -11589,7 +11589,7 @@
     "lowest30d": true,
     "vendas": 495,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11709,7 +11709,7 @@
     "lowest30d": true,
     "vendas": 899,
     "publishedAt": "2026-10-24T19:35:22.469Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -11925,7 +11925,7 @@
     "lowest30d": false,
     "vendas": 1357,
     "publishedAt": "2026-10-13T11:35:14.167Z",
-    "checkedAt": "2026-11-15T09:05:18.045Z"
+    "checkedAt": "2026-11-15T12:35:14.025Z"
   },
   {
     "id": "SP1716664673-48257296392",
