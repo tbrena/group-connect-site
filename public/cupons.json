@@ -2,6 +2,62 @@
   {
     "loja": "ml",
     "codigos": [
+      "HOJETEM"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17435",
+    "quando": "2026-11-16T12:01:27+00:00",
+    "id": "ml:HOJETEM",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "HOJEPRATEC"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/17434",
+    "quando": "2026-11-16T12:01:17+00:00",
+    "id": "ml:HOJEPRATEC",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTAPRASAUDE"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Saúde e Bem-Estar",
+    "origem": "avidaefeitadedesconto/17433",
+    "quando": "2026-11-16T12:01:10+00:00",
+    "id": "ml:OFERTAPRASAUDE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTAPRAVEIC"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 99",
+    "escopo": "Acessórios para Veículos",
+    "origem": "avidaefeitadedesconto/17432",
+    "quando": "2026-11-16T12:01:02+00:00",
+    "id": "ml:OFERTAPRAVEIC",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "FULL1611"
     ],
     "desconto": "15% OFF",
