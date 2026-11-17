@@ -2,6 +2,90 @@
   {
     "loja": "ml",
     "codigos": [
+      "CARRINHONOML"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 80",
+    "minimo": "R$ 79",
+    "escopo": "Itens para Casa",
+    "origem": "avidaefeitadedesconto/17473",
+    "quando": "2026-11-17T12:07:49+00:00",
+    "id": "ml:CARRINHONOML",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MEUDESCONTOOBRA"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 80",
+    "minimo": "R$ 79",
+    "escopo": "Construção e Indústria",
+    "origem": "avidaefeitadedesconto/17472",
+    "quando": "2026-11-17T12:07:42+00:00",
+    "id": "ml:MEUDESCONTOOBRA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFFHOJENOML"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17471",
+    "quando": "2026-11-17T12:01:34+00:00",
+    "id": "ml:OFFHOJENOML",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFFHOJEMELI"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 149",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/17470",
+    "quando": "2026-11-17T12:01:30+00:00",
+    "id": "ml:OFFHOJEMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MLSAUDE"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Saúde e Bem-Estar",
+    "origem": "avidaefeitadedesconto/17469",
+    "quando": "2026-11-17T12:01:21+00:00",
+    "id": "ml:MLSAUDE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MLOFERTAS"
+    ],
+    "desconto": "18% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 99",
+    "escopo": "Acessórios para Veículos",
+    "origem": "avidaefeitadedesconto/17468",
+    "quando": "2026-11-17T12:01:15+00:00",
+    "id": "ml:MLOFERTAS",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "QUEIMA1711"
     ],
     "desconto": "25% OFF",
@@ -137,62 +221,6 @@
     "origem": "avidaefeitadedesconto/17436",
     "quando": "2026-11-16T12:14:01+00:00",
     "id": "ml:PESOPESADO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "HOJETEM"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17435",
-    "quando": "2026-11-16T12:01:27+00:00",
-    "id": "ml:HOJETEM",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "HOJEPRATEC"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 200",
-    "minimo": "R$ 149",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/17434",
-    "quando": "2026-11-16T12:01:17+00:00",
-    "id": "ml:HOJEPRATEC",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFERTAPRASAUDE"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Saúde e Bem-Estar",
-    "origem": "avidaefeitadedesconto/17433",
-    "quando": "2026-11-16T12:01:10+00:00",
-    "id": "ml:OFERTAPRASAUDE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFERTAPRAVEIC"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 99",
-    "escopo": "Acessórios para Veículos",
-    "origem": "avidaefeitadedesconto/17432",
-    "quando": "2026-11-16T12:01:02+00:00",
-    "id": "ml:OFERTAPRAVEIC",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
