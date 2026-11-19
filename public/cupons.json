@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "SOUVIP25"
+    ],
+    "desconto": "25% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17564",
+    "quando": "2026-11-19T14:34:48+00:00",
+    "id": "ml:SOUVIP25",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELHORESPROMOS30"
+    ],
+    "desconto": "30% OFF",
+    "limite": "R$ 500",
+    "minimo": null,
+    "escopo": "Melhores Promos",
+    "origem": "avidaefeitadedesconto/17562",
+    "quando": "2026-11-19T14:25:42+00:00",
+    "id": "ml:MELHORESPROMOS30",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MAISCUPONS30"
+    ],
+    "desconto": "30% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Achados de Hoje",
+    "origem": "avidaefeitadedesconto/17561",
+    "quando": "2026-11-19T14:25:08+00:00",
+    "id": "ml:MAISCUPONS30",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "SEMPREOFF"
     ],
     "desconto": "18% OFF",
