@@ -2,6 +2,50 @@
   {
     "loja": "ml",
     "codigos": [
+      "TODOSITE2011",
+      "SITETODO2011",
+      "TODO2011SITE"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17589",
+    "quando": "2026-11-20T12:03:40+00:00",
+    "id": "ml:TODOSITE2011+SITETODO2011+TODO2011SITE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "INOVATECHML"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 199",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/17588",
+    "quando": "2026-11-20T12:00:26+00:00",
+    "id": "ml:INOVATECHML",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFERTAPARASAUDE"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Saúde e Bem-Estar",
+    "origem": "avidaefeitadedesconto/17587",
+    "quando": "2026-11-20T12:00:19+00:00",
+    "id": "ml:OFERTAPARASAUDE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIGAMER"
     ],
     "desconto": "8% OFF",
