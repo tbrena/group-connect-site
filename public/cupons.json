@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "AUTO2011"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17599",
+    "quando": "2026-11-20T15:11:59+00:00",
+    "id": "ml:AUTO2011",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "ELETRO2011"
     ],
     "desconto": "15% OFF",
@@ -153,62 +167,6 @@
     "origem": "avidaefeitadedesconto/17576",
     "quando": "2026-11-19T17:17:21+00:00",
     "id": "ml:BLACKDELUXO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VOCE10"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17572",
-    "quando": "2026-11-19T15:18:30+00:00",
-    "id": "ml:VOCE10",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MODA1911"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Moda e Acessórios",
-    "origem": "avidaefeitadedesconto/17571",
-    "quando": "2026-11-19T15:17:34+00:00",
-    "id": "ml:MODA1911",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BEBESPETS1911"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 60",
-    "minimo": "R$ 200",
-    "escopo": "Bebês e Petshop",
-    "origem": "avidaefeitadedesconto/17570",
-    "quando": "2026-11-19T15:17:27+00:00",
-    "id": "ml:BEBESPETS1911",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LOJASOFICIAIS1911"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 89",
-    "escopo": "Lojas Oficiais",
-    "origem": "avidaefeitadedesconto/17569",
-    "quando": "2026-11-19T15:12:56+00:00",
-    "id": "ml:LOJASOFICIAIS1911",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
