@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T15:35:20.969Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -69,7 +69,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T01:35:20.767Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -234,10 +234,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 956,
     "publishedAt": "2026-11-13T18:05:15.349Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP544374309-58270107598",
@@ -582,8 +582,8 @@
     "fonte": "shopee:q:aspirador",
     "categoria": "Eletrodomésticos",
     "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
-    "price": 39.99,
-    "originalPrice": 124.97,
+    "price": 39.9,
+    "originalPrice": 124.69,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -597,7 +597,7 @@
     "lowest30d": false,
     "vendas": 1363,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -798,8 +798,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
-    "price": 55.77,
-    "originalPrice": 169,
+    "price": 55.88,
+    "originalPrice": 169.33,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -813,7 +813,7 @@
     "lowest30d": false,
     "vendas": 499,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -982,6 +982,30 @@
     "vendas": 1752,
     "publishedAt": "2026-09-28T03:05:15.246Z",
     "checkedAt": "2026-11-20T01:35:17.439Z"
+  },
+  {
+    "id": "SP450664666-20497747334",
+    "productId": "SP450664666-20497747334",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Antipulgas Para Cães Simparic 40mg De 10-20kg 1 Comprimido",
+    "price": 58.36,
+    "originalPrice": 171.65,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4h-lwr5yh2wnxl767",
+    "url": "https://s.shopee.com.br/5fqQzkbGcF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3034,
+    "publishedAt": "2026-11-17T16:05:20.002Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP397374716-23092475370",
@@ -1197,7 +1221,7 @@
     "lowest30d": true,
     "vendas": 308,
     "publishedAt": "2026-10-29T17:05:15.883Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -1365,7 +1389,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:05:15.580Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -1533,7 +1557,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T21:35:14.243Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP787352489-22298559090",
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 728,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1007379684-23797357969",
@@ -1893,7 +1917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T03:35:13.439Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1462595809-22098406235",
@@ -1989,7 +2013,7 @@
     "lowest30d": false,
     "vendas": 2854,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -2181,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 4516,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2253,7 +2277,7 @@
     "lowest30d": true,
     "vendas": 587,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -2301,7 +2325,7 @@
     "lowest30d": true,
     "vendas": 2085,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP281898655-42514418718",
@@ -2757,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 887,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP409164022-23998115427",
@@ -2781,7 +2805,7 @@
     "lowest30d": false,
     "vendas": 1047,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1339888238-23394402377",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 576,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -2853,7 +2877,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T10:35:16.558Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -2997,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 796,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -3045,7 +3069,7 @@
     "lowest30d": true,
     "vendas": 2510,
     "publishedAt": "2026-11-08T04:05:12.544Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3117,7 +3141,7 @@
     "lowest30d": false,
     "vendas": 278,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -3189,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 2134,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1638165366-23294741602",
@@ -3405,7 +3429,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T15:35:12.781Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -3429,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 867,
     "publishedAt": "2026-11-07T15:35:13.012Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB3798323167",
@@ -3453,7 +3477,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -3477,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 5121,
     "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1283675544-51606352089",
@@ -3573,7 +3597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:05:14.550Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1319830745-58268225112",
@@ -3837,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 894,
     "publishedAt": "2026-11-09T21:35:13.981Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -3957,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 556,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -4197,7 +4221,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1863032510-58268769932",
@@ -4296,6 +4320,30 @@
     "checkedAt": "2026-11-20T02:35:22.015Z"
   },
   {
+    "id": "SP1511719344-41651822287",
+    "productId": "SP1511719344-41651822287",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Teclado para jogos com fio 61-Key RGB Backlight Mini Compact USB-C Cabo de alimentação plugável",
+    "price": 83.69,
+    "originalPrice": 199.26,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-ma2l58l2n8kd77",
+    "url": "https://s.shopee.com.br/2BGYpASAeB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 574,
+    "publishedAt": "2026-11-02T03:05:14.625Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
+  },
+  {
     "id": "SP432069203-58206129432",
     "productId": "SP432069203-58206129432",
     "marketplace": "shopee",
@@ -4368,30 +4416,6 @@
     "checkedAt": "2026-11-20T01:35:17.439Z"
   },
   {
-    "id": "SP450664666-20497747334",
-    "productId": "SP450664666-20497747334",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Antipulgas Para Cães Simparic 40mg De 10-20kg 1 Comprimido",
-    "price": 73.36,
-    "originalPrice": 170.6,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4h-lwr5yh2wnxl767",
-    "url": "https://s.shopee.com.br/5fqQzkbGcF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3034,
-    "publishedAt": "2026-11-17T16:05:20.002Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
-  },
-  {
     "id": "SP1195036331-28115949214",
     "productId": "SP1195036331-28115949214",
     "marketplace": "shopee",
@@ -4446,8 +4470,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Alaxe5 Generation Original Speaker Immediate Shipping Best Price",
-    "price": 46.99,
-    "originalPrice": 109.28,
+    "price": 46.98,
+    "originalPrice": 109.26,
     "discount": 57,
     "base": "vendedor",
     "averagePrice": null,
@@ -4461,7 +4485,7 @@
     "lowest30d": false,
     "vendas": 5626,
     "publishedAt": "2026-10-31T03:05:14.066Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1491999374-23594308846",
@@ -4485,7 +4509,7 @@
     "lowest30d": true,
     "vendas": 482,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1661007426-58207680669",
@@ -4509,7 +4533,7 @@
     "lowest30d": false,
     "vendas": 5002,
     "publishedAt": "2026-11-08T13:05:12.499Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1344793312-58258130167",
@@ -4533,7 +4557,7 @@
     "lowest30d": false,
     "vendas": 774,
     "publishedAt": "2026-10-29T19:12:30.972Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP983645094-55114813058",
@@ -4581,7 +4605,7 @@
     "lowest30d": false,
     "vendas": 3379,
     "publishedAt": "2026-11-18T02:05:14.996Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -4605,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 3304,
     "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1368787663-23597895251",
@@ -4773,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 2564,
     "publishedAt": "2026-11-18T11:35:12.802Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1494273370-22393933720",
@@ -4917,7 +4941,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP816188038-58215279978",
@@ -5013,7 +5037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -5230,30 +5254,6 @@
     "vendas": 3092,
     "publishedAt": "2026-11-05T12:35:19.564Z",
     "checkedAt": "2026-11-20T01:05:11.569Z"
-  },
-  {
-    "id": "SP1511719344-41651822287",
-    "productId": "SP1511719344-41651822287",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Teclado para jogos com fio 61-Key RGB Backlight Mini Compact USB-C Cabo de alimentação plugável",
-    "price": 93.99,
-    "originalPrice": 199.98,
-    "discount": 53,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-ma2l58l2n8kd77",
-    "url": "https://s.shopee.com.br/2BGYpASAeB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 574,
-    "publishedAt": "2026-11-02T03:05:14.625Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
   },
   {
     "id": "SP296363855-22197373105",
@@ -5493,7 +5493,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T12:05:17.148Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP741872429-58267105902",
@@ -5877,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 2267,
     "publishedAt": "2026-11-13T03:35:13.006Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1343471577-23498303242",
@@ -5886,8 +5886,8 @@
     "fonte": "shopee:q:perfume",
     "categoria": "Beleza",
     "title": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
-    "price": 49.9,
-    "originalPrice": 97.84,
+    "price": 49.89,
+    "originalPrice": 97.82,
     "discount": 49,
     "base": "vendedor",
     "averagePrice": null,
@@ -5901,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 2461,
     "publishedAt": "2026-11-11T04:05:17.034Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1614975737-58257084474",
@@ -5925,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 549,
     "publishedAt": "2026-11-07T19:35:13.840Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -5949,7 +5949,7 @@
     "lowest30d": true,
     "vendas": 3099,
     "publishedAt": "2026-11-13T23:35:18.115Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1634491040-58257412160",
@@ -5997,7 +5997,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -6021,7 +6021,7 @@
     "lowest30d": false,
     "vendas": 2428,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1408367819-23394279595",
@@ -6165,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1718568808-23699380722",
@@ -6213,7 +6213,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP427471230-58216012662",
@@ -6309,7 +6309,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -6382,6 +6382,30 @@
     "vendas": 1720,
     "publishedAt": "2026-11-19T18:05:15.122Z",
     "checkedAt": "2026-11-20T00:35:13.559Z"
+  },
+  {
+    "id": "MLB7384626428",
+    "productId": "MLB69331466",
+    "marketplace": "ml",
+    "fonte": "MLB264337",
+    "categoria": "Brinquedos",
+    "title": "Casa De Boneca Barbie Dream Land Com Escorregador Multicolor",
+    "price": 749.98,
+    "originalPrice": 1357.03,
+    "discount": 45,
+    "base": "media",
+    "averagePrice": 1357.03,
+    "sellers": 36,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-7384626428?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": true,
+    "vendas": null,
+    "publishedAt": "2026-11-19T05:35:11.666Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1784744417-58211840201",
@@ -6501,7 +6525,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T23:57:27.617Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4431431291",
@@ -6525,7 +6549,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7845017868",
@@ -6549,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1749726596-58268032880",
@@ -6621,7 +6645,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T20:35:16.202Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB6699389750",
@@ -6645,31 +6669,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T17:05:15.110Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
-    "id": "MLB7384626428",
-    "productId": "MLB69331466",
+    "id": "MLB5346752329",
+    "productId": "MLB78290482",
     "marketplace": "ml",
-    "fonte": "MLB264337",
-    "categoria": "Brinquedos",
-    "title": "Casa De Boneca Barbie Dream Land Com Escorregador Multicolor",
-    "price": 749.98,
-    "originalPrice": 1350,
+    "fonte": "MLB264051",
+    "categoria": "Casa e Decoração",
+    "title": "Lava-Roupas Pó Omo Todo Ciclo Pacote 4kg Tamanho Família",
+    "price": 43.84,
+    "originalPrice": 78.4,
     "discount": 44,
     "base": "media",
-    "averagePrice": 1350,
-    "sellers": 36,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-7384626428?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
+    "averagePrice": 78.4,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_609138-MLA115302026160_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5346752329?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
     "oficial": false,
     "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": true,
+    "loja": "Mercado Livre Brasil",
+    "lowest30d": false,
     "vendas": null,
-    "publishedAt": "2026-11-19T05:35:11.666Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "publishedAt": "2026-11-09T15:35:14.707Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP720952207-58219003410",
@@ -6717,7 +6741,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP332059670-54557028525",
@@ -6744,30 +6768,6 @@
     "checkedAt": "2026-11-20T02:35:22.015Z"
   },
   {
-    "id": "MLB5346752329",
-    "productId": "MLB78290482",
-    "marketplace": "ml",
-    "fonte": "MLB264051",
-    "categoria": "Casa e Decoração",
-    "title": "Lava-Roupas Pó Omo Todo Ciclo Pacote 4kg Tamanho Família",
-    "price": 43.84,
-    "originalPrice": 76.9,
-    "discount": 43,
-    "base": "media",
-    "averagePrice": 76.9,
-    "sellers": 15,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_609138-MLA115302026160_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5346752329?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-09T15:35:14.707Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
-  },
-  {
     "id": "MLB6428496124",
     "productId": "MLB54429015",
     "marketplace": "ml",
@@ -6789,31 +6789,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
-  },
-  {
-    "id": "MLB4702964270",
-    "productId": "MLB19546573",
-    "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Bateria Cr2032 Duracell Com 5 Unidades 3V Pilha Moeda CR2032",
-    "price": 34.9,
-    "originalPrice": 59.9,
-    "discount": 42,
-    "base": "media",
-    "averagePrice": 59.9,
-    "sellers": 43,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_805858-MLA116385090091_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4702964270?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ARCOZ DISTRIBUIDORA",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-11-19T19:05:14.236Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP395166866-58262387632",
@@ -6837,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 6768,
     "publishedAt": "2026-11-03T22:35:14.961Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP409329996-22291628478",
@@ -6861,7 +6837,7 @@
     "lowest30d": false,
     "vendas": 2969,
     "publishedAt": "2026-11-11T02:59:38.281Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -6957,7 +6933,7 @@
     "lowest30d": true,
     "vendas": 707,
     "publishedAt": "2026-10-31T18:05:14.114Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4548295287",
@@ -6981,7 +6957,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T13:05:15.206Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1316702385-23494780818",
@@ -7005,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 1531,
     "publishedAt": "2026-11-06T23:35:14.127Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP631587058-23798863668",
@@ -7101,7 +7077,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T19:05:15.347Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1593864538-55957404904",
@@ -7197,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 1967,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-19T23:48:45.780Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1045085918-23799188673",
@@ -7269,7 +7245,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-16T22:05:12.802Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP805674361-23993804201",
@@ -7318,6 +7294,30 @@
     "vendas": 17195,
     "publishedAt": "2026-11-04T00:05:16.817Z",
     "checkedAt": "2026-11-20T01:05:11.569Z"
+  },
+  {
+    "id": "MLB4702964270",
+    "productId": "MLB19546573",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Bateria Cr2032 Duracell Com 5 Unidades 3V Pilha Moeda CR2032",
+    "price": 38,
+    "originalPrice": 59.9,
+    "discount": 37,
+    "base": "media",
+    "averagePrice": 59.9,
+    "sellers": 43,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_805858-MLA116385090091_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4702964270?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ARCOZ DISTRIBUIDORA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-19T19:05:14.236Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP898761179-58206235171",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7533,7 +7533,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T20:35:13.832Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T13:35:14.313Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB3556275459",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5316138412",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T13:05:15.206Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7701,7 +7701,7 @@
     "lowest30d": false,
     "vendas": 690,
     "publishedAt": "2026-11-18T17:35:13.857Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP406894684-19699704487",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": 1477,
     "publishedAt": "2026-11-09T13:05:17.286Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4096639240",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T22:35:15.787Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7657977886",
@@ -7845,7 +7845,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1296760327-22193173984",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4701793653",
@@ -7917,7 +7917,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4641589414",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1073407287-49516046201",
@@ -7965,7 +7965,7 @@
     "lowest30d": false,
     "vendas": 388,
     "publishedAt": "2026-11-14T23:35:17.263Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4685752162",
@@ -7989,7 +7989,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-17T17:05:20.235Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5205286193",
@@ -8013,7 +8013,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T03:05:15.434Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7297391068",
@@ -8037,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T21:35:26.924Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4771398286",
@@ -8061,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:35:29.366Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB6802433980",
@@ -8085,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB3917376669",
@@ -8109,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7138679072",
@@ -8119,10 +8119,10 @@
     "categoria": "Automotivo",
     "title": "Pneu 175/65R14 Continental PowerContact 2 82T Aro 14",
     "price": 344.45,
-    "originalPrice": 451.13,
+    "originalPrice": 455,
     "discount": 24,
     "base": "media",
-    "averagePrice": 451.13,
+    "averagePrice": 455,
     "sellers": 17,
     "image": "https://http2.mlstatic.com/D_NQ_NP_939753-MLA99935674227_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7138679072?matt_word=promoninja&matt_tool=19839069",
@@ -8133,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T11:12:03.729Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4655090087",
@@ -8157,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5488515025",
@@ -8181,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5750365944",
@@ -8205,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T01:35:14.503Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7938591364",
@@ -8229,7 +8229,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7439807004",
@@ -8253,7 +8253,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-16T21:05:34.606Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5452950305",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB2131892885",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T08:35:12.802Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB4482650561",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5354628463",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T21:35:17.326Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB7513235336",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5000007235",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-20T02:35:22.015Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8637,7 +8637,7 @@
     "lowest30d": true,
     "vendas": 1276,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -8998,6 +8998,30 @@
     "vendas": 861,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-11-20T00:35:13.559Z"
+  },
+  {
+    "id": "SP1363037345-58255887007",
+    "productId": "SP1363037345-58255887007",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Câmera segurança wi-fi ip sem fio V360 encaixe lampada aplicativo ptz full HD visão noturna",
+    "price": 31.25,
+    "originalPrice": 100.81,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mrj306fdb18mce",
+    "url": "https://s.shopee.com.br/30pfojOKPD",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4646,
+    "publishedAt": "2026-11-20T03:05:14.550Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -9621,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 435,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP398190214-23491709015",
@@ -9645,7 +9669,7 @@
     "lowest30d": true,
     "vendas": 196,
     "publishedAt": "2026-10-22T23:20:28.981Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1658165638-58261940206",
@@ -9669,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 391,
     "publishedAt": "2026-09-23T16:05:18.085Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1863032510-58219280541",
@@ -9789,7 +9813,7 @@
     "lowest30d": true,
     "vendas": 1149,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1847771333-58214309634",
@@ -10533,7 +10557,7 @@
     "lowest30d": true,
     "vendas": 595,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10557,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1500,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -10965,7 +10989,7 @@
     "lowest30d": true,
     "vendas": 5037,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1331633037-28958988085",
@@ -11088,6 +11112,30 @@
     "checkedAt": "2026-11-20T00:35:13.559Z"
   },
   {
+    "id": "SP717396632-16326176621",
+    "productId": "SP717396632-16326176621",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Potente Multimídia com LED RGB Subwoofer TWS Estéreo sem fio XDG-96-XTRAD",
+    "price": 108.88,
+    "originalPrice": 302.44,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lg1fupf0d3zzca",
+    "url": "https://s.shopee.com.br/4B1dJ8Po2d",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 199,
+    "publishedAt": "2026-09-28T18:05:15.508Z",
+    "checkedAt": "2026-11-20T03:05:14.550Z"
+  },
+  {
     "id": "SP415175805-20103606180",
     "productId": "SP415175805-20103606180",
     "marketplace": "shopee",
@@ -11109,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 10420,
     "publishedAt": "2026-10-25T12:35:16.896Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1339065761-19199870733",
@@ -11157,7 +11205,7 @@
     "lowest30d": true,
     "vendas": 3081,
     "publishedAt": "2026-10-25T12:05:12.250Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1632292406-22494419367",
@@ -11205,7 +11253,7 @@
     "lowest30d": false,
     "vendas": 2158,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -11277,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 2415,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -11301,7 +11349,7 @@
     "lowest30d": false,
     "vendas": 4489,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP433494801-40378530289",
@@ -11398,30 +11446,6 @@
     "vendas": 1553,
     "publishedAt": "2026-10-22T00:35:14.193Z",
     "checkedAt": "2026-11-20T02:35:22.015Z"
-  },
-  {
-    "id": "SP717396632-16326176621",
-    "productId": "SP717396632-16326176621",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Potente Multimídia com LED RGB Subwoofer TWS Estéreo sem fio XDG-96-XTRAD",
-    "price": 109.98,
-    "originalPrice": 297.24,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lg1fupf0d3zzca",
-    "url": "https://s.shopee.com.br/4B1dJ8Po2d",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 199,
-    "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
   },
   {
     "id": "SP627750190-22798914047",
@@ -11613,7 +11637,7 @@
     "lowest30d": true,
     "vendas": 976,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1314013169-22898807249",
@@ -11901,7 +11925,7 @@
     "lowest30d": false,
     "vendas": 1589,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   },
   {
     "id": "SP1921399168-23999656092",
@@ -11973,30 +11997,6 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-10-20T00:35:13.057Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
-  },
-  {
-    "id": "SP923156888-58209090891",
-    "productId": "SP923156888-58209090891",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "Kit Whey Protein Feminino Blend Isolado Concentrado 500g + Creatina Monohidratada 600g - 506",
-    "price": 79.98,
-    "originalPrice": 210.47,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mvjlpub26fwj72",
-    "url": "https://s.shopee.com.br/4qHK6MNGgp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 196,
-    "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-19T23:35:21.646Z"
+    "checkedAt": "2026-11-20T03:05:14.550Z"
   }
 ]
