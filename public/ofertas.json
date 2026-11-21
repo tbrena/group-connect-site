@@ -21,7 +21,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T15:35:20.969Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 367,
     "publishedAt": "2026-11-17T13:35:18.330Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -90,10 +90,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 468,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1573558445-44307948736",
@@ -573,7 +573,7 @@
     "lowest30d": true,
     "vendas": 2963,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -693,7 +693,31 @@
     "lowest30d": false,
     "vendas": 1105,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
+    "id": "SP717396632-20997608223",
+    "productId": "SP717396632-20997608223",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+    "price": 99.99,
+    "originalPrice": 303,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
+    "url": "https://s.shopee.com.br/LoudocnnI",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3485,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1325610951-58219140416",
@@ -1149,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 513,
     "publishedAt": "2026-11-04T20:35:14.814Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1413,7 +1437,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:05:15.580Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -1533,7 +1557,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T21:35:14.243Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP787352489-22298559090",
@@ -1725,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 117,
     "publishedAt": "2026-11-01T19:35:13.899Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -1893,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 960,
     "publishedAt": "2026-11-11T14:35:21.151Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4949416587",
@@ -1917,7 +1941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T03:35:13.439Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -1965,7 +1989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T01:35:20.767Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP421422443-23498040823",
@@ -2037,7 +2061,7 @@
     "lowest30d": false,
     "vendas": 3409,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP866679071-23199528877",
@@ -2062,30 +2086,6 @@
     "vendas": 2699,
     "publishedAt": "2026-10-12T16:05:13.807Z",
     "checkedAt": "2026-11-21T02:35:16.961Z"
-  },
-  {
-    "id": "SP717396632-20997608223",
-    "productId": "SP717396632-20997608223",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-    "price": 106.97,
-    "originalPrice": 297.14,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
-    "url": "https://s.shopee.com.br/LoudocnnI",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3485,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
   },
   {
     "id": "SP328666563-58255491703",
@@ -2133,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 559,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1272600089-18597998986",
@@ -2397,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 541,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5535425895",
@@ -2421,7 +2421,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T10:35:16.558Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1488641545-23099195917",
@@ -2757,7 +2757,7 @@
     "lowest30d": false,
     "vendas": 368,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -2854,30 +2854,6 @@
     "vendas": 1051,
     "publishedAt": "2026-10-23T19:05:15.508Z",
     "checkedAt": "2026-11-21T02:05:16.545Z"
-  },
-  {
-    "id": "SP1339888238-23394402377",
-    "productId": "SP1339888238-23394402377",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "INOVA Fone De Ouvido Bluetooth 5.4 Toque DE Impressão Digital 72H Autonomia ANC Cancelando Ruído",
-    "price": 58.7,
-    "originalPrice": 158.65,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mpegqc82brwj57",
-    "url": "https://s.shopee.com.br/1W0s67ZjhZ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 563,
-    "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -3045,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 894,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3237,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 1720,
     "publishedAt": "2026-11-17T03:35:14.108Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1331886707-19198316357",
@@ -3285,7 +3261,7 @@
     "lowest30d": true,
     "vendas": 2347,
     "publishedAt": "2026-11-13T23:52:04.770Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1557539807-58208104098",
@@ -3357,7 +3333,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-08T15:35:12.781Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1080919365-27095692379",
@@ -3405,7 +3381,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T03:05:15.574Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -3453,7 +3429,7 @@
     "lowest30d": false,
     "vendas": 1202,
     "publishedAt": "2026-11-01T22:05:18.952Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP673495060-48802613534",
@@ -3501,7 +3477,7 @@
     "lowest30d": true,
     "vendas": 1957,
     "publishedAt": "2026-11-19T01:35:14.226Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1547936322-22898944143",
@@ -3789,7 +3765,7 @@
     "lowest30d": true,
     "vendas": 245,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP466360966-56316175763",
@@ -3933,7 +3909,7 @@
     "lowest30d": true,
     "vendas": 986,
     "publishedAt": "2026-11-01T00:05:14.228Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1730290113-58204994417",
@@ -4149,7 +4125,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1863032510-58268769932",
@@ -4485,7 +4461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T21:05:14.550Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -4797,7 +4773,7 @@
     "lowest30d": false,
     "vendas": 1059,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -4821,7 +4797,7 @@
     "lowest30d": true,
     "vendas": 2017,
     "publishedAt": "2026-11-06T11:36:51.093Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4006196241",
@@ -4831,11 +4807,11 @@
     "categoria": "Brinquedos",
     "title": "LEGO Marvel - Robô do Homem-Aranha vs Anti-Venom - 107 Peças - 76308",
     "price": 78.29,
-    "originalPrice": 170.47,
+    "originalPrice": 168.4,
     "discount": 54,
     "base": "media",
-    "averagePrice": 170.47,
-    "sellers": 40,
+    "averagePrice": 168.4,
+    "sellers": 39,
     "image": "https://http2.mlstatic.com/D_NQ_NP_638454-MLA99483761474_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4006196241?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": false,
@@ -4845,7 +4821,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-06T22:35:13.489Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP816188038-58215279978",
@@ -4893,7 +4869,31 @@
     "lowest30d": true,
     "vendas": 1503,
     "publishedAt": "2026-11-12T11:05:16.092Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
+    "id": "SP1459307687-21799836330",
+    "productId": "SP1459307687-21799836330",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:ferramenta",
+    "categoria": "Ferramentas",
+    "title": "Parafusadeira Furadeira de Impacto Com 2 Bateria Recarregável Sem Fio 48v Com Maleta Completo",
+    "price": 114.99,
+    "originalPrice": 249.98,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-823oc-moipjw1uysr064",
+    "url": "https://s.shopee.com.br/qlBEs7LX6",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 7801,
+    "publishedAt": "2026-11-11T10:48:57.969Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -4917,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 1843,
     "publishedAt": "2026-11-01T23:35:16.616Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB3793237586",
@@ -4931,7 +4931,7 @@
     "discount": 54,
     "base": "media",
     "averagePrice": 65,
-    "sellers": 46,
+    "sellers": 45,
     "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-3793237586?matt_word=promoninja&matt_tool=19839069",
     "freeShipping": true,
@@ -4941,7 +4941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-04T16:05:20.484Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1788702793-58210080994",
@@ -4989,7 +4989,7 @@
     "lowest30d": true,
     "vendas": 4199,
     "publishedAt": "2026-11-05T14:05:29.764Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1362857362-58206175995",
@@ -5013,7 +5013,7 @@
     "lowest30d": true,
     "vendas": 1420,
     "publishedAt": "2026-11-03T18:05:27.879Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1263132944-23393678294",
@@ -5061,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 1605,
     "publishedAt": "2026-11-14T05:35:13.911Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP368012695-48506195929",
@@ -5085,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 431,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP627750190-22997611303",
@@ -5112,6 +5112,30 @@
     "checkedAt": "2026-11-21T01:35:16.005Z"
   },
   {
+    "id": "SP1634491040-58257412160",
+    "productId": "SP1634491040-58257412160",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
+    "price": 49.9,
+    "originalPrice": 106.17,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
+    "url": "https://s.shopee.com.br/1W0sA9egWB",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3794,
+    "publishedAt": "2026-11-09T05:35:14.096Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
     "id": "MLB5301114959",
     "productId": "MLB72656297",
     "marketplace": "ml",
@@ -5133,7 +5157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T12:05:17.148Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1815838665-23999636078",
@@ -5253,7 +5277,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-02T09:35:15.167Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1511719344-41651822287",
@@ -5301,7 +5325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T09:35:17.104Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1758080534-45312635560",
@@ -5374,30 +5398,6 @@
     "vendas": 2467,
     "publishedAt": "2026-11-12T23:35:14.917Z",
     "checkedAt": "2026-11-21T00:35:17.841Z"
-  },
-  {
-    "id": "SP1459307687-21799836330",
-    "productId": "SP1459307687-21799836330",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:ferramenta",
-    "categoria": "Ferramentas",
-    "title": "Parafusadeira Furadeira de Impacto Com 2 Bateria Recarregável Sem Fio 48v Com Maleta Completo",
-    "price": 118.99,
-    "originalPrice": 247.9,
-    "discount": 52,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823oc-moipjw1uysr064",
-    "url": "https://s.shopee.com.br/qlBEs7LX6",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 7801,
-    "publishedAt": "2026-11-11T10:48:57.969Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": 1253,
     "publishedAt": "2026-11-12T14:05:15.945Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -5637,7 +5637,7 @@
     "lowest30d": true,
     "vendas": 13234,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1441157744-25946709329",
@@ -5661,7 +5661,7 @@
     "lowest30d": false,
     "vendas": 32028,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 1848,
     "publishedAt": "2026-11-11T17:05:18.378Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1333507062-58217052865",
@@ -5709,7 +5709,7 @@
     "lowest30d": false,
     "vendas": 1110,
     "publishedAt": "2026-11-11T15:05:17.179Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP504754787-23892803207",
@@ -5829,7 +5829,7 @@
     "lowest30d": false,
     "vendas": 563,
     "publishedAt": "2026-11-19T21:35:13.041Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP974102638-23694031516",
@@ -5976,30 +5976,6 @@
     "checkedAt": "2026-11-21T02:05:16.545Z"
   },
   {
-    "id": "SP1634491040-58257412160",
-    "productId": "SP1634491040-58257412160",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
-    "price": 49.9,
-    "originalPrice": 95.96,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
-    "url": "https://s.shopee.com.br/1W0sA9egWB",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3794,
-    "publishedAt": "2026-11-09T05:35:14.096Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
-  },
-  {
     "id": "SP1283675544-56356023572",
     "productId": "SP1283675544-56356023572",
     "marketplace": "shopee",
@@ -6021,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 897,
     "publishedAt": "2026-11-08T14:05:13.288Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB3312152968",
@@ -6045,7 +6021,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -6165,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 2538,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB6611494338",
@@ -6189,7 +6165,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:05:15.855Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP427471230-58216012662",
@@ -6285,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 4065,
     "publishedAt": "2026-11-11T19:35:12.667Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4648803608",
@@ -6309,7 +6285,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1468415010-58208798751",
@@ -6357,7 +6333,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-29T12:05:22.787Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1802473077-58210724935",
@@ -6381,7 +6357,7 @@
     "lowest30d": false,
     "vendas": 1868,
     "publishedAt": "2026-11-19T18:05:15.122Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB7384626428",
@@ -6405,7 +6381,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-19T05:35:11.666Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1784744417-58211840201",
@@ -6573,7 +6549,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T20:35:16.202Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB6699389750",
@@ -6597,7 +6573,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T17:05:15.110Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB2715864979",
@@ -6621,7 +6597,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-07T23:57:27.617Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5346752329",
@@ -6645,7 +6621,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-09T15:35:14.707Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP720952207-58219003410",
@@ -6696,30 +6672,6 @@
     "checkedAt": "2026-11-21T01:35:16.005Z"
   },
   {
-    "id": "MLB6428496124",
-    "productId": "MLB54429015",
-    "marketplace": "ml",
-    "fonte": "MLB21171",
-    "categoria": "Eletrodomésticos",
-    "title": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
-    "price": 439,
-    "originalPrice": 767.51,
-    "discount": 43,
-    "base": "media",
-    "averagePrice": 767.51,
-    "sellers": 15,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_688571-MLA99470684418_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-6428496124?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": true,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Casa",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-04T11:35:12.304Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
-  },
-  {
     "id": "MLB3767156322",
     "productId": "MLB17384401",
     "marketplace": "ml",
@@ -6741,31 +6693,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-03T21:05:22.258Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
-  },
-  {
-    "id": "MLB4702964270",
-    "productId": "MLB19546573",
-    "marketplace": "ml",
-    "fonte": "MLB4900",
-    "categoria": "Eletrônicos",
-    "title": "Bateria Cr2032 Duracell Com 5 Unidades 3V Pilha Moeda CR2032",
-    "price": 34.9,
-    "originalPrice": 59.78,
-    "discount": 42,
-    "base": "media",
-    "averagePrice": 59.78,
-    "sellers": 43,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_805858-MLA116385090091_082026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-4702964270?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "ARCOZ DISTRIBUIDORA",
-    "lowest30d": true,
-    "vendas": null,
-    "publishedAt": "2026-11-19T19:05:14.236Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -6885,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 1118,
     "publishedAt": "2026-11-10T06:35:11.945Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1824003005-23899698917",
@@ -6981,7 +6909,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T13:05:15.206Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1316702385-23494780818",
@@ -7029,7 +6957,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-20T21:35:15.881Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5872060016",
@@ -7053,7 +6981,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-15T19:05:15.347Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP631587058-23798863668",
@@ -7176,6 +7104,30 @@
     "checkedAt": "2026-11-21T01:05:16.962Z"
   },
   {
+    "id": "MLB6428496124",
+    "productId": "MLB54429015",
+    "marketplace": "ml",
+    "fonte": "MLB21171",
+    "categoria": "Eletrodomésticos",
+    "title": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
+    "price": 466.89,
+    "originalPrice": 767.51,
+    "discount": 39,
+    "base": "media",
+    "averagePrice": 767.51,
+    "sellers": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_688571-MLA99470684418_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-6428496124?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": true,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "Mercado Livre Casa",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-04T11:35:12.304Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
     "id": "SP1855095856-58212716558",
     "productId": "SP1855095856-58212716558",
     "marketplace": "shopee",
@@ -7245,7 +7197,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-20T21:35:15.881Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1575539765-52411189975",
@@ -7368,6 +7320,30 @@
     "checkedAt": "2026-11-21T01:35:16.005Z"
   },
   {
+    "id": "MLB4702964270",
+    "productId": "MLB19546573",
+    "marketplace": "ml",
+    "fonte": "MLB4900",
+    "categoria": "Eletrônicos",
+    "title": "Bateria Cr2032 Duracell Com 5 Unidades 3V Pilha Moeda CR2032",
+    "price": 38,
+    "originalPrice": 59.9,
+    "discount": 37,
+    "base": "media",
+    "averagePrice": 59.9,
+    "sellers": 43,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_805858-MLA116385090091_082026-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-4702964270?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "ARCOZ DISTRIBUIDORA",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-19T19:05:14.236Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
     "id": "MLB5750365944",
     "productId": "MLB50024113",
     "marketplace": "ml",
@@ -7389,7 +7365,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T01:35:14.503Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP898761179-58206235171",
@@ -7485,7 +7461,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4104379865",
@@ -7495,10 +7471,10 @@
     "categoria": "Eletrodomésticos",
     "title": "Prancha de cabelo Gama Italy Eleganza Plus",
     "price": 80.9,
-    "originalPrice": 125.69,
+    "originalPrice": 126.69,
     "discount": 36,
     "base": "media",
-    "averagePrice": 125.69,
+    "averagePrice": 126.69,
     "sellers": 35,
     "image": "https://http2.mlstatic.com/D_NQ_NP_625242-MLA109735920377_032026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4104379865?matt_word=promoninja&matt_tool=19839069",
@@ -7509,7 +7485,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-31T14:35:13.392Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1099182727-23093251933",
@@ -7581,7 +7557,7 @@
     "lowest30d": true,
     "vendas": 614,
     "publishedAt": "2026-11-09T17:05:17.832Z",
-    "checkedAt": "2026-11-20T23:35:15.539Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4803658086",
@@ -7605,7 +7581,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-08T13:35:14.313Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4701793653",
@@ -7615,10 +7591,10 @@
     "categoria": "Beleza",
     "title": "L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml",
     "price": 34.42,
-    "originalPrice": 51.95,
+    "originalPrice": 51.9,
     "discount": 34,
     "base": "media",
-    "averagePrice": 51.95,
+    "averagePrice": 51.9,
     "sellers": 48,
     "image": "https://http2.mlstatic.com/D_NQ_NP_683166-MLA103936334574_012026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4701793653?matt_word=promoninja&matt_tool=19839069",
@@ -7629,7 +7605,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T14:05:22.224Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
+    "id": "MLB3556275459",
+    "productId": "MLB25708528",
+    "marketplace": "ml",
+    "fonte": "MLB1263",
+    "categoria": "Beleza",
+    "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
+    "price": 78.33,
+    "originalPrice": 118.36,
+    "discount": 34,
+    "base": "media",
+    "averagePrice": 118.36,
+    "sellers": 18,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-3556275459?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "COMBE BRASIL",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-10-31T15:05:26.882Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4758538973",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-20T18:35:18.506Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5316138412",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-19T13:05:15.206Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7800,30 +7800,6 @@
     "checkedAt": "2026-11-21T00:35:17.841Z"
   },
   {
-    "id": "MLB3556275459",
-    "productId": "MLB25708528",
-    "marketplace": "ml",
-    "fonte": "MLB1263",
-    "categoria": "Beleza",
-    "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-    "price": 78.33,
-    "originalPrice": 116.27,
-    "discount": 33,
-    "base": "media",
-    "averagePrice": 116.27,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3556275459?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "COMBE BRASIL",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-10-31T15:05:26.882Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
-  },
-  {
     "id": "SP1045085918-23799188673",
     "productId": "SP1045085918-23799188673",
     "marketplace": "shopee",
@@ -7917,7 +7893,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-10-28T22:05:12.668Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP296363855-22197552043",
@@ -7951,10 +7927,10 @@
     "categoria": "Bebês",
     "title": "Huggies Fralda Descartável Máxima Proteção XXG - 112 Un",
     "price": 197.75,
-    "originalPrice": 287.98,
+    "originalPrice": 288.49,
     "discount": 31,
     "base": "media",
-    "averagePrice": 287.98,
+    "averagePrice": 288.49,
     "sellers": 5,
     "image": "https://http2.mlstatic.com/D_NQ_NP_939152-MLA99933491581_112025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4641589414?matt_word=promoninja&matt_tool=19839069",
@@ -7965,7 +7941,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1073407287-49516046201",
@@ -8013,7 +7989,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4685752162",
@@ -8037,7 +8013,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-11-17T17:05:20.235Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB6802433980",
@@ -8061,7 +8037,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T11:05:12.644Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4771398286",
@@ -8085,7 +8061,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-11T23:35:29.366Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5205286193",
@@ -8109,7 +8085,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T03:05:15.434Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB3917376669",
@@ -8133,7 +8109,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-03T05:35:15.655Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB7138679072",
@@ -8157,7 +8133,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-17T11:12:03.729Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4655090087",
@@ -8167,10 +8143,10 @@
     "categoria": "Eletrodomésticos",
     "title": "Sanduicheira Grill 2 Em 1 Kian Preta Elétrica 750w Cor Preto,Seu Mixto Quente Ultra Rápido, e Outros Petiscos",
     "price": 60.41,
-    "originalPrice": 78.9,
+    "originalPrice": 78,
     "discount": 23,
     "base": "media",
-    "averagePrice": 78.9,
+    "averagePrice": 78,
     "sellers": 36,
     "image": "https://http2.mlstatic.com/D_NQ_NP_811189-MLA117367368715_092026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4655090087?matt_word=promoninja&matt_tool=19839069",
@@ -8181,7 +8157,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5488515025",
@@ -8205,7 +8181,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB7439807004",
@@ -8229,7 +8205,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-16T21:05:34.606Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5452950305",
@@ -8253,7 +8229,31 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T17:35:13.064Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
+    "id": "MLB5125606347",
+    "productId": "MLB50239517",
+    "marketplace": "ml",
+    "fonte": "MLB430598",
+    "categoria": "Informática",
+    "title": "Kingston USB Datatraveler Exodia S 128 Gb USB-A 3.2 Gen 1",
+    "price": 99.99,
+    "originalPrice": 124,
+    "discount": 19,
+    "base": "media",
+    "averagePrice": 124,
+    "sellers": 17,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_745919-MLA99504497528_112025-F.jpg",
+    "url": "https://produto.mercadolivre.com.br/MLB-5125606347?matt_word=promoninja&matt_tool=19839069",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": true,
+    "loja": "KM20260806165159823",
+    "lowest30d": false,
+    "vendas": null,
+    "publishedAt": "2026-11-21T02:35:16.961Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB2131892885",
@@ -8277,7 +8277,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-12T08:35:12.802Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB4482650561",
@@ -8287,10 +8287,10 @@
     "categoria": "Informática",
     "title": "Fonte De Alimentacao 600w Gs600 80 Plus White Gamemax Cor Preto",
     "price": 249,
-    "originalPrice": 308.62,
+    "originalPrice": 307,
     "discount": 19,
     "base": "media",
-    "averagePrice": 308.62,
+    "averagePrice": 307,
     "sellers": 35,
     "image": "https://http2.mlstatic.com/D_NQ_NP_959510-MLA104803260424_012026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-4482650561?matt_word=promoninja&matt_tool=19839069",
@@ -8301,7 +8301,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T20:05:13.160Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB6410318636",
@@ -8325,7 +8325,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-20T03:35:14.094Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5354628463",
@@ -8335,10 +8335,10 @@
     "categoria": "Informática",
     "title": "Fone de Ouvido In-ear Bluetooth 5.0 Kaidi KD-771 Preto/Vermelho IPX4 TWS",
     "price": 49,
-    "originalPrice": 58.79,
+    "originalPrice": 59.17,
     "discount": 17,
     "base": "media",
-    "averagePrice": 58.79,
+    "averagePrice": 59.17,
     "sellers": 16,
     "image": "https://http2.mlstatic.com/D_NQ_NP_889050-MLA101779011708_122025-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-5354628463?matt_word=promoninja&matt_tool=19839069",
@@ -8349,7 +8349,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-10T21:35:17.326Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB7513235336",
@@ -8359,10 +8359,10 @@
     "categoria": "Beleza",
     "title": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
     "price": 39.9,
-    "originalPrice": 48,
+    "originalPrice": 48.25,
     "discount": 17,
     "base": "media",
-    "averagePrice": 48,
+    "averagePrice": 48.25,
     "sellers": 45,
     "image": "https://http2.mlstatic.com/D_NQ_NP_988587-MLA113982412397_072026-F.jpg",
     "url": "https://produto.mercadolivre.com.br/MLB-7513235336?matt_word=promoninja&matt_tool=19839069",
@@ -8373,7 +8373,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T23:05:12.420Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5000007235",
@@ -8397,7 +8397,7 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-05T07:35:14.672Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "MLB5686403044",
@@ -8421,7 +8421,7 @@
     "lowest30d": true,
     "vendas": null,
     "publishedAt": "2026-09-21T04:05:31.804Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8445,7 +8445,7 @@
     "lowest30d": true,
     "vendas": 424,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -8685,7 +8685,7 @@
     "lowest30d": false,
     "vendas": 1335,
     "publishedAt": "2026-10-26T22:05:15.254Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -8733,7 +8733,7 @@
     "lowest30d": false,
     "vendas": 1537,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -8973,7 +8973,7 @@
     "lowest30d": true,
     "vendas": 1451,
     "publishedAt": "2026-10-25T00:18:59.810Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -8997,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 865,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1735575008-58255873721",
@@ -9021,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 370,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -9045,7 +9045,7 @@
     "lowest30d": false,
     "vendas": 197,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -9069,7 +9069,7 @@
     "lowest30d": false,
     "vendas": 3778,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9237,7 +9237,7 @@
     "lowest30d": false,
     "vendas": 393,
     "publishedAt": "2026-10-25T19:35:13.364Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -9813,7 +9813,7 @@
     "lowest30d": false,
     "vendas": 429,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -10101,7 +10101,7 @@
     "lowest30d": true,
     "vendas": 173,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -10437,7 +10437,7 @@
     "lowest30d": true,
     "vendas": 106,
     "publishedAt": "2026-09-27T03:35:12.515Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1620481153-58252252799",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 749,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10605,7 +10605,7 @@
     "lowest30d": true,
     "vendas": 1492,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -10845,7 +10845,7 @@
     "lowest30d": false,
     "vendas": 3948,
     "publishedAt": "2026-10-22T12:35:19.276Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -10869,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 1056,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP379519619-23298173737",
@@ -11061,7 +11061,31 @@
     "lowest30d": true,
     "vendas": 745,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
+  },
+  {
+    "id": "SP1339888238-23394402377",
+    "productId": "SP1339888238-23394402377",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "INOVA Fone De Ouvido Bluetooth 5.4 Toque DE Impressão Digital 72H Autonomia ANC Cancelando Ruído",
+    "price": 58.7,
+    "originalPrice": 158.65,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mpegqc82brwj57",
+    "url": "https://s.shopee.com.br/1W0s67ZjhZ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 563,
+    "publishedAt": "2026-10-28T21:05:36.798Z",
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -11517,7 +11541,7 @@
     "lowest30d": false,
     "vendas": 294,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-20T23:05:16.122Z"
+    "checkedAt": "2026-11-21T03:05:17.652Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -11974,29 +11998,5 @@
     "vendas": 673,
     "publishedAt": "2026-10-28T18:05:17.013Z",
     "checkedAt": "2026-11-21T01:35:16.005Z"
-  },
-  {
-    "id": "MLB5125606347",
-    "productId": "MLB50239517",
-    "marketplace": "ml",
-    "fonte": "MLB430598",
-    "categoria": "Informática",
-    "title": "Kingston USB Datatraveler Exodia S 128 Gb USB-A 3.2 Gen 1",
-    "price": 99.99,
-    "originalPrice": 124,
-    "discount": 19,
-    "base": "media",
-    "averagePrice": 124,
-    "sellers": 17,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_745919-MLA99504497528_112025-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5125606347?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "KM20260806165159823",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-21T02:35:16.961Z",
-    "checkedAt": "2026-11-21T02:35:16.961Z"
   }
 ]
