@@ -2,6 +2,35 @@
   {
     "loja": "ml",
     "codigos": [
+      "FINALMELI",
+      "GOLDEOFERTA"
+    ],
+    "desconto": null,
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17624",
+    "quando": "2026-11-21T23:45:28+00:00",
+    "id": "ml:FINALMELI+GOLDEOFERTA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ESQUENTA20PETSHOP"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 199",
+    "escopo": "Petshop",
+    "origem": "avidaefeitadedesconto/17623",
+    "quando": "2026-11-21T23:42:03+00:00",
+    "id": "ml:ESQUENTA20PETSHOP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "CAPACETE1911"
     ],
     "desconto": "5% OFF",
