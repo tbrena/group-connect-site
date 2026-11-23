@@ -2,6 +2,48 @@
   {
     "loja": "ml",
     "codigos": [
+      "OFERTAML"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": "R$ 199",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17658",
+    "quando": "2026-11-23T12:01:04+00:00",
+    "id": "ml:OFERTAML",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "OFFSEMPRE"
+    ],
+    "desconto": "R$ 250 OFF",
+    "limite": null,
+    "minimo": "R$ 2.499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17657",
+    "quando": "2026-11-23T12:00:33+00:00",
+    "id": "ml:OFFSEMPRE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MELIGARANTE"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 199",
+    "escopo": "Tecnologia e Eletrodomésticos",
+    "origem": "avidaefeitadedesconto/17656",
+    "quando": "2026-11-23T12:00:18+00:00",
+    "id": "ml:MELIGARANTE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TODOSITE2311"
     ],
     "desconto": "R$ 40 OFF",
@@ -109,34 +151,6 @@
     "origem": "avidaefeitadedesconto/17634",
     "quando": "2026-11-22T15:24:26+00:00",
     "id": "ml:ELETRO2211",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BEBESPETS2211"
-    ],
-    "desconto": "15% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 200",
-    "escopo": "Bebês e Petshop",
-    "origem": "avidaefeitadedesconto/17629",
-    "quando": "2026-11-22T12:04:37+00:00",
-    "id": "ml:BEBESPETS2211",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFICIAIS2211"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 40",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17628",
-    "quando": "2026-11-22T12:04:30+00:00",
-    "id": "ml:OFICIAIS2211",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
