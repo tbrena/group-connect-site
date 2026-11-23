@@ -93,7 +93,7 @@
     "lowest30d": true,
     "vendas": 2362,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1544410664-58269695467",
@@ -165,7 +165,7 @@
     "lowest30d": true,
     "vendas": 1554,
     "publishedAt": "2026-10-08T23:35:13.181Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1351679961-21798030664",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 342,
     "publishedAt": "2026-11-17T15:35:20.969Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB5556167483",
@@ -381,7 +381,7 @@
     "lowest30d": false,
     "vendas": 3842,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -789,7 +789,7 @@
     "lowest30d": true,
     "vendas": 769,
     "publishedAt": "2026-11-10T17:35:17.311Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP964196467-58206595769",
@@ -907,9 +907,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 3776,
+    "vendas": 3886,
     "publishedAt": "2026-09-27T20:05:16.439Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1242044379-22092998564",
@@ -933,7 +933,7 @@
     "lowest30d": false,
     "vendas": 12641,
     "publishedAt": "2026-11-02T12:35:13.827Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -1101,7 +1101,7 @@
     "lowest30d": false,
     "vendas": 2857,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP410705973-23792788692",
@@ -1197,7 +1197,7 @@
     "lowest30d": true,
     "vendas": 1478,
     "publishedAt": "2026-11-11T19:05:15.437Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP305544748-23698781271",
@@ -1243,9 +1243,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 491,
+    "vendas": 490,
     "publishedAt": "2026-11-05T11:05:14.454Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -1270,6 +1270,30 @@
     "vendas": 14973,
     "publishedAt": "2026-10-31T15:35:12.865Z",
     "checkedAt": "2026-11-23T21:35:14.553Z"
+  },
+  {
+    "id": "SP466360966-56316175763",
+    "productId": "SP466360966-56316175763",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:aspirador",
+    "categoria": "Eletrodomésticos",
+    "title": "Aspirador Nasal Elétrico Premium 6 Níveis Sucção Silicone Macio Livre De BPA",
+    "price": 34.99,
+    "originalPrice": 99.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-ms09vtpofxms9b",
+    "url": "https://s.shopee.com.br/5fqY6V7ASQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 715,
+    "publishedAt": "2026-11-05T16:35:15.720Z",
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1542724420-44918771443",
@@ -1341,7 +1365,7 @@
     "lowest30d": false,
     "vendas": 416,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP720952207-23092879057",
@@ -2203,9 +2227,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2356,
+    "vendas": 2281,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 1788,
     "publishedAt": "2026-11-21T14:35:18.173Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -2845,7 +2869,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtsx7vc6ww270",
-    "url": "https://s.shopee.com.br/70Lvcaf65W",
+    "url": "https://s.shopee.com.br/9070dO8JWx",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2853,7 +2877,7 @@
     "lowest30d": true,
     "vendas": 1965,
     "publishedAt": "2026-11-15T14:35:18.067Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -3093,7 +3117,7 @@
     "lowest30d": false,
     "vendas": 612,
     "publishedAt": "2026-11-18T21:05:16.939Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -3189,7 +3213,7 @@
     "lowest30d": false,
     "vendas": 731,
     "publishedAt": "2026-11-13T20:35:14.089Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1625647300-58270203180",
@@ -3357,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 103,
     "publishedAt": "2026-11-22T18:29:02.395Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1319830745-58268225112",
@@ -3429,7 +3453,7 @@
     "lowest30d": false,
     "vendas": 1186,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -3451,9 +3475,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1210,
+    "vendas": 1173,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1350045638-52658057285",
@@ -3499,9 +3523,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2233,
+    "vendas": 2152,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1451743836-20998028416",
@@ -3648,30 +3672,6 @@
     "checkedAt": "2026-11-23T20:35:17.128Z"
   },
   {
-    "id": "SP466360966-56316175763",
-    "productId": "SP466360966-56316175763",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:aspirador",
-    "categoria": "Eletrodomésticos",
-    "title": "Aspirador Nasal Elétrico Premium 6 Níveis Sucção Silicone Macio Livre De BPA",
-    "price": 39.99,
-    "originalPrice": 99.98,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-ms09vtpofxms9b",
-    "url": "https://s.shopee.com.br/5fqY6V7ASQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 715,
-    "publishedAt": "2026-11-05T16:35:15.720Z",
-    "checkedAt": "2026-11-23T21:35:14.553Z"
-  },
-  {
     "id": "SP1378212279-18199766258",
     "productId": "SP1378212279-18199766258",
     "marketplace": "shopee",
@@ -3787,9 +3787,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 541,
+    "vendas": 530,
     "publishedAt": "2026-11-13T17:35:15.579Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -3861,7 +3861,7 @@
     "lowest30d": false,
     "vendas": 410,
     "publishedAt": "2026-11-11T12:35:16.447Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -3909,7 +3909,7 @@
     "lowest30d": false,
     "vendas": 998,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -4020,16 +4020,16 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mvw0hp87x98g67",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mvw1j732t05cfa",
     "url": "https://s.shopee.com.br/4VeYOVfhxl",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2414,
+    "vendas": 2583,
     "publishedAt": "2026-11-10T18:05:13.926Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -4051,9 +4051,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 708,
+    "vendas": 701,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB3332109715",
@@ -4099,9 +4099,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 3918,
+    "vendas": 3860,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -4147,9 +4147,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2416,
+    "vendas": 2455,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -4437,7 +4437,7 @@
     "lowest30d": false,
     "vendas": 2809,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1707934142-58222440201",
@@ -4677,7 +4677,7 @@
     "lowest30d": true,
     "vendas": 848,
     "publishedAt": "2026-11-18T14:35:17.599Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1566977006-58202231060",
@@ -4915,9 +4915,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 598,
+    "vendas": 600,
     "publishedAt": "2026-11-10T19:05:14.724Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB5301114959",
@@ -4965,7 +4965,7 @@
     "lowest30d": true,
     "vendas": 140,
     "publishedAt": "2026-11-07T09:35:14.264Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1316702385-23494780818",
@@ -5373,7 +5373,7 @@
     "lowest30d": true,
     "vendas": 2203,
     "publishedAt": "2026-11-16T13:05:13.656Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP766187556-23899779442",
@@ -5613,7 +5613,7 @@
     "lowest30d": true,
     "vendas": 388,
     "publishedAt": "2026-10-31T17:35:14.905Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1658934983-58271602456",
@@ -6021,7 +6021,7 @@
     "lowest30d": false,
     "vendas": 1225,
     "publishedAt": "2026-11-21T01:35:16.005Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1661007426-58267485793",
@@ -6499,9 +6499,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1889,
+    "vendas": 1771,
     "publishedAt": "2026-11-21T11:35:16.881Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB2743167754",
@@ -6621,7 +6621,7 @@
     "lowest30d": false,
     "vendas": 4285,
     "publishedAt": "2026-11-05T01:05:14.758Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB3767156322",
@@ -6669,7 +6669,7 @@
     "lowest30d": false,
     "vendas": 3576,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB5405045768",
@@ -7173,7 +7173,7 @@
     "lowest30d": false,
     "vendas": 30340,
     "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP496965331-21705688558",
@@ -7581,7 +7581,7 @@
     "lowest30d": true,
     "vendas": 629,
     "publishedAt": "2026-11-09T17:05:17.832Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "MLB4701793653",
@@ -7677,7 +7677,7 @@
     "lowest30d": false,
     "vendas": 827,
     "publishedAt": "2026-11-18T17:35:13.857Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP511410160-23396808146",
@@ -8443,9 +8443,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 836,
+    "vendas": 824,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8469,7 +8469,7 @@
     "lowest30d": true,
     "vendas": 337,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1187975388-18297808572",
@@ -8478,8 +8478,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Cabo Auxiliar De Carga Chupeta De Bateria 1.200/2000amp Booster Cable- 2.5/3METRO",
-    "price": 29.9,
-    "originalPrice": 99.67,
+    "price": 30.5,
+    "originalPrice": 101.67,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -8493,7 +8493,7 @@
     "lowest30d": false,
     "vendas": 720,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 421,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -9475,9 +9475,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 702,
+    "vendas": 672,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -9499,9 +9499,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 120,
+    "vendas": 110,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1557539807-58206309096",
@@ -9523,9 +9523,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 757,
+    "vendas": 755,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1127030290-22399058176",
@@ -9549,7 +9549,7 @@
     "lowest30d": false,
     "vendas": 178,
     "publishedAt": "2026-09-28T17:05:16.720Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -9571,9 +9571,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 174,
+    "vendas": 176,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1511430763-19398208795",
@@ -9595,9 +9595,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 461,
+    "vendas": 462,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:28:38.877Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9766,6 +9766,30 @@
     "vendas": 289,
     "publishedAt": "2026-09-29T16:05:17.624Z",
     "checkedAt": "2026-11-23T20:05:17.977Z"
+  },
+  {
+    "id": "SP1543643896-23594449816",
+    "productId": "SP1543643896-23594449816",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
+    "price": 33.33,
+    "originalPrice": 101,
+    "discount": 67,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
+    "url": "https://s.shopee.com.br/8VAh9nwYCE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2522,
+    "publishedAt": "2026-10-24T06:05:13.805Z",
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1738169938-46311869185",
@@ -9960,30 +9984,6 @@
     "checkedAt": "2026-11-23T19:35:17.634Z"
   },
   {
-    "id": "SP1543643896-23594449816",
-    "productId": "SP1543643896-23594449816",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
-    "price": 33.99,
-    "originalPrice": 99.97,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
-    "url": "https://s.shopee.com.br/8VAh9nwYCE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2526,
-    "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
-  },
-  {
     "id": "SP400434768-58261196599",
     "productId": "SP400434768-58261196599",
     "marketplace": "shopee",
@@ -10003,9 +10003,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 179,
+    "vendas": 160,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10051,9 +10051,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 344,
+    "vendas": 303,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -10267,9 +10267,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 161,
+    "vendas": 159,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10867,9 +10867,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 764,
+    "vendas": 745,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -10893,7 +10893,7 @@
     "lowest30d": true,
     "vendas": 1528,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -11181,7 +11181,7 @@
     "lowest30d": false,
     "vendas": 1067,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -11299,9 +11299,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 648,
+    "vendas": 625,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP717396632-16326176621",
@@ -11371,9 +11371,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 539,
+    "vendas": 517,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP1180920205-20797795834",
@@ -11611,9 +11611,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 301,
+    "vendas": 288,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-23T19:05:15.181Z"
+    "checkedAt": "2026-11-23T22:35:16.847Z"
   },
   {
     "id": "SP627750190-23097771262",
