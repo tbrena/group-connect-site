@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 4298,
     "publishedAt": "2026-11-21T21:35:15.721Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -331,9 +331,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1023,
+    "vendas": 1046,
     "publishedAt": "2026-11-13T18:05:15.349Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -504,6 +504,30 @@
     "checkedAt": "2026-11-24T22:05:16.650Z"
   },
   {
+    "id": "SP400434768-22794176368",
+    "productId": "SP400434768-22794176368",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:umidificador",
+    "categoria": "Eletrodomésticos",
+    "title": "Kit de Umidificador Aromatizador com Essências Hidrossolúvel | Modelo EGG | Aromatizantes 20ml",
+    "price": 31.9,
+    "originalPrice": 99.69,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mqtap867e1vnca",
+    "url": "https://s.shopee.com.br/qlG1hLk0A",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4640,
+    "publishedAt": "2026-11-23T23:05:14.904Z",
+    "checkedAt": "2026-11-24T22:35:15.281Z"
+  },
+  {
     "id": "SP499950777-23292945743",
     "productId": "SP499950777-23292945743",
     "marketplace": "shopee",
@@ -549,7 +573,7 @@
     "lowest30d": false,
     "vendas": 402,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -691,9 +715,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1425,
+    "vendas": 1426,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -931,9 +955,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 429,
+    "vendas": 402,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -1272,30 +1296,6 @@
     "checkedAt": "2026-11-24T22:05:16.650Z"
   },
   {
-    "id": "SP400434768-22794176368",
-    "productId": "SP400434768-22794176368",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:umidificador",
-    "categoria": "Eletrodomésticos",
-    "title": "Kit de Umidificador Aromatizador com Essências Hidrossolúvel | Modelo EGG | Aromatizantes 20ml",
-    "price": 27.79,
-    "originalPrice": 79.4,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mqtap867e1vnca",
-    "url": "https://s.shopee.com.br/qlG1hLk0A",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 4655,
-    "publishedAt": "2026-11-23T23:05:14.904Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
-  },
-  {
     "id": "SP466360966-56316175763",
     "productId": "SP466360966-56316175763",
     "marketplace": "shopee",
@@ -1339,9 +1339,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 779,
+    "vendas": 798,
     "publishedAt": "2026-10-24T19:05:19.081Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "MLB5574611833",
@@ -1795,9 +1795,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1079,
+    "vendas": 1109,
     "publishedAt": "2026-09-25T13:35:20.026Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP303419140-57563387424",
@@ -1915,9 +1915,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2298,
+    "vendas": 2145,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -2083,9 +2083,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4258,
+    "vendas": 4294,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2227,9 +2227,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 6703,
+    "vendas": 6786,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -2923,9 +2923,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3172,
+    "vendas": 3165,
     "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -2995,9 +2995,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 684,
+    "vendas": 666,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -3067,9 +3067,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2322,
+    "vendas": 2325,
     "publishedAt": "2026-11-08T04:05:12.544Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3355,9 +3355,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 934,
+    "vendas": 945,
     "publishedAt": "2026-11-07T15:35:13.012Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "MLB3798323167",
@@ -3715,9 +3715,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 527,
+    "vendas": 459,
     "publishedAt": "2026-11-09T21:35:13.981Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -3787,9 +3787,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 393,
+    "vendas": 374,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -3813,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 828,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -4243,9 +4243,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3157,
+    "vendas": 3252,
     "publishedAt": "2026-11-17T16:05:20.002Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1863032510-58268233715",
@@ -4291,9 +4291,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 5810,
+    "vendas": 5899,
     "publishedAt": "2026-10-31T03:05:14.066Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1491999374-23594308846",
@@ -4315,9 +4315,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 452,
+    "vendas": 434,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -4339,9 +4339,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 5889,
+    "vendas": 6066,
     "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP296745639-23092459335",
@@ -4459,9 +4459,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3410,
+    "vendas": 3484,
     "publishedAt": "2026-11-18T02:05:14.996Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1368787663-23597895251",
@@ -4675,9 +4675,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2481,
+    "vendas": 2476,
     "publishedAt": "2026-11-18T11:35:12.802Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1494273370-22393933720",
@@ -5155,9 +5155,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1375,
+    "vendas": 1374,
     "publishedAt": "2026-11-06T23:35:14.127Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP801055718-58205889664",
@@ -5227,9 +5227,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1095,
+    "vendas": 1117,
     "publishedAt": "2026-11-23T06:35:19.735Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1687634475-58210385589",
@@ -5323,9 +5323,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 4580,
+    "vendas": 4498,
     "publishedAt": "2026-11-08T13:05:12.499Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP404059558-53561952499",
@@ -5851,9 +5851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2129,
+    "vendas": 2122,
     "publishedAt": "2026-11-13T03:35:13.006Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP296363855-11249524489",
@@ -5899,9 +5899,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2698,
+    "vendas": 2756,
     "publishedAt": "2026-11-11T04:05:17.034Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1639558656-23394523052",
@@ -5995,9 +5995,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 3287,
+    "vendas": 3325,
     "publishedAt": "2026-11-13T23:35:18.115Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1634491040-58257412160",
@@ -6043,9 +6043,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2315,
+    "vendas": 2280,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP339930623-23398947453",
@@ -6091,9 +6091,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 927,
+    "vendas": 934,
     "publishedAt": "2026-11-23T13:05:17.520Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1515198370-22795043060",
@@ -6696,30 +6696,6 @@
     "checkedAt": "2026-11-23T17:05:15.580Z"
   },
   {
-    "id": "SP332059670-54557028525",
-    "productId": "SP332059670-54557028525",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
-    "price": 43.9,
-    "originalPrice": 78.39,
-    "discount": 44,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
-    "url": "https://s.shopee.com.br/70LtbFLFBy",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3625,
-    "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-24T22:05:16.650Z"
-  },
-  {
     "id": "MLB5405045768",
     "productId": "MLB46053660",
     "marketplace": "ml",
@@ -6765,7 +6741,7 @@
     "lowest30d": false,
     "vendas": 481,
     "publishedAt": "2026-11-07T19:35:13.840Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1824003005-23899698917",
@@ -6835,9 +6811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 7718,
+    "vendas": 8059,
     "publishedAt": "2026-11-03T22:35:14.961Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP409329996-22291628478",
@@ -6859,9 +6835,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3169,
+    "vendas": 3223,
     "publishedAt": "2026-11-11T02:59:38.281Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -7003,9 +6979,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 5248,
+    "vendas": 5374,
     "publishedAt": "2026-11-20T03:05:14.550Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "MLB4548295287",
@@ -7102,6 +7078,30 @@
     "vendas": 195,
     "publishedAt": "2026-11-05T16:05:14.000Z",
     "checkedAt": "2026-11-24T20:35:19.873Z"
+  },
+  {
+    "id": "SP1265597786-43763851612",
+    "productId": "SP1265597786-43763851612",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Tapete Higiênico Pet 60x60 Descartável Alta Absorção Fralda Para Cães Pequeno e Médio Porte Kit",
+    "price": 59.98,
+    "originalPrice": 98.33,
+    "discount": 39,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-mvhh0eazatqf95",
+    "url": "https://s.shopee.com.br/2BGhUsFMXU",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3107,
+    "publishedAt": "2026-11-24T22:05:16.650Z",
+    "checkedAt": "2026-11-24T22:05:16.650Z"
   },
   {
     "id": "MLB5872060016",
@@ -7507,9 +7507,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 2323,
+    "vendas": 2292,
     "publishedAt": "2026-11-24T02:35:17.321Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "MLB5750365944",
@@ -8443,9 +8443,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 824,
+    "vendas": 814,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8467,9 +8467,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 337,
+    "vendas": 332,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1187975388-18297808572",
@@ -8491,9 +8491,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 720,
+    "vendas": 711,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8515,9 +8515,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 421,
+    "vendas": 431,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -8539,9 +8539,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 613,
+    "vendas": 617,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8563,9 +8563,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 724,
+    "vendas": 715,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8589,7 +8589,7 @@
     "lowest30d": false,
     "vendas": 421,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -9139,9 +9139,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 218,
+    "vendas": 224,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 334,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-11-24T19:05:18.072Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -9811,9 +9811,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 768,
+    "vendas": 758,
     "publishedAt": "2026-10-30T11:05:13.469Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -9979,9 +9979,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 9564,
+    "vendas": 9683,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1684686802-58209249661",
@@ -10003,9 +10003,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 241,
+    "vendas": 213,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -10219,9 +10219,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 425,
+    "vendas": 407,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -10315,9 +10315,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 571,
+    "vendas": 569,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10579,9 +10579,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 184,
+    "vendas": 181,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -10699,9 +10699,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1259,
+    "vendas": 1244,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1620481153-58252252799",
@@ -10771,9 +10771,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 701,
+    "vendas": 693,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -11059,9 +11059,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 1482,
+    "vendas": 1474,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -11373,7 +11373,7 @@
     "lowest30d": false,
     "vendas": 493,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP415175805-20103606180",
@@ -11779,9 +11779,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 170,
+    "vendas": 165,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1448484843-23493920781",
@@ -11803,9 +11803,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 1679,
+    "vendas": 1729,
     "publishedAt": "2026-11-23T12:05:19.483Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1193388723-55806745399",
@@ -11851,9 +11851,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 397,
+    "vendas": 382,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11923,9 +11923,9 @@
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 2140,
+    "vendas": 2147,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-11-24T18:35:16.143Z"
+    "checkedAt": "2026-11-24T22:35:15.281Z"
   },
   {
     "id": "SP1737398657-23899314269",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-11-24T19:35:17.773Z"
   },
   {
-    "id": "SP1265597786-43763851612",
-    "productId": "SP1265597786-43763851612",
+    "id": "SP332059670-54557028525",
+    "productId": "SP332059670-54557028525",
     "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Tapete Higiênico Pet 60x60 Descartável Alta Absorção Fralda Para Cães Pequeno e Médio Porte Kit",
-    "price": 59.98,
-    "originalPrice": 98.33,
-    "discount": 39,
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
+    "price": 43.9,
+    "originalPrice": 78.39,
+    "discount": 44,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-mvhh0eazatqf95",
-    "url": "https://s.shopee.com.br/2BGhUsFMXU",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
+    "url": "https://s.shopee.com.br/70LtbFLFBy",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 3107,
-    "publishedAt": "2026-11-24T22:05:16.650Z",
+    "vendas": 3625,
+    "publishedAt": "2026-11-01T03:05:13.613Z",
     "checkedAt": "2026-11-24T22:05:16.650Z"
   }
 ]
