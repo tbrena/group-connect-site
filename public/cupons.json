@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "CURTAMELI"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17736",
+    "quando": "2026-11-24T19:00:31+00:00",
+    "id": "ml:CURTAMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIUZDECOR"
     ],
     "desconto": "15% OFF",
@@ -335,20 +349,6 @@
     "origem": "avidaefeitadedesconto/17688",
     "quando": "2026-11-23T21:26:45+00:00",
     "id": "ml:MAGALUTECH",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFERTASEMPREML"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": "R$ 199",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17681",
-    "quando": "2026-11-23T19:01:47+00:00",
-    "id": "ml:OFERTASEMPREML",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
