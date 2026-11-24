@@ -165,7 +165,7 @@
     "lowest30d": false,
     "vendas": 3938,
     "publishedAt": "2026-11-21T21:35:15.721Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1114645438-26682882775",
@@ -357,7 +357,7 @@
     "lowest30d": true,
     "vendas": 1023,
     "publishedAt": "2026-11-13T18:05:15.349Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1223506816-58251518035",
@@ -534,8 +534,8 @@
     "fonte": "shopee:q:umidificador",
     "categoria": "Eletrodomésticos",
     "title": "Kit de Umidificador Aromatizador com Essências Hidrossolúvel | Modelo EGG | Aromatizantes 20ml",
-    "price": 31.9,
-    "originalPrice": 99.69,
+    "price": 27.79,
+    "originalPrice": 86.84,
     "discount": 68,
     "base": "vendedor",
     "averagePrice": null,
@@ -546,10 +546,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 4655,
     "publishedAt": "2026-11-23T23:05:14.904Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -597,7 +597,7 @@
     "lowest30d": false,
     "vendas": 394,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP869193731-22797545994",
@@ -741,7 +741,7 @@
     "lowest30d": false,
     "vendas": 1425,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1598954691-22198852865",
@@ -981,7 +981,7 @@
     "lowest30d": false,
     "vendas": 429,
     "publishedAt": "2026-10-08T14:05:17.537Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1808876284-22399511095",
@@ -1365,7 +1365,7 @@
     "lowest30d": false,
     "vendas": 779,
     "publishedAt": "2026-10-24T19:05:19.081Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB5574611833",
@@ -1893,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 2298,
     "publishedAt": "2026-10-01T20:05:19.306Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -2070,8 +2070,8 @@
     "fonte": "shopee:q:carregador",
     "categoria": "Celulares",
     "title": "Carregador de Carregamento Turbo 30w Fonte 3A Torre Carregar Celular Tipo-C com Cabo Lightning(ios)",
-    "price": 24.99,
-    "originalPrice": 69.42,
+    "price": 24.98,
+    "originalPrice": 69.39,
     "discount": 64,
     "base": "vendedor",
     "averagePrice": null,
@@ -2085,7 +2085,7 @@
     "lowest30d": false,
     "vendas": 4258,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP377194001-22521617642",
@@ -2157,7 +2157,7 @@
     "lowest30d": true,
     "vendas": 601,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -2229,7 +2229,7 @@
     "lowest30d": true,
     "vendas": 6703,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1327618289-21899576987",
@@ -2685,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 784,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP373745451-19253571158",
@@ -2928,6 +2928,30 @@
     "checkedAt": "2026-11-24T05:05:29.142Z"
   },
   {
+    "id": "SP1771091495-58212573737",
+    "productId": "SP1771091495-58212573737",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tapete",
+    "categoria": "Casa e Decoração",
+    "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+    "price": 45.9,
+    "originalPrice": 120.79,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
+    "url": "https://s.shopee.com.br/1CBqt55Go",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 3172,
+    "publishedAt": "2026-10-28T20:35:17.024Z",
+    "checkedAt": "2026-11-24T05:35:16.290Z"
+  },
+  {
     "id": "SP1209650911-22693741525",
     "productId": "SP1209650911-22693741525",
     "marketplace": "shopee",
@@ -2997,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 684,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1224363395-58251614514",
@@ -3054,8 +3078,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Porta Joia Acrílico Luxo Com 3 Camadas Brinco Anel Compartimento caixa de armazenamento de jóias",
-    "price": 37.99,
-    "originalPrice": 99.97,
+    "price": 37.98,
+    "originalPrice": 99.95,
     "discount": 62,
     "base": "vendedor",
     "averagePrice": null,
@@ -3066,10 +3090,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2322,
     "publishedAt": "2026-11-08T04:05:12.544Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP400185488-23499549166",
@@ -3357,7 +3381,7 @@
     "lowest30d": false,
     "vendas": 934,
     "publishedAt": "2026-11-07T15:35:13.012Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB3798323167",
@@ -3717,7 +3741,7 @@
     "lowest30d": false,
     "vendas": 527,
     "publishedAt": "2026-11-09T21:35:13.981Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1619145136-23694425028",
@@ -3789,7 +3813,7 @@
     "lowest30d": true,
     "vendas": 393,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1125040258-42524620494",
@@ -3798,8 +3822,8 @@
     "fonte": "shopee:q:smartwatch",
     "categoria": "Smartwatches",
     "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
-    "price": 319,
-    "originalPrice": 797.5,
+    "price": 317.99,
+    "originalPrice": 794.98,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -3813,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 798,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1459307687-43721455022",
@@ -3934,30 +3958,6 @@
     "vendas": 530,
     "publishedAt": "2026-11-13T17:35:15.579Z",
     "checkedAt": "2026-11-24T05:05:29.142Z"
-  },
-  {
-    "id": "SP1771091495-58212573737",
-    "productId": "SP1771091495-58212573737",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tapete",
-    "categoria": "Casa e Decoração",
-    "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-    "price": 45.9,
-    "originalPrice": 111.95,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-    "url": "https://s.shopee.com.br/1CBqt55Go",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3172,
-    "publishedAt": "2026-10-28T20:35:17.024Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
   },
   {
     "id": "SP1500399435-23699354590",
@@ -4269,7 +4269,7 @@
     "lowest30d": false,
     "vendas": 3157,
     "publishedAt": "2026-11-17T16:05:20.002Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1863032510-58268233715",
@@ -4326,8 +4326,8 @@
     "fonte": "shopee:q:caixa de som",
     "categoria": "Eletrônicos",
     "title": "Alaxe5 Generation Original Speaker Immediate Shipping Best Price",
-    "price": 46.99,
-    "originalPrice": 109.28,
+    "price": 46.98,
+    "originalPrice": 109.26,
     "discount": 57,
     "base": "vendedor",
     "averagePrice": null,
@@ -4341,7 +4341,7 @@
     "lowest30d": false,
     "vendas": 5810,
     "publishedAt": "2026-10-31T03:05:14.066Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1491999374-23594308846",
@@ -4365,7 +4365,7 @@
     "lowest30d": false,
     "vendas": 452,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1926490670-58267468674",
@@ -4389,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 5889,
     "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP753139334-23494438971",
@@ -4461,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 3410,
     "publishedAt": "2026-11-18T02:05:14.996Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1368787663-23597895251",
@@ -4605,7 +4605,7 @@
     "lowest30d": false,
     "vendas": 2481,
     "publishedAt": "2026-11-18T11:35:12.802Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1494273370-22393933720",
@@ -5133,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 1375,
     "publishedAt": "2026-11-06T23:35:14.127Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP801055718-58205889664",
@@ -5205,7 +5205,7 @@
     "lowest30d": true,
     "vendas": 1095,
     "publishedAt": "2026-11-23T06:35:19.735Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1687634475-58210385589",
@@ -5301,7 +5301,7 @@
     "lowest30d": false,
     "vendas": 4580,
     "publishedAt": "2026-11-08T13:05:12.499Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP404059558-53561952499",
@@ -5805,7 +5805,7 @@
     "lowest30d": false,
     "vendas": 2129,
     "publishedAt": "2026-11-13T03:35:13.006Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP296363855-11249524489",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 2698,
     "publishedAt": "2026-11-11T04:05:17.034Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1639558656-23394523052",
@@ -5925,7 +5925,7 @@
     "lowest30d": false,
     "vendas": 494,
     "publishedAt": "2026-11-07T19:35:13.840Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP451332066-23197759025",
@@ -5973,7 +5973,7 @@
     "lowest30d": true,
     "vendas": 3287,
     "publishedAt": "2026-11-13T23:35:18.115Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -5997,7 +5997,7 @@
     "lowest30d": false,
     "vendas": 2315,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP339930623-23398947453",
@@ -6045,7 +6045,7 @@
     "lowest30d": true,
     "vendas": 927,
     "publishedAt": "2026-11-23T13:05:17.520Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1515198370-22795043060",
@@ -6789,7 +6789,7 @@
     "lowest30d": false,
     "vendas": 7718,
     "publishedAt": "2026-11-03T22:35:14.961Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP409329996-22291628478",
@@ -6813,7 +6813,7 @@
     "lowest30d": false,
     "vendas": 3169,
     "publishedAt": "2026-11-11T02:59:38.281Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP325008325-23397125106",
@@ -6909,7 +6909,7 @@
     "lowest30d": true,
     "vendas": 612,
     "publishedAt": "2026-10-31T18:05:14.114Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB4755857128",
@@ -6981,7 +6981,7 @@
     "lowest30d": false,
     "vendas": 5248,
     "publishedAt": "2026-11-20T03:05:14.550Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB4548295287",
@@ -7461,7 +7461,7 @@
     "lowest30d": true,
     "vendas": 2323,
     "publishedAt": "2026-11-24T02:35:17.321Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB5750365944",
@@ -7773,7 +7773,7 @@
     "lowest30d": false,
     "vendas": 1133,
     "publishedAt": "2026-11-09T16:35:13.630Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1296760327-22193173984",
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 613,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8565,7 +8565,7 @@
     "lowest30d": true,
     "vendas": 724,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -8589,7 +8589,7 @@
     "lowest30d": false,
     "vendas": 403,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1362857362-58251035399",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 466,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1543234117-44174655134",
@@ -8622,8 +8622,8 @@
     "fonte": "shopee:q:fone bluetooth",
     "categoria": "Eletrônicos",
     "title": "Clipe De Orelha Bluetooth Fones De Ouvido LED Display Inteligente On-Ear Mini Fone Cancelamento De Ruído TWS BT",
-    "price": 29.99,
-    "originalPrice": 99.97,
+    "price": 29.98,
+    "originalPrice": 99.93,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -8634,10 +8634,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1054,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-11-24T02:35:17.321Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -9261,7 +9261,7 @@
     "lowest30d": false,
     "vendas": 1075,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1863032510-58217747169",
@@ -9333,7 +9333,7 @@
     "lowest30d": true,
     "vendas": 339,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -9405,7 +9405,7 @@
     "lowest30d": true,
     "vendas": 889,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1545195730-58253714822",
@@ -9429,7 +9429,7 @@
     "lowest30d": true,
     "vendas": 185,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP668573344-23094663798",
@@ -9477,7 +9477,7 @@
     "lowest30d": true,
     "vendas": 6522,
     "publishedAt": "2026-09-25T10:35:15.579Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1345043704-23694913872",
@@ -9501,7 +9501,7 @@
     "lowest30d": false,
     "vendas": 672,
     "publishedAt": "2026-10-22T22:35:18.344Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP476198790-58217387986",
@@ -10392,6 +10392,30 @@
     "checkedAt": "2026-11-24T04:26:10.061Z"
   },
   {
+    "id": "SP1136572611-50362394762",
+    "productId": "SP1136572611-50362394762",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Brastoy Escavadeira de Controle Remoto, Caçamba Metálica 2.4Ghz, 11 Funções, Brinquedo RC",
+    "price": 169.53,
+    "originalPrice": 498.62,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
+    "url": "https://s.shopee.com.br/2qWKjePX1f",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 410,
+    "publishedAt": "2026-10-05T06:59:31.081Z",
+    "checkedAt": "2026-11-24T05:35:16.290Z"
+  },
+  {
     "id": "SP1585429562-58201056244",
     "productId": "SP1585429562-58201056244",
     "marketplace": "shopee",
@@ -10422,8 +10446,8 @@
     "fonte": "shopee:q:bolsa feminina",
     "categoria": "Moda e Calçados",
     "title": "Bolsa Coreana Com Estilo Utilidade E Grande Capacidade Perfeita Para Ambiente Universitário",
-    "price": 31.18,
-    "originalPrice": 89.09,
+    "price": 31.49,
+    "originalPrice": 89.97,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10434,10 +10458,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 362,
     "publishedAt": "2026-10-29T19:05:13.395Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1408518151-22394524187",
@@ -10485,7 +10509,7 @@
     "lowest30d": false,
     "vendas": 388,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1253552940-23994836650",
@@ -10557,7 +10581,7 @@
     "lowest30d": false,
     "vendas": 441,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1684686802-58209249661",
@@ -10704,38 +10728,14 @@
     "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
-    "id": "SP1136572611-50362394762",
-    "productId": "SP1136572611-50362394762",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Brastoy Escavadeira de Controle Remoto, Caçamba Metálica 2.4Ghz, 11 Funções, Brinquedo RC",
-    "price": 175.99,
-    "originalPrice": 502.83,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpllmrdrg6irfd",
-    "url": "https://s.shopee.com.br/2qWKjePX1f",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 410,
-    "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
-  },
-  {
     "id": "SP1257628820-29200230546",
     "productId": "SP1257628820-29200230546",
     "marketplace": "shopee",
     "fonte": "shopee:q:relogio masculino",
     "categoria": "Moda e Calçados",
     "title": "POEDAGAR Relógio Masculino de Luxo Relógio de Ouro de Aço Inoxidável para Homens Relógios de Pulso de Quartzo Luminosos À Prova D 'Água Data Relógios Masculinos Original de Alta Qualidade Relógio Masculino",
-    "price": 76.99,
-    "originalPrice": 219.97,
+    "price": 75.99,
+    "originalPrice": 217.11,
     "discount": 65,
     "base": "vendedor",
     "averagePrice": null,
@@ -10749,7 +10749,7 @@
     "lowest30d": false,
     "vendas": 294,
     "publishedAt": "2026-09-30T22:05:15.385Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -11040,30 +11040,6 @@
     "checkedAt": "2026-11-24T05:05:29.142Z"
   },
   {
-    "id": "SP379519619-23298173737",
-    "productId": "SP379519619-23298173737",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:relogio masculino",
-    "categoria": "Moda e Calçados",
-    "title": "KIT com 20/25/30/35/40/45/50 Relógios Digital Bracelete Led Sport M4 Atacado Revenda Lembrancinha",
-    "price": 77.9,
-    "originalPrice": 222.57,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5lszoedorio5c",
-    "url": "https://s.shopee.com.br/3g5RjBMMKq",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 347,
-    "publishedAt": "2026-10-24T00:00:08.189Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
-  },
-  {
     "id": "SP1541590567-23399163578",
     "productId": "SP1541590567-23399163578",
     "marketplace": "shopee",
@@ -11182,6 +11158,30 @@
     "vendas": 1079,
     "publishedAt": "2026-09-25T13:35:20.026Z",
     "checkedAt": "2026-11-24T04:26:10.061Z"
+  },
+  {
+    "id": "SP379519619-23298173737",
+    "productId": "SP379519619-23298173737",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:relogio masculino",
+    "categoria": "Moda e Calçados",
+    "title": "KIT com 20/25/30/35/40/45/50 Relógios Digital Bracelete Led Sport M4 Atacado Revenda Lembrancinha",
+    "price": 79.99,
+    "originalPrice": 222.19,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5lszoedorio5c",
+    "url": "https://s.shopee.com.br/3g5RjBMMKq",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 347,
+    "publishedAt": "2026-10-24T00:00:08.189Z",
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -11493,7 +11493,7 @@
     "lowest30d": false,
     "vendas": 1673,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1847771333-58216516799",
@@ -11925,7 +11925,7 @@
     "lowest30d": true,
     "vendas": 691,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -11973,7 +11973,7 @@
     "lowest30d": true,
     "vendas": 382,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T02:05:16.087Z"
+    "checkedAt": "2026-11-24T05:35:16.290Z"
   },
   {
     "id": "MLB3556275459",
