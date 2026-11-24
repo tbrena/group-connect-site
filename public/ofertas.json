@@ -573,7 +573,7 @@
     "lowest30d": false,
     "vendas": 3591,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1169146045-20799757649",
@@ -669,7 +669,7 @@
     "lowest30d": false,
     "vendas": 5615,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -813,7 +813,7 @@
     "lowest30d": false,
     "vendas": 635,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -981,7 +981,7 @@
     "lowest30d": true,
     "vendas": 1846,
     "publishedAt": "2026-11-06T06:05:19.656Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -1173,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 434,
     "publishedAt": "2026-11-20T08:35:14.509Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB5535425895",
@@ -1413,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 740,
     "publishedAt": "2026-11-16T12:35:13.210Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1620616375-58252248202",
@@ -1437,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 607,
     "publishedAt": "2026-11-13T00:35:15.642Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB6162191874",
@@ -1533,7 +1533,7 @@
     "lowest30d": true,
     "vendas": 651,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1553752047-23594857544",
@@ -1557,7 +1557,7 @@
     "lowest30d": true,
     "vendas": 889,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB6726997138",
@@ -1869,7 +1869,7 @@
     "lowest30d": true,
     "vendas": 1580,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -2109,7 +2109,7 @@
     "lowest30d": true,
     "vendas": 1581,
     "publishedAt": "2026-11-01T23:05:15.005Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP413762733-22992647539",
@@ -2568,6 +2568,30 @@
     "checkedAt": "2026-11-24T11:05:22.599Z"
   },
   {
+    "id": "SP458929927-23198020257",
+    "productId": "SP458929927-23198020257",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:air fryer",
+    "categoria": "Eletrodomésticos",
+    "title": "Air Fryer Fritadeira Elétrica Sem Óleo Cesto de Vidro Vira Fogão 5L Amvox ARF 1150 1500W 2 em 1",
+    "price": 329.9,
+    "originalPrice": 891.62,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
+    "url": "https://s.shopee.com.br/9zzUwMREWR",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 881,
+    "publishedAt": "2026-11-09T04:05:14.475Z",
+    "checkedAt": "2026-11-24T11:35:16.022Z"
+  },
+  {
     "id": "SP1283675544-56356023572",
     "productId": "SP1283675544-56356023572",
     "marketplace": "shopee",
@@ -2637,7 +2661,7 @@
     "lowest30d": false,
     "vendas": 3034,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -2757,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 2966,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -2805,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 4986,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1311372885-41809564883",
@@ -2877,7 +2901,7 @@
     "lowest30d": true,
     "vendas": 989,
     "publishedAt": "2026-11-17T15:05:13.842Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP443076516-58253904938",
@@ -2973,7 +2997,7 @@
     "lowest30d": false,
     "vendas": 930,
     "publishedAt": "2026-10-23T04:35:12.967Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -3048,30 +3072,6 @@
     "checkedAt": "2026-11-24T11:05:22.599Z"
   },
   {
-    "id": "SP458929927-23198020257",
-    "productId": "SP458929927-23198020257",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:air fryer",
-    "categoria": "Eletrodomésticos",
-    "title": "Air Fryer Fritadeira Elétrica Sem Óleo Cesto de Vidro Vira Fogão 5L Amvox ARF 1150 1500W 2 em 1",
-    "price": 339.9,
-    "originalPrice": 894.47,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
-    "url": "https://s.shopee.com.br/9zzUwMREWR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 881,
-    "publishedAt": "2026-11-09T04:05:14.475Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
-  },
-  {
     "id": "SP372103398-22593398069",
     "productId": "SP372103398-22593398069",
     "marketplace": "shopee",
@@ -3141,7 +3141,7 @@
     "lowest30d": true,
     "vendas": 1712,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1510947962-28040999242",
@@ -3309,7 +3309,7 @@
     "lowest30d": true,
     "vendas": 618,
     "publishedAt": "2026-11-12T00:59:23.420Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -3333,7 +3333,7 @@
     "lowest30d": false,
     "vendas": 7833,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB4473399041",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 744,
     "publishedAt": "2026-11-22T22:35:14.998Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -3573,7 +3573,7 @@
     "lowest30d": false,
     "vendas": 2766,
     "publishedAt": "2026-11-12T01:05:15.445Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -3693,7 +3693,7 @@
     "lowest30d": false,
     "vendas": 1640,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1594568364-58264681920",
@@ -3765,7 +3765,7 @@
     "lowest30d": false,
     "vendas": 10633,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1640288479-58217282345",
@@ -4029,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 1403,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -4560,6 +4560,30 @@
     "checkedAt": "2026-11-24T09:35:21.293Z"
   },
   {
+    "id": "SP1483626750-23293978804",
+    "productId": "SP1483626750-23293978804",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
+    "price": 45,
+    "originalPrice": 100,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
+    "url": "https://s.shopee.com.br/3g5TeSridP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 10714,
+    "publishedAt": "2026-11-24T11:05:22.599Z",
+    "checkedAt": "2026-11-24T11:05:22.599Z"
+  },
+  {
     "id": "SP1707934142-58222440201",
     "productId": "SP1707934142-58222440201",
     "marketplace": "shopee",
@@ -4629,7 +4653,7 @@
     "lowest30d": true,
     "vendas": 363,
     "publishedAt": "2026-11-17T18:35:21.440Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1195036331-28115949214",
@@ -5037,7 +5061,7 @@
     "lowest30d": false,
     "vendas": 2005,
     "publishedAt": "2026-11-11T02:35:14.704Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP627750190-22997611303",
@@ -5301,7 +5325,7 @@
     "lowest30d": false,
     "vendas": 1975,
     "publishedAt": "2026-11-09T22:35:15.200Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1661007426-58207680669",
@@ -5469,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 2513,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP525497420-58207336152",
@@ -5709,31 +5733,7 @@
     "lowest30d": false,
     "vendas": 338,
     "publishedAt": "2026-11-01T03:05:13.613Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
-  },
-  {
-    "id": "SP1146989156-23799809320",
-    "productId": "SP1146989156-23799809320",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Kit Carregador De Pilhas Recarregáveis AA/AAA Bivolt Universal Recarregável",
-    "price": 39.9,
-    "originalPrice": 79.8,
-    "discount": 50,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mu3juykfjv9ffd",
-    "url": "https://s.shopee.com.br/6AmmbiOPsj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 388,
-    "publishedAt": "2026-10-31T17:35:14.905Z",
-    "checkedAt": "2026-11-24T08:35:16.209Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1658934983-58271602456",
@@ -5757,7 +5757,7 @@
     "lowest30d": false,
     "vendas": 283,
     "publishedAt": "2026-11-21T23:13:07.069Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB3360911233",
@@ -5853,7 +5853,7 @@
     "lowest30d": false,
     "vendas": 4763,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1343471577-23498303242",
@@ -6093,7 +6093,7 @@
     "lowest30d": true,
     "vendas": 2183,
     "publishedAt": "2026-11-22T16:05:20.924Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1263132944-23393678294",
@@ -6237,7 +6237,7 @@
     "lowest30d": true,
     "vendas": 452,
     "publishedAt": "2026-11-14T01:35:27.341Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -6741,7 +6741,7 @@
     "lowest30d": true,
     "vendas": 624,
     "publishedAt": "2026-11-06T12:05:13.076Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB4702964270",
@@ -7173,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 1557,
     "publishedAt": "2026-11-06T13:05:12.554Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB6428496124",
@@ -7557,7 +7557,7 @@
     "lowest30d": false,
     "vendas": 1274,
     "publishedAt": "2026-11-01T22:35:14.542Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1059412251-18597753531",
@@ -7581,7 +7581,7 @@
     "lowest30d": false,
     "vendas": 1075,
     "publishedAt": "2026-11-01T03:35:12.486Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1112267847-22197710101",
@@ -7605,7 +7605,7 @@
     "lowest30d": true,
     "vendas": 526,
     "publishedAt": "2026-11-24T01:35:18.515Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1295467768-52311303643",
@@ -7621,7 +7621,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
-    "url": "https://s.shopee.com.br/5VX5a78Ur1",
+    "url": "https://s.shopee.com.br/6fj6ig8KSn",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7629,7 +7629,7 @@
     "lowest30d": false,
     "vendas": 3587,
     "publishedAt": "2026-11-12T06:35:12.669Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP833912634-23393083819",
@@ -7749,7 +7749,7 @@
     "lowest30d": false,
     "vendas": 1975,
     "publishedAt": "2026-11-12T21:35:14.759Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1658811417-22895162663",
@@ -7797,7 +7797,7 @@
     "lowest30d": false,
     "vendas": 438,
     "publishedAt": "2026-11-06T01:05:15.195Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1575539765-52411189975",
@@ -7821,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 552,
     "publishedAt": "2026-11-19T23:05:22.247Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB3312152968",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": 6553,
     "publishedAt": "2026-11-03T03:35:17.655Z",
-    "checkedAt": "2026-11-24T08:05:17.300Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "MLB4641589414",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 218,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 341,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -9213,7 +9213,7 @@
     "lowest30d": false,
     "vendas": 279,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 289,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -9789,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 4271,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -10533,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 1592,
     "publishedAt": "2026-10-28T15:35:28.135Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -10557,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 1105,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1615249354-41022402072",
@@ -10653,7 +10653,7 @@
     "lowest30d": true,
     "vendas": 510,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -10677,7 +10677,7 @@
     "lowest30d": false,
     "vendas": 1488,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1257628820-29200230546",
@@ -10749,7 +10749,7 @@
     "lowest30d": true,
     "vendas": 128,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1620609719-58202247794",
@@ -10773,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 102,
     "publishedAt": "2026-10-13T18:05:17.192Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP508140700-58254276340",
@@ -10821,7 +10821,7 @@
     "lowest30d": false,
     "vendas": 653,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -10941,7 +10941,7 @@
     "lowest30d": false,
     "vendas": 357,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -11013,7 +11013,7 @@
     "lowest30d": true,
     "vendas": 1396,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP303419140-40682289936",
@@ -11733,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 2007,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -11781,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 2727,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-24T07:35:16.810Z"
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -11952,28 +11952,28 @@
     "checkedAt": "2026-11-24T11:05:22.599Z"
   },
   {
-    "id": "SP1483626750-23293978804",
-    "productId": "SP1483626750-23293978804",
+    "id": "SP747621203-23698300058",
+    "productId": "SP747621203-23698300058",
     "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
-    "price": 45,
-    "originalPrice": 100,
-    "discount": 55,
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "**QUEIMA DE ESTOQUE** Livreiro Organizador Multifuncional 4 Prateleiras Bipartido Fácil Montagem",
+    "price": 189.35,
+    "originalPrice": 402.87,
+    "discount": 53,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
-    "url": "https://s.shopee.com.br/3g5TeSridP",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mu3vtleg90qp13",
+    "url": "https://s.shopee.com.br/2VtU0lgH9f",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 10714,
-    "publishedAt": "2026-11-24T11:05:22.599Z",
-    "checkedAt": "2026-11-24T11:05:22.599Z"
+    "vendas": 2221,
+    "publishedAt": "2026-11-24T11:35:16.022Z",
+    "checkedAt": "2026-11-24T11:35:16.022Z"
   },
   {
     "id": "SP1627969128-58205114729",
