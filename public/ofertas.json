@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 362,
     "publishedAt": "2026-11-17T13:35:18.330Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -150,8 +150,8 @@
     "fonte": "shopee:q:mouse",
     "categoria": "Informática",
     "title": "Teclado Gamer/ Escritório Com Fio RGB LED Iluminado  Com 68 Teclados Mecânicos",
-    "price": 88.88,
-    "originalPrice": 296.27,
+    "price": 89.88,
+    "originalPrice": 299.6,
     "discount": 70,
     "base": "vendedor",
     "averagePrice": null,
@@ -162,10 +162,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 400,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -286,6 +286,30 @@
     "vendas": 1023,
     "publishedAt": "2026-11-13T18:05:15.349Z",
     "checkedAt": "2026-11-24T02:35:17.321Z"
+  },
+  {
+    "id": "SP1223506816-58251518035",
+    "productId": "SP1223506816-58251518035",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
+    "price": 37.62,
+    "originalPrice": 121.35,
+    "discount": 69,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mscge5xo2rk7e9",
+    "url": "https://s.shopee.com.br/9V3EyGkQaK",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2818,
+    "publishedAt": "2026-09-23T03:30:08.026Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP544374309-58270107598",
@@ -669,7 +693,7 @@
     "lowest30d": true,
     "vendas": 2810,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1232299933-57358236213",
@@ -789,7 +813,7 @@
     "lowest30d": false,
     "vendas": 1071,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -813,7 +837,7 @@
     "lowest30d": false,
     "vendas": 3494,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1325610951-58219140416",
@@ -1125,7 +1149,7 @@
     "lowest30d": true,
     "vendas": 1198,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1521699574-23898692172",
@@ -1149,7 +1173,7 @@
     "lowest30d": false,
     "vendas": 9912,
     "publishedAt": "2026-11-22T04:35:15.356Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -1653,7 +1677,7 @@
     "lowest30d": false,
     "vendas": 360,
     "publishedAt": "2026-11-04T20:35:14.814Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1234991453-58262387784",
@@ -1773,7 +1797,7 @@
     "lowest30d": false,
     "vendas": 104,
     "publishedAt": "2026-11-01T19:35:13.899Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP303419140-57563387424",
@@ -1896,30 +1920,6 @@
     "checkedAt": "2026-11-24T02:35:17.321Z"
   },
   {
-    "id": "SP1223506816-58251518035",
-    "productId": "SP1223506816-58251518035",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
-    "price": 43.37,
-    "originalPrice": 120.47,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mscge5xo2rk7e9",
-    "url": "https://s.shopee.com.br/9V3EyGkQaK",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2818,
-    "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
-  },
-  {
     "id": "SP866679071-23199528877",
     "productId": "SP866679071-23199528877",
     "marketplace": "shopee",
@@ -1965,7 +1965,7 @@
     "lowest30d": false,
     "vendas": 554,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1272600089-18597998986",
@@ -2589,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 666,
     "publishedAt": "2026-11-08T14:05:13.288Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP444150322-23498720035",
@@ -2613,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 345,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -2709,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 1279,
     "publishedAt": "2026-11-23T20:35:17.128Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "MLB5389969200",
@@ -3021,7 +3021,7 @@
     "lowest30d": true,
     "vendas": 539,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -3069,7 +3069,7 @@
     "lowest30d": true,
     "vendas": 1273,
     "publishedAt": "2026-11-22T21:05:16.867Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -3093,7 +3093,7 @@
     "lowest30d": true,
     "vendas": 734,
     "publishedAt": "2026-11-22T21:05:16.867Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1902202933-58220416461",
@@ -3141,7 +3141,7 @@
     "lowest30d": true,
     "vendas": 2422,
     "publishedAt": "2026-11-17T03:35:14.108Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1331886707-19198316357",
@@ -3189,7 +3189,7 @@
     "lowest30d": true,
     "vendas": 2383,
     "publishedAt": "2026-11-13T23:52:04.770Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1557539807-58208104098",
@@ -3333,7 +3333,31 @@
     "lowest30d": false,
     "vendas": 1218,
     "publishedAt": "2026-11-01T22:05:18.952Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
+  },
+  {
+    "id": "SP1493421921-21998324835",
+    "productId": "SP1493421921-21998324835",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
+    "price": 63.99,
+    "originalPrice": 159.98,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mm8e1uokutc69b",
+    "url": "https://s.shopee.com.br/8AXql9YZbR",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2329,
+    "publishedAt": "2026-11-23T00:05:22.086Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -3405,7 +3429,7 @@
     "lowest30d": true,
     "vendas": 1770,
     "publishedAt": "2026-11-19T01:35:14.226Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1641027419-22094490890",
@@ -3693,7 +3717,7 @@
     "lowest30d": true,
     "vendas": 231,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -3813,7 +3837,7 @@
     "lowest30d": false,
     "vendas": 851,
     "publishedAt": "2026-11-01T00:05:14.228Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1543712029-57955156907",
@@ -4032,30 +4056,6 @@
     "checkedAt": "2026-11-24T03:05:26.869Z"
   },
   {
-    "id": "SP1493421921-21998324835",
-    "productId": "SP1493421921-21998324835",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "INOVA Fone de Ouvido Esportivo Sem Fio Bluetooth Com Microfone IPX5 À Prova D'Água Gancho Alta Fidelidade Estéreo",
-    "price": 65.99,
-    "originalPrice": 157.12,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mm8e1uokutc69b",
-    "url": "https://s.shopee.com.br/8AXql9YZbR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2329,
-    "publishedAt": "2026-11-23T00:05:22.086Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
-  },
-  {
     "id": "SP1813143307-58263625920",
     "productId": "SP1813143307-58263625920",
     "marketplace": "shopee",
@@ -4077,7 +4077,7 @@
     "lowest30d": false,
     "vendas": 953,
     "publishedAt": "2026-11-11T14:35:21.151Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1863032510-58268769932",
@@ -4677,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 769,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -4701,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 1916,
     "publishedAt": "2026-11-06T11:36:51.093Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "MLB4006196241",
@@ -4773,7 +4773,7 @@
     "lowest30d": true,
     "vendas": 1402,
     "publishedAt": "2026-11-12T11:05:16.092Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -4797,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 1825,
     "publishedAt": "2026-11-01T23:35:16.616Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -4821,7 +4821,7 @@
     "lowest30d": true,
     "vendas": 3921,
     "publishedAt": "2026-11-05T14:05:29.764Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1362857362-58206175995",
@@ -4845,7 +4845,7 @@
     "lowest30d": true,
     "vendas": 1308,
     "publishedAt": "2026-11-03T18:05:27.879Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1259086167-42226908068",
@@ -4893,7 +4893,7 @@
     "lowest30d": false,
     "vendas": 1446,
     "publishedAt": "2026-11-14T05:35:13.911Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP368012695-48506195929",
@@ -4917,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 386,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "MLB3793237586",
@@ -4990,6 +4990,30 @@
     "vendas": 600,
     "publishedAt": "2026-11-10T19:05:14.724Z",
     "checkedAt": "2026-11-24T02:05:16.087Z"
+  },
+  {
+    "id": "SP1634491040-58257412160",
+    "productId": "SP1634491040-58257412160",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
+    "price": 49.9,
+    "originalPrice": 106.17,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
+    "url": "https://s.shopee.com.br/AKcLfQt3ro",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4227,
+    "publishedAt": "2026-11-09T05:35:14.096Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "MLB5301114959",
@@ -5181,7 +5205,7 @@
     "lowest30d": false,
     "vendas": 8827,
     "publishedAt": "2026-11-11T10:48:57.969Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5421,7 +5445,7 @@
     "lowest30d": true,
     "vendas": 1329,
     "publishedAt": "2026-11-12T14:05:15.945Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -5445,7 +5469,7 @@
     "lowest30d": true,
     "vendas": 14170,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1441157744-25946709329",
@@ -5469,7 +5493,7 @@
     "lowest30d": false,
     "vendas": 30739,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -5493,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 1598,
     "publishedAt": "2026-11-11T17:05:18.378Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1333507062-58217052865",
@@ -5502,8 +5526,8 @@
     "fonte": "shopee:q:teclado",
     "categoria": "Informática",
     "title": "Teclado Sem Fio Gamer Magnético Rapid Trigger 0,01mm 8000hz Rgb Fire Phoenix",
-    "price": 252.99,
-    "originalPrice": 505.98,
+    "price": 251.49,
+    "originalPrice": 502.98,
     "discount": 50,
     "base": "vendedor",
     "averagePrice": null,
@@ -5517,7 +5541,7 @@
     "lowest30d": false,
     "vendas": 1007,
     "publishedAt": "2026-11-11T15:05:17.179Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP504754787-23892803207",
@@ -5709,7 +5733,7 @@
     "lowest30d": false,
     "vendas": 602,
     "publishedAt": "2026-11-19T21:35:13.041Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP974102638-23694031516",
@@ -5902,30 +5926,6 @@
     "vendas": 3287,
     "publishedAt": "2026-11-13T23:35:18.115Z",
     "checkedAt": "2026-11-24T02:35:17.321Z"
-  },
-  {
-    "id": "SP1634491040-58257412160",
-    "productId": "SP1634491040-58257412160",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "24/48 Talheres Individuais Faca Garfo Colher Sobremesa Inox Para Cozinha Dourado",
-    "price": 49.9,
-    "originalPrice": 95.96,
-    "discount": 48,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82585-mug1i20t301w23",
-    "url": "https://s.shopee.com.br/AKcLfQt3ro",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4227,
-    "publishedAt": "2026-11-09T05:35:14.096Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
   },
   {
     "id": "SP1027434194-48962541011",
@@ -6141,7 +6141,7 @@
     "lowest30d": false,
     "vendas": 2506,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP762383390-22597172030",
@@ -6213,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 4151,
     "publishedAt": "2026-11-11T19:35:12.667Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "MLB4648803608",
@@ -8664,6 +8664,54 @@
     "checkedAt": "2026-11-24T03:05:26.869Z"
   },
   {
+    "id": "SP1064041485-22193547060",
+    "productId": "SP1064041485-22193547060",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Cordão de Luzes LED Solar 10m/20m para Uso Externo, 8 Funções, Prova d'Água, Decoração de Natal",
+    "price": 49.99,
+    "originalPrice": 166.63,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82589-mgew8ukw0b2kba",
+    "url": "https://s.shopee.com.br/qlIuNdP64",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 7074,
+    "publishedAt": "2026-11-24T03:35:17.900Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
+  },
+  {
+    "id": "SP526625785-21099557497",
+    "productId": "SP526625785-21099557497",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:smartwatch",
+    "categoria": "Smartwatches",
+    "title": "Smartwatch 7 Em 1 Alças 49mm Full Touch Screen Sport",
+    "price": 59.99,
+    "originalPrice": 199.97,
+    "discount": 70,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825zv-ml16vfpvksg5ae",
+    "url": "https://s.shopee.com.br/4B1hzeim5j",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1128,
+    "publishedAt": "2026-11-24T03:35:17.900Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
+  },
+  {
     "id": "SP1654822470-22799185652",
     "productId": "SP1654822470-22799185652",
     "marketplace": "shopee",
@@ -8949,7 +8997,7 @@
     "lowest30d": true,
     "vendas": 522,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -8973,7 +9021,7 @@
     "lowest30d": false,
     "vendas": 439,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-24T00:05:21.089Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1489642206-24194076610",
@@ -9262,6 +9310,30 @@
     "vendas": 430,
     "publishedAt": "2026-11-18T10:43:36.839Z",
     "checkedAt": "2026-11-24T00:35:19.662Z"
+  },
+  {
+    "id": "SP1240425443-23893313838",
+    "productId": "SP1240425443-23893313838",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone bluetooth",
+    "categoria": "Eletrônicos",
+    "title": "Fone de Ouvido Sem Fio Bluetooth com Condução Óssea/Compacto e Leve/Resistente a Água/Tipo-C",
+    "price": 34.98,
+    "originalPrice": 109.31,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134211-820ln-mseaww44b5dz4b",
+    "url": "https://s.shopee.com.br/20xDwFSvhG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4086,
+    "publishedAt": "2026-11-24T03:35:17.900Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP771750144-20797868953",
@@ -9861,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 768,
     "publishedAt": "2026-10-30T11:05:13.469Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -10005,7 +10077,7 @@
     "lowest30d": true,
     "vendas": 9564,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -10221,7 +10293,7 @@
     "lowest30d": false,
     "vendas": 425,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -10294,6 +10366,30 @@
     "vendas": 485,
     "publishedAt": "2026-10-05T06:59:31.081Z",
     "checkedAt": "2026-11-24T03:05:26.869Z"
+  },
+  {
+    "id": "SP1468415010-58201942490",
+    "productId": "SP1468415010-58201942490",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "TOMI MITO Bolsa Feminina Media |Bolsas Femininas De Ombro para Trabalho e Viagem Ano Novo natal B758",
+    "price": 54.44,
+    "originalPrice": 160.12,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mvqzq5vp3ojn05",
+    "url": "https://s.shopee.com.br/5AuFLhrVuY",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 571,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10485,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 241,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10533,7 +10629,7 @@
     "lowest30d": false,
     "vendas": 184,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -10584,30 +10680,6 @@
     "checkedAt": "2026-11-24T00:05:21.089Z"
   },
   {
-    "id": "SP1468415010-58201942490",
-    "productId": "SP1468415010-58201942490",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "TOMI MITO Bolsa Feminina Media |Bolsas Femininas De Ombro para Trabalho e Viagem Ano Novo natal B758",
-    "price": 54.99,
-    "originalPrice": 157.11,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mvqzq5vp3ojn05",
-    "url": "https://s.shopee.com.br/5AuFLhrVuY",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 571,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
-  },
-  {
     "id": "SP1618104873-22594653765",
     "productId": "SP1618104873-22594653765",
     "marketplace": "shopee",
@@ -10653,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 2140,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10725,7 +10797,7 @@
     "lowest30d": false,
     "vendas": 1259,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1620481153-58252252799",
@@ -10797,7 +10869,7 @@
     "lowest30d": false,
     "vendas": 701,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -11085,7 +11157,7 @@
     "lowest30d": true,
     "vendas": 1482,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -11397,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 493,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP415175805-20103606180",
@@ -11613,7 +11685,7 @@
     "lowest30d": false,
     "vendas": 170,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -11710,30 +11782,6 @@
     "vendas": 1048,
     "publishedAt": "2026-10-31T00:07:30.427Z",
     "checkedAt": "2026-11-24T01:35:18.515Z"
-  },
-  {
-    "id": "SP1448484843-23493920781",
-    "productId": "SP1448484843-23493920781",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "price": 37.24,
-    "originalPrice": 100.65,
-    "discount": 63,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv7hzppnnk03d",
-    "url": "https://s.shopee.com.br/9pg4kGvsnz",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1679,
-    "publishedAt": "2026-11-23T12:05:19.483Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
   },
   {
     "id": "SP1408367819-22398154478",
@@ -11856,6 +11904,30 @@
     "checkedAt": "2026-11-24T03:05:26.869Z"
   },
   {
+    "id": "SP1448484843-23493920781",
+    "productId": "SP1448484843-23493920781",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
+    "price": 37.55,
+    "originalPrice": 98.82,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv7hzppnnk03d",
+    "url": "https://s.shopee.com.br/9pg4kGvsnz",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1679,
+    "publishedAt": "2026-11-23T12:05:19.483Z",
+    "checkedAt": "2026-11-24T03:35:17.900Z"
+  },
+  {
     "id": "SP1193388723-55806745399",
     "productId": "SP1193388723-55806745399",
     "marketplace": "shopee",
@@ -11901,7 +11973,7 @@
     "lowest30d": false,
     "vendas": 397,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
+    "checkedAt": "2026-11-24T03:35:17.900Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11926,77 +11998,5 @@
     "vendas": 382,
     "publishedAt": "2026-09-23T14:29:46.639Z",
     "checkedAt": "2026-11-24T02:05:16.087Z"
-  },
-  {
-    "id": "SP1337284628-23295027006",
-    "productId": "SP1337284628-23295027006",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "Fone De Ouvido sem fio Bluetooh 5.2  Compativel  IOS e  Android Sem borracha",
-    "price": 49.99,
-    "originalPrice": 131.55,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823of-mp14p04qi2o208",
-    "url": "https://s.shopee.com.br/7AfJpVfe7x",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1560,
-    "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-24T01:05:15.414Z"
-  },
-  {
-    "id": "SP1393510332-20499840117",
-    "productId": "SP1393510332-20499840117",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Barraca Infantil Menina Tenda Minha Casinha",
-    "price": 60.77,
-    "originalPrice": 159.92,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
-    "url": "https://s.shopee.com.br/7pv0WbhQle",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1339,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-23T23:35:16.361Z"
-  },
-  {
-    "id": "SP1580145778-22499659115",
-    "productId": "SP1580145778-22499659115",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-    "price": 38.99,
-    "originalPrice": 99.97,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lq-mr1az3zlu3uue1",
-    "url": "https://s.shopee.com.br/3qOrjJeius",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1025,
-    "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-24T03:05:26.869Z"
   }
 ]
