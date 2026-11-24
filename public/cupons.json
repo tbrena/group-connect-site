@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "ESPORTES15"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 80",
+    "minimo": null,
+    "escopo": "Equipamentos Esportivos",
+    "origem": "avidaefeitadedesconto/17729",
+    "quando": "2026-11-24T17:25:21+00:00",
+    "id": "ml:ESPORTES15",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ESPORTES10"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 60",
+    "minimo": "R$ 399",
+    "escopo": "Esportes e Saúde",
+    "origem": "avidaefeitadedesconto/17728",
+    "quando": "2026-11-24T17:25:08+00:00",
+    "id": "ml:ESPORTES10",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "OFERTAPRATECH"
     ],
     "desconto": null,
