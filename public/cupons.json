@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "DECORNATAL2511"
+    ],
+    "desconto": "R$ 35 OFF",
+    "limite": null,
+    "minimo": "R$ 119",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17768",
+    "quando": "2026-11-25T15:07:43+00:00",
+    "id": "ml:DECORNATAL2511",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ELETRO2511"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": "R$ 500",
+    "escopo": "Som, Vídeo e Eletro só",
+    "origem": "avidaefeitadedesconto/17767",
+    "quando": "2026-11-25T15:03:56+00:00",
+    "id": "ml:ELETRO2511",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIYTBF26"
     ],
     "desconto": "8% OFF",
@@ -269,92 +297,6 @@
     "origem": "avidaefeitadedesconto/17724",
     "quando": "2026-11-24T16:00:50+00:00",
     "id": "ml:OFERTAPRATECH",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODO2411SITE"
-    ],
-    "desconto": "R$ 230 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17722",
-    "quando": "2026-11-24T15:09:21+00:00",
-    "id": "ml:TODO2411SITE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SITETODO2411"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17721",
-    "quando": "2026-11-24T15:07:41+00:00",
-    "id": "ml:SITETODO2411",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE2411"
-    ],
-    "desconto": "R$ 30 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17720",
-    "quando": "2026-11-24T15:05:39+00:00",
-    "id": "ml:TODOSITE2411",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TODOSITE2411",
-      "SITETODO2411",
-      "TODO2411SITE"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17719",
-    "quando": "2026-11-24T15:05:30+00:00",
-    "id": "ml:TODOSITE2411+SITETODO2411+TODO2411SITE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VOCEDEZ"
-    ],
-    "desconto": "10% OFF",
-    "limite": "R$ 30",
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17718",
-    "quando": "2026-11-24T14:49:44+00:00",
-    "id": "ml:VOCEDEZ",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "1124MAISME"
-    ],
-    "desconto": "R$ 80 OFF",
-    "limite": null,
-    "minimo": "R$ 499",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17717",
-    "quando": "2026-11-24T14:46:34+00:00",
-    "id": "ml:1124MAISME",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
