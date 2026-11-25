@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "LIVREOFF"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 200",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17783",
+    "quando": "2026-11-25T19:00:53+00:00",
+    "id": "ml:LIVREOFF",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "15ELUX"
     ],
     "desconto": "15% OFF",
@@ -297,20 +311,6 @@
     "origem": "avidaefeitadedesconto/17737",
     "quando": "2026-11-24T20:02:29+00:00",
     "id": "ml:VEMPROMP",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CURTAMELI"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17736",
-    "quando": "2026-11-24T19:00:31+00:00",
-    "id": "ml:CURTAMELI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
