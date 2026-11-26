@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "PROMOTOP"
+    ],
+    "desconto": "R$ 250 OFF",
+    "limite": null,
+    "minimo": "R$ 2.499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17856",
+    "quando": "2026-11-26T16:01:49+00:00",
+    "id": "ml:PROMOTOP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "1BAMELI",
       "MELIEI8",
       "B6HMELI"
@@ -391,20 +405,6 @@
     "origem": "avidaefeitadedesconto/17775",
     "quando": "2026-11-25T18:04:28+00:00",
     "id": "ml:OFICIAIS2511",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MENOSPRATECH"
-    ],
-    "desconto": "R$ 300 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17772",
-    "quando": "2026-11-25T16:00:02+00:00",
-    "id": "ml:MENOSPRATECH",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
