@@ -93,7 +93,7 @@
     "lowest30d": false,
     "vendas": 348,
     "publishedAt": "2026-11-23T04:35:22.532Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -189,7 +189,7 @@
     "lowest30d": true,
     "vendas": 2443,
     "publishedAt": "2026-09-26T20:35:13.422Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP457864097-29379615929",
@@ -381,7 +381,7 @@
     "lowest30d": true,
     "vendas": 3356,
     "publishedAt": "2026-09-25T02:35:16.133Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1658947107-22999054525",
@@ -405,7 +405,7 @@
     "lowest30d": false,
     "vendas": 1450,
     "publishedAt": "2026-09-23T15:05:15.192Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -573,7 +573,7 @@
     "lowest30d": true,
     "vendas": 2435,
     "publishedAt": "2026-11-12T04:35:13.128Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 337,
     "publishedAt": "2026-10-06T22:35:15.355Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -669,7 +669,7 @@
     "lowest30d": true,
     "vendas": 716,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -861,7 +861,7 @@
     "lowest30d": false,
     "vendas": 332,
     "publishedAt": "2026-09-25T00:35:15.497Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1209650911-22194732923",
@@ -1029,7 +1029,7 @@
     "lowest30d": false,
     "vendas": 554,
     "publishedAt": "2026-11-23T21:35:14.553Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "MLB6968033626",
@@ -1173,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 3832,
     "publishedAt": "2026-11-10T19:35:14.557Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP452872883-41468871729",
@@ -1197,7 +1197,7 @@
     "lowest30d": false,
     "vendas": 891,
     "publishedAt": "2026-11-10T16:35:27.121Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP944725778-22199288225",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 1626,
     "publishedAt": "2026-10-22T11:45:05.435Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "MLB5574611833",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": 1234,
     "publishedAt": "2026-09-24T12:35:15.740Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1097148583-23598482764",
@@ -1749,7 +1749,7 @@
     "lowest30d": false,
     "vendas": 2679,
     "publishedAt": "2026-11-18T17:05:20.281Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -1872,6 +1872,30 @@
     "checkedAt": "2026-11-26T14:05:29.116Z"
   },
   {
+    "id": "SP328666563-58255491703",
+    "productId": "SP328666563-58255491703",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Caixa de som original Alaxe Echo Dot 5ª geração com envio imediato e melhor preço",
+    "price": 39.99,
+    "originalPrice": 111.08,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82620-mkx9mdt47uva2c",
+    "url": "https://s.shopee.com.br/qlMzq4taU",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1332,
+    "publishedAt": "2026-10-17T19:35:11.457Z",
+    "checkedAt": "2026-11-26T16:35:17.296Z"
+  },
+  {
     "id": "SP1590001727-23893695703",
     "productId": "SP1590001727-23893695703",
     "marketplace": "shopee",
@@ -1917,7 +1941,7 @@
     "lowest30d": false,
     "vendas": 1608,
     "publishedAt": "2026-11-10T19:35:14.557Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1815920431-58270015623",
@@ -1965,7 +1989,7 @@
     "lowest30d": false,
     "vendas": 2806,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1485077747-58200879255",
@@ -2421,7 +2445,7 @@
     "lowest30d": false,
     "vendas": 5099,
     "publishedAt": "2026-10-29T03:35:12.623Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -2493,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 695,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -2542,30 +2566,6 @@
     "vendas": 337,
     "publishedAt": "2026-11-07T22:35:13.551Z",
     "checkedAt": "2026-11-26T15:35:19.150Z"
-  },
-  {
-    "id": "SP627750190-58200362396",
-    "productId": "SP627750190-58200362396",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Teclado Mecanico TGT Sherman Compacto V2, Rainbow, ABNT2, Switch Huano Azul, Branco, TGT-SHCPTW-RBW02",
-    "price": 88.58,
-    "originalPrice": 233.11,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fg-mgpea0fu8gln65",
-    "url": "https://s.shopee.com.br/4VeelbNdMa",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1052,
-    "publishedAt": "2026-11-26T03:05:14.235Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
   },
   {
     "id": "SP373745451-19253571158",
@@ -2829,7 +2829,7 @@
     "lowest30d": false,
     "vendas": 847,
     "publishedAt": "2026-10-12T04:05:18.200Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -2877,7 +2877,7 @@
     "lowest30d": false,
     "vendas": 1438,
     "publishedAt": "2026-11-10T16:35:27.121Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1710931672-58208790766",
@@ -2949,7 +2949,7 @@
     "lowest30d": false,
     "vendas": 395,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP372103398-22593398069",
@@ -3189,7 +3189,7 @@
     "lowest30d": false,
     "vendas": 2524,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "MLB4473399041",
@@ -3501,7 +3501,7 @@
     "lowest30d": false,
     "vendas": 1805,
     "publishedAt": "2026-10-23T20:05:26.284Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP790605924-57707127537",
@@ -3789,7 +3789,7 @@
     "lowest30d": true,
     "vendas": 958,
     "publishedAt": "2026-11-24T01:05:15.414Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1500399435-23699354590",
@@ -3888,54 +3888,6 @@
     "checkedAt": "2026-11-26T14:05:29.116Z"
   },
   {
-    "id": "SP328666563-58255491703",
-    "productId": "SP328666563-58255491703",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Caixa de som original Alaxe Echo Dot 5ª geração com envio imediato e melhor preço",
-    "price": 44.99,
-    "originalPrice": 109.73,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82620-mkx9mdt47uva2c",
-    "url": "https://s.shopee.com.br/qlMzq4taU",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1332,
-    "publishedAt": "2026-10-17T19:35:11.457Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
-  },
-  {
-    "id": "SP1495626487-18198318921",
-    "productId": "SP1495626487-18198318921",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Arvore De Natal Pinheiro 1,5m 1,8m 2,1m 2,4m Tamanho até 1500 Galhos Tradicional Decoração LuvinCo",
-    "price": 107.91,
-    "originalPrice": 256.93,
-    "discount": 58,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-muuprasup1xc3a",
-    "url": "https://s.shopee.com.br/50avcpw3RQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 5463,
-    "publishedAt": "2026-11-25T12:35:17.222Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
-  },
-  {
     "id": "SP1813143307-58263625920",
     "productId": "SP1813143307-58263625920",
     "marketplace": "shopee",
@@ -4005,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 1564,
     "publishedAt": "2026-09-30T15:32:03.838Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -4368,6 +4320,30 @@
     "checkedAt": "2026-11-26T15:35:19.150Z"
   },
   {
+    "id": "SP627750190-58200362396",
+    "productId": "SP627750190-58200362396",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Teclado Mecanico TGT Sherman Compacto V2, Rainbow, ABNT2, Switch Huano Azul, Branco, TGT-SHCPTW-RBW02",
+    "price": 102.9,
+    "originalPrice": 228.67,
+    "discount": 55,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fg-mgpea0fu8gln65",
+    "url": "https://s.shopee.com.br/4VeelbNdMa",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1052,
+    "publishedAt": "2026-11-26T03:05:14.235Z",
+    "checkedAt": "2026-11-26T16:35:17.296Z"
+  },
+  {
     "id": "SP1690167301-58269937234",
     "productId": "SP1690167301-58269937234",
     "marketplace": "shopee",
@@ -4413,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 11340,
     "publishedAt": "2026-11-24T11:05:22.599Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1707934142-58222440201",
@@ -4704,6 +4680,30 @@
     "checkedAt": "2026-11-26T15:35:19.150Z"
   },
   {
+    "id": "SP1495626487-18198318921",
+    "productId": "SP1495626487-18198318921",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Arvore De Natal Pinheiro 1,5m 1,8m 2,1m 2,4m Tamanho até 1500 Galhos Tradicional Decoração LuvinCo",
+    "price": 119.99,
+    "originalPrice": 255.3,
+    "discount": 53,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-muuprasup1xc3a",
+    "url": "https://s.shopee.com.br/50avcpw3RQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 5463,
+    "publishedAt": "2026-11-25T12:35:17.222Z",
+    "checkedAt": "2026-11-26T16:35:17.296Z"
+  },
+  {
     "id": "SP1126064857-20599370356",
     "productId": "SP1126064857-20599370356",
     "marketplace": "shopee",
@@ -4725,7 +4725,7 @@
     "lowest30d": false,
     "vendas": 3977,
     "publishedAt": "2026-11-25T03:35:14.775Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP384005598-58208973330",
@@ -5181,7 +5181,7 @@
     "lowest30d": true,
     "vendas": 2675,
     "publishedAt": "2026-11-12T23:35:14.917Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1459307687-21799836330",
@@ -5232,30 +5232,6 @@
     "checkedAt": "2026-11-26T14:35:17.300Z"
   },
   {
-    "id": "SP504754787-20999680446",
-    "productId": "SP504754787-20999680446",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-    "price": 175.9,
-    "originalPrice": 358.98,
-    "discount": 51,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-    "url": "https://s.shopee.com.br/6AmsmZe1Dl",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1984,
-    "publishedAt": "2026-11-16T18:35:13.871Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
-  },
-  {
     "id": "SP404059558-53561952499",
     "productId": "SP404059558-53561952499",
     "marketplace": "shopee",
@@ -5301,7 +5277,7 @@
     "lowest30d": false,
     "vendas": 1555,
     "publishedAt": "2026-11-13T20:35:14.089Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP328666563-58203053079",
@@ -5397,7 +5373,7 @@
     "lowest30d": true,
     "vendas": 1602,
     "publishedAt": "2026-11-26T00:05:29.064Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1109263850-25697506853",
@@ -5518,6 +5494,30 @@
     "vendas": 1432,
     "publishedAt": "2026-11-16T21:05:34.606Z",
     "checkedAt": "2026-11-26T16:05:17.027Z"
+  },
+  {
+    "id": "SP504754787-20999680446",
+    "productId": "SP504754787-20999680446",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+    "price": 179.9,
+    "originalPrice": 359.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+    "url": "https://s.shopee.com.br/6AmsmZe1Dl",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1984,
+    "publishedAt": "2026-11-16T18:35:13.871Z",
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP525497420-58207336152",
@@ -5685,7 +5685,7 @@
     "lowest30d": false,
     "vendas": 1895,
     "publishedAt": "2026-11-11T03:05:13.959Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1504823224-58252293617",
@@ -5709,7 +5709,7 @@
     "lowest30d": true,
     "vendas": 688,
     "publishedAt": "2026-11-09T12:05:18.812Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1911970870-58266023927",
@@ -5901,7 +5901,7 @@
     "lowest30d": false,
     "vendas": 7713,
     "publishedAt": "2026-11-08T05:55:05.922Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP451332066-23197759025",
@@ -6093,7 +6093,7 @@
     "lowest30d": false,
     "vendas": 12455,
     "publishedAt": "2026-11-19T22:35:13.652Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP983753255-19197033229",
@@ -6141,7 +6141,7 @@
     "lowest30d": true,
     "vendas": 1108,
     "publishedAt": "2026-11-16T21:05:34.606Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1593864538-55957404904",
@@ -6165,7 +6165,7 @@
     "lowest30d": true,
     "vendas": 2292,
     "publishedAt": "2026-11-12T20:35:16.025Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP450664666-18978598136",
@@ -6189,7 +6189,7 @@
     "lowest30d": false,
     "vendas": 2556,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-26T13:05:17.706Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -8565,7 +8565,7 @@
     "lowest30d": true,
     "vendas": 633,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 713,
     "publishedAt": "2026-10-03T17:05:15.960Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -9045,7 +9045,7 @@
     "lowest30d": true,
     "vendas": 612,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 225,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 334,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 753,
     "publishedAt": "2026-10-30T11:05:13.469Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -9933,7 +9933,7 @@
     "lowest30d": true,
     "vendas": 9871,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1339412998-27035836352",
@@ -10173,7 +10173,7 @@
     "lowest30d": false,
     "vendas": 411,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1520177807-58251938132",
@@ -10269,7 +10269,7 @@
     "lowest30d": false,
     "vendas": 568,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10485,7 +10485,7 @@
     "lowest30d": true,
     "vendas": 209,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1127030290-22497983911",
@@ -10533,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 187,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1020746654-23198227430",
@@ -10629,7 +10629,7 @@
     "lowest30d": false,
     "vendas": 1257,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP508140700-58254276340",
@@ -10653,7 +10653,7 @@
     "lowest30d": false,
     "vendas": 708,
     "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -10965,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 1486,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -11301,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 503,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP415175805-20103606180",
@@ -11589,7 +11589,7 @@
     "lowest30d": false,
     "vendas": 166,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP293097193-23994398489",
@@ -11781,7 +11781,7 @@
     "lowest30d": false,
     "vendas": 1768,
     "publishedAt": "2026-11-23T12:05:19.483Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -11877,7 +11877,7 @@
     "lowest30d": false,
     "vendas": 378,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11973,7 +11973,7 @@
     "lowest30d": false,
     "vendas": 2153,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-11-26T12:35:16.839Z"
+    "checkedAt": "2026-11-26T16:35:17.296Z"
   },
   {
     "id": "SP1737398657-23899314269",
