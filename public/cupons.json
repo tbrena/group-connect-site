@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "TECHVIP"
+    ],
+    "desconto": "12% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17883",
+    "quando": "2026-11-26T20:04:13+00:00",
+    "id": "ml:TECHVIP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "BELEZA20"
+    ],
+    "desconto": "20% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": "Princípia",
+    "origem": "avidaefeitadedesconto/17882",
+    "quando": "2026-11-26T19:50:34+00:00",
+    "id": "ml:BELEZA20",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIEBG"
     ],
     "desconto": "R$ 250 OFF",
