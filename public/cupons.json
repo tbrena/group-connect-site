@@ -2,6 +2,22 @@
   {
     "loja": "ml",
     "codigos": [
+      "1BAMELI",
+      "MELIEI8",
+      "B6HMELI"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17854",
+    "quando": "2026-11-26T15:09:30+00:00",
+    "id": "ml:1BAMELI+MELIEI8+B6HMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MAISDESCONTODEZ"
     ],
     "desconto": "10% OFF",
@@ -389,34 +405,6 @@
     "origem": "avidaefeitadedesconto/17772",
     "quando": "2026-11-25T16:00:02+00:00",
     "id": "ml:MENOSPRATECH",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DECORNATAL2511"
-    ],
-    "desconto": "R$ 35 OFF",
-    "limite": null,
-    "minimo": "R$ 119",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17768",
-    "quando": "2026-11-25T15:07:43+00:00",
-    "id": "ml:DECORNATAL2511",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "ELETRO2511"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": "R$ 500",
-    "escopo": "Som, Vídeo e Eletro só",
-    "origem": "avidaefeitadedesconto/17767",
-    "quando": "2026-11-25T15:03:56+00:00",
-    "id": "ml:ELETRO2511",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
