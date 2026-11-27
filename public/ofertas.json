@@ -117,7 +117,7 @@
     "lowest30d": false,
     "vendas": 504,
     "publishedAt": "2026-11-26T12:35:16.839Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP853233263-22694165614",
@@ -357,7 +357,7 @@
     "lowest30d": false,
     "vendas": 1842,
     "publishedAt": "2026-11-21T14:35:18.173Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -477,7 +477,7 @@
     "lowest30d": true,
     "vendas": 3933,
     "publishedAt": "2026-11-10T23:19:36.874Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -744,6 +744,30 @@
     "checkedAt": "2026-11-27T09:05:15.691Z"
   },
   {
+    "id": "SP1803524453-58215621878",
+    "productId": "SP1803524453-58215621878",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Cabo De Carregador 3 Em 1 100W 6A Tipo C Lightning Micro USB Carga Rápida Liga De Zinco 1,2M",
+    "price": 13.89,
+    "originalPrice": 43.41,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mrjws5j3sz5x36",
+    "url": "https://s.shopee.com.br/3qOxyM9OBF",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 4736,
+    "publishedAt": "2026-11-11T01:35:14.550Z",
+    "checkedAt": "2026-11-27T12:05:16.377Z"
+  },
+  {
     "id": "SP728389176-58217601055",
     "productId": "SP728389176-58217601055",
     "marketplace": "shopee",
@@ -909,7 +933,7 @@
     "lowest30d": true,
     "vendas": 1722,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -1008,30 +1032,6 @@
     "checkedAt": "2026-11-27T09:05:15.691Z"
   },
   {
-    "id": "SP1803524453-58215621878",
-    "productId": "SP1803524453-58215621878",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Cabo De Carregador 3 Em 1 100W 6A Tipo C Lightning Micro USB Carga Rápida Liga De Zinco 1,2M",
-    "price": 23.89,
-    "originalPrice": 72.39,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mrjws5j3sz5x36",
-    "url": "https://s.shopee.com.br/3qOxyM9OBF",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4736,
-    "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
-  },
-  {
     "id": "SP1597425469-58204620137",
     "productId": "SP1597425469-58204620137",
     "marketplace": "shopee",
@@ -1053,7 +1053,7 @@
     "lowest30d": false,
     "vendas": 1820,
     "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1325610951-58219140416",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 2607,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1545189381-58263102378",
@@ -1365,7 +1365,7 @@
     "lowest30d": true,
     "vendas": 1301,
     "publishedAt": "2026-11-24T00:35:19.662Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1451743836-22098374055",
@@ -1701,7 +1701,7 @@
     "lowest30d": true,
     "vendas": 873,
     "publishedAt": "2026-11-09T04:05:14.475Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP872424585-22491618254",
@@ -1917,7 +1917,7 @@
     "lowest30d": true,
     "vendas": 2689,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -1941,7 +1941,7 @@
     "lowest30d": false,
     "vendas": 672,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB6726997138",
@@ -1989,7 +1989,7 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-11-05T19:35:16.196Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1234991453-58262387784",
@@ -2397,7 +2397,7 @@
     "lowest30d": true,
     "vendas": 171,
     "publishedAt": "2026-11-10T19:05:14.724Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP452872883-41468871729",
@@ -2589,7 +2589,7 @@
     "lowest30d": false,
     "vendas": 1071,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1132754268-23195153059",
@@ -2613,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 3385,
     "publishedAt": "2026-11-22T21:35:13.923Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1531826276-23494419761",
@@ -2709,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 828,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -2733,7 +2733,7 @@
     "lowest30d": false,
     "vendas": 494,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -2781,7 +2781,7 @@
     "lowest30d": false,
     "vendas": 5290,
     "publishedAt": "2026-11-17T14:05:14.432Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -2845,7 +2845,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-821cx-mgsatybuavig6e",
-    "url": "https://s.shopee.com.br/2qWQohxRe9",
+    "url": "https://s.shopee.com.br/7KysImWiwR",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -2853,7 +2853,7 @@
     "lowest30d": true,
     "vendas": 996,
     "publishedAt": "2026-11-17T01:05:14.682Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1552414821-58265110232",
@@ -2997,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 400,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -3213,7 +3213,7 @@
     "lowest30d": true,
     "vendas": 2704,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1311372885-41809564883",
@@ -3237,7 +3237,7 @@
     "lowest30d": false,
     "vendas": 665,
     "publishedAt": "2026-11-22T05:05:17.853Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -3925,7 +3925,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjacltdm2ih29b",
-    "url": "https://s.shopee.com.br/7VIGVKBhHx",
+    "url": "https://s.shopee.com.br/2VtcXpqffL",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -3933,7 +3933,7 @@
     "lowest30d": true,
     "vendas": 1193,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -4437,7 +4437,7 @@
     "lowest30d": true,
     "vendas": 519,
     "publishedAt": "2026-11-27T05:05:25.413Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1485077747-58252016104",
@@ -4461,7 +4461,7 @@
     "lowest30d": false,
     "vendas": 2233,
     "publishedAt": "2026-11-27T05:05:25.413Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1495626487-18198318921",
@@ -4581,7 +4581,7 @@
     "lowest30d": true,
     "vendas": 462,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1441157744-40815571485",
@@ -4629,7 +4629,7 @@
     "lowest30d": true,
     "vendas": 30005,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP450664666-18978598136",
@@ -4797,7 +4797,7 @@
     "lowest30d": true,
     "vendas": 4157,
     "publishedAt": "2026-11-23T04:05:19.639Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP504754787-23892803207",
@@ -4917,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 969,
     "publishedAt": "2026-11-24T20:35:19.873Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -5125,7 +5125,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mjas54gxj01u2e",
-    "url": "https://s.shopee.com.br/qlMOvvybm",
+    "url": "https://s.shopee.com.br/BVhlZlTk2",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5133,7 +5133,7 @@
     "lowest30d": false,
     "vendas": 2176,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -5181,7 +5181,7 @@
     "lowest30d": false,
     "vendas": 2442,
     "publishedAt": "2026-11-25T09:35:15.295Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB4006196241",
@@ -5301,7 +5301,7 @@
     "lowest30d": true,
     "vendas": 263,
     "publishedAt": "2026-11-27T02:05:16.192Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP384005598-58208973330",
@@ -5325,7 +5325,7 @@
     "lowest30d": true,
     "vendas": 2166,
     "publishedAt": "2026-11-25T03:05:17.221Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP747621203-23698300058",
@@ -5541,7 +5541,7 @@
     "lowest30d": true,
     "vendas": 4040,
     "publishedAt": "2026-11-05T12:35:19.564Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1338454963-20899761631",
@@ -5709,7 +5709,7 @@
     "lowest30d": false,
     "vendas": 9411,
     "publishedAt": "2026-11-11T10:48:57.969Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1661007426-58207680669",
@@ -5829,7 +5829,7 @@
     "lowest30d": false,
     "vendas": 4569,
     "publishedAt": "2026-11-26T02:05:17.679Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1525644073-58259537206",
@@ -5877,7 +5877,7 @@
     "lowest30d": false,
     "vendas": 458,
     "publishedAt": "2026-11-24T23:35:19.345Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1265597786-43763851612",
@@ -5973,7 +5973,7 @@
     "lowest30d": true,
     "vendas": 1433,
     "publishedAt": "2026-11-16T21:05:34.606Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP525497420-58207336152",
@@ -6021,7 +6021,7 @@
     "lowest30d": true,
     "vendas": 1409,
     "publishedAt": "2026-11-12T14:05:15.945Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP387523771-43981426348",
@@ -6045,7 +6045,7 @@
     "lowest30d": false,
     "vendas": 1451,
     "publishedAt": "2026-11-11T17:05:18.378Z",
-    "checkedAt": "2026-11-27T08:35:17.561Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1333507062-58217052865",
@@ -7173,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 445,
     "publishedAt": "2026-11-06T01:05:15.195Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1097151802-21998281414",
@@ -7461,7 +7461,7 @@
     "lowest30d": false,
     "vendas": 374,
     "publishedAt": "2026-11-26T05:35:14.610Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB5872060016",
@@ -7509,7 +7509,7 @@
     "lowest30d": false,
     "vendas": 1729,
     "publishedAt": "2026-11-12T21:35:14.759Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1573559062-47702868379",
@@ -7893,7 +7893,7 @@
     "lowest30d": false,
     "vendas": 929,
     "publishedAt": "2026-11-18T17:35:13.857Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP406894684-19699704487",
@@ -7941,7 +7941,7 @@
     "lowest30d": false,
     "vendas": 638,
     "publishedAt": "2026-11-19T23:05:22.247Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB4590134133",
@@ -7989,7 +7989,7 @@
     "lowest30d": true,
     "vendas": 398,
     "publishedAt": "2026-11-14T23:35:17.263Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB4685752162",
@@ -9621,7 +9621,7 @@
     "lowest30d": false,
     "vendas": 397,
     "publishedAt": "2026-09-28T03:05:15.246Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP629805123-22396710686",
@@ -9645,7 +9645,7 @@
     "lowest30d": true,
     "vendas": 3209,
     "publishedAt": "2026-10-23T21:35:12.996Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1180920205-22194655193",
@@ -10005,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 313,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -10077,7 +10077,7 @@
     "lowest30d": false,
     "vendas": 3009,
     "publishedAt": "2026-11-01T04:05:14.300Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1662989296-58200253216",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 1370,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP634842203-45708068728",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1433,
     "publishedAt": "2026-10-15T18:35:13.645Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10605,7 +10605,7 @@
     "lowest30d": false,
     "vendas": 1916,
     "publishedAt": "2026-10-01T14:35:16.076Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP790605924-22897149838",
@@ -10773,7 +10773,7 @@
     "lowest30d": true,
     "vendas": 1655,
     "publishedAt": "2026-10-28T15:35:28.135Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10917,7 +10917,7 @@
     "lowest30d": true,
     "vendas": 511,
     "publishedAt": "2026-10-24T13:05:16.509Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1638793253-23299239521",
@@ -10965,7 +10965,7 @@
     "lowest30d": true,
     "vendas": 722,
     "publishedAt": "2026-10-06T20:59:20.442Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP574679875-58215606510",
@@ -11085,7 +11085,7 @@
     "lowest30d": false,
     "vendas": 270,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1101259582-44906552816",
@@ -11757,7 +11757,7 @@
     "lowest30d": false,
     "vendas": 2086,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1408367819-23498780349",
@@ -11805,7 +11805,7 @@
     "lowest30d": false,
     "vendas": 3023,
     "publishedAt": "2026-10-29T12:35:14.682Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -11934,8 +11934,8 @@
     "fonte": "shopee:q:umidificador",
     "categoria": "Eletrodomésticos",
     "title": "Ventilador Portátil de Mesa com Nebulização Umidificador USB Recarregável, Silencioso Casa e Escritório",
-    "price": 37.41,
-    "originalPrice": 93.53,
+    "price": 39.99,
+    "originalPrice": 99.98,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
@@ -11949,7 +11949,7 @@
     "lowest30d": false,
     "vendas": 753,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-27T08:05:15.685Z"
+    "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
     "id": "MLB3332109715",
