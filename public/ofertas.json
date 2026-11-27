@@ -45,7 +45,7 @@
     "lowest30d": false,
     "vendas": 3924,
     "publishedAt": "2026-11-27T13:05:14.910Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1779568981-58212580166",
@@ -285,7 +285,7 @@
     "lowest30d": true,
     "vendas": 1631,
     "publishedAt": "2026-10-08T23:35:13.181Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1180920205-23793172388",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 709,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1725971117-58207922771",
@@ -429,7 +429,7 @@
     "lowest30d": false,
     "vendas": 2886,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "MLB5556167483",
@@ -573,7 +573,7 @@
     "lowest30d": true,
     "vendas": 7037,
     "publishedAt": "2026-10-16T14:05:16.330Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1573953914-23998775294",
@@ -597,7 +597,7 @@
     "lowest30d": true,
     "vendas": 1108,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1240425443-23893313838",
@@ -645,7 +645,7 @@
     "lowest30d": false,
     "vendas": 159,
     "publishedAt": "2026-11-24T02:05:16.087Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -933,31 +933,7 @@
     "lowest30d": true,
     "vendas": 2861,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
-  },
-  {
-    "id": "SP1397772996-29842873054",
-    "productId": "SP1397772996-29842873054",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:whey",
-    "categoria": "Esportes",
-    "title": "FTW Whey Protein Concentrado 1kg Refil - 15g Proteína Por Dose",
-    "price": 64.99,
-    "originalPrice": 196.94,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
-    "url": "https://s.shopee.com.br/30ps92LEzo",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1552,
-    "publishedAt": "2026-11-27T03:05:14.749Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1127030290-22999007704",
@@ -981,7 +957,7 @@
     "lowest30d": false,
     "vendas": 1685,
     "publishedAt": "2026-11-25T14:35:16.377Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP450664666-20497747354",
@@ -1101,7 +1077,7 @@
     "lowest30d": true,
     "vendas": 915,
     "publishedAt": "2026-11-10T17:35:17.311Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1311097443-19199559900",
@@ -1269,7 +1245,7 @@
     "lowest30d": true,
     "vendas": 704,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1557539807-58208104098",
@@ -1293,7 +1269,7 @@
     "lowest30d": true,
     "vendas": 761,
     "publishedAt": "2026-11-13T20:35:14.089Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP395166866-58209769278",
@@ -1318,6 +1294,30 @@
     "vendas": 3497,
     "publishedAt": "2026-11-17T03:35:14.108Z",
     "checkedAt": "2026-11-27T14:05:15.443Z"
+  },
+  {
+    "id": "SP391739739-22194555567",
+    "productId": "SP391739739-22194555567",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:fone de ouvido",
+    "categoria": "Eletrônicos",
+    "title": "Fone Bluetooth Esportivo G37 com Gancho, Base de Carga LED, Grave Potente e Toque Inteligente anjgg",
+    "price": 33.99,
+    "originalPrice": 99.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a1-mfwuniqgbuoc85",
+    "url": "https://s.shopee.com.br/4Veelcam5P",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2016,
+    "publishedAt": "2026-11-24T12:05:18.912Z",
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1543643896-23594449816",
@@ -1485,7 +1485,7 @@
     "lowest30d": false,
     "vendas": 2910,
     "publishedAt": "2026-10-17T23:25:22.284Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "MLB5535425895",
@@ -1581,7 +1581,7 @@
     "lowest30d": false,
     "vendas": 3662,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP944725778-22199288225",
@@ -1605,7 +1605,7 @@
     "lowest30d": true,
     "vendas": 508,
     "publishedAt": "2026-11-05T11:05:14.454Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP511410160-16386482120",
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 4929,
     "publishedAt": "2026-11-27T03:05:14.749Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP458929927-23198020257",
@@ -1728,30 +1728,6 @@
     "checkedAt": "2026-11-27T14:05:15.443Z"
   },
   {
-    "id": "SP391739739-22194555567",
-    "productId": "SP391739739-22194555567",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:fone de ouvido",
-    "categoria": "Eletrônicos",
-    "title": "Fone Bluetooth Esportivo G37 com Gancho, Base de Carga LED, Grave Potente e Toque Inteligente anjgg",
-    "price": 34.99,
-    "originalPrice": 99.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a1-mfwuniqgbuoc85",
-    "url": "https://s.shopee.com.br/4Veelcam5P",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2016,
-    "publishedAt": "2026-11-24T12:05:18.912Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
-  },
-  {
     "id": "SP466360966-56316175763",
     "productId": "SP466360966-56316175763",
     "marketplace": "shopee",
@@ -1773,7 +1749,7 @@
     "lowest30d": true,
     "vendas": 701,
     "publishedAt": "2026-11-05T16:35:15.720Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1542724420-44918771443",
@@ -1845,7 +1821,7 @@
     "lowest30d": false,
     "vendas": 475,
     "publishedAt": "2026-10-19T19:05:13.688Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "MLB6162191874",
@@ -2205,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 1727,
     "publishedAt": "2026-11-11T19:05:15.437Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -2229,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 1214,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1520177807-23093899800",
@@ -2253,7 +2229,7 @@
     "lowest30d": false,
     "vendas": 1246,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1468415010-18999841858",
@@ -2685,7 +2661,7 @@
     "lowest30d": true,
     "vendas": 2204,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP238078335-20607193834",
@@ -2925,7 +2901,7 @@
     "lowest30d": true,
     "vendas": 3196,
     "publishedAt": "2026-11-10T18:05:13.926Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1771091495-58212573737",
@@ -2973,7 +2949,7 @@
     "lowest30d": true,
     "vendas": 1003,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP391739739-23694530565",
@@ -3141,7 +3117,7 @@
     "lowest30d": true,
     "vendas": 477,
     "publishedAt": "2026-11-14T01:35:27.341Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1363055219-47465815591",
@@ -3333,7 +3309,7 @@
     "lowest30d": true,
     "vendas": 2668,
     "publishedAt": "2026-11-10T14:35:19.275Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1620616375-58252248202",
@@ -3501,7 +3477,7 @@
     "lowest30d": false,
     "vendas": 708,
     "publishedAt": "2026-10-23T23:35:12.652Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1468415010-22899036423",
@@ -3621,7 +3597,7 @@
     "lowest30d": true,
     "vendas": 976,
     "publishedAt": "2026-11-18T21:05:16.939Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1331886707-19198316357",
@@ -3888,6 +3864,30 @@
     "checkedAt": "2026-11-27T14:05:15.443Z"
   },
   {
+    "id": "SP1397772996-29842873054",
+    "productId": "SP1397772996-29842873054",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:whey",
+    "categoria": "Esportes",
+    "title": "FTW Whey Protein Concentrado 1kg Refil - 15g Proteína Por Dose",
+    "price": 78.9,
+    "originalPrice": 197.25,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
+    "url": "https://s.shopee.com.br/30ps92LEzo",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1552,
+    "publishedAt": "2026-11-27T03:05:14.749Z",
+    "checkedAt": "2026-11-27T16:35:22.451Z"
+  },
+  {
     "id": "SP337287596-28090542009",
     "productId": "SP337287596-28090542009",
     "marketplace": "shopee",
@@ -3981,7 +3981,7 @@
     "lowest30d": false,
     "vendas": 101,
     "publishedAt": "2026-11-22T18:29:02.395Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1319830745-58268225112",
@@ -4077,7 +4077,7 @@
     "lowest30d": false,
     "vendas": 2075,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1451743836-20998028416",
@@ -4389,7 +4389,7 @@
     "lowest30d": false,
     "vendas": 427,
     "publishedAt": "2026-11-11T12:35:16.447Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP696313634-23592487207",
@@ -4629,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 635,
     "publishedAt": "2026-11-24T12:05:18.912Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP753139334-23494438971",
@@ -5109,7 +5109,7 @@
     "lowest30d": true,
     "vendas": 884,
     "publishedAt": "2026-11-18T14:35:17.599Z",
-    "checkedAt": "2026-11-27T13:05:14.910Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP406894684-19699704487",
@@ -6517,7 +6517,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-    "url": "https://s.shopee.com.br/6q2ZXiJCEf",
+    "url": "https://s.shopee.com.br/40iQSj0wdw",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -6525,7 +6525,7 @@
     "lowest30d": true,
     "vendas": 2353,
     "publishedAt": "2026-11-12T20:35:16.025Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP450664666-18978598136",
@@ -6597,7 +6597,7 @@
     "lowest30d": true,
     "vendas": 4378,
     "publishedAt": "2026-11-11T19:35:12.667Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP409329996-22291628478",
@@ -6669,7 +6669,7 @@
     "lowest30d": true,
     "vendas": 3114,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP504754787-23793169776",
@@ -8469,7 +8469,7 @@
     "lowest30d": false,
     "vendas": 353,
     "publishedAt": "2026-11-01T13:05:14.704Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1043771437-58259669449",
@@ -8517,7 +8517,7 @@
     "lowest30d": true,
     "vendas": 807,
     "publishedAt": "2026-10-29T17:35:14.753Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1494273370-58215733484",
@@ -8541,7 +8541,7 @@
     "lowest30d": true,
     "vendas": 318,
     "publishedAt": "2026-09-28T23:35:18.557Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1187975388-18297808572",
@@ -8877,7 +8877,7 @@
     "lowest30d": true,
     "vendas": 611,
     "publishedAt": "2026-09-29T13:35:15.759Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP777798362-43461643565",
@@ -9189,7 +9189,7 @@
     "lowest30d": false,
     "vendas": 1423,
     "publishedAt": "2026-10-02T13:49:41.861Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -9285,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 438,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1735575008-58205886633",
@@ -9430,30 +9430,6 @@
     "vendas": 853,
     "publishedAt": "2026-10-10T20:05:13.601Z",
     "checkedAt": "2026-11-27T16:05:29.387Z"
-  },
-  {
-    "id": "SP1552402777-53602161553",
-    "productId": "SP1552402777-53602161553",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:perfume",
-    "categoria": "Beleza",
-    "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-    "price": 41.85,
-    "originalPrice": 130.78,
-    "discount": 68,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
-    "url": "https://s.shopee.com.br/1qdtavAsJp",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 730,
-    "publishedAt": "2026-09-23T22:15:45.856Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
   },
   {
     "id": "SP1257628820-29200230546",
@@ -9669,7 +9645,7 @@
     "lowest30d": false,
     "vendas": 10560,
     "publishedAt": "2026-10-25T12:35:16.896Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1545195730-58254948793",
@@ -9717,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 746,
     "publishedAt": "2026-10-24T13:17:49.617Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1545195730-58253714822",
@@ -10029,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 190,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1404108062-22999371257",
@@ -10224,6 +10200,30 @@
     "checkedAt": "2026-11-27T14:05:15.443Z"
   },
   {
+    "id": "SP1552402777-53602161553",
+    "productId": "SP1552402777-53602161553",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:perfume",
+    "categoria": "Beleza",
+    "title": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
+    "price": 43.85,
+    "originalPrice": 128.97,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
+    "url": "https://s.shopee.com.br/1qdtavAsJp",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 730,
+    "publishedAt": "2026-09-23T22:15:45.856Z",
+    "checkedAt": "2026-11-27T16:35:22.451Z"
+  },
+  {
     "id": "SP1339412998-27035836352",
     "productId": "SP1339412998-27035836352",
     "marketplace": "shopee",
@@ -10293,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 280,
     "publishedAt": "2026-10-10T02:19:45.697Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1392831928-22594160172",
@@ -10302,8 +10302,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
-    "price": 33.69,
-    "originalPrice": 99.09,
+    "price": 33.99,
+    "originalPrice": 99.97,
     "discount": 66,
     "base": "vendedor",
     "averagePrice": null,
@@ -10314,10 +10314,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 329,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1620496963-23598879635",
@@ -10341,7 +10341,7 @@
     "lowest30d": true,
     "vendas": 127,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1634545368-23194887722",
@@ -10365,7 +10365,7 @@
     "lowest30d": true,
     "vendas": 132,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1404748748-22298939116",
@@ -10389,7 +10389,7 @@
     "lowest30d": true,
     "vendas": 847,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1157995564-23398026212",
@@ -10557,7 +10557,7 @@
     "lowest30d": false,
     "vendas": 1381,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP758867324-58268254332",
@@ -10581,7 +10581,7 @@
     "lowest30d": true,
     "vendas": 1946,
     "publishedAt": "2026-10-27T13:35:14.823Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP413762733-22992647539",
@@ -11157,7 +11157,7 @@
     "lowest30d": true,
     "vendas": 603,
     "publishedAt": "2026-10-31T19:35:14.295Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1541590567-23399163578",
@@ -11277,7 +11277,7 @@
     "lowest30d": true,
     "vendas": 4901,
     "publishedAt": "2026-10-14T08:05:17.071Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1209650911-22394645339",
@@ -11349,7 +11349,7 @@
     "lowest30d": false,
     "vendas": 535,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -11565,7 +11565,7 @@
     "lowest30d": true,
     "vendas": 842,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1314013169-22898807249",
@@ -11853,7 +11853,7 @@
     "lowest30d": false,
     "vendas": 1944,
     "publishedAt": "2026-09-24T03:05:19.247Z",
-    "checkedAt": "2026-11-27T12:35:19.367Z"
+    "checkedAt": "2026-11-27T16:35:22.451Z"
   },
   {
     "id": "SP1193388723-55806745399",
