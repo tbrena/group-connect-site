@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "PRECINHOBLACK"
+    ],
+    "desconto": "R$ 300 OFF",
+    "limite": null,
+    "minimo": "R$ 1999",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17982",
+    "quando": "2026-11-27T13:02:18+00:00",
+    "id": "ml:PRECINHOBLACK",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "HORABLACK"
+    ],
+    "desconto": "20% OFF",
+    "limite": null,
+    "minimo": "R$ 79",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17981",
+    "quando": "2026-11-27T13:02:13+00:00",
+    "id": "ml:HORABLACK",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIO7N",
       "K4RMELI",
       "MELI1CL",
@@ -845,20 +873,6 @@
     "origem": "avidaefeitadedesconto/17838",
     "quando": "2026-11-26T13:15:49+00:00",
     "id": "ml:ELSEVENOMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "PROMOAGORA"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17837",
-    "quando": "2026-11-26T13:00:19+00:00",
-    "id": "ml:PROMOAGORA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
