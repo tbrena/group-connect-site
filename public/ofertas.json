@@ -237,7 +237,7 @@
     "lowest30d": true,
     "vendas": 1077,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP717396632-20997608223",
@@ -261,7 +261,7 @@
     "lowest30d": true,
     "vendas": 3638,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -621,7 +621,7 @@
     "lowest30d": false,
     "vendas": 4102,
     "publishedAt": "2026-11-24T03:35:17.900Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1635325604-46709325611",
@@ -1200,30 +1200,6 @@
     "checkedAt": "2026-11-27T12:35:19.367Z"
   },
   {
-    "id": "SP1187975388-20899215101",
-    "productId": "SP1187975388-20899215101",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
-    "price": 30.9,
-    "originalPrice": 90.88,
-    "discount": 66,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
-    "url": "https://s.shopee.com.br/2gD0aIXoF3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1607,
-    "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
-  },
-  {
     "id": "SP1398191070-29028867072",
     "productId": "SP1398191070-29028867072",
     "marketplace": "shopee",
@@ -1245,7 +1221,7 @@
     "lowest30d": true,
     "vendas": 10054,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1209650911-22693741525",
@@ -1437,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 1276,
     "publishedAt": "2026-11-23T20:35:17.128Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "MLB6968033626",
@@ -1485,7 +1461,7 @@
     "lowest30d": true,
     "vendas": 1299,
     "publishedAt": "2026-10-23T17:35:13.764Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -1653,7 +1629,7 @@
     "lowest30d": false,
     "vendas": 305,
     "publishedAt": "2026-11-04T20:35:14.814Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1203451725-22097436494",
@@ -2205,7 +2181,7 @@
     "lowest30d": false,
     "vendas": 2448,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1725099888-58255989668",
@@ -2373,7 +2349,7 @@
     "lowest30d": false,
     "vendas": 542,
     "publishedAt": "2026-09-26T13:05:16.077Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1272600089-18597998986",
@@ -2469,7 +2445,31 @@
     "lowest30d": true,
     "vendas": 330,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
+  },
+  {
+    "id": "SP1187975388-20899215101",
+    "productId": "SP1187975388-20899215101",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica infantil  com canudo e alça 500/520ml Copo em aço inox --1330",
+    "price": 32.9,
+    "originalPrice": 88.92,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe1i1en48owa2",
+    "url": "https://s.shopee.com.br/2gD0aIXoF3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1607,
+    "publishedAt": "2026-09-28T02:35:16.754Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP457864097-42363772189",
@@ -2565,7 +2565,7 @@
     "lowest30d": true,
     "vendas": 3526,
     "publishedAt": "2026-10-25T12:05:12.250Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1420392453-23198072057",
@@ -2901,7 +2901,7 @@
     "lowest30d": true,
     "vendas": 2515,
     "publishedAt": "2026-11-13T23:52:04.770Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1860098702-23099869803",
@@ -3045,7 +3045,7 @@
     "lowest30d": false,
     "vendas": 575,
     "publishedAt": "2026-11-08T14:05:13.288Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1060793149-21999248147",
@@ -3477,7 +3477,7 @@
     "lowest30d": true,
     "vendas": 364,
     "publishedAt": "2026-11-06T14:35:14.401Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1553811678-20799892548",
@@ -3525,7 +3525,7 @@
     "lowest30d": true,
     "vendas": 1263,
     "publishedAt": "2026-11-27T04:35:17.722Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP983645094-57113764077",
@@ -3552,30 +3552,6 @@
     "checkedAt": "2026-11-27T14:05:15.443Z"
   },
   {
-    "id": "SP706961933-29392573808",
-    "productId": "SP706961933-29392573808",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Whiskas Sachê 85g – 16 Unid +4 Grátis Leve 20",
-    "price": 30.9,
-    "originalPrice": 79.23,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911",
-    "url": "https://s.shopee.com.br/W8W0P41Z2",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 14550,
-    "publishedAt": "2026-11-27T01:35:18.648Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
-  },
-  {
     "id": "SP1510947962-28040999242",
     "productId": "SP1510947962-28040999242",
     "marketplace": "shopee",
@@ -3597,7 +3573,7 @@
     "lowest30d": true,
     "vendas": 1284,
     "publishedAt": "2026-11-22T21:05:16.867Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1600125401-22194351604",
@@ -3621,7 +3597,7 @@
     "lowest30d": true,
     "vendas": 715,
     "publishedAt": "2026-11-22T21:05:16.867Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1902202933-58220416461",
@@ -3861,7 +3837,7 @@
     "lowest30d": true,
     "vendas": 1491,
     "publishedAt": "2026-11-27T04:35:17.722Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1710931672-22894940096",
@@ -4029,7 +4005,7 @@
     "lowest30d": true,
     "vendas": 1583,
     "publishedAt": "2026-11-19T01:35:14.226Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1641027419-22094490890",
@@ -4221,7 +4197,7 @@
     "lowest30d": true,
     "vendas": 224,
     "publishedAt": "2026-11-07T22:35:13.551Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1378212279-18199766258",
@@ -4269,7 +4245,7 @@
     "lowest30d": true,
     "vendas": 442,
     "publishedAt": "2026-11-17T02:26:36.085Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1264719671-22398354191",
@@ -4293,7 +4269,7 @@
     "lowest30d": true,
     "vendas": 1044,
     "publishedAt": "2026-11-27T04:35:17.722Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1541348350-19098205730",
@@ -4437,7 +4413,7 @@
     "lowest30d": true,
     "vendas": 1874,
     "publishedAt": "2026-11-01T23:35:16.616Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1114645438-23097741874",
@@ -4533,7 +4509,7 @@
     "lowest30d": false,
     "vendas": 980,
     "publishedAt": "2026-11-11T14:35:21.151Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP410705973-23792788692",
@@ -4608,30 +4584,6 @@
     "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
-    "id": "SP1441157744-40815571485",
-    "productId": "SP1441157744-40815571485",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "CRONOGRAMA CAPILAR 5 EM 1 TEIA PASSO ÚNICO - H.N.R.R.P - FINA MARIA",
-    "price": 33.99,
-    "originalPrice": 79.05,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
-    "url": "https://s.shopee.com.br/4qHVKVgAjP",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 14209,
-    "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
-  },
-  {
     "id": "SP1441157744-25946709329",
     "productId": "SP1441157744-25946709329",
     "marketplace": "shopee",
@@ -4701,6 +4653,30 @@
     "lowest30d": false,
     "vendas": 424,
     "publishedAt": "2026-11-11T03:05:13.959Z",
+    "checkedAt": "2026-11-27T13:35:21.675Z"
+  },
+  {
+    "id": "SP1926490670-58267468674",
+    "productId": "SP1926490670-58267468674",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
+    "price": 42.99,
+    "originalPrice": 99.98,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
+    "url": "https://s.shopee.com.br/8VAndBkPjG",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 6561,
+    "publishedAt": "2026-11-04T12:35:14.394Z",
     "checkedAt": "2026-11-27T13:35:21.675Z"
   },
   {
@@ -4893,7 +4869,7 @@
     "lowest30d": true,
     "vendas": 2259,
     "publishedAt": "2026-11-26T15:35:19.150Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1690167301-58269937234",
@@ -4965,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 10522,
     "publishedAt": "2026-11-22T04:35:15.356Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1707934142-58222440201",
@@ -5109,7 +5085,7 @@
     "lowest30d": false,
     "vendas": 642,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP328666563-58203053079",
@@ -5157,7 +5133,7 @@
     "lowest30d": true,
     "vendas": 1798,
     "publishedAt": "2026-11-06T11:36:51.093Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1883939804-40883119882",
@@ -5232,6 +5208,30 @@
     "checkedAt": "2026-11-27T13:05:14.910Z"
   },
   {
+    "id": "SP406894684-19699704487",
+    "productId": "SP406894684-19699704487",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:brinquedo",
+    "categoria": "Brinquedos",
+    "title": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+    "price": 189.99,
+    "originalPrice": 413.02,
+    "discount": 54,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+    "url": "https://s.shopee.com.br/1gKTQIv9LL",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2517,
+    "publishedAt": "2026-11-07T03:12:06.913Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
+  },
+  {
     "id": "SP1566977006-58202231060",
     "productId": "SP1566977006-58202231060",
     "marketplace": "shopee",
@@ -5253,7 +5253,7 @@
     "lowest30d": true,
     "vendas": 1320,
     "publishedAt": "2026-11-12T11:05:16.092Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1083951020-22092880647",
@@ -5269,7 +5269,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/sg-11134201-8258l-mut5rgicqz2839",
-    "url": "https://s.shopee.com.br/4VeenkrVGo",
+    "url": "https://s.shopee.com.br/AAJ3iLSt87",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -5277,7 +5277,7 @@
     "lowest30d": true,
     "vendas": 3793,
     "publishedAt": "2026-11-05T14:05:29.764Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP898761179-55468658052",
@@ -5397,7 +5397,7 @@
     "lowest30d": false,
     "vendas": 352,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "MLB3793237586",
@@ -6024,6 +6024,30 @@
     "checkedAt": "2026-11-27T12:05:16.377Z"
   },
   {
+    "id": "SP1441157744-40815571485",
+    "productId": "SP1441157744-40815571485",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "CRONOGRAMA CAPILAR 5 EM 1 TEIA PASSO ÚNICO - H.N.R.R.P - FINA MARIA",
+    "price": 39.9,
+    "originalPrice": 79.8,
+    "discount": 50,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr1yspqi0ow563",
+    "url": "https://s.shopee.com.br/4qHVKVgAjP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 14209,
+    "publishedAt": "2026-11-12T03:35:22.093Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
+  },
+  {
     "id": "SP387523771-43981426348",
     "productId": "SP387523771-43981426348",
     "marketplace": "shopee",
@@ -6540,7 +6564,7 @@
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mw0wb8eyr8xu5f",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mw1gnmexwirma8",
     "url": "https://s.shopee.com.br/1qdvkbtD19",
     "freeShipping": false,
     "oficial": false,
@@ -6549,7 +6573,7 @@
     "lowest30d": false,
     "vendas": 1094,
     "publishedAt": "2026-11-27T04:35:17.722Z",
-    "checkedAt": "2026-11-27T11:35:15.537Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -7365,31 +7389,7 @@
     "lowest30d": true,
     "vendas": 3772,
     "publishedAt": "2026-11-13T21:35:22.359Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
-  },
-  {
-    "id": "SP457864097-25293647491",
-    "productId": "SP457864097-25293647491",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:skincare",
-    "categoria": "Beleza",
-    "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-    "price": 131.92,
-    "originalPrice": 219.87,
-    "discount": 40,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
-    "url": "https://s.shopee.com.br/1CFXjt6c3",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 15827,
-    "publishedAt": "2026-11-04T00:05:16.817Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7413,7 +7413,7 @@
     "lowest30d": false,
     "vendas": 2604,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1296642221-23797969162",
@@ -7533,7 +7533,7 @@
     "lowest30d": true,
     "vendas": 1728,
     "publishedAt": "2026-11-06T13:05:12.554Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1112267847-22197710101",
@@ -7557,7 +7557,7 @@
     "lowest30d": true,
     "vendas": 540,
     "publishedAt": "2026-11-24T01:35:18.515Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP805674361-23993804201",
@@ -7581,7 +7581,31 @@
     "lowest30d": true,
     "vendas": 1501,
     "publishedAt": "2026-11-14T05:35:13.911Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
+  },
+  {
+    "id": "SP457864097-25293647491",
+    "productId": "SP457864097-25293647491",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:skincare",
+    "categoria": "Beleza",
+    "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+    "price": 136.5,
+    "originalPrice": 220.16,
+    "discount": 38,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
+    "url": "https://s.shopee.com.br/1CFXjt6c3",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 15827,
+    "publishedAt": "2026-11-04T00:05:16.817Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "MLB4803658086",
@@ -7677,7 +7701,7 @@
     "lowest30d": true,
     "vendas": 862,
     "publishedAt": "2026-11-04T20:05:15.035Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1861366520-58214711664",
@@ -7789,7 +7813,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
-    "url": "https://s.shopee.com.br/1Lhczbe8O7",
+    "url": "https://s.shopee.com.br/8fUG1IjBAO",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7797,7 +7821,7 @@
     "lowest30d": false,
     "vendas": 3912,
     "publishedAt": "2026-11-12T06:35:12.669Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP833912634-23393083819",
@@ -7894,30 +7918,6 @@
     "vendas": 929,
     "publishedAt": "2026-11-18T17:35:13.857Z",
     "checkedAt": "2026-11-27T12:05:16.377Z"
-  },
-  {
-    "id": "SP406894684-19699704487",
-    "productId": "SP406894684-19699704487",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:brinquedo",
-    "categoria": "Brinquedos",
-    "title": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-    "price": 199.99,
-    "originalPrice": 298.49,
-    "discount": 33,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-    "url": "https://s.shopee.com.br/1gKTQIv9LL",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2517,
-    "publishedAt": "2026-11-07T03:12:06.913Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
   },
   {
     "id": "SP1575539765-52411189975",
@@ -8493,7 +8493,7 @@
     "lowest30d": true,
     "vendas": 231,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1573558445-44307948736",
@@ -8781,31 +8781,7 @@
     "lowest30d": true,
     "vendas": 4444,
     "publishedAt": "2026-11-04T01:05:12.618Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
-  },
-  {
-    "id": "SP935729147-22298450798",
-    "productId": "SP935729147-22298450798",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
-    "price": 39.99,
-    "originalPrice": 129,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
-    "url": "https://s.shopee.com.br/AKcRiOHkmR",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1176,
-    "publishedAt": "2026-10-01T13:05:18.343Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1654822470-22799185652",
@@ -8829,7 +8805,7 @@
     "lowest30d": true,
     "vendas": 200,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1833219313-22095210353",
@@ -8853,7 +8829,7 @@
     "lowest30d": true,
     "vendas": 325,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1557539807-58204570395",
@@ -9093,7 +9069,7 @@
     "lowest30d": true,
     "vendas": 618,
     "publishedAt": "2026-10-19T17:28:35.453Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP952371980-22593111157",
@@ -9141,7 +9117,7 @@
     "lowest30d": true,
     "vendas": 332,
     "publishedAt": "2026-10-07T11:05:13.800Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1468415010-58201942490",
@@ -9165,31 +9141,7 @@
     "lowest30d": true,
     "vendas": 564,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
-  },
-  {
-    "id": "SP508140700-58254276340",
-    "productId": "SP508140700-58254276340",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Watersy Garrafa Térmica 500ml Inox 304 Quente/Frio com Alça - Ideal para Esportes e Escola",
-    "price": 30.6,
-    "originalPrice": 98.71,
-    "discount": 69,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mvhbkhvclu68c8",
-    "url": "https://s.shopee.com.br/8fUDrh3m5d",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 727,
-    "publishedAt": "2026-10-29T23:16:03.870Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1673514861-58252475087",
@@ -9238,6 +9190,30 @@
     "vendas": 1423,
     "publishedAt": "2026-10-02T13:49:41.861Z",
     "checkedAt": "2026-11-27T12:35:19.367Z"
+  },
+  {
+    "id": "SP935729147-22298450798",
+    "productId": "SP935729147-22298450798",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Jarra Garrafa ❄️Térmica🔥 Unitermi Pávia 2,5L  Chá Café☕ Suco🥤 Água 💧Tererê Bebidas Frias ou Quentes",
+    "price": 40.99,
+    "originalPrice": 128.09,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrlnp5y1l3wmf6",
+    "url": "https://s.shopee.com.br/AKcRiOHkmR",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1176,
+    "publishedAt": "2026-10-01T13:05:18.343Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP771750144-20797868953",
@@ -10485,7 +10461,7 @@
     "lowest30d": true,
     "vendas": 299,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 514,
     "publishedAt": "2026-10-05T06:59:31.081Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1136572611-50362394762",
@@ -10750,6 +10726,30 @@
     "vendas": 1655,
     "publishedAt": "2026-10-28T15:35:28.135Z",
     "checkedAt": "2026-11-27T12:05:16.377Z"
+  },
+  {
+    "id": "SP508140700-58254276340",
+    "productId": "SP508140700-58254276340",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Watersy Garrafa Térmica 500ml Inox 304 Quente/Frio com Alça - Ideal para Esportes e Escola",
+    "price": 34.99,
+    "originalPrice": 99.97,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mvhbkhvclu68c8",
+    "url": "https://s.shopee.com.br/8fUDrh3m5d",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 727,
+    "publishedAt": "2026-10-29T23:16:03.870Z",
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP696313634-20699832545",
@@ -11061,7 +11061,7 @@
     "lowest30d": true,
     "vendas": 619,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1643589827-58259648766",
@@ -11109,7 +11109,7 @@
     "lowest30d": true,
     "vendas": 233,
     "publishedAt": "2026-10-29T00:24:09.917Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP441005685-54401956392",
@@ -11181,7 +11181,7 @@
     "lowest30d": true,
     "vendas": 1542,
     "publishedAt": "2026-11-01T23:05:15.005Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1924699036-58270758042",
@@ -11421,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 1023,
     "publishedAt": "2026-10-23T19:05:15.508Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1339888238-23394402377",
@@ -11565,7 +11565,7 @@
     "lowest30d": false,
     "vendas": 576,
     "publishedAt": "2026-09-28T02:35:16.754Z",
-    "checkedAt": "2026-11-27T11:05:15.983Z"
+    "checkedAt": "2026-11-27T14:35:24.428Z"
   },
   {
     "id": "SP1735687593-58257435049",
@@ -11974,29 +11974,5 @@
     "vendas": null,
     "publishedAt": "2026-10-20T21:05:27.623Z",
     "checkedAt": "2026-11-23T17:05:15.580Z"
-  },
-  {
-    "id": "SP1926490670-58267468674",
-    "productId": "SP1926490670-58267468674",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "3M Bivolt 110V–220V Cortina de Luz Natal Estrela 5 Pontas, Pisca-pisca LED, Quintal KL-511",
-    "price": 42.99,
-    "originalPrice": 99.98,
-    "discount": 57,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msnpda76ji100f",
-    "url": "https://s.shopee.com.br/8VAndBkPjG",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 6561,
-    "publishedAt": "2026-11-04T12:35:14.394Z",
-    "checkedAt": "2026-11-27T13:35:21.675Z"
   }
 ]
