@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "MADRUXPTMANA"
+    ],
+    "desconto": "R$ 1.200 OFF",
+    "limite": null,
+    "minimo": "R$ 4000",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17964",
+    "quando": "2026-11-27T10:09:23+00:00",
+    "id": "ml:MADRUXPTMANA",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "ELETRO300"
     ],
     "desconto": null,
@@ -827,20 +841,6 @@
     "origem": "avidaefeitadedesconto/17823",
     "quando": "2026-11-26T11:02:02+00:00",
     "id": "ml:ENERGIAMELI",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VIPTECH"
-    ],
-    "desconto": "12% OFF",
-    "limite": "R$ 250",
-    "minimo": "R$ 1499",
-    "escopo": "Tecnologia e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/17822",
-    "quando": "2026-11-26T10:13:10+00:00",
-    "id": "ml:VIPTECH",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
