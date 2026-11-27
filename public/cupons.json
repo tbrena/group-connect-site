@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "DESCONTO199"
+    ],
+    "desconto": "R$ 199 OFF",
+    "limite": null,
+    "minimo": "R$ 999",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17996",
+    "quando": "2026-11-27T15:18:48+00:00",
+    "id": "ml:DESCONTO199",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "BLACKVIPMELI"
     ],
     "desconto": "25% OFF",
@@ -815,22 +829,6 @@
     "origem": "avidaefeitadedesconto/17856",
     "quando": "2026-11-26T16:01:49+00:00",
     "id": "ml:PROMOTOP",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "1BAMELI",
-      "MELIEI8",
-      "B6HMELI"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17854",
-    "quando": "2026-11-26T15:09:30+00:00",
-    "id": "ml:1BAMELI+MELIEI8+B6HMELI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
