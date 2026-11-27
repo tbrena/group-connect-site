@@ -93,7 +93,7 @@
     "lowest30d": true,
     "vendas": 717,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T03:05:14.749Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1235950339-22799420315",
@@ -141,7 +141,7 @@
     "lowest30d": true,
     "vendas": 897,
     "publishedAt": "2026-11-23T14:35:16.113Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -165,7 +165,7 @@
     "lowest30d": true,
     "vendas": 2570,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T03:05:14.749Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -693,7 +693,31 @@
     "lowest30d": false,
     "vendas": 3471,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
+    "id": "SP720952207-23092879057",
+    "productId": "SP720952207-23092879057",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Triturador Inox  Processador De Alimentos Carne e Legumes Multiprocessador Elétrico",
+    "price": 62.99,
+    "originalPrice": 196.84,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6764e92l8wgc4",
+    "url": "https://s.shopee.com.br/2BGk1XPa5k",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 990,
+    "publishedAt": "2026-11-16T12:35:13.210Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1169146045-20799757649",
@@ -741,7 +765,7 @@
     "lowest30d": false,
     "vendas": 5990,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1593878986-58251903986",
@@ -957,7 +981,7 @@
     "lowest30d": false,
     "vendas": 700,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1345043704-22497773735",
@@ -1149,7 +1173,7 @@
     "lowest30d": true,
     "vendas": 1766,
     "publishedAt": "2026-11-06T06:05:19.656Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -1824,30 +1848,6 @@
     "checkedAt": "2026-11-27T03:05:14.749Z"
   },
   {
-    "id": "SP720952207-23092879057",
-    "productId": "SP720952207-23092879057",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Triturador Inox  Processador De Alimentos Carne e Legumes Multiprocessador Elétrico",
-    "price": 69.99,
-    "originalPrice": 199.97,
-    "discount": 65,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6764e92l8wgc4",
-    "url": "https://s.shopee.com.br/2BGk1XPa5k",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 990,
-    "publishedAt": "2026-11-16T12:35:13.210Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
     "id": "MLB6162191874",
     "productId": "MLB64244402",
     "marketplace": "ml",
@@ -2133,7 +2133,7 @@
     "lowest30d": true,
     "vendas": 1604,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -2472,6 +2472,30 @@
     "checkedAt": "2026-11-27T03:35:15.222Z"
   },
   {
+    "id": "SP1448484843-22294173900",
+    "productId": "SP1448484843-22294173900",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa Multifuncional em Nylon - Impermeável, Resistente e Estilosa para Viagens e Dia a Dia",
+    "price": 36.76,
+    "originalPrice": 99.35,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv8rcc6tkowb1",
+    "url": "https://s.shopee.com.br/5qA2OBE2xs",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1153,
+    "publishedAt": "2026-09-27T19:05:14.084Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
     "id": "SP325008325-21071530577",
     "productId": "SP325008325-21071530577",
     "marketplace": "shopee",
@@ -2518,6 +2542,30 @@
     "vendas": 3526,
     "publishedAt": "2026-10-25T12:05:12.250Z",
     "checkedAt": "2026-11-27T04:35:17.722Z"
+  },
+  {
+    "id": "SP1420392453-23198072057",
+    "productId": "SP1420392453-23198072057",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
+    "price": 36.78,
+    "originalPrice": 99.41,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
+    "url": "https://s.shopee.com.br/4qHVAIcHty",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3095,
+    "publishedAt": "2026-09-24T10:05:16.579Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1398610040-58253687690",
@@ -2637,7 +2685,7 @@
     "lowest30d": false,
     "vendas": 5395,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -2904,6 +2952,30 @@
     "checkedAt": "2026-11-27T03:05:14.749Z"
   },
   {
+    "id": "SP391739739-23694530565",
+    "productId": "SP391739739-23694530565",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:mouse",
+    "categoria": "Informática",
+    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
+    "price": 554.39,
+    "originalPrice": 1498.35,
+    "discount": 63,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
+    "url": "https://s.shopee.com.br/7AfPwVDTwr",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1439,
+    "publishedAt": "2026-11-11T05:05:15.505Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
     "id": "SP787370863-22692818490",
     "productId": "SP787370863-22692818490",
     "marketplace": "shopee",
@@ -3048,30 +3120,6 @@
     "checkedAt": "2026-11-27T03:05:14.749Z"
   },
   {
-    "id": "SP1448484843-22294173900",
-    "productId": "SP1448484843-22294173900",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa Multifuncional em Nylon - Impermeável, Resistente e Estilosa para Viagens e Dia a Dia",
-    "price": 37.57,
-    "originalPrice": 98.87,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdv8rcc6tkowb1",
-    "url": "https://s.shopee.com.br/5qA2OBE2xs",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1153,
-    "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
     "id": "SP1363055219-47465815591",
     "productId": "SP1363055219-47465815591",
     "marketplace": "shopee",
@@ -3144,30 +3192,6 @@
     "checkedAt": "2026-11-23T17:05:15.580Z"
   },
   {
-    "id": "SP1420392453-23198072057",
-    "productId": "SP1420392453-23198072057",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "price": 37.59,
-    "originalPrice": 98.92,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
-    "url": "https://s.shopee.com.br/4qHVAIcHty",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 3095,
-    "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
     "id": "SP1534000949-58252076983",
     "productId": "SP1534000949-58252076983",
     "marketplace": "shopee",
@@ -3237,7 +3261,7 @@
     "lowest30d": true,
     "vendas": 1154,
     "publishedAt": "2026-11-17T15:05:13.842Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP762383390-22597172030",
@@ -3333,7 +3357,7 @@
     "lowest30d": false,
     "vendas": 587,
     "publishedAt": "2026-11-13T00:35:15.642Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -3669,7 +3693,7 @@
     "lowest30d": true,
     "vendas": 681,
     "publishedAt": "2026-11-12T00:59:23.420Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1630928956-18598350302",
@@ -3696,28 +3720,28 @@
     "checkedAt": "2026-11-27T03:35:15.222Z"
   },
   {
-    "id": "SP408653169-46360468172",
-    "productId": "SP408653169-46360468172",
+    "id": "SP1619145136-23694425028",
+    "productId": "SP1619145136-23694425028",
     "marketplace": "shopee",
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
-    "title": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+    "title": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
     "price": 38.99,
     "originalPrice": 99.97,
     "discount": 61,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mvxm7h21pp1f23",
-    "url": "https://s.shopee.com.br/gRwCbocy6",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+    "url": "https://s.shopee.com.br/AUvrugDC0r",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 7902,
+    "vendas": 10564,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "MLB4473399041",
@@ -3933,7 +3957,7 @@
     "lowest30d": false,
     "vendas": 786,
     "publishedAt": "2026-11-22T22:35:14.998Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP832040275-23496484357",
@@ -4005,7 +4029,7 @@
     "lowest30d": false,
     "vendas": 2833,
     "publishedAt": "2026-11-12T01:05:15.445Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1350045638-55666184367",
@@ -4077,7 +4101,7 @@
     "lowest30d": false,
     "vendas": 1985,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1594568364-58264681920",
@@ -4128,28 +4152,28 @@
     "checkedAt": "2026-11-27T03:35:15.222Z"
   },
   {
-    "id": "SP1619145136-23694425028",
-    "productId": "SP1619145136-23694425028",
+    "id": "SP408653169-46360468172",
+    "productId": "SP408653169-46360468172",
     "marketplace": "shopee",
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
-    "title": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+    "title": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
     "price": 39.99,
     "originalPrice": 99.98,
     "discount": 60,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-    "url": "https://s.shopee.com.br/AUvrugDC0r",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mvxm7h21pp1f23",
+    "url": "https://s.shopee.com.br/gRwCbocy6",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": false,
-    "vendas": 10564,
+    "vendas": 7902,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1640288479-58217282345",
@@ -4392,30 +4416,6 @@
     "checkedAt": "2026-11-27T04:35:17.722Z"
   },
   {
-    "id": "SP391739739-23694530565",
-    "productId": "SP391739739-23694530565",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:mouse",
-    "categoria": "Informática",
-    "title": "Tablet 10.1” com Teclado+Mouse 6GB RAM 128GB Android 13 Câmera 50MP anjgg",
-    "price": 611.99,
-    "originalPrice": 1492.66,
-    "discount": 59,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821fe-mgy362sxj7ynf3",
-    "url": "https://s.shopee.com.br/7AfPwVDTwr",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1439,
-    "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
     "id": "SP1114645438-23097741874",
     "productId": "SP1114645438-23097741874",
     "marketplace": "shopee",
@@ -4557,7 +4557,7 @@
     "lowest30d": false,
     "vendas": 675,
     "publishedAt": "2026-11-20T08:35:14.509Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1126064857-20599370356",
@@ -4656,6 +4656,30 @@
     "checkedAt": "2026-11-27T05:05:25.413Z"
   },
   {
+    "id": "SP450664666-18978598136",
+    "productId": "SP450664666-18978598136",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Antipulgas E Carrapatos Nexgard Cão 10 A 25kg Com 1 Nex Gard",
+    "price": 62.39,
+    "originalPrice": 145.09,
+    "discount": 57,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7qven-lfr1uqjsbdl8fe",
+    "url": "https://s.shopee.com.br/9fMkvFijw8",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2558,
+    "publishedAt": "2026-11-11T04:35:12.631Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
     "id": "SP1491999374-23594308846",
     "productId": "SP1491999374-23594308846",
     "marketplace": "shopee",
@@ -4725,7 +4749,7 @@
     "lowest30d": true,
     "vendas": 2205,
     "publishedAt": "2026-11-24T21:35:18.782Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -5037,7 +5061,7 @@
     "lowest30d": true,
     "vendas": 371,
     "publishedAt": "2026-11-17T18:35:21.440Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1240652277-58266394932",
@@ -5325,7 +5349,7 @@
     "lowest30d": true,
     "vendas": 2313,
     "publishedAt": "2026-11-24T11:35:16.022Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1527388113-58258022876",
@@ -5421,7 +5445,7 @@
     "lowest30d": false,
     "vendas": 2282,
     "publishedAt": "2026-11-11T02:35:14.704Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP627750190-22997611303",
@@ -5568,6 +5592,30 @@
     "checkedAt": "2026-11-27T04:05:17.697Z"
   },
   {
+    "id": "SP1338454963-20899761631",
+    "productId": "SP1338454963-20899761631",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:carregador",
+    "categoria": "Celulares",
+    "title": "Inova Bateria Portátil Power Bank 20.000mah/10.000mah Universal carregador 22,5W Com Displaya Visor do nível da bateria",
+    "price": 107.91,
+    "originalPrice": 224.81,
+    "discount": 52,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-manzmd5jc0l56b",
+    "url": "https://s.shopee.com.br/7fbgXOunPP",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 3138,
+    "publishedAt": "2026-11-27T05:35:16.193Z",
+    "checkedAt": "2026-11-27T05:35:16.193Z"
+  },
+  {
     "id": "SP1468415010-49270125266",
     "productId": "SP1468415010-49270125266",
     "marketplace": "shopee",
@@ -5613,7 +5661,7 @@
     "lowest30d": true,
     "vendas": 1111,
     "publishedAt": "2026-11-25T07:35:21.260Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1501872703-58209823545",
@@ -5925,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 2437,
     "publishedAt": "2026-11-01T04:35:13.337Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1784744417-58211840201",
@@ -6165,7 +6213,7 @@
     "lowest30d": false,
     "vendas": 371,
     "publishedAt": "2026-11-21T23:13:07.069Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "MLB3360911233",
@@ -6261,7 +6309,7 @@
     "lowest30d": false,
     "vendas": 5384,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1343471577-23498303242",
@@ -6286,6 +6334,30 @@
     "vendas": 2916,
     "publishedAt": "2026-11-11T04:05:17.034Z",
     "checkedAt": "2026-11-27T03:35:15.222Z"
+  },
+  {
+    "id": "SP1448484843-20399869941",
+    "productId": "SP1448484843-20399869941",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:bolsa feminina",
+    "categoria": "Moda e Calçados",
+    "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+    "price": 30.87,
+    "originalPrice": 60.53,
+    "discount": 49,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
+    "url": "https://s.shopee.com.br/qlMOwrW1a",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2072,
+    "publishedAt": "2026-11-09T22:35:15.200Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1718568808-23699380722",
@@ -6429,7 +6501,7 @@
     "lowest30d": true,
     "vendas": 2235,
     "publishedAt": "2026-11-22T16:05:20.924Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1263132944-23393678294",
@@ -6504,54 +6576,6 @@
     "checkedAt": "2026-11-27T05:35:16.193Z"
   },
   {
-    "id": "SP450664666-18978598136",
-    "productId": "SP450664666-18978598136",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:pet",
-    "categoria": "Pet",
-    "title": "Antipulgas E Carrapatos Nexgard Cão 10 A 25kg Com 1 Nex Gard",
-    "price": 77.39,
-    "originalPrice": 146.02,
-    "discount": 47,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7qven-lfr1uqjsbdl8fe",
-    "url": "https://s.shopee.com.br/9fMkvFijw8",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2558,
-    "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
-    "id": "SP1448484843-20399869941",
-    "productId": "SP1448484843-20399869941",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:bolsa feminina",
-    "categoria": "Moda e Calçados",
-    "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
-    "price": 31.68,
-    "originalPrice": 59.77,
-    "discount": 47,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
-    "url": "https://s.shopee.com.br/qlMOwrW1a",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2072,
-    "publishedAt": "2026-11-09T22:35:15.200Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
-  },
-  {
     "id": "SP1558233660-58259414667",
     "productId": "SP1558233660-58259414667",
     "marketplace": "shopee",
@@ -6573,7 +6597,7 @@
     "lowest30d": true,
     "vendas": 4378,
     "publishedAt": "2026-11-11T19:35:12.667Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP409329996-22291628478",
@@ -6717,7 +6741,7 @@
     "lowest30d": true,
     "vendas": 2474,
     "publishedAt": "2026-11-19T18:05:15.122Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP427471230-58216012662",
@@ -6813,7 +6837,7 @@
     "lowest30d": false,
     "vendas": 2625,
     "publishedAt": "2026-11-14T03:35:27.473Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1737468986-58262847430",
@@ -6837,7 +6861,7 @@
     "lowest30d": true,
     "vendas": 422,
     "publishedAt": "2026-11-12T00:05:19.814Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "MLB7657977886",
@@ -6909,7 +6933,7 @@
     "lowest30d": true,
     "vendas": 357,
     "publishedAt": "2026-11-06T12:05:13.076Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1062544851-58201181466",
@@ -7149,7 +7173,7 @@
     "lowest30d": true,
     "vendas": 183,
     "publishedAt": "2026-11-25T11:35:16.261Z",
-    "checkedAt": "2026-11-27T05:35:16.193Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "MLB4702964270",
@@ -7197,7 +7221,7 @@
     "lowest30d": false,
     "vendas": 995,
     "publishedAt": "2026-11-10T06:35:11.945Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1365819178-23094699741",
@@ -7392,6 +7416,30 @@
     "checkedAt": "2026-11-27T04:05:17.697Z"
   },
   {
+    "id": "SP1296642221-23797969162",
+    "productId": "SP1296642221-23797969162",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "KIT10 Luminárias Spot Led 5w Branco Embutir Direcionável Teto 6500K 3000K UNIFY",
+    "price": 44.31,
+    "originalPrice": 72.64,
+    "discount": 39,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1elyn9kjaxuea",
+    "url": "https://s.shopee.com.br/8VAnZ4QMoj",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 1695,
+    "publishedAt": "2026-11-09T10:35:18.603Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
     "id": "SP1435211326-22498406171",
     "productId": "SP1435211326-22498406171",
     "marketplace": "shopee",
@@ -7462,30 +7510,6 @@
     "vendas": 1729,
     "publishedAt": "2026-11-12T21:35:14.759Z",
     "checkedAt": "2026-11-27T04:35:17.722Z"
-  },
-  {
-    "id": "SP1296642221-23797969162",
-    "productId": "SP1296642221-23797969162",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "KIT10 Luminárias Spot Led 5w Branco Embutir Direcionável Teto 6500K 3000K UNIFY",
-    "price": 44.31,
-    "originalPrice": 72.64,
-    "discount": 39,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1elyn9kjaxuea",
-    "url": "https://s.shopee.com.br/8VAnZ4QMoj",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 1695,
-    "publishedAt": "2026-11-09T10:35:18.603Z",
-    "checkedAt": "2026-11-27T05:35:16.193Z"
   },
   {
     "id": "SP1573559062-47702868379",
@@ -7918,30 +7942,6 @@
     "vendas": 638,
     "publishedAt": "2026-11-19T23:05:22.247Z",
     "checkedAt": "2026-11-27T04:35:17.722Z"
-  },
-  {
-    "id": "MLB3312152968",
-    "productId": "MLB17331957",
-    "marketplace": "ml",
-    "fonte": "MLB278123",
-    "categoria": "Mercado",
-    "title": "Whisky Johnnie Walker Red Label Blended Scotch 1 Litro Original",
-    "price": 99.39,
-    "originalPrice": 145,
-    "discount": 31,
-    "base": "media",
-    "averagePrice": 145,
-    "sellers": 12,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_968730-MLA114116802461_072026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-3312152968?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": true,
-    "loja": "Mercado Livre Brasil",
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-04T03:05:16.898Z",
-    "checkedAt": "2026-11-23T17:05:15.580Z"
   },
   {
     "id": "MLB4590134133",
@@ -8565,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 701,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 423,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 629,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8934,8 +8934,8 @@
     "fonte": "shopee:q:camiseta",
     "categoria": "Moda e Calçados",
     "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "price": 74.9,
-    "originalPrice": 241.61,
+    "price": 74.27,
+    "originalPrice": 239.58,
     "discount": 69,
     "base": "vendedor",
     "averagePrice": null,
@@ -8946,10 +8946,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 1898,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -9141,7 +9141,7 @@
     "lowest30d": false,
     "vendas": 798,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9216,6 +9216,30 @@
     "checkedAt": "2026-11-27T03:35:15.222Z"
   },
   {
+    "id": "SP1673514861-58252475087",
+    "productId": "SP1673514861-58252475087",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:luminaria",
+    "categoria": "Casa e Decoração",
+    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
+    "price": 149.4,
+    "originalPrice": 466.88,
+    "discount": 68,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
+    "url": "https://s.shopee.com.br/4fy5X8CKoE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 1290,
+    "publishedAt": "2026-11-01T22:05:18.952Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
+  },
+  {
     "id": "SP1763539024-58257809093",
     "productId": "SP1763539024-58257809093",
     "marketplace": "shopee",
@@ -9285,7 +9309,7 @@
     "lowest30d": true,
     "vendas": 215,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -9837,7 +9861,7 @@
     "lowest30d": true,
     "vendas": 789,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -9861,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 180,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9885,7 +9909,7 @@
     "lowest30d": true,
     "vendas": 325,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -9981,7 +10005,7 @@
     "lowest30d": true,
     "vendas": 135,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1738971782-22699530209",
@@ -10317,7 +10341,7 @@
     "lowest30d": false,
     "vendas": 254,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -10509,7 +10533,7 @@
     "lowest30d": true,
     "vendas": 157,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1136572611-53716575946",
@@ -10989,7 +11013,7 @@
     "lowest30d": true,
     "vendas": 753,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -11013,7 +11037,7 @@
     "lowest30d": true,
     "vendas": 1649,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -11277,7 +11301,7 @@
     "lowest30d": false,
     "vendas": 1066,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -11349,7 +11373,7 @@
     "lowest30d": true,
     "vendas": 587,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1511724455-43203256115",
@@ -11445,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 532,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -11637,7 +11661,7 @@
     "lowest30d": false,
     "vendas": 270,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -11877,7 +11901,7 @@
     "lowest30d": false,
     "vendas": 634,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-11-27T02:35:14.561Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -11925,31 +11949,7 @@
     "lowest30d": true,
     "vendas": 345,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T02:35:14.561Z"
-  },
-  {
-    "id": "SP1673514861-58252475087",
-    "productId": "SP1673514861-58252475087",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:luminaria",
-    "categoria": "Casa e Decoração",
-    "title": "Kit 2 Luz Solar Iluminação Externa Luminária Solar 2200W/2000W/1800W/1600W",
-    "price": 189,
-    "originalPrice": 484.62,
-    "discount": 61,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-msdt99c9rw1w8d",
-    "url": "https://s.shopee.com.br/4fy5X8CKoE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 1290,
-    "publishedAt": "2026-11-01T22:05:18.952Z",
-    "checkedAt": "2026-11-27T02:49:19.982Z"
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   },
   {
     "id": "MLB3332109715",
@@ -11976,27 +11976,27 @@
     "checkedAt": "2026-11-23T17:05:15.580Z"
   },
   {
-    "id": "SP1338454963-20899761631",
-    "productId": "SP1338454963-20899761631",
+    "id": "SP1571276714-23999439011",
+    "productId": "SP1571276714-23999439011",
     "marketplace": "shopee",
-    "fonte": "shopee:q:carregador",
-    "categoria": "Celulares",
-    "title": "Inova Bateria Portátil Power Bank 20.000mah/10.000mah Universal carregador 22,5W Com Displaya Visor do nível da bateria",
-    "price": 107.91,
-    "originalPrice": 224.81,
-    "discount": 52,
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
+    "price": 50,
+    "originalPrice": 100,
+    "discount": 50,
     "base": "vendedor",
     "averagePrice": null,
     "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-manzmd5jc0l56b",
-    "url": "https://s.shopee.com.br/7fbgXOunPP",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
+    "url": "https://s.shopee.com.br/5fqc9tkM5e",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
     "lowest30d": true,
-    "vendas": 3138,
-    "publishedAt": "2026-11-27T05:35:16.193Z",
-    "checkedAt": "2026-11-27T05:35:16.193Z"
+    "vendas": 3952,
+    "publishedAt": "2026-11-27T06:05:17.157Z",
+    "checkedAt": "2026-11-27T06:05:17.157Z"
   }
 ]
