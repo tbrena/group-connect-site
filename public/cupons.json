@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "BLACKVIP"
+    ],
+    "desconto": "18% OFF",
+    "limite": null,
+    "minimo": "R$ 599",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18036",
+    "quando": "2026-11-27T21:00:23+00:00",
+    "id": "ml:BLACKVIP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MODARELAMPAGO"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Moda e Acessórios",
+    "origem": "avidaefeitadedesconto/18035",
+    "quando": "2026-11-27T20:58:29+00:00",
+    "id": "ml:MODARELAMPAGO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "AUTOMELI45"
     ],
     "desconto": "45% OFF",
@@ -803,20 +831,6 @@
     "origem": "avidaefeitadedesconto/17894",
     "quando": "2026-11-26T21:26:31+00:00",
     "id": "ml:ACHADINHO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "L40FH139H90"
-    ],
-    "desconto": "40% OFF",
-    "limite": "R$ 190",
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17888",
-    "quando": "2026-11-26T21:04:48+00:00",
-    "id": "ml:L40FH139H90",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
