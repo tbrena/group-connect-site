@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "ACABANDO"
+    ],
+    "desconto": "15% OFF",
+    "limite": "R$ 200",
+    "minimo": "R$ 599",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18023",
+    "quando": "2026-11-27T20:00:20+00:00",
+    "id": "ml:ACABANDO",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "SUPERPETSHOP"
+    ],
+    "desconto": "40% OFF",
+    "limite": "R$ 50",
+    "minimo": "R$ 99",
+    "escopo": "Petshop",
+    "origem": "avidaefeitadedesconto/18022",
+    "quando": "2026-11-27T19:51:50+00:00",
+    "id": "ml:SUPERPETSHOP",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELICASA"
     ],
     "desconto": "20% OFF",
@@ -761,34 +789,6 @@
     "origem": "avidaefeitadedesconto/17888",
     "quando": "2026-11-26T21:04:48+00:00",
     "id": "ml:L40FH139H90",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TECHVIP"
-    ],
-    "desconto": "12% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17883",
-    "quando": "2026-11-26T20:04:13+00:00",
-    "id": "ml:TECHVIP",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BELEZA20"
-    ],
-    "desconto": "20% OFF",
-    "limite": "R$ 30",
-    "minimo": null,
-    "escopo": "Princípia",
-    "origem": "avidaefeitadedesconto/17882",
-    "quando": "2026-11-26T19:50:34+00:00",
-    "id": "ml:BELEZA20",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
