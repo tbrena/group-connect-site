@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "ELETRO300"
+    ],
+    "desconto": null,
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/17948",
+    "quando": "2026-11-27T03:22:20+00:00",
+    "id": "ml:ELETRO300",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "LAOMCPAOD",
       "ZB9MELI",
       "MAPQHFAPEIC"
@@ -827,20 +841,6 @@
     "origem": "avidaefeitadedesconto/17822",
     "quando": "2026-11-26T10:13:10+00:00",
     "id": "ml:VIPTECH",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MELIXF9"
-    ],
-    "desconto": "R$ 110 OFF",
-    "limite": null,
-    "minimo": "R$ 499",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17815",
-    "quando": "2026-11-26T03:28:09+00:00",
-    "id": "ml:MELIXF9",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
