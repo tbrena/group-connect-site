@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "SUPEROFF"
+    ],
+    "desconto": "R$ 250 OFF",
+    "limite": null,
+    "minimo": "R$ 1499",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18006",
+    "quando": "2026-11-27T17:00:43+00:00",
+    "id": "ml:SUPEROFF",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "TECHONOMELI"
     ],
     "desconto": "18% OFF",
@@ -801,34 +815,6 @@
     "origem": "avidaefeitadedesconto/17867",
     "quando": "2026-11-26T18:00:41+00:00",
     "id": "ml:MODOTECH",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "DESCONTOHOJE"
-    ],
-    "desconto": "25% OFF",
-    "limite": "R$ 40",
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17862",
-    "quando": "2026-11-26T17:07:53+00:00",
-    "id": "ml:DESCONTOHOJE",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "OFERTAVIP"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17860",
-    "quando": "2026-11-26T17:00:38+00:00",
-    "id": "ml:OFERTAVIP",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
