@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "PROMOFASHION"
+    ],
+    "desconto": "15% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": "Moda e Acessórios",
+    "origem": "avidaefeitadedesconto/18072",
+    "quando": "2026-11-28T15:48:49+00:00",
+    "id": "ml:PROMOFASHION",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELIT94"
     ],
     "desconto": "R$ 230 OFF",
@@ -491,20 +505,6 @@
     "origem": "avidaefeitadedesconto/18006",
     "quando": "2026-11-27T17:00:43+00:00",
     "id": "ml:SUPEROFF",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "TECHONOMELI"
-    ],
-    "desconto": "18% OFF",
-    "limite": "R$ 250",
-    "minimo": "R$ 599",
-    "escopo": "Tech e Eletrodomésticos",
-    "origem": "avidaefeitadedesconto/17999",
-    "quando": "2026-11-27T16:00:40+00:00",
-    "id": "ml:TECHONOMELI",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
