@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "BFMP200"
+    ],
+    "desconto": "R$ 200 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18061",
+    "quando": "2026-11-28T02:54:07+00:00",
+    "id": "ml:BFMP200",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "ULTIMACHANCE"
+    ],
+    "desconto": "R$ 400 OFF",
+    "limite": null,
+    "minimo": "R$ 1.000",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18060",
+    "quando": "2026-11-28T02:52:52+00:00",
+    "id": "ml:ULTIMACHANCE",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "MELHORDABLACK"
     ],
     "desconto": "R$ 300 OFF",
@@ -593,64 +621,6 @@
     "origem": "avidaefeitadedesconto/17948",
     "quando": "2026-11-27T03:22:20+00:00",
     "id": "ml:ELETRO300",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "LAOMCPAOD",
-      "ZB9MELI",
-      "MAPQHFAPEIC"
-    ],
-    "desconto": null,
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17947",
-    "quando": "2026-11-27T03:08:36+00:00",
-    "id": "ml:LAOMCPAOD+ZB9MELI+MAPQHFAPEIC",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CORREBLACK"
-    ],
-    "desconto": "25% OFF",
-    "limite": null,
-    "minimo": "R$ 79",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17945",
-    "quando": "2026-11-27T03:02:25+00:00",
-    "id": "ml:CORREBLACK",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "GANHEBLACK"
-    ],
-    "desconto": "R$ 300 OFF",
-    "limite": null,
-    "minimo": "R$ 1999",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17944",
-    "quando": "2026-11-27T03:02:20+00:00",
-    "id": "ml:GANHEBLACK",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BF50MERCADO"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": "R$ 299",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17942",
-    "quando": "2026-11-27T02:41:55+00:00",
-    "id": "ml:BF50MERCADO",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
