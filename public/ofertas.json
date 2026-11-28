@@ -141,7 +141,7 @@
     "lowest30d": false,
     "vendas": 507,
     "publishedAt": "2026-11-26T12:35:16.839Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP853233263-22694165614",
@@ -333,7 +333,7 @@
     "lowest30d": false,
     "vendas": 1848,
     "publishedAt": "2026-11-21T14:35:18.173Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1284769631-23097971890",
@@ -453,7 +453,7 @@
     "lowest30d": true,
     "vendas": 4172,
     "publishedAt": "2026-11-10T23:19:36.874Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -741,7 +741,7 @@
     "lowest30d": true,
     "vendas": 4708,
     "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -894,8 +894,8 @@
     "fonte": "shopee:q:garrafa termica",
     "categoria": "Casa e Decoração",
     "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
-    "price": 33.33,
-    "originalPrice": 101,
+    "price": 29.99,
+    "originalPrice": 90.88,
     "discount": 67,
     "base": "vendedor",
     "averagePrice": null,
@@ -906,10 +906,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": false,
+    "lowest30d": true,
     "vendas": 2654,
     "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -1197,7 +1197,7 @@
     "lowest30d": true,
     "vendas": 1324,
     "publishedAt": "2026-11-24T00:35:19.662Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1451743836-22098374055",
@@ -1485,7 +1485,7 @@
     "lowest30d": true,
     "vendas": 864,
     "publishedAt": "2026-11-09T04:05:14.475Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP872424585-22491618254",
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 2744,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1896459373-58214853983",
@@ -1701,7 +1701,7 @@
     "lowest30d": false,
     "vendas": 678,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1597425469-58204620137",
@@ -1725,7 +1725,7 @@
     "lowest30d": false,
     "vendas": 1802,
     "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "MLB6726997138",
@@ -1797,7 +1797,31 @@
     "lowest30d": true,
     "vendas": 129,
     "publishedAt": "2026-11-05T19:35:16.196Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
+  },
+  {
+    "id": "SP303419140-40682289936",
+    "productId": "SP303419140-40682289936",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:tenis",
+    "categoria": "Moda e Calçados",
+    "title": "Tênis Feminino Esportivo Academia Treino Caminhada Corrida Envio Rápido",
+    "price": 39.9,
+    "originalPrice": 110.83,
+    "discount": 64,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mq94rs8p9d6q4b",
+    "url": "https://s.shopee.com.br/Lp5nmM1DN",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2935,
+    "publishedAt": "2026-10-28T23:05:14.831Z",
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1086436777-58200880530",
@@ -2157,7 +2181,7 @@
     "lowest30d": true,
     "vendas": 171,
     "publishedAt": "2026-11-10T19:05:14.724Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP452872883-41468871729",
@@ -2349,7 +2373,7 @@
     "lowest30d": false,
     "vendas": 1062,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1132754268-23195153059",
@@ -2373,7 +2397,7 @@
     "lowest30d": false,
     "vendas": 3404,
     "publishedAt": "2026-11-22T21:35:13.923Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1531826276-23494419761",
@@ -2469,7 +2493,7 @@
     "lowest30d": false,
     "vendas": 860,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -2493,7 +2517,7 @@
     "lowest30d": false,
     "vendas": 492,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1794533612-58216648204",
@@ -2502,8 +2526,8 @@
     "fonte": "shopee:q:organizador",
     "categoria": "Casa e Decoração",
     "title": "Estante Com Rodinhas Prateleira Organizadora Carrinho Multiuso Quarto Cozinha",
-    "price": 72.9,
-    "originalPrice": 197.03,
+    "price": 72.99,
+    "originalPrice": 197.27,
     "discount": 63,
     "base": "vendedor",
     "averagePrice": null,
@@ -2517,7 +2541,7 @@
     "lowest30d": false,
     "vendas": 5275,
     "publishedAt": "2026-11-17T14:05:14.432Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1863032510-58268769932",
@@ -2565,7 +2589,7 @@
     "lowest30d": true,
     "vendas": 1006,
     "publishedAt": "2026-11-17T01:05:14.682Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1552414821-58265110232",
@@ -2733,7 +2757,7 @@
     "lowest30d": true,
     "vendas": 402,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1283675544-56356023572",
@@ -2973,7 +2997,7 @@
     "lowest30d": true,
     "vendas": 2794,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1311372885-41809564883",
@@ -2997,7 +3021,7 @@
     "lowest30d": false,
     "vendas": 680,
     "publishedAt": "2026-11-22T05:05:17.853Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -3717,7 +3741,7 @@
     "lowest30d": true,
     "vendas": 1206,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1791620681-58261016170",
@@ -3984,30 +4008,6 @@
     "checkedAt": "2026-11-28T00:35:16.975Z"
   },
   {
-    "id": "SP1378212279-18199766258",
-    "productId": "SP1378212279-18199766258",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa Térmica Inox 900ml ou 600ml | Tampa Flip Antivazamento | Alça para Transporte | Quente e Frio",
-    "price": 35.78,
-    "originalPrice": 89.45,
-    "discount": 60,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825aw-msf2gkkw16o455",
-    "url": "https://s.shopee.com.br/6AmsqttQww",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 329,
-    "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-27T23:35:16.411Z"
-  },
-  {
     "id": "SP983753255-19197033229",
     "productId": "SP983753255-19197033229",
     "marketplace": "shopee",
@@ -4245,7 +4245,7 @@
     "lowest30d": true,
     "vendas": 515,
     "publishedAt": "2026-11-27T05:05:25.413Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1485077747-58252016104",
@@ -4269,7 +4269,7 @@
     "lowest30d": false,
     "vendas": 2235,
     "publishedAt": "2026-11-27T05:05:25.413Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP438141773-20999848095",
@@ -4293,7 +4293,7 @@
     "lowest30d": true,
     "vendas": 4193,
     "publishedAt": "2026-11-23T04:05:19.639Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -4413,7 +4413,7 @@
     "lowest30d": true,
     "vendas": 456,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -4677,7 +4677,7 @@
     "lowest30d": false,
     "vendas": 979,
     "publishedAt": "2026-11-24T20:35:19.873Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4845,7 +4845,7 @@
     "lowest30d": false,
     "vendas": 2135,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP734843497-58206411128",
@@ -4941,7 +4941,7 @@
     "lowest30d": false,
     "vendas": 2382,
     "publishedAt": "2026-11-25T09:35:15.295Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "MLB4006196241",
@@ -5106,10 +5106,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 266,
     "publishedAt": "2026-11-27T02:05:16.192Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1495626487-18198318921",
@@ -5157,7 +5157,7 @@
     "lowest30d": true,
     "vendas": 2166,
     "publishedAt": "2026-11-25T03:05:17.221Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP747621203-23698300058",
@@ -5445,7 +5445,7 @@
     "lowest30d": true,
     "vendas": 4183,
     "publishedAt": "2026-11-05T12:35:19.564Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1338454963-20899761631",
@@ -5589,7 +5589,7 @@
     "lowest30d": false,
     "vendas": 9452,
     "publishedAt": "2026-11-11T10:48:57.969Z",
-    "checkedAt": "2026-11-27T21:35:13.606Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1448484843-20399869941",
@@ -5922,10 +5922,10 @@
     "oficial": false,
     "lojaOficial": false,
     "loja": null,
-    "lowest30d": true,
+    "lowest30d": false,
     "vendas": 14143,
     "publishedAt": "2026-11-12T03:35:22.093Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1441157744-25946709329",
@@ -6261,7 +6261,7 @@
     "lowest30d": false,
     "vendas": 10029,
     "publishedAt": "2026-11-23T13:35:18.069Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1103918873-58267636006",
@@ -7293,7 +7293,7 @@
     "lowest30d": false,
     "vendas": 5769,
     "publishedAt": "2026-11-20T03:05:14.550Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1719299238-58220655673",
@@ -7389,7 +7389,7 @@
     "lowest30d": false,
     "vendas": 803,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1242044379-23293253949",
@@ -7437,7 +7437,7 @@
     "lowest30d": true,
     "vendas": 1613,
     "publishedAt": "2026-11-09T10:35:18.603Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "MLB5872060016",
@@ -8565,7 +8565,7 @@
     "lowest30d": false,
     "vendas": 699,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1725166517-58203750955",
@@ -8589,7 +8589,7 @@
     "lowest30d": true,
     "vendas": 430,
     "publishedAt": "2026-10-07T13:55:18.295Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1241585188-22994310607",
@@ -8613,7 +8613,7 @@
     "lowest30d": true,
     "vendas": 648,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1140256586-22894027215",
@@ -8901,7 +8901,7 @@
     "lowest30d": true,
     "vendas": 1930,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1525414236-58267013138",
@@ -9093,7 +9093,7 @@
     "lowest30d": false,
     "vendas": 793,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1368260695-51613258322",
@@ -9165,7 +9165,7 @@
     "lowest30d": false,
     "vendas": 1314,
     "publishedAt": "2026-11-01T22:05:18.952Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1763539024-58257809093",
@@ -9261,7 +9261,7 @@
     "lowest30d": true,
     "vendas": 230,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1573953914-23195092122",
@@ -9741,7 +9741,7 @@
     "lowest30d": true,
     "vendas": 804,
     "publishedAt": "2026-10-05T22:05:16.407Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP407952755-58202184309",
@@ -9765,7 +9765,7 @@
     "lowest30d": true,
     "vendas": 177,
     "publishedAt": "2026-09-25T19:05:15.802Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1557539807-58209648764",
@@ -9789,7 +9789,7 @@
     "lowest30d": true,
     "vendas": 314,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1557539807-58256314491",
@@ -9885,7 +9885,7 @@
     "lowest30d": true,
     "vendas": 134,
     "publishedAt": "2026-10-06T12:05:13.247Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1738971782-22699530209",
@@ -10221,7 +10221,7 @@
     "lowest30d": false,
     "vendas": 242,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1381352643-22598668596",
@@ -10461,7 +10461,7 @@
     "lowest30d": true,
     "vendas": 2758,
     "publishedAt": "2026-11-04T16:35:18.906Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP376022922-22491394362",
@@ -10773,7 +10773,7 @@
     "lowest30d": false,
     "vendas": 158,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1459307687-40624794433",
@@ -10989,7 +10989,7 @@
     "lowest30d": true,
     "vendas": 761,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1087983137-22094000249",
@@ -11013,7 +11013,7 @@
     "lowest30d": true,
     "vendas": 1738,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1835108407-58264295508",
@@ -11208,30 +11208,6 @@
     "checkedAt": "2026-11-27T23:05:15.760Z"
   },
   {
-    "id": "SP303419140-40682289936",
-    "productId": "SP303419140-40682289936",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:tenis",
-    "categoria": "Moda e Calçados",
-    "title": "Tênis Feminino Esportivo Academia Treino Caminhada Corrida Envio Rápido",
-    "price": 39.9,
-    "originalPrice": 110.83,
-    "discount": 64,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mq94rs8p9d6q4b",
-    "url": "https://s.shopee.com.br/Lp5nmM1DN",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2935,
-    "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-28T00:35:16.975Z"
-  },
-  {
     "id": "SP832468369-18299761674",
     "productId": "SP832468369-18299761674",
     "marketplace": "shopee",
@@ -11277,7 +11253,7 @@
     "lowest30d": false,
     "vendas": 1079,
     "publishedAt": "2026-10-20T01:05:13.150Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1438243592-22894353600",
@@ -11349,7 +11325,7 @@
     "lowest30d": true,
     "vendas": 577,
     "publishedAt": "2026-10-25T22:49:15.180Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1511724455-43203256115",
@@ -11445,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 552,
     "publishedAt": "2026-10-28T21:05:36.798Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1620522107-21799889380",
@@ -11637,7 +11613,7 @@
     "lowest30d": false,
     "vendas": 273,
     "publishedAt": "2026-10-01T16:35:14.298Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP627750190-23097771262",
@@ -11901,7 +11877,7 @@
     "lowest30d": false,
     "vendas": 650,
     "publishedAt": "2026-10-24T21:05:17.504Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
   },
   {
     "id": "SP1362857362-19899608876",
@@ -11949,7 +11925,31 @@
     "lowest30d": true,
     "vendas": 328,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-27T21:10:46.300Z"
+    "checkedAt": "2026-11-28T01:05:18.154Z"
+  },
+  {
+    "id": "SP1378212279-18199766258",
+    "productId": "SP1378212279-18199766258",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa Térmica Inox 900ml ou 600ml | Tampa Flip Antivazamento | Alça para Transporte | Quente e Frio",
+    "price": 35.78,
+    "originalPrice": 89.45,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825aw-msf2gkkw16o455",
+    "url": "https://s.shopee.com.br/6AmsqttQww",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 329,
+    "publishedAt": "2026-11-04T22:35:14.024Z",
+    "checkedAt": "2026-11-27T23:35:16.411Z"
   },
   {
     "id": "SP1104525762-23998143402",

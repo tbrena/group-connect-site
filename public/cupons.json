@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "BFMP100"
+    ],
+    "desconto": "R$ 100 OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18053",
+    "quando": "2026-11-28T01:07:34+00:00",
+    "id": "ml:BFMP100",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "MAISBLACK"
+    ],
+    "desconto": "18% OFF",
+    "limite": "R$ 300",
+    "minimo": "R$ 1299",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18052",
+    "quando": "2026-11-28T00:59:56+00:00",
+    "id": "ml:MAISBLACK",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "BLACKHOJE"
     ],
     "desconto": "15% OFF",
@@ -637,62 +665,6 @@
     "origem": "avidaefeitadedesconto/17935",
     "quando": "2026-11-27T01:43:52+00:00",
     "id": "ml:PLANETA15",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "L40CTTM249BF"
-    ],
-    "desconto": "40% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Auto & Ferramentas",
-    "origem": "avidaefeitadedesconto/17934",
-    "quando": "2026-11-27T01:07:41+00:00",
-    "id": "ml:L40CTTM249BF",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "COMPREJA"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17933",
-    "quando": "2026-11-27T01:04:35+00:00",
-    "id": "ml:COMPREJA",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "CHEGOUOFF"
-    ],
-    "desconto": "10% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17931",
-    "quando": "2026-11-27T01:03:24+00:00",
-    "id": "ml:CHEGOUOFF",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "VALEHOJE"
-    ],
-    "desconto": "R$ 300 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/17930",
-    "quando": "2026-11-27T01:02:07+00:00",
-    "id": "ml:VALEHOJE",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
