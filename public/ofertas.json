@@ -93,7 +93,7 @@
     "lowest30d": false,
     "vendas": 507,
     "publishedAt": "2026-11-26T12:35:16.839Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP853233263-22694165614",
@@ -237,7 +237,7 @@
     "lowest30d": false,
     "vendas": 1848,
     "publishedAt": "2026-11-21T14:35:18.173Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP451945494-23898670446",
@@ -333,7 +333,7 @@
     "lowest30d": true,
     "vendas": 4172,
     "publishedAt": "2026-11-10T23:19:36.874Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1594531567-23194374313",
@@ -525,7 +525,7 @@
     "lowest30d": true,
     "vendas": 4708,
     "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP728389176-58217601055",
@@ -718,30 +718,6 @@
     "vendas": 1663,
     "publishedAt": "2026-11-25T14:35:16.377Z",
     "checkedAt": "2026-11-28T15:35:20.628Z"
-  },
-  {
-    "id": "SP1543643896-23594449816",
-    "productId": "SP1543643896-23594449816",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:garrafa termica",
-    "categoria": "Casa e Decoração",
-    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
-    "price": 29.99,
-    "originalPrice": 90.88,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
-    "url": "https://s.shopee.com.br/6L6Ix2JqnQ",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": true,
-    "vendas": 2654,
-    "publishedAt": "2026-10-24T06:05:13.805Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
   },
   {
     "id": "SP1757833285-58256652658",
@@ -984,6 +960,30 @@
     "checkedAt": "2026-11-28T15:35:20.628Z"
   },
   {
+    "id": "SP1543643896-23594449816",
+    "productId": "SP1543643896-23594449816",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:garrafa termica",
+    "categoria": "Casa e Decoração",
+    "title": "Garrafa térmica 550ML/650ML de aço inoxidável de alta qualidade  com alça canudo",
+    "price": 29.99,
+    "originalPrice": 88.21,
+    "discount": 66,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfaf9z0uatxi29",
+    "url": "https://s.shopee.com.br/6L6Ix2JqnQ",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 2654,
+    "publishedAt": "2026-10-24T06:05:13.805Z",
+    "checkedAt": "2026-11-28T17:35:26.356Z"
+  },
+  {
     "id": "SP1545189381-58263102378",
     "productId": "SP1545189381-58263102378",
     "marketplace": "shopee",
@@ -1005,7 +1005,7 @@
     "lowest30d": true,
     "vendas": 1324,
     "publishedAt": "2026-11-24T00:35:19.662Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1451743836-22098374055",
@@ -1405,7 +1405,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9z7hig3vm6aa1",
-    "url": "https://s.shopee.com.br/114mbKFjWf",
+    "url": "https://s.shopee.com.br/2VtePJ2DED",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -1413,7 +1413,7 @@
     "lowest30d": true,
     "vendas": 2744,
     "publishedAt": "2026-11-11T04:35:12.631Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1597425469-58204620137",
@@ -1437,7 +1437,7 @@
     "lowest30d": false,
     "vendas": 1802,
     "publishedAt": "2026-11-11T01:35:14.550Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "MLB6726997138",
@@ -1509,7 +1509,7 @@
     "lowest30d": true,
     "vendas": 129,
     "publishedAt": "2026-11-05T19:35:16.196Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP303419140-40682289936",
@@ -1533,7 +1533,7 @@
     "lowest30d": true,
     "vendas": 2935,
     "publishedAt": "2026-10-28T23:05:14.831Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1858087626-58215946864",
@@ -1845,7 +1845,7 @@
     "lowest30d": true,
     "vendas": 171,
     "publishedAt": "2026-11-10T19:05:14.724Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP325008325-21798597083",
@@ -2013,7 +2013,7 @@
     "lowest30d": false,
     "vendas": 1062,
     "publishedAt": "2026-10-23T19:35:14.191Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1132754268-23195153059",
@@ -2037,7 +2037,7 @@
     "lowest30d": false,
     "vendas": 3404,
     "publishedAt": "2026-11-22T21:35:13.923Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1531826276-23494419761",
@@ -2133,7 +2133,7 @@
     "lowest30d": false,
     "vendas": 860,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1432047820-44110609035",
@@ -2157,7 +2157,7 @@
     "lowest30d": false,
     "vendas": 492,
     "publishedAt": "2026-09-23T03:30:08.026Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1022889520-29058857695",
@@ -2205,7 +2205,7 @@
     "lowest30d": false,
     "vendas": 5275,
     "publishedAt": "2026-11-17T14:05:14.432Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1553752047-18499859533",
@@ -2253,7 +2253,7 @@
     "lowest30d": true,
     "vendas": 1006,
     "publishedAt": "2026-11-17T01:05:14.682Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1552414821-58265110232",
@@ -2349,7 +2349,7 @@
     "lowest30d": false,
     "vendas": 678,
     "publishedAt": "2026-10-19T20:05:17.626Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP787370863-22692818490",
@@ -2373,7 +2373,7 @@
     "lowest30d": true,
     "vendas": 402,
     "publishedAt": "2026-10-11T13:35:13.060Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP452872883-41468871729",
@@ -2613,7 +2613,7 @@
     "lowest30d": true,
     "vendas": 2794,
     "publishedAt": "2026-10-23T20:35:13.151Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1311372885-41809564883",
@@ -2637,7 +2637,7 @@
     "lowest30d": false,
     "vendas": 680,
     "publishedAt": "2026-11-22T05:05:17.853Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP574679875-58269890210",
@@ -2925,7 +2925,7 @@
     "lowest30d": false,
     "vendas": 864,
     "publishedAt": "2026-11-09T04:05:14.475Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP872424585-22491618254",
@@ -3285,7 +3285,7 @@
     "lowest30d": true,
     "vendas": 1206,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP499950777-23292945743",
@@ -3933,7 +3933,7 @@
     "lowest30d": true,
     "vendas": 4193,
     "publishedAt": "2026-11-23T04:05:19.639Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1813143307-58263625920",
@@ -4173,7 +4173,7 @@
     "lowest30d": true,
     "vendas": 456,
     "publishedAt": "2026-11-24T04:05:29.022Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP450664666-20497747334",
@@ -4629,7 +4629,7 @@
     "lowest30d": false,
     "vendas": 979,
     "publishedAt": "2026-11-24T20:35:19.873Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1483626750-23293978804",
@@ -4797,7 +4797,7 @@
     "lowest30d": false,
     "vendas": 515,
     "publishedAt": "2026-11-27T05:05:25.413Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1431327147-18299659089",
@@ -4845,7 +4845,7 @@
     "lowest30d": false,
     "vendas": 2382,
     "publishedAt": "2026-11-25T09:35:15.295Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "MLB4006196241",
@@ -4917,7 +4917,7 @@
     "lowest30d": false,
     "vendas": 2490,
     "publishedAt": "2026-11-07T03:12:06.913Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1566977006-58202231060",
@@ -5013,7 +5013,7 @@
     "lowest30d": false,
     "vendas": 266,
     "publishedAt": "2026-11-27T02:05:16.192Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP325008325-21071530577",
@@ -5085,7 +5085,7 @@
     "lowest30d": true,
     "vendas": 2166,
     "publishedAt": "2026-11-25T03:05:17.221Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP747621203-23698300058",
@@ -5949,7 +5949,7 @@
     "lowest30d": false,
     "vendas": 9125,
     "publishedAt": "2026-11-26T17:35:14.322Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1658934983-58271602456",
@@ -5973,7 +5973,7 @@
     "lowest30d": false,
     "vendas": 419,
     "publishedAt": "2026-11-21T23:13:07.069Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "MLB3360911233",
@@ -6021,7 +6021,7 @@
     "lowest30d": true,
     "vendas": 656,
     "publishedAt": "2026-11-19T21:35:13.041Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP974102638-23694031516",
@@ -6045,7 +6045,7 @@
     "lowest30d": false,
     "vendas": 1986,
     "publishedAt": "2026-11-13T03:35:13.006Z",
-    "checkedAt": "2026-11-28T14:05:26.654Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP296363855-11249524489",
@@ -7653,7 +7653,7 @@
     "lowest30d": false,
     "vendas": 3713,
     "publishedAt": "2026-11-16T09:35:17.994Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1321488407-23593551607",
@@ -7797,7 +7797,7 @@
     "lowest30d": true,
     "vendas": 708,
     "publishedAt": "2026-11-09T17:05:17.832Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP629742320-22699684273",
@@ -7869,7 +7869,7 @@
     "lowest30d": false,
     "vendas": 1142,
     "publishedAt": "2026-11-09T16:35:13.630Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "MLB5316138412",
@@ -8781,7 +8781,7 @@
     "lowest30d": true,
     "vendas": 341,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP402093902-16610423861",
@@ -8925,7 +8925,7 @@
     "lowest30d": true,
     "vendas": 562,
     "publishedAt": "2026-10-16T11:35:14.250Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1157950131-26184366541",
@@ -9093,7 +9093,7 @@
     "lowest30d": true,
     "vendas": 254,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP305206138-47762711109",
@@ -9117,7 +9117,7 @@
     "lowest30d": false,
     "vendas": 226,
     "publishedAt": "2026-09-29T16:05:17.624Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1443626941-22898696968",
@@ -9141,7 +9141,7 @@
     "lowest30d": true,
     "vendas": 140,
     "publishedAt": "2026-09-28T18:05:15.508Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP952371980-23093044729",
@@ -9165,7 +9165,7 @@
     "lowest30d": true,
     "vendas": 1022,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1863032510-58217747169",
@@ -9189,7 +9189,7 @@
     "lowest30d": true,
     "vendas": 673,
     "publishedAt": "2026-11-18T10:43:36.839Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1541994310-22098699572",
@@ -9214,30 +9214,6 @@
     "vendas": 4675,
     "publishedAt": "2026-09-27T20:05:16.439Z",
     "checkedAt": "2026-11-28T16:35:19.351Z"
-  },
-  {
-    "id": "SP1242044379-22092998564",
-    "productId": "SP1242044379-22092998564",
-    "marketplace": "shopee",
-    "fonte": "shopee:lista:2",
-    "categoria": "Mais vendidos",
-    "title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g, 300g Refil e 150g - Dark Lab",
-    "price": 29.9,
-    "originalPrice": 90.61,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
-    "url": "https://s.shopee.com.br/W8W4ZRsV1",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 12766,
-    "publishedAt": "2026-11-02T12:35:13.827Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
   },
   {
     "id": "SP1870747351-58215693918",
@@ -9309,7 +9285,7 @@
     "lowest30d": true,
     "vendas": 338,
     "publishedAt": "2026-10-30T14:05:12.702Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1768799994-22099613752",
@@ -9717,7 +9693,7 @@
     "lowest30d": true,
     "vendas": 510,
     "publishedAt": "2026-11-05T11:05:14.454Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP511410160-16386482120",
@@ -9813,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 745,
     "publishedAt": "2026-10-30T11:05:13.469Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP376022922-21027986476",
@@ -10125,7 +10101,7 @@
     "lowest30d": false,
     "vendas": 391,
     "publishedAt": "2026-10-14T11:35:11.953Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1618104873-22594653765",
@@ -10269,7 +10245,7 @@
     "lowest30d": false,
     "vendas": 2850,
     "publishedAt": "2026-10-02T12:05:14.623Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1585429562-58201056244",
@@ -10509,7 +10485,7 @@
     "lowest30d": false,
     "vendas": 188,
     "publishedAt": "2026-10-24T15:05:16.746Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP473616631-40528825167",
@@ -10629,7 +10605,7 @@
     "lowest30d": false,
     "vendas": 3856,
     "publishedAt": "2026-10-13T04:05:13.221Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1684686802-58209249661",
@@ -10653,7 +10629,7 @@
     "lowest30d": true,
     "vendas": 155,
     "publishedAt": "2026-10-25T22:35:13.399Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1127030290-22497983911",
@@ -10749,7 +10725,7 @@
     "lowest30d": false,
     "vendas": 1272,
     "publishedAt": "2026-10-13T13:35:17.997Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1339065761-58256853481",
@@ -11181,7 +11157,7 @@
     "lowest30d": false,
     "vendas": 439,
     "publishedAt": "2026-09-27T13:05:16.528Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1598184222-23798833830",
@@ -11733,7 +11709,7 @@
     "lowest30d": false,
     "vendas": 171,
     "publishedAt": "2026-09-24T15:35:16.598Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1448484843-23493920781",
@@ -11757,7 +11733,7 @@
     "lowest30d": false,
     "vendas": 1865,
     "publishedAt": "2026-11-23T12:05:19.483Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1178057475-52356270953",
@@ -11853,7 +11829,7 @@
     "lowest30d": false,
     "vendas": 366,
     "publishedAt": "2026-10-24T18:05:15.825Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1397772996-58200979776",
@@ -11952,6 +11928,30 @@
     "checkedAt": "2026-11-28T14:35:16.197Z"
   },
   {
+    "id": "SP1242044379-22092998564",
+    "productId": "SP1242044379-22092998564",
+    "marketplace": "shopee",
+    "fonte": "shopee:lista:2",
+    "categoria": "Mais vendidos",
+    "title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g, 300g Refil e 150g - Dark Lab",
+    "price": 32.9,
+    "originalPrice": 78.33,
+    "discount": 58,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
+    "url": "https://s.shopee.com.br/W8W4ZRsV1",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 12766,
+    "publishedAt": "2026-11-02T12:35:13.827Z",
+    "checkedAt": "2026-11-28T17:35:26.356Z"
+  },
+  {
     "id": "SP1083951020-22092880647",
     "productId": "SP1083951020-22092880647",
     "marketplace": "shopee",
@@ -11973,7 +11973,7 @@
     "lowest30d": true,
     "vendas": 3768,
     "publishedAt": "2026-11-05T14:05:29.764Z",
-    "checkedAt": "2026-11-28T13:35:14.930Z"
+    "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
     "id": "SP1062544851-58201181466",
