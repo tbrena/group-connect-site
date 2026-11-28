@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "MELINAFINAL"
+    ],
+    "desconto": "10% OFF",
+    "limite": null,
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18086",
+    "quando": "2026-11-28T20:53:02+00:00",
+    "id": "ml:MELINAFINAL",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "BLACKFRIDAY"
     ],
     "desconto": "10% OFF",
@@ -377,34 +391,6 @@
     "origem": "avidaefeitadedesconto/18040",
     "quando": "2026-11-27T22:00:26+00:00",
     "id": "ml:OFERTABLACK",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "BLACKVIP"
-    ],
-    "desconto": "18% OFF",
-    "limite": null,
-    "minimo": "R$ 599",
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/18036",
-    "quando": "2026-11-27T21:00:23+00:00",
-    "id": "ml:BLACKVIP",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "MODARELAMPAGO"
-    ],
-    "desconto": "15% OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": "Moda e Acessórios",
-    "origem": "avidaefeitadedesconto/18035",
-    "quando": "2026-11-27T20:58:29+00:00",
-    "id": "ml:MODARELAMPAGO",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
