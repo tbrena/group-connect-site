@@ -2,6 +2,20 @@
   {
     "loja": "ml",
     "codigos": [
+      "BLACKFRIDAY"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18083",
+    "quando": "2026-11-28T19:57:09+00:00",
+    "id": "ml:BLACKFRIDAY",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "DESCONTOMELIDEZ"
     ],
     "desconto": "10% OFF",
@@ -433,20 +447,6 @@
     "origem": "avidaefeitadedesconto/18023",
     "quando": "2026-11-27T20:00:20+00:00",
     "id": "ml:ACABANDO",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SUPERPETSHOP"
-    ],
-    "desconto": "40% OFF",
-    "limite": "R$ 50",
-    "minimo": "R$ 99",
-    "escopo": "Petshop",
-    "origem": "avidaefeitadedesconto/18022",
-    "quando": "2026-11-27T19:51:50+00:00",
-    "id": "ml:SUPERPETSHOP",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
