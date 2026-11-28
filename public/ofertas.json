@@ -117,7 +117,7 @@
     "lowest30d": true,
     "vendas": 894,
     "publishedAt": "2026-11-23T14:35:16.113Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP902298974-19597455368",
@@ -141,7 +141,7 @@
     "lowest30d": true,
     "vendas": 2690,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1386802886-58206192037",
@@ -477,7 +477,7 @@
     "lowest30d": false,
     "vendas": 3428,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1169146045-20799757649",
@@ -549,7 +549,7 @@
     "lowest30d": false,
     "vendas": 6087,
     "publishedAt": "2026-10-06T02:30:18.499Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1860098702-58266070880",
@@ -672,30 +672,6 @@
     "checkedAt": "2026-11-28T16:05:19.945Z"
   },
   {
-    "id": "SP1232299933-57358236213",
-    "productId": "SP1232299933-57358236213",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:caixa de som",
-    "categoria": "Eletrônicos",
-    "title": "Soundbar Gamer Para PC e Notebook Caixa de Som 6W RMS USB P2 ACS-4512",
-    "price": 51.88,
-    "originalPrice": 157.21,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mmrv51iope6fb3",
-    "url": "https://s.shopee.com.br/7pv7MqdO7m",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 713,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
-  },
-  {
     "id": "SP1127030290-22999007704",
     "productId": "SP1127030290-22999007704",
     "marketplace": "shopee",
@@ -741,7 +717,7 @@
     "lowest30d": false,
     "vendas": 731,
     "publishedAt": "2026-09-29T16:35:51.008Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1127030290-22993817264",
@@ -909,7 +885,7 @@
     "lowest30d": true,
     "vendas": 1777,
     "publishedAt": "2026-11-06T06:05:19.656Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1398191070-29028867072",
@@ -1152,6 +1128,30 @@
     "checkedAt": "2026-11-28T16:05:19.945Z"
   },
   {
+    "id": "SP1232299933-57358236213",
+    "productId": "SP1232299933-57358236213",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:caixa de som",
+    "categoria": "Eletrônicos",
+    "title": "Soundbar Gamer Para PC e Notebook Caixa de Som 6W RMS USB P2 ACS-4512",
+    "price": 53.99,
+    "originalPrice": 154.26,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mmrv51iope6fb3",
+    "url": "https://s.shopee.com.br/7pv7MqdO7m",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 713,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-11-28T18:35:15.373Z"
+  },
+  {
     "id": "SP1686900498-58217856182",
     "productId": "SP1686900498-58217856182",
     "marketplace": "shopee",
@@ -1341,7 +1341,7 @@
     "lowest30d": false,
     "vendas": 1058,
     "publishedAt": "2026-11-16T12:35:13.210Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "MLB6162191874",
@@ -1677,7 +1677,7 @@
     "lowest30d": true,
     "vendas": 1611,
     "publishedAt": "2026-10-14T19:35:15.161Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP464824627-47855423393",
@@ -1893,7 +1893,7 @@
     "lowest30d": false,
     "vendas": 1737,
     "publishedAt": "2026-09-27T13:35:14.120Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1187975388-20899215101",
@@ -2109,7 +2109,7 @@
     "lowest30d": false,
     "vendas": 5513,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1362613236-27893329314",
@@ -2472,6 +2472,30 @@
     "checkedAt": "2026-11-28T17:05:15.883Z"
   },
   {
+    "id": "SP1408367819-22398154478",
+    "productId": "SP1408367819-22398154478",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:lampada led",
+    "categoria": "Eletrônicos",
+    "title": "Ventilador de Teto 80w Silencioso com Lâmpada 12w Led Bulbo Controle BF BQ Bivolt 5 Pás Flowers",
+    "price": 46.91,
+    "originalPrice": 123.45,
+    "discount": 62,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mts4xd1a5moa33",
+    "url": "https://s.shopee.com.br/8KrNtpd7JE",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 2104,
+    "publishedAt": "2026-09-23T14:29:46.639Z",
+    "checkedAt": "2026-11-28T18:35:15.373Z"
+  },
+  {
     "id": "SP1408367819-23498780349",
     "productId": "SP1408367819-23498780349",
     "marketplace": "shopee",
@@ -2541,7 +2565,7 @@
     "lowest30d": false,
     "vendas": 1150,
     "publishedAt": "2026-09-27T19:05:14.084Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "MLB5389969200",
@@ -2589,7 +2613,7 @@
     "lowest30d": false,
     "vendas": 3087,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1534000949-58252076983",
@@ -2661,7 +2685,7 @@
     "lowest30d": true,
     "vendas": 1207,
     "publishedAt": "2026-11-17T15:05:13.842Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1620616375-58252248202",
@@ -2685,7 +2709,7 @@
     "lowest30d": false,
     "vendas": 580,
     "publishedAt": "2026-11-13T00:35:15.642Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP404648195-23993570865",
@@ -3069,7 +3093,7 @@
     "lowest30d": true,
     "vendas": 703,
     "publishedAt": "2026-11-12T00:59:23.420Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "MLB4473399041",
@@ -3165,7 +3189,7 @@
     "lowest30d": false,
     "vendas": 100,
     "publishedAt": "2026-11-27T19:35:14.117Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1599568140-22099231871",
@@ -3333,7 +3357,7 @@
     "lowest30d": false,
     "vendas": 800,
     "publishedAt": "2026-11-22T22:35:14.998Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1319830745-58268225112",
@@ -3381,7 +3405,7 @@
     "lowest30d": false,
     "vendas": 2871,
     "publishedAt": "2026-11-12T01:05:15.445Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP452872883-23893335036",
@@ -3525,7 +3549,7 @@
     "lowest30d": false,
     "vendas": 2145,
     "publishedAt": "2026-11-10T17:05:15.744Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1594568364-58264681920",
@@ -3597,7 +3621,7 @@
     "lowest30d": false,
     "vendas": 10499,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP408653169-46360468172",
@@ -3621,7 +3645,7 @@
     "lowest30d": false,
     "vendas": 7945,
     "publishedAt": "2026-11-09T04:35:12.237Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1640288479-58217282345",
@@ -3789,7 +3813,7 @@
     "lowest30d": false,
     "vendas": 1436,
     "publishedAt": "2026-11-11T05:05:15.505Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP717542645-23394431789",
@@ -3981,7 +4005,7 @@
     "lowest30d": false,
     "vendas": 768,
     "publishedAt": "2026-11-20T08:35:14.509Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1863032510-58268769932",
@@ -4389,7 +4413,7 @@
     "lowest30d": true,
     "vendas": 2216,
     "publishedAt": "2026-11-24T21:35:18.782Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP451291172-22195190910",
@@ -4677,7 +4701,7 @@
     "lowest30d": true,
     "vendas": 366,
     "publishedAt": "2026-11-17T18:35:21.440Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1195036331-28115949214",
@@ -5109,7 +5133,7 @@
     "lowest30d": true,
     "vendas": 2331,
     "publishedAt": "2026-11-24T11:35:16.022Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP373745451-19253571158",
@@ -5229,7 +5253,7 @@
     "lowest30d": false,
     "vendas": 2383,
     "publishedAt": "2026-11-11T02:35:14.704Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "MLB5301114959",
@@ -5301,7 +5325,7 @@
     "lowest30d": true,
     "vendas": 1141,
     "publishedAt": "2026-11-25T07:35:21.260Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1501872703-58209823545",
@@ -5493,7 +5517,7 @@
     "lowest30d": false,
     "vendas": 2135,
     "publishedAt": "2026-11-11T03:35:13.990Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1325610951-21297968280",
@@ -5565,7 +5589,7 @@
     "lowest30d": true,
     "vendas": 1573,
     "publishedAt": "2026-11-26T00:05:29.064Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1109263850-25697506853",
@@ -5589,7 +5613,7 @@
     "lowest30d": false,
     "vendas": 473,
     "publishedAt": "2026-11-24T23:35:19.345Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1265597786-43763851612",
@@ -6093,7 +6117,7 @@
     "lowest30d": false,
     "vendas": 2989,
     "publishedAt": "2026-11-11T04:05:17.034Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1718568808-23699380722",
@@ -6141,7 +6165,7 @@
     "lowest30d": false,
     "vendas": 1260,
     "publishedAt": "2026-11-17T04:05:13.767Z",
-    "checkedAt": "2026-11-28T15:05:21.751Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP983753255-23791204929",
@@ -6573,7 +6597,7 @@
     "lowest30d": false,
     "vendas": 486,
     "publishedAt": "2026-11-14T01:35:27.341Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1558233660-58259414667",
@@ -6597,7 +6621,7 @@
     "lowest30d": true,
     "vendas": 4436,
     "publishedAt": "2026-11-11T19:35:12.667Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "MLB4648803608",
@@ -7149,7 +7173,7 @@
     "lowest30d": false,
     "vendas": 2360,
     "publishedAt": "2026-11-27T12:11:01.759Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1365819178-23094699741",
@@ -7717,7 +7741,7 @@
     "averagePrice": null,
     "sellers": 1,
     "image": "https://cf.shopee.com.br/file/br-11134207-820l9-munml6491n2828",
-    "url": "https://s.shopee.com.br/80EWwBp5Ji",
+    "url": "https://s.shopee.com.br/9KjyXrcCME",
     "freeShipping": false,
     "oficial": false,
     "lojaOficial": false,
@@ -7725,7 +7749,7 @@
     "lowest30d": false,
     "vendas": 3096,
     "publishedAt": "2026-11-01T06:35:20.255Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1112267847-22197710101",
@@ -7821,7 +7845,7 @@
     "lowest30d": false,
     "vendas": 956,
     "publishedAt": "2026-11-18T17:35:13.857Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1571276714-23999439011",
@@ -7845,7 +7869,7 @@
     "lowest30d": false,
     "vendas": 3935,
     "publishedAt": "2026-11-27T06:05:17.157Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1658811417-22895162663",
@@ -8181,30 +8205,6 @@
     "lowest30d": false,
     "vendas": null,
     "publishedAt": "2026-11-06T21:35:13.375Z",
-    "checkedAt": "2026-11-23T17:05:15.580Z"
-  },
-  {
-    "id": "MLB5452950305",
-    "productId": "MLB69735015",
-    "marketplace": "ml",
-    "fonte": "MLB1132",
-    "categoria": "Brinquedos",
-    "title": "Pokémon ME04 Caos Ascendente Blister Quádruplo Toxel 4 Boosters copag",
-    "price": 44.99,
-    "originalPrice": 57.45,
-    "discount": 22,
-    "base": "media",
-    "averagePrice": 57.45,
-    "sellers": 45,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_861056-MLA116069207296_092026-F.jpg",
-    "url": "https://produto.mercadolivre.com.br/MLB-5452950305?matt_word=promoninja&matt_tool=19839069",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": null,
-    "publishedAt": "2026-11-05T17:35:13.064Z",
     "checkedAt": "2026-11-23T17:05:15.580Z"
   },
   {
@@ -8661,7 +8661,7 @@
     "lowest30d": true,
     "vendas": 1221,
     "publishedAt": "2026-09-29T01:35:16.139Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1412676921-58214074058",
@@ -8685,7 +8685,7 @@
     "lowest30d": true,
     "vendas": 205,
     "publishedAt": "2026-10-02T04:35:16.058Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP935729147-22298450798",
@@ -9240,30 +9240,6 @@
     "checkedAt": "2026-11-28T16:35:19.351Z"
   },
   {
-    "id": "SP771750144-20797868953",
-    "productId": "SP771750144-20797868953",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:organizador",
-    "categoria": "Casa e Decoração",
-    "title": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
-    "price": 53.99,
-    "originalPrice": 163.61,
-    "discount": 67,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-    "url": "https://s.shopee.com.br/8pneUlo4o5",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 4167,
-    "publishedAt": "2026-10-31T02:05:12.485Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
-  },
-  {
     "id": "SP1607476642-19199865083",
     "productId": "SP1607476642-19199865083",
     "marketplace": "shopee",
@@ -9381,7 +9357,7 @@
     "lowest30d": true,
     "vendas": 1300,
     "publishedAt": "2026-09-24T22:35:36.805Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1870601214-22399680511",
@@ -9453,7 +9429,7 @@
     "lowest30d": false,
     "vendas": 1305,
     "publishedAt": "2026-09-26T12:27:20.892Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1662953250-58202630911",
@@ -9621,7 +9597,7 @@
     "lowest30d": true,
     "vendas": 792,
     "publishedAt": "2026-11-18T10:43:36.839Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP400434768-58261196599",
@@ -9741,7 +9717,7 @@
     "lowest30d": true,
     "vendas": 16932,
     "publishedAt": "2026-10-31T15:35:12.865Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1738169938-46311869185",
@@ -9765,7 +9741,7 @@
     "lowest30d": false,
     "vendas": 1763,
     "publishedAt": "2026-10-30T12:35:12.892Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1550654557-23298543447",
@@ -9813,7 +9789,7 @@
     "lowest30d": false,
     "vendas": 1125,
     "publishedAt": "2026-10-29T22:35:14.597Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP634842203-45708068728",
@@ -10224,6 +10200,30 @@
     "checkedAt": "2026-11-28T17:35:26.356Z"
   },
   {
+    "id": "SP771750144-20797868953",
+    "productId": "SP771750144-20797868953",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:organizador",
+    "categoria": "Casa e Decoração",
+    "title": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
+    "price": 59.96,
+    "originalPrice": 171.31,
+    "discount": 65,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
+    "url": "https://s.shopee.com.br/8pneUlo4o5",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": false,
+    "vendas": 4167,
+    "publishedAt": "2026-10-31T02:05:12.485Z",
+    "checkedAt": "2026-11-28T18:35:15.373Z"
+  },
+  {
     "id": "SP1585429562-58201056244",
     "productId": "SP1585429562-58201056244",
     "marketplace": "shopee",
@@ -10293,7 +10293,7 @@
     "lowest30d": true,
     "vendas": 154,
     "publishedAt": "2026-10-29T14:35:17.920Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1518769899-58202303858",
@@ -10749,7 +10749,7 @@
     "lowest30d": true,
     "vendas": 636,
     "publishedAt": "2026-10-07T12:35:14.917Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1028459403-58258154242",
@@ -11085,7 +11085,7 @@
     "lowest30d": false,
     "vendas": 830,
     "publishedAt": "2026-10-10T20:05:13.601Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP328666563-23794371672",
@@ -11109,7 +11109,7 @@
     "lowest30d": false,
     "vendas": 2237,
     "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP832468369-18299761674",
@@ -11205,7 +11205,7 @@
     "lowest30d": false,
     "vendas": 308,
     "publishedAt": "2026-10-08T18:05:13.753Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1024791137-23697984562",
@@ -11253,7 +11253,7 @@
     "lowest30d": false,
     "vendas": 746,
     "publishedAt": "2026-11-01T12:05:17.360Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP837245818-45301021293",
@@ -11277,7 +11277,7 @@
     "lowest30d": false,
     "vendas": 288,
     "publishedAt": "2026-10-19T18:35:13.262Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1104525762-23998143402",
@@ -11421,7 +11421,7 @@
     "lowest30d": false,
     "vendas": 225,
     "publishedAt": "2026-09-24T10:05:16.579Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1632292406-22494419367",
@@ -11469,7 +11469,7 @@
     "lowest30d": false,
     "vendas": 1842,
     "publishedAt": "2026-10-22T00:35:14.193Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1286676196-58263880417",
@@ -11640,30 +11640,6 @@
     "checkedAt": "2026-11-28T18:05:17.475Z"
   },
   {
-    "id": "SP1408367819-22398154478",
-    "productId": "SP1408367819-22398154478",
-    "marketplace": "shopee",
-    "fonte": "shopee:q:lampada led",
-    "categoria": "Eletrônicos",
-    "title": "Ventilador de Teto 80w Silencioso com Lâmpada 12w Led Bulbo Controle BF BQ Bivolt 5 Pás Flowers",
-    "price": 46.91,
-    "originalPrice": 123.45,
-    "discount": 62,
-    "base": "vendedor",
-    "averagePrice": null,
-    "sellers": 1,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825af-mts4xd1a5moa33",
-    "url": "https://s.shopee.com.br/8KrNtpd7JE",
-    "freeShipping": false,
-    "oficial": false,
-    "lojaOficial": false,
-    "loja": null,
-    "lowest30d": false,
-    "vendas": 2104,
-    "publishedAt": "2026-09-23T14:29:46.639Z",
-    "checkedAt": "2026-11-28T18:05:17.475Z"
-  },
-  {
     "id": "SP1562642590-23899298854",
     "productId": "SP1562642590-23899298854",
     "marketplace": "shopee",
@@ -11757,7 +11733,7 @@
     "lowest30d": true,
     "vendas": 1781,
     "publishedAt": "2026-10-28T15:35:28.135Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP418336777-20199545071",
@@ -11925,7 +11901,31 @@
     "lowest30d": true,
     "vendas": 329,
     "publishedAt": "2026-11-04T22:35:14.024Z",
-    "checkedAt": "2026-11-28T14:35:16.197Z"
+    "checkedAt": "2026-11-28T18:35:15.373Z"
+  },
+  {
+    "id": "SP1415627705-45568000882",
+    "productId": "SP1415627705-45568000882",
+    "marketplace": "shopee",
+    "fonte": "shopee:q:pet",
+    "categoria": "Pet",
+    "title": "Filamento Impressora 3d Print Pulse PET G 1.75mm Importado Alta Qualidade",
+    "price": 39.81,
+    "originalPrice": 99.53,
+    "discount": 60,
+    "base": "vendedor",
+    "averagePrice": null,
+    "sellers": 1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mt9nlkezrfuocc",
+    "url": "https://s.shopee.com.br/8AXx8Uaq0r",
+    "freeShipping": false,
+    "oficial": false,
+    "lojaOficial": false,
+    "loja": null,
+    "lowest30d": true,
+    "vendas": 5395,
+    "publishedAt": "2026-11-28T18:35:15.373Z",
+    "checkedAt": "2026-11-28T18:35:15.373Z"
   },
   {
     "id": "SP1242044379-22092998564",

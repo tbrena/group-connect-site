@@ -2,6 +2,34 @@
   {
     "loja": "ml",
     "codigos": [
+      "DESCONTOMELIDEZ"
+    ],
+    "desconto": "10% OFF",
+    "limite": "R$ 30",
+    "minimo": null,
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18077",
+    "quando": "2026-11-28T18:22:53+00:00",
+    "id": "ml:DESCONTOMELIDEZ",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
+      "WLPMELI"
+    ],
+    "desconto": "R$ 40 OFF",
+    "limite": null,
+    "minimo": "R$ 119",
+    "escopo": null,
+    "origem": "avidaefeitadedesconto/18076",
+    "quando": "2026-11-28T18:08:47+00:00",
+    "id": "ml:WLPMELI",
+    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
+  },
+  {
+    "loja": "ml",
+    "codigos": [
       "VPGMELI"
     ],
     "desconto": "20% OFF",
@@ -463,20 +491,6 @@
     "origem": "avidaefeitadedesconto/18016",
     "quando": "2026-11-27T19:00:18+00:00",
     "id": "ml:MEUDESCONTOBLACK",
-    "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
-  },
-  {
-    "loja": "ml",
-    "codigos": [
-      "SALDOMPAGORA"
-    ],
-    "desconto": "R$ 50 OFF",
-    "limite": null,
-    "minimo": null,
-    "escopo": null,
-    "origem": "avidaefeitadedesconto/18012",
-    "quando": "2026-11-27T18:27:10+00:00",
-    "id": "ml:SALDOMPAGORA",
     "link": "https://www.mercadolivre.com.br/cupons?matt_word=promoninja&matt_tool=19839069"
   }
 ]
